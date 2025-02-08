@@ -1283,3 +1283,974 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.08-15.30.26:321][812]LogEditorActor: Deleted Actor: StaticMeshActor
 [2025.02.08-15.30.26:324][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
 [2025.02.08-15.30.26:325][812]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.02.08-15.31.04:500][131]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.02.08-15.31.04:500][131]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.02.08-15.31.29:814][124]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.31.29:824][124]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.31.29:830][125]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.31.31:087][275]LogContentBrowser: Attempting asset rename: NewFolder -> IMCS
+[2025.02.08-15.31.31:087][275]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.31.34:132][638]LogContentBrowser: Attempting asset rename: IMCS -> IMC
+[2025.02.08-15.31.36:389][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.31.36:410][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.08-15.31.36:414][893]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.003261 seconds
+[2025.02.08-15.31.36:435][893]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.08-15.31.36:435][893]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player40B83CD2441BCAE51275EB9005211690.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.08-15.31.36:438][893]LogSavePackage: Moving output files for package: /Game/Player/Input/IMC/IMC_Default
+[2025.02.08-15.31.36:438][893]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/IMC_DefaultF9BACEAB42F476927FAA448411642878.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/IMC/IMC_Default.uasset'
+[2025.02.08-15.31.36:445][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms
+[2025.02.08-15.31.36:453][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.08-15.31.36:456][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.08-15.31.36:457][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2025.02.08-15.31.36:468][893]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.08-15.31.36:468][893]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.08-15.31.36:468][893]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Player/Input/IMC/IMC_Default.IMC_Default
+[2025.02.08-15.31.40:830][414]LogContentBrowser: Attempting asset rename: IMC_Default -> IMC_Bar
+[2025.02.08-15.31.40:848][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.31.40:872][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.08-15.31.40:879][414]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.08-15.31.40:879][414]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player1373608A44DF0694D09C0C99749BED69.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.08-15.31.40:881][414]LogSavePackage: Moving output files for package: /Game/Player/Input/IMC/IMC_Bar
+[2025.02.08-15.31.40:881][414]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/IMC_BarB2BB17E247156A95E72C08A2FA2CCBD3.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/IMC/IMC_Bar.uasset'
+[2025.02.08-15.31.40:888][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 95 ms)
+[2025.02.08-15.31.40:893][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.02.08-15.31.40:895][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.08-15.31.40:897][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2025.02.08-15.31.40:899][414]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.08-15.31.40:899][414]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.08-15.31.40:899][414]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Player/Input/IMC/IMC_Bar.IMC_Bar
+[2025.02.08-15.31.46:392][ 14]LogContentBrowser: Attempting asset rename: IMC_Bar1 -> IMC_Darts
+[2025.02.08-15.31.46:410][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.31.46:433][ 14]LogSavePackage: Moving output files for package: /Game/Player/Input/IMC/IMC_Darts
+[2025.02.08-15.31.46:433][ 14]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/IMC_Darts7AD8B6324045AFE7BBD3628A499F978D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/IMC/IMC_Darts.uasset'
+[2025.02.08-15.31.46:439][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 123 ms)
+[2025.02.08-15.31.46:456][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.08-15.31.46:458][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.08-15.31.46:460][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.08-15.31.46:460][ 14]AssetCheck: New page: Asset Save: IMC_Darts
+[2025.02.08-15.31.46:460][ 14]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Player/Input/IMC/IMC_Darts.IMC_Darts
+[2025.02.08-15.31.48:811][294]LogContentBrowser: Attempting asset rename: IMC_Bar2 -> IMC_Pool
+[2025.02.08-15.31.48:829][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.31.48:853][294]LogSavePackage: Moving output files for package: /Game/Player/Input/IMC/IMC_Pool
+[2025.02.08-15.31.48:853][294]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/IMC_PoolAEEAF005452B8A13E48FD9969FF6F44D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/IMC/IMC_Pool.uasset'
+[2025.02.08-15.31.48:859][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 154 ms)
+[2025.02.08-15.31.48:863][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.08-15.31.48:865][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.08-15.31.48:867][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2025.02.08-15.31.48:868][294]AssetCheck: New page: Asset Save: IMC_Pool
+[2025.02.08-15.31.48:868][294]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Player/Input/IMC/IMC_Pool.IMC_Pool
+[2025.02.08-15.31.51:989][638]LogContentBrowser: Attempting asset rename: IMC_Pool1 -> IMC_Auction
+[2025.02.08-15.31.52:006][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.31.52:030][638]LogSavePackage: Moving output files for package: /Game/Player/Input/IMC/IMC_Auction
+[2025.02.08-15.31.52:030][638]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/IMC_Auction5E59D85A46339E58DF81F995255A7F0C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/IMC/IMC_Auction.uasset'
+[2025.02.08-15.31.52:037][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 185 ms)
+[2025.02.08-15.31.52:040][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.08-15.31.52:042][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.08-15.31.52:045][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.08-15.31.52:046][638]AssetCheck: New page: Asset Save: IMC_Auction
+[2025.02.08-15.31.52:046][638]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Player/Input/IMC/IMC_Auction.IMC_Auction
+[2025.02.08-15.31.57:322][239]LogContentBrowser: Attempting asset rename: IMC_Auction1 -> IMC_I_Doubt_It
+[2025.02.08-15.31.57:339][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.31.57:367][239]LogSavePackage: Moving output files for package: /Game/Player/Input/IMC/IMC_I_Doubt_It
+[2025.02.08-15.31.57:367][239]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/IMC_I_Doubt_It061BA3374D3AC2B4344116BDED612CEA.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/IMC/IMC_I_Doubt_It.uasset'
+[2025.02.08-15.31.57:373][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 219 ms)
+[2025.02.08-15.31.57:377][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.08-15.31.57:380][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.08-15.31.57:381][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2025.02.08-15.31.57:383][239]AssetCheck: New page: Asset Save: IMC_I_Doubt_It
+[2025.02.08-15.31.57:383][239]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Player/Input/IMC/IMC_I_Doubt_It.IMC_I_Doubt_It
+[2025.02.08-15.32.05:081][133]LogContentBrowser: Attempting asset rename: IMC_I_Doubt_It1 -> IMC_Rat_Screw
+[2025.02.08-15.32.05:097][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.32.05:120][133]LogSavePackage: Moving output files for package: /Game/Player/Input/IMC/IMC_Rat_Screw
+[2025.02.08-15.32.05:120][133]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/IMC_Rat_Screw0DCE4DE84FD59C6ABCBF0ABAB1461C98.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/IMC/IMC_Rat_Screw.uasset'
+[2025.02.08-15.32.05:125][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 247 ms)
+[2025.02.08-15.32.05:129][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.08-15.32.05:131][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.02.08-15.32.05:133][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.08-15.32.05:134][133]AssetCheck: New page: Asset Save: IMC_Rat_Screw
+[2025.02.08-15.32.05:134][133]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Player/Input/IMC/IMC_Rat_Screw.IMC_Rat_Screw
+[2025.02.08-15.32.36:473][452]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.32.36:482][452]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.32.36:485][452]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.32.36:505][454]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.32.41:250][  4]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Jukebox
+[2025.02.08-15.32.41:262][  4]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.32.41:881][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.32.41:904][ 78]LogSavePackage: Moving output files for package: /Game/Misc_Mechanics/Jukebox/BP_Jukebox
+[2025.02.08-15.32.41:904][ 78]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_JukeboxFEE5BD394C5FCBB37262439BE3ED9BB5.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Jukebox/BP_Jukebox.uasset'
+[2025.02.08-15.32.41:912][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 278 ms)
+[2025.02.08-15.32.41:912][ 78]AssetCheck: New page: Asset Save: BP_Jukebox
+[2025.02.08-15.32.41:913][ 78]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc_Mechanics/Jukebox/BP_Jukebox.BP_Jukebox
+[2025.02.08-15.32.45:031][363]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.32.45:039][363]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.32.45:043][363]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.32.45:056][365]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.32.49:446][889]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Outside_Loop
+[2025.02.08-15.32.49:450][889]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.32.49:785][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.32.49:807][929]LogSavePackage: Moving output files for package: /Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop
+[2025.02.08-15.32.49:807][929]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Outside_Loop958902EC431CEC841AF0B196B780FC19.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Outside_Loop/BP_Outside_Loop.uasset'
+[2025.02.08-15.32.49:814][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 306 ms)
+[2025.02.08-15.32.49:814][929]AssetCheck: New page: Asset Save: BP_Outside_Loop
+[2025.02.08-15.32.49:814][929]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop.BP_Outside_Loop
+[2025.02.08-15.32.56:864][377]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.32.56:871][377]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.32.56:876][377]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.32.56:891][379]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.33.00:003][735]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.299 and deleted 167 files with total size 6 MiB and 150 empty folders. Scanned 27498 files in 29855 folders with total size 2839 MiB.
+[2025.02.08-15.33.00:757][825]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_NPC
+[2025.02.08-15.33.00:762][825]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.33.01:122][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.33.01:143][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.02.08-15.33.01:145][868]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.02.08-15.33.01:145][868]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC233DC72340DD6C4808F0298AC55F3490.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.02.08-15.33.01:152][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 336 ms)
+[2025.02.08-15.33.01:152][868]AssetCheck: New page: Asset Save: BP_NPC
+[2025.02.08-15.33.01:152][868]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.02.08-15.33.06:137][449]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.33.06:142][449]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.33.06:147][450]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.33.08:824][763]LogContentBrowser: Attempting asset rename: NewFolder -> Decision_Making
+[2025.02.08-15.33.08:825][763]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.33.15:885][474]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.33.15:894][474]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.33.15:899][474]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.33.15:913][476]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.33.23:325][364]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_NPC_Choice
+[2025.02.08-15.33.23:328][364]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.33.23:873][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.33.23:892][428]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Choice
+[2025.02.08-15.33.23:892][428]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Choice531F787B4FEB47E6228466A6DFCCDF06.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Choice.uasset'
+[2025.02.08-15.33.23:899][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 362 ms)
+[2025.02.08-15.33.23:899][428]AssetCheck: New page: Asset Save: BPC_NPC_Choice
+[2025.02.08-15.33.23:899][428]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Choice.BPC_NPC_Choice
+[2025.02.08-15.33.28:748][ 10]LogContentBrowser: Attempting asset rename: BPC_NPC_Choice -> BPC_NPC_Choice_Scoring
+[2025.02.08-15.33.28:767][ 10]LogMetaData: Removing '/Game/NPCs/Decision_Making/BPC_NPC_Choice_Scoring.SKEL_BPC_NPC_Choice_Scoring_C' ref from Metadata '/Game/NPCs/Decision_Making/BPC_NPC_Choice.PackageMetaData'
+[2025.02.08-15.33.28:767][ 10]LogMetaData: Removing '/Game/NPCs/Decision_Making/BPC_NPC_Choice_Scoring.BPC_NPC_Choice_Scoring_C' ref from Metadata '/Game/NPCs/Decision_Making/BPC_NPC_Choice.PackageMetaData'
+[2025.02.08-15.33.28:767][ 10]LogMetaData: Removing '/Game/NPCs/Decision_Making/BPC_NPC_Choice_Scoring.BPC_NPC_Choice_Scoring:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NPCs/Decision_Making/BPC_NPC_Choice.PackageMetaData'
+[2025.02.08-15.33.28:767][ 10]LogMetaData: Removing '/Game/NPCs/Decision_Making/BPC_NPC_Choice_Scoring.BPC_NPC_Choice_Scoring:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NPCs/Decision_Making/BPC_NPC_Choice.PackageMetaData'
+[2025.02.08-15.33.28:767][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.33.28:790][ 10]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Choice_Scoring
+[2025.02.08-15.33.28:790][ 10]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Choice_ScoringFC5C98FB4F6A20ACF811B8BFB68DAFAE.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Choice_Scoring.uasset'
+[2025.02.08-15.33.28:797][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 393 ms)
+[2025.02.08-15.33.28:806][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.02.08-15.33.28:809][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.08-15.33.28:810][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2025.02.08-15.33.28:811][ 10]AssetCheck: New page: Asset Save: BPC_NPC_Choice_Scoring
+[2025.02.08-15.33.28:811][ 10]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Choice_Scoring.BPC_NPC_Choice_Scoring
+[2025.02.08-15.33.58:753][572]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.02.08-15.34.01:889][861]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.34.01:898][861]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.34.01:901][861]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.34.01:921][863]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.34.12:137][ 74]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_NPC_Game_Availability_Indicator
+[2025.02.08-15.34.12:153][ 74]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.34.12:648][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.34.12:676][132]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/WBP_NPC_Game_Availability_Indicator
+[2025.02.08-15.34.12:676][132]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_NPC_Game_Availability_Indica8EB12E4440D2B5EDB3CDF0BF329FFD67.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/WBP_NPC_Game_Availability_Indicator.uasset'
+[2025.02.08-15.34.12:682][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 428 ms)
+[2025.02.08-15.34.12:683][132]AssetCheck: New page: Asset Save: WBP_NPC_Game_Availability_Indicator
+[2025.02.08-15.34.12:683][132]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/WBP_NPC_Game_Availability_Indicator.WBP_NPC_Game_Availability_Indicator
+[2025.02.08-15.34.19:185][585]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.34.19:193][585]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.34.19:197][585]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.34.19:203][586]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.34.25:099][275]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_NPC_Dialogue_Bubble
+[2025.02.08-15.34.25:103][275]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.34.25:588][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.34.25:616][333]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/WBP_NPC_Dialogue_Bubble
+[2025.02.08-15.34.25:616][333]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_NPC_Dialogue_Bubble3A8C393544E4027463F143BC7AAA122F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/WBP_NPC_Dialogue_Bubble.uasset'
+[2025.02.08-15.34.25:623][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 462 ms)
+[2025.02.08-15.34.25:623][333]AssetCheck: New page: Asset Save: WBP_NPC_Dialogue_Bubble
+[2025.02.08-15.34.25:623][333]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/WBP_NPC_Dialogue_Bubble.WBP_NPC_Dialogue_Bubble
+[2025.02.08-15.34.28:216][565]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.34.28:224][565]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.34.28:228][565]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.34.28:234][566]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.34.30:726][863]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Main_Menu
+[2025.02.08-15.34.30:729][863]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.34.31:081][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.34.31:106][905]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/WBP_Main_Menu
+[2025.02.08-15.34.31:106][905]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Main_MenuC945FE204C2B5DCA58B854905879B4F6.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/WBP_Main_Menu.uasset'
+[2025.02.08-15.34.31:113][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 494 ms)
+[2025.02.08-15.34.31:113][905]AssetCheck: New page: Asset Save: WBP_Main_Menu
+[2025.02.08-15.34.31:114][905]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/WBP_Main_Menu.WBP_Main_Menu
+[2025.02.08-15.34.34:936][193]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.34.34:944][193]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.34.34:948][193]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.34.34:962][195]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.34.37:713][524]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Pause_Menu
+[2025.02.08-15.34.37:717][524]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.34.37:978][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.34.38:006][555]LogSavePackage: Moving output files for package: /Game/UI/Non_Diegetic/WBP_Pause_Menu
+[2025.02.08-15.34.38:006][555]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Pause_Menu33A679D94457E68765F1D3BA704ECBB9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_Pause_Menu.uasset'
+[2025.02.08-15.34.38:013][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 529 ms)
+[2025.02.08-15.34.38:013][555]AssetCheck: New page: Asset Save: WBP_Pause_Menu
+[2025.02.08-15.34.38:013][555]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Non_Diegetic/WBP_Pause_Menu.WBP_Pause_Menu
+[2025.02.08-15.34.41:361][877]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.34.41:372][877]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.34.41:376][877]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.34.41:381][878]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.34.47:623][626]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_On_Screen_Text
+[2025.02.08-15.34.47:627][626]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.34.47:979][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.34.48:007][668]LogSavePackage: Moving output files for package: /Game/UI/Non_Diegetic/WBP_On_Screen_Text
+[2025.02.08-15.34.48:007][668]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_On_Screen_Text708592EB4372147713E4A198A6E46DA1.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_On_Screen_Text.uasset'
+[2025.02.08-15.34.48:015][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 563 ms)
+[2025.02.08-15.34.48:015][668]AssetCheck: New page: Asset Save: WBP_On_Screen_Text
+[2025.02.08-15.34.48:015][668]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Non_Diegetic/WBP_On_Screen_Text.WBP_On_Screen_Text
+[2025.02.08-15.35.06:367][ 62]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.35.06:374][ 62]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.35.06:377][ 62]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.35.06:383][ 63]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.35.11:616][690]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Pool_Hit_Indicator
+[2025.02.08-15.35.11:620][690]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.35.11:981][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.35.12:007][733]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/WBP_Pool_Hit_Indicator
+[2025.02.08-15.35.12:007][733]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Pool_Hit_Indicator8A29E51B434B44848F25C0AC1317FDC1.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/WBP_Pool_Hit_Indicator.uasset'
+[2025.02.08-15.35.12:013][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 596 ms)
+[2025.02.08-15.35.12:014][733]AssetCheck: New page: Asset Save: WBP_Pool_Hit_Indicator
+[2025.02.08-15.35.12:014][733]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/WBP_Pool_Hit_Indicator.WBP_Pool_Hit_Indicator
+[2025.02.08-15.35.14:384][937]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.35.14:392][937]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.35.14:395][937]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.35.14:401][938]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.35.21:237][757]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Darts_Bar
+[2025.02.08-15.35.21:241][757]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.35.21:792][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.35.21:817][823]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/WBP_Darts_Bar
+[2025.02.08-15.35.21:817][823]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Darts_Bar77374A33440D74AF914F5B9807462145.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/WBP_Darts_Bar.uasset'
+[2025.02.08-15.35.21:823][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 627 ms)
+[2025.02.08-15.35.21:824][823]AssetCheck: New page: Asset Save: WBP_Darts_Bar
+[2025.02.08-15.35.21:824][823]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/WBP_Darts_Bar.WBP_Darts_Bar
+[2025.02.08-15.35.25:024][207]LogContentBrowser: Attempting asset rename: WBP_Darts_Bar -> WBP_Darts_Aim_Bar
+[2025.02.08-15.35.25:041][207]LogMetaData: Removing '/Game/UI/Diegetic/WBP_Darts_Aim_Bar.SKEL_WBP_Darts_Aim_Bar_C' ref from Metadata '/Game/UI/Diegetic/WBP_Darts_Bar.PackageMetaData'
+[2025.02.08-15.35.25:041][207]LogMetaData: Removing '/Game/UI/Diegetic/WBP_Darts_Aim_Bar.WBP_Darts_Aim_Bar_C' ref from Metadata '/Game/UI/Diegetic/WBP_Darts_Bar.PackageMetaData'
+[2025.02.08-15.35.25:041][207]LogMetaData: Removing '/Game/UI/Diegetic/WBP_Darts_Aim_Bar.WBP_Darts_Aim_Bar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Diegetic/WBP_Darts_Bar.PackageMetaData'
+[2025.02.08-15.35.25:041][207]LogMetaData: Removing '/Game/UI/Diegetic/WBP_Darts_Aim_Bar.WBP_Darts_Aim_Bar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Diegetic/WBP_Darts_Bar.PackageMetaData'
+[2025.02.08-15.35.25:041][207]LogMetaData: Removing '/Game/UI/Diegetic/WBP_Darts_Aim_Bar.WBP_Darts_Aim_Bar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Diegetic/WBP_Darts_Bar.PackageMetaData'
+[2025.02.08-15.35.25:041][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.35.25:065][207]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/WBP_Darts_Aim_Bar
+[2025.02.08-15.35.25:065][207]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Darts_Aim_BarC52139464238501FD081BDBA3071A387.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/WBP_Darts_Aim_Bar.uasset'
+[2025.02.08-15.35.25:074][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 659 ms)
+[2025.02.08-15.35.25:081][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.08-15.35.25:084][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.08-15.35.25:086][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.02.08-15.35.25:087][207]AssetCheck: New page: Asset Save: WBP_Darts_Aim_Bar
+[2025.02.08-15.35.25:087][207]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/WBP_Darts_Aim_Bar.WBP_Darts_Aim_Bar
+[2025.02.08-15.35.26:996][423]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.35.27:003][423]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.35.27:009][424]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.35.28:941][655]LogContentBrowser: Attempting asset rename: NewFolder -> Mini_Games
+[2025.02.08-15.35.28:941][655]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.35.31:044][900]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.35.31:054][900]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.35.31:059][901]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.35.33:556][200]LogContentBrowser: Attempting asset rename: NewFolder -> NPCs
+[2025.02.08-15.35.33:556][200]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.35.35:693][443]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.35.35:700][443]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.35.35:704][444]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.35.37:556][665]LogContentBrowser: Attempting asset rename: NewFolder -> Main_Games
+[2025.02.08-15.35.37:556][665]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.35.42:449][243]LogMetaData: Removing '/Game/UI/Diegetic/Mini_Games/WBP_Darts_Aim_Bar.WBP_Darts_Aim_Bar_C' ref from Metadata '/Game/UI/Diegetic/WBP_Darts_Aim_Bar.PackageMetaData'
+[2025.02.08-15.35.42:449][243]LogMetaData: Removing '/Game/UI/Diegetic/Mini_Games/WBP_Darts_Aim_Bar.SKEL_WBP_Darts_Aim_Bar_C' ref from Metadata '/Game/UI/Diegetic/WBP_Darts_Aim_Bar.PackageMetaData'
+[2025.02.08-15.35.42:449][243]LogMetaData: Removing '/Game/UI/Diegetic/Mini_Games/WBP_Darts_Aim_Bar.WBP_Darts_Aim_Bar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Diegetic/WBP_Darts_Aim_Bar.PackageMetaData'
+[2025.02.08-15.35.42:449][243]LogMetaData: Removing '/Game/UI/Diegetic/Mini_Games/WBP_Darts_Aim_Bar.WBP_Darts_Aim_Bar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Diegetic/WBP_Darts_Aim_Bar.PackageMetaData'
+[2025.02.08-15.35.42:449][243]LogMetaData: Removing '/Game/UI/Diegetic/Mini_Games/WBP_Darts_Aim_Bar.WBP_Darts_Aim_Bar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Diegetic/WBP_Darts_Aim_Bar.PackageMetaData'
+[2025.02.08-15.35.42:449][243]LogMetaData: Removing '/Game/UI/Diegetic/Mini_Games/WBP_Pool_Hit_Indicator.SKEL_WBP_Pool_Hit_Indicator_C' ref from Metadata '/Game/UI/Diegetic/WBP_Pool_Hit_Indicator.PackageMetaData'
+[2025.02.08-15.35.42:449][243]LogMetaData: Removing '/Game/UI/Diegetic/Mini_Games/WBP_Pool_Hit_Indicator.WBP_Pool_Hit_Indicator_C' ref from Metadata '/Game/UI/Diegetic/WBP_Pool_Hit_Indicator.PackageMetaData'
+[2025.02.08-15.35.42:449][243]LogMetaData: Removing '/Game/UI/Diegetic/Mini_Games/WBP_Pool_Hit_Indicator.WBP_Pool_Hit_Indicator:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Diegetic/WBP_Pool_Hit_Indicator.PackageMetaData'
+[2025.02.08-15.35.42:449][243]LogMetaData: Removing '/Game/UI/Diegetic/Mini_Games/WBP_Pool_Hit_Indicator.WBP_Pool_Hit_Indicator:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Diegetic/WBP_Pool_Hit_Indicator.PackageMetaData'
+[2025.02.08-15.35.42:449][243]LogMetaData: Removing '/Game/UI/Diegetic/Mini_Games/WBP_Pool_Hit_Indicator.WBP_Pool_Hit_Indicator:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Diegetic/WBP_Pool_Hit_Indicator.PackageMetaData'
+[2025.02.08-15.35.42:450][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.35.42:471][243]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Mini_Games/WBP_Darts_Aim_Bar
+[2025.02.08-15.35.42:471][243]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Darts_Aim_BarFE25A34A43B0DBBFEB77E8A4E3A206F7.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Mini_Games/WBP_Darts_Aim_Bar.uasset'
+[2025.02.08-15.35.42:475][243]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Mini_Games/WBP_Pool_Hit_Indicator
+[2025.02.08-15.35.42:475][243]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Pool_Hit_Indicator4DFBF36D439DE3FA41B15CA4A9FD30DC.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Mini_Games/WBP_Pool_Hit_Indicator.uasset'
+[2025.02.08-15.35.42:484][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 693 ms)
+[2025.02.08-15.35.42:492][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.02.08-15.35.42:495][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.08-15.35.42:497][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2025.02.08-15.35.42:507][243]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.08-15.35.42:507][243]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/Mini_Games/WBP_Darts_Aim_Bar.WBP_Darts_Aim_Bar
+[2025.02.08-15.35.42:507][243]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/Mini_Games/WBP_Pool_Hit_Indicator.WBP_Pool_Hit_Indicator
+[2025.02.08-15.35.45:247][560]LogMetaData: Removing '/Game/UI/Diegetic/NPCs/WBP_NPC_Dialogue_Bubble.SKEL_WBP_NPC_Dialogue_Bubble_C' ref from Metadata '/Game/UI/Diegetic/WBP_NPC_Dialogue_Bubble.PackageMetaData'
+[2025.02.08-15.35.45:247][560]LogMetaData: Removing '/Game/UI/Diegetic/NPCs/WBP_NPC_Dialogue_Bubble.WBP_NPC_Dialogue_Bubble_C' ref from Metadata '/Game/UI/Diegetic/WBP_NPC_Dialogue_Bubble.PackageMetaData'
+[2025.02.08-15.35.45:247][560]LogMetaData: Removing '/Game/UI/Diegetic/NPCs/WBP_NPC_Dialogue_Bubble.WBP_NPC_Dialogue_Bubble:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Diegetic/WBP_NPC_Dialogue_Bubble.PackageMetaData'
+[2025.02.08-15.35.45:247][560]LogMetaData: Removing '/Game/UI/Diegetic/NPCs/WBP_NPC_Dialogue_Bubble.WBP_NPC_Dialogue_Bubble:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Diegetic/WBP_NPC_Dialogue_Bubble.PackageMetaData'
+[2025.02.08-15.35.45:247][560]LogMetaData: Removing '/Game/UI/Diegetic/NPCs/WBP_NPC_Dialogue_Bubble.WBP_NPC_Dialogue_Bubble:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Diegetic/WBP_NPC_Dialogue_Bubble.PackageMetaData'
+[2025.02.08-15.35.45:247][560]LogMetaData: Removing '/Game/UI/Diegetic/NPCs/WBP_NPC_Game_Availability_Indicator.SKEL_WBP_NPC_Game_Availability_Indicator_C' ref from Metadata '/Game/UI/Diegetic/WBP_NPC_Game_Availability_Indicator.PackageMetaData'
+[2025.02.08-15.35.45:247][560]LogMetaData: Removing '/Game/UI/Diegetic/NPCs/WBP_NPC_Game_Availability_Indicator.WBP_NPC_Game_Availability_Indicator_C' ref from Metadata '/Game/UI/Diegetic/WBP_NPC_Game_Availability_Indicator.PackageMetaData'
+[2025.02.08-15.35.45:247][560]LogMetaData: Removing '/Game/UI/Diegetic/NPCs/WBP_NPC_Game_Availability_Indicator.WBP_NPC_Game_Availability_Indicator:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Diegetic/WBP_NPC_Game_Availability_Indicator.PackageMetaData'
+[2025.02.08-15.35.45:247][560]LogMetaData: Removing '/Game/UI/Diegetic/NPCs/WBP_NPC_Game_Availability_Indicator.WBP_NPC_Game_Availability_Indicator:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Diegetic/WBP_NPC_Game_Availability_Indicator.PackageMetaData'
+[2025.02.08-15.35.45:247][560]LogMetaData: Removing '/Game/UI/Diegetic/NPCs/WBP_NPC_Game_Availability_Indicator.WBP_NPC_Game_Availability_Indicator:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Diegetic/WBP_NPC_Game_Availability_Indicator.PackageMetaData'
+[2025.02.08-15.35.45:248][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.35.45:275][560]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/NPCs/WBP_NPC_Dialogue_Bubble
+[2025.02.08-15.35.45:275][560]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_NPC_Dialogue_BubbleAAD8F0274CB3780CDAC78CBF5BDDA107.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/NPCs/WBP_NPC_Dialogue_Bubble.uasset'
+[2025.02.08-15.35.45:280][560]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/NPCs/WBP_NPC_Game_Availability_Indicator
+[2025.02.08-15.35.45:280][560]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_NPC_Game_Availability_Indica12A040DC4A358045D9BB45950E7A0EA8.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/NPCs/WBP_NPC_Game_Availability_Indicator.uasset'
+[2025.02.08-15.35.45:289][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 735 ms)
+[2025.02.08-15.35.45:296][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.08-15.35.45:299][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.08-15.35.45:300][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.02.08-15.35.45:315][560]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.08-15.35.45:315][560]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/NPCs/WBP_NPC_Dialogue_Bubble.WBP_NPC_Dialogue_Bubble
+[2025.02.08-15.35.45:315][560]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/NPCs/WBP_NPC_Game_Availability_Indicator.WBP_NPC_Game_Availability_Indicator
+[2025.02.08-15.35.48:609][834]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.35.48:629][834]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.35.48:632][834]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.35.48:646][836]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.35.51:438][171]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Current_Turn
+[2025.02.08-15.35.51:443][171]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.35.51:703][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.35.51:727][202]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Main_Games/WBP_Current_Turn
+[2025.02.08-15.35.51:727][202]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Current_TurnA49EEF9C439444A7C988AB855C335465.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Main_Games/WBP_Current_Turn.uasset'
+[2025.02.08-15.35.51:734][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 765 ms)
+[2025.02.08-15.35.51:735][202]AssetCheck: New page: Asset Save: WBP_Current_Turn
+[2025.02.08-15.35.51:735][202]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/Main_Games/WBP_Current_Turn.WBP_Current_Turn
+[2025.02.08-15.35.54:781][441]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.35.54:789][441]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.35.54:792][441]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.35.54:797][442]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.35.57:313][743]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Cards
+[2025.02.08-15.35.57:318][743]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.35.57:777][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.35.57:806][798]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Main_Games/WBP_Cards
+[2025.02.08-15.35.57:807][798]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_CardsE132F0294020247E4CBB3A9FEDD34F95.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Main_Games/WBP_Cards.uasset'
+[2025.02.08-15.35.57:812][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 800 ms)
+[2025.02.08-15.35.57:813][798]AssetCheck: New page: Asset Save: WBP_Cards
+[2025.02.08-15.35.57:813][798]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/Main_Games/WBP_Cards.WBP_Cards
+[2025.02.08-15.36.01:636][257]LogContentBrowser: Attempting asset rename: WBP_Cards -> WBP_Card_Counter
+[2025.02.08-15.36.01:653][257]LogMetaData: Removing '/Game/UI/Diegetic/Main_Games/WBP_Card_Counter.SKEL_WBP_Card_Counter_C' ref from Metadata '/Game/UI/Diegetic/Main_Games/WBP_Cards.PackageMetaData'
+[2025.02.08-15.36.01:653][257]LogMetaData: Removing '/Game/UI/Diegetic/Main_Games/WBP_Card_Counter.WBP_Card_Counter_C' ref from Metadata '/Game/UI/Diegetic/Main_Games/WBP_Cards.PackageMetaData'
+[2025.02.08-15.36.01:653][257]LogMetaData: Removing '/Game/UI/Diegetic/Main_Games/WBP_Card_Counter.WBP_Card_Counter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Diegetic/Main_Games/WBP_Cards.PackageMetaData'
+[2025.02.08-15.36.01:653][257]LogMetaData: Removing '/Game/UI/Diegetic/Main_Games/WBP_Card_Counter.WBP_Card_Counter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Diegetic/Main_Games/WBP_Cards.PackageMetaData'
+[2025.02.08-15.36.01:653][257]LogMetaData: Removing '/Game/UI/Diegetic/Main_Games/WBP_Card_Counter.WBP_Card_Counter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Diegetic/Main_Games/WBP_Cards.PackageMetaData'
+[2025.02.08-15.36.01:653][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.36.01:674][257]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Main_Games/WBP_Card_Counter
+[2025.02.08-15.36.01:674][257]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Card_Counter87198F5546D2016BC1A69883EE37F3F0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Main_Games/WBP_Card_Counter.uasset'
+[2025.02.08-15.36.01:682][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 828 ms)
+[2025.02.08-15.36.01:689][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.02.08-15.36.01:692][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.08-15.36.01:693][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.02.08-15.36.01:695][257]AssetCheck: New page: Asset Save: WBP_Card_Counter
+[2025.02.08-15.36.01:695][257]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/Main_Games/WBP_Card_Counter.WBP_Card_Counter
+[2025.02.08-15.37.29:988][145]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.37.29:994][145]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.37.30:000][146]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.37.31:784][342]LogContentBrowser: Attempting asset rename: NewFolder -> Misc
+[2025.02.08-15.37.31:784][342]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.37.35:130][661]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.37.35:138][661]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.37.35:142][661]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.37.35:155][663]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.37.40:208][268]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Jukebox
+[2025.02.08-15.37.40:212][268]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.37.40:630][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.37.40:656][318]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Misc/WBP_Jukebox
+[2025.02.08-15.37.40:656][318]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Jukebox08022CF14D983D51147309B0E3F37F7C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Misc/WBP_Jukebox.uasset'
+[2025.02.08-15.37.40:662][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 861 ms)
+[2025.02.08-15.37.40:663][318]AssetCheck: New page: Asset Save: WBP_Jukebox
+[2025.02.08-15.37.40:663][318]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/Misc/WBP_Jukebox.WBP_Jukebox
+[2025.02.08-15.37.46:591][ 18]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.37.46:599][ 18]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.37.46:604][ 19]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.37.47:860][169]LogContentBrowser: Attempting asset rename: NewFolder -> Menus
+[2025.02.08-15.37.47:861][169]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.37.49:661][377]LogMetaData: Removing '/Game/UI/Diegetic/Menus/WBP_Main_Menu.SKEL_WBP_Main_Menu_C' ref from Metadata '/Game/UI/Diegetic/WBP_Main_Menu.PackageMetaData'
+[2025.02.08-15.37.49:661][377]LogMetaData: Removing '/Game/UI/Diegetic/Menus/WBP_Main_Menu.WBP_Main_Menu_C' ref from Metadata '/Game/UI/Diegetic/WBP_Main_Menu.PackageMetaData'
+[2025.02.08-15.37.49:661][377]LogMetaData: Removing '/Game/UI/Diegetic/Menus/WBP_Main_Menu.WBP_Main_Menu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Diegetic/WBP_Main_Menu.PackageMetaData'
+[2025.02.08-15.37.49:661][377]LogMetaData: Removing '/Game/UI/Diegetic/Menus/WBP_Main_Menu.WBP_Main_Menu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Diegetic/WBP_Main_Menu.PackageMetaData'
+[2025.02.08-15.37.49:661][377]LogMetaData: Removing '/Game/UI/Diegetic/Menus/WBP_Main_Menu.WBP_Main_Menu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Diegetic/WBP_Main_Menu.PackageMetaData'
+[2025.02.08-15.37.49:661][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.37.49:682][377]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Menus/WBP_Main_Menu
+[2025.02.08-15.37.49:682][377]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Main_Menu5D483C444E42D1A6FB5C75AB06277E2D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Menus/WBP_Main_Menu.uasset'
+[2025.02.08-15.37.49:691][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 890 ms)
+[2025.02.08-15.37.49:698][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.02.08-15.37.49:700][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.08-15.37.49:702][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.08-15.37.49:712][377]AssetCheck: New page: Asset Save: WBP_Main_Menu
+[2025.02.08-15.37.49:712][377]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/Menus/WBP_Main_Menu.WBP_Main_Menu
+[2025.02.08-15.38.10:090][714]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-15.38.10:099][714]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-15.38.10:103][714]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-15.38.10:109][715]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-15.38.13:698][132]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Game_Rules
+[2025.02.08-15.38.13:702][132]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-15.38.14:054][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.38.14:080][174]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Main_Games/WBP_Game_Rules
+[2025.02.08-15.38.14:080][174]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Game_RulesD08B444C44F33277304610A4369CC743.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Main_Games/WBP_Game_Rules.uasset'
+[2025.02.08-15.38.14:086][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 922 ms)
+[2025.02.08-15.38.14:087][174]AssetCheck: New page: Asset Save: WBP_Game_Rules
+[2025.02.08-15.38.14:087][174]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/Main_Games/WBP_Game_Rules.WBP_Game_Rules
+[2025.02.08-15.38.43:357][406]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.38.43:365][406]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.38.43:369][406]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.38.43:382][408]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.38.46:309][738]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Dart_Board
+[2025.02.08-15.38.46:313][738]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.38.46:649][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.38.46:670][778]LogSavePackage: Moving output files for package: /Game/Mini_Games/Darts/BP_Dart_Board
+[2025.02.08-15.38.46:670][778]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Dart_Board321929DF489F8189635910896A511827.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Mini_Games/Darts/BP_Dart_Board.uasset'
+[2025.02.08-15.38.46:676][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 949 ms)
+[2025.02.08-15.38.46:676][778]AssetCheck: New page: Asset Save: BP_Dart_Board
+[2025.02.08-15.38.46:676][778]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mini_Games/Darts/BP_Dart_Board.BP_Dart_Board
+[2025.02.08-15.38.53:010][ 36]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.38.53:018][ 36]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.38.53:022][ 36]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.38.53:036][ 38]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.38.56:269][409]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Pool_Pocket
+[2025.02.08-15.38.56:273][409]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.38.56:807][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.38.56:827][473]LogSavePackage: Moving output files for package: /Game/Mini_Games/Pool/BP_Pool_Pocket
+[2025.02.08-15.38.56:827][473]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Pool_Pocket434D68944CD739A732EAD2B5C1F60E72.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_Pool_Pocket.uasset'
+[2025.02.08-15.38.56:833][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 975 ms)
+[2025.02.08-15.38.56:834][473]AssetCheck: New page: Asset Save: BP_Pool_Pocket
+[2025.02.08-15.38.56:834][473]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mini_Games/Pool/BP_Pool_Pocket.BP_Pool_Pocket
+[2025.02.08-15.39.15:724][705]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.39.15:734][705]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.39.15:741][706]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.39.19:710][182]LogContentBrowser: Attempting asset rename: NewFolder -> Main_Game_Managers
+[2025.02.08-15.39.19:710][182]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.39.23:607][634]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.39.23:612][634]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.39.23:640][636]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.39.26:394][967]LogContentBrowser: Attempting asset rename: NewFolder -> Rat_Screw
+[2025.02.08-15.39.26:394][967]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.39.28:154][164]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.39.28:163][164]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.39.28:169][165]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.39.31:349][546]LogContentBrowser: Attempting asset rename: NewFolder -> I_Doubt_It
+[2025.02.08-15.39.31:349][546]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.39.33:011][736]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-15.39.33:018][736]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-15.39.33:023][737]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-15.39.34:082][863]LogContentBrowser: Attempting asset rename: NewFolder -> Auction
+[2025.02.08-15.39.34:082][863]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-15.39.38:496][288]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.39.38:505][288]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.39.38:509][288]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.39.38:522][290]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.39.45:544][131]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Auction_Game_Manager
+[2025.02.08-15.39.45:547][131]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.39.48:917][508]Cmd: TRANSACTION UNDO
+[2025.02.08-15.39.48:917][508]LogEditorTransaction: Undo Delete Elements
+[2025.02.08-15.39.50:689][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.08-15.39.51:469][686]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.08-15.39.51:479][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.02.08-15.39.51:482][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.08-15.39.51:484][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2025.02.08-15.39.52:348][789]Cmd: DELETE
+[2025.02.08-15.39.52:348][789]Cmd: ACTOR DELETE
+[2025.02.08-15.39.52:349][789]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.08-15.39.52:351][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.08-15.39.52:352][789]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2025.02.08-15.39.55:116][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.08-15.39.55:593][150]LogWindows: LaunchURL https://docs.unrealengine.com/5.3/en/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2025.02.08-15.40.07:930][988]LogContentBrowser: Attempting asset rename: BP_Auction_Game_Manager -> BP_I_Doubt_It_Game_Manager
+[2025.02.08-15.40.07:947][988]LogMetaData: Removing '/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.SKEL_BP_I_Doubt_It_Game_Manager_C' ref from Metadata '/Game/Main_Game_Managers/I_Doubt_It/BP_Auction_Game_Manager.PackageMetaData'
+[2025.02.08-15.40.07:947][988]LogMetaData: Removing '/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager_C' ref from Metadata '/Game/Main_Game_Managers/I_Doubt_It/BP_Auction_Game_Manager.PackageMetaData'
+[2025.02.08-15.40.07:947][988]LogMetaData: Removing '/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.SKEL_BP_I_Doubt_It_Game_Manager_C:ReceiveBeginPlay' ref from Metadata '/Game/Main_Game_Managers/I_Doubt_It/BP_Auction_Game_Manager.PackageMetaData'
+[2025.02.08-15.40.07:947][988]LogMetaData: Removing '/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.SKEL_BP_I_Doubt_It_Game_Manager_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Main_Game_Managers/I_Doubt_It/BP_Auction_Game_Manager.PackageMetaData'
+[2025.02.08-15.40.07:947][988]LogMetaData: Removing '/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.SKEL_BP_I_Doubt_It_Game_Manager_C:ReceiveTick' ref from Metadata '/Game/Main_Game_Managers/I_Doubt_It/BP_Auction_Game_Manager.PackageMetaData'
+[2025.02.08-15.40.07:947][988]LogMetaData: Removing '/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.SKEL_BP_I_Doubt_It_Game_Manager_C:UserConstructionScript' ref from Metadata '/Game/Main_Game_Managers/I_Doubt_It/BP_Auction_Game_Manager.PackageMetaData'
+[2025.02.08-15.40.07:948][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.40.07:967][988]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.08-15.40.07:967][988]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager38FCF16D4F79F7A59414869367601FC3.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.08-15.40.07:975][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 1.00 sec)
+[2025.02.08-15.40.07:978][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.08-15.40.07:981][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.08-15.40.07:983][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.08-15.40.07:984][988]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.08-15.40.07:984][988]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.08-15.40.10:942][247]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.40.10:962][247]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.40.10:965][247]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.40.10:980][249]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.40.19:487][268]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Rat_Screw_Game_Manager
+[2025.02.08-15.40.19:491][268]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.40.19:818][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.40.19:841][307]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager
+[2025.02.08-15.40.19:842][307]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Rat_Screw_Game_ManagerFB62AB8E47BB7735AFCAAAAD1C1AF68A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.uasset'
+[2025.02.08-15.40.19:848][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 1.03 sec)
+[2025.02.08-15.40.19:848][307]AssetCheck: New page: Asset Save: BP_Rat_Screw_Game_Manager
+[2025.02.08-15.40.19:848][307]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.BP_Rat_Screw_Game_Manager
+[2025.02.08-15.41.12:667][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.08-15.41.12:669][765]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.008
+[2025.02.08-15.41.12:669][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager] ([2] browsable assets)...
+[2025.02.08-15.41.12:669][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager]
+[2025.02.08-15.41.12:672][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager_Auto1
+[2025.02.08-15.41.12:672][765]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Auction_Game_Manager_Auto11421442F4C6F0C8AAE0351A52528A341.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager_Auto1.uasset'
+[2025.02.08-15.41.12:672][765]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.02.08-15.41.20:674][955]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.41.20:694][955]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.41.20:697][955]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.41.20:704][956]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.41.24:828][451]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Dart_Game_Manager
+[2025.02.08-15.41.24:832][451]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.41.25:135][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.41.25:156][487]LogSavePackage: Moving output files for package: /Game/Mini_Games/Darts/BP_Dart_Game_Manager
+[2025.02.08-15.41.25:156][487]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Dart_Game_Manager87A323D74AD68E195159A0B50C5B1740.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Mini_Games/Darts/BP_Dart_Game_Manager.uasset'
+[2025.02.08-15.41.25:162][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 1.05 sec)
+[2025.02.08-15.41.25:162][487]AssetCheck: New page: Asset Save: BP_Dart_Game_Manager
+[2025.02.08-15.41.25:162][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mini_Games/Darts/BP_Dart_Game_Manager.BP_Dart_Game_Manager
+[2025.02.08-15.41.27:959][744]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.41.27:968][744]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.41.27:973][744]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.41.27:978][745]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.41.33:173][367]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Pool_Game_Manager
+[2025.02.08-15.41.33:177][367]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.41.33:536][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.41.33:556][410]LogSavePackage: Moving output files for package: /Game/Mini_Games/Pool/BP_Pool_Game_Manager
+[2025.02.08-15.41.33:556][410]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Pool_Game_ManagerB84C57EB4A704E7B8533C2960F9F070F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_Pool_Game_Manager.uasset'
+[2025.02.08-15.41.33:562][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 1.08 sec)
+[2025.02.08-15.41.33:562][410]AssetCheck: New page: Asset Save: BP_Pool_Game_Manager
+[2025.02.08-15.41.33:562][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mini_Games/Pool/BP_Pool_Game_Manager.BP_Pool_Game_Manager
+[2025.02.08-15.51.13:343][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.08-15.51.13:345][ 81]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.011
+[2025.02.08-15.53.58:850][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.53.58:878][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.02.08-15.53.58:881][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.02.08-15.53.58:883][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.02.08-15.53.58:889][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.12 sec)
+[2025.02.08-15.54.08:180][747]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.54.08:200][747]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.54.08:203][747]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.54.08:209][748]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.54.09:810][940]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Card
+[2025.02.08-15.54.09:814][940]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.54.10:199][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.54.10:222][986]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card
+[2025.02.08-15.54.10:222][986]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card8F3D3E024659151EDDF1F58007718810.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card.uasset'
+[2025.02.08-15.54.10:229][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 1.15 sec)
+[2025.02.08-15.54.10:230][986]AssetCheck: New page: Asset Save: BP_Card
+[2025.02.08-15.54.10:230][986]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card.BP_Card
+[2025.02.08-15.54.13:397][275]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-15.54.13:404][275]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-15.54.13:408][275]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-15.54.13:423][277]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-15.54.17:160][724]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Turn_Manager
+[2025.02.08-15.54.17:164][724]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-15.54.17:491][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.54.17:518][763]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager
+[2025.02.08-15.54.17:518][763]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Turn_ManagerBF175FF7410A642D5C677599863C44A4.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.uasset'
+[2025.02.08-15.54.17:524][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.18 sec)
+[2025.02.08-15.54.17:525][763]AssetCheck: New page: Asset Save: BP_Turn_Manager
+[2025.02.08-15.54.17:525][763]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager
+[2025.02.08-15.54.20:189][ 64]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.02.08-15.54.20:194][ 64]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.02.08-15.54.20:201][ 65]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.02.08-15.54.25:303][676]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Enum_Turn_Taking_Methods
+[2025.02.08-15.54.25:303][676]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.02.08-15.54.25:689][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.54.25:714][722]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Turn_Taking/Enum_Turn_Taking_Methods
+[2025.02.08-15.54.25:714][722]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Enum_Turn_Taking_Methods2D543B5446F9367F3D77B5924E653315.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Turn_Taking/Enum_Turn_Taking_Methods.uasset'
+[2025.02.08-15.54.25:720][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 1.21 sec)
+[2025.02.08-15.54.25:720][722]AssetCheck: New page: Asset Save: Enum_Turn_Taking_Methods
+[2025.02.08-15.54.25:720][722]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Shared_Game_Mechanics/Turn_Taking/Enum_Turn_Taking_Methods.Enum_Turn_Taking_Methods
+[2025.02.08-15.54.30:564][276]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.02.08-15.54.30:569][276]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.02.08-15.54.30:574][277]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.02.08-15.54.34:525][750]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Enum_Card_Names
+[2025.02.08-15.54.34:525][750]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.02.08-15.54.34:828][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.54.34:853][786]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/Enum_Card_Names
+[2025.02.08-15.54.34:853][786]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Enum_Card_Names6D706C414DCE5A3446C3C4A582AA5B72.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/Enum_Card_Names.uasset'
+[2025.02.08-15.54.34:857][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 1.24 sec)
+[2025.02.08-15.54.34:858][786]AssetCheck: New page: Asset Save: Enum_Card_Names
+[2025.02.08-15.54.34:858][786]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Shared_Game_Mechanics/Cards/Enum_Card_Names.Enum_Card_Names
+[2025.02.08-15.54.40:548][448]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.02.08-15.54.40:553][448]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.02.08-15.54.40:559][449]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.02.08-15.54.49:694][542]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Enum_NPC_Names
+[2025.02.08-15.54.49:694][542]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.02.08-15.54.49:921][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-15.54.49:947][569]LogSavePackage: Moving output files for package: /Game/NPCs/Enum_NPC_Names
+[2025.02.08-15.54.49:947][569]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Enum_NPC_NamesDB4E333149D346DA03ED1F8E78891E1D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Enum_NPC_Names.uasset'
+[2025.02.08-15.54.49:952][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 1.27 sec)
+[2025.02.08-15.54.49:952][569]AssetCheck: New page: Asset Save: Enum_NPC_Names
+[2025.02.08-15.54.49:952][569]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/NPCs/Enum_NPC_Names.Enum_NPC_Names
+[2025.02.08-16.33.00:759][392]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.055 and deleted 2 files with total size 0 MiB and 3 empty folders. Scanned 27331 files in 29705 folders with total size 2833 MiB.
+[2025.02.08-16.40.59:328][828]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.02.08-16.40.59:328][828]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.02.08-16.41.00:034][870]LogViewport: Scene viewport resized to 928x318, mode Windowed.
+[2025.02.08-16.41.00:367][870]LogViewport: Scene viewport resized to 1397x517, mode Windowed.
+[2025.02.08-16.41.14:566][535]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.02.08-16.41.14:572][535]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.02.08-16.41.14:578][536]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.02.08-16.41.18:399][993]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Enum_Main_Game_Names
+[2025.02.08-16.41.18:400][993]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.02.08-16.41.18:754][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-16.41.18:779][ 35]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager
+[2025.02.08-16.41.18:779][ 35]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Auction_Game_Manager33D6A2254864C36000A19CBA0D13F33F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/Auction/BP_Auction_Game_Manager.uasset'
+[2025.02.08-16.41.18:782][ 35]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/Enum_Main_Game_Names
+[2025.02.08-16.41.18:782][ 35]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Enum_Main_Game_NamesC987CC444A3AA52CCE909F8C09544497.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/Enum_Main_Game_Names.uasset'
+[2025.02.08-16.41.18:787][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.30 sec)
+[2025.02.08-16.41.18:788][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.08-16.41.18:788][ 35]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager.BP_Auction_Game_Manager
+[2025.02.08-16.41.18:788][ 35]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Main_Game_Managers/Enum_Main_Game_Names.Enum_Main_Game_Names
+[2025.02.08-16.41.23:108][530]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.02.08-16.41.23:113][530]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.02.08-16.41.23:119][531]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.02.08-16.41.26:662][955]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Enum_Mini_Game_Names
+[2025.02.08-16.41.26:663][955]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.02.08-16.41.27:040][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-16.41.27:056][  0]LogSavePackage: Moving output files for package: /Game/Mini_Games/Enum_Mini_Game_Names
+[2025.02.08-16.41.27:056][  0]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Enum_Mini_Game_Names5D1571424520CF45B20F54826AA3D9A2.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Mini_Games/Enum_Mini_Game_Names.uasset'
+[2025.02.08-16.41.27:060][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 19 ms (total: 1.32 sec)
+[2025.02.08-16.41.27:061][  0]AssetCheck: New page: Asset Save: Enum_Mini_Game_Names
+[2025.02.08-16.41.27:061][  0]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Mini_Games/Enum_Mini_Game_Names.Enum_Mini_Game_Names
+[2025.02.08-16.48.00:545][302]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.02.08-16.48.00:545][302]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.02.08-16.48.08:145][173]LogViewport: Scene viewport resized to 928x318, mode Windowed.
+[2025.02.08-16.48.08:984][173]LogViewport: Scene viewport resized to 1397x517, mode Windowed.
+[2025.02.08-16.57.47:643][732]LogViewport: Scene viewport resized to 928x318, mode Windowed.
+[2025.02.08-16.57.48:022][732]LogViewport: Scene viewport resized to 1397x517, mode Windowed.
+[2025.02.08-16.58.12:316][  0]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.02.08-16.58.12:322][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.08-16.58.12:322][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.08-16.58.12:341][  0]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2025.02.08-16.58.13:878][  0]LogSlate: Took 0.005290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.02.08-16.58.13:917][  0]LogViewport: Scene viewport resized to 1053x510, mode Windowed.
+[2025.02.08-16.58.16:051][238]LogSlate: Window 'BP_NPC' being destroyed
+[2025.02.08-16.58.16:060][238]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-16.58.16:060][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.08-16.58.19:992][696]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-16.58.20:000][696]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-16.58.20:008][697]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-16.58.21:741][904]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2025.02.08-16.58.21:741][904]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-16.58.24:177][184]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-16.58.24:183][184]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-16.58.24:209][186]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-16.58.25:507][342]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2025.02.08-16.58.25:508][342]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-16.58.42:412][706]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-16.58.45:088][994]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.08-16.58.55:261][994]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.02.08-16.59.01:476][707]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-16.59.01:485][707]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-16.59.01:491][708]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-16.59.04:637][ 85]LogContentBrowser: Attempting asset rename: NewFolder -> Animation_Blueprints
+[2025.02.08-16.59.04:637][ 85]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-17.17.06:791][524]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.08-17.17.06:800][524]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.08-17.17.06:806][525]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.08-17.17.13:070][276]LogContentBrowser: Attempting asset rename: NewFolder -> Drink_Boad
+[2025.02.08-17.17.13:071][276]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.08-17.17.14:421][438]LogContentBrowser: Attempting asset rename: Drink_Boad -> Drink_Board
+[2025.02.08-17.17.17:966][757]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.08-17.17.17:974][757]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.08-17.17.17:979][757]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.08-17.17.17:993][759]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.08-17.17.20:578][ 68]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Drink_Board
+[2025.02.08-17.17.20:584][ 68]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.08-17.17.20:979][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-17.17.21:003][115]LogSavePackage: Moving output files for package: /Game/Misc_Mechanics/Drink_Board/BP_Drink_Board
+[2025.02.08-17.17.21:003][115]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Drink_Board75E118D14785A5DB541616B978BCAD77.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Drink_Board/BP_Drink_Board.uasset'
+[2025.02.08-17.17.21:009][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 1.36 sec)
+[2025.02.08-17.17.21:010][115]AssetCheck: New page: Asset Save: BP_Drink_Board
+[2025.02.08-17.17.21:010][115]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc_Mechanics/Drink_Board/BP_Drink_Board.BP_Drink_Board
+[2025.02.08-17.17.35:742][544]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-17.17.35:977][567]LogViewport: Scene viewport resized to 928x318, mode Windowed.
+[2025.02.08-17.17.36:227][567]LogViewport: Scene viewport resized to 1397x517, mode Windowed.
+[2025.02.08-17.17.40:191][770]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.08-17.17.40:198][770]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.08-17.17.40:201][770]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.08-17.17.40:206][771]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.08-17.17.46:757][553]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Drink_Name
+[2025.02.08-17.17.46:761][553]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.08-17.17.47:123][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-17.17.47:147][596]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Misc/WBP_Drink_Name
+[2025.02.08-17.17.47:147][596]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Drink_NameD7B01CAD4380B1570B5FB0959B4B3908.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Misc/WBP_Drink_Name.uasset'
+[2025.02.08-17.17.47:154][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 1.39 sec)
+[2025.02.08-17.17.47:156][596]AssetCheck: New page: Asset Save: WBP_Drink_Name
+[2025.02.08-17.17.47:156][596]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/Misc/WBP_Drink_Name.WBP_Drink_Name
+[2025.02.08-17.24.42:280][141]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.02.08-17.33.00:853][637]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.149 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 27329 files in 29702 folders with total size 2832 MiB.
+[2025.02.08-17.49.54:586][678]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.02.08-17.49.54:586][678]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.02.08-17.49.56:005][846]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.08-17.49.56:012][846]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.08-17.49.56:012][846]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.08-17.49.56:013][846]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms
+[2025.02.08-17.49.56:014][846]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.02.08-17.49.56:016][846]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2025.02.08-17.49.56:125][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2025.02.08-17.49.56:128][846]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2025.02.08-17.49.56:129][846]PIE: New page: PIE session: ThirdPersonMap (8 Feb 2025, 17:49:56)
+[2025.02.08-17.49.56:138][846]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.08-17.49.56:138][846]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.08-17.49.56:139][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.08-17.49.56:144][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004724s)
+[2025.02.08-17.49.56:144][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004811s)
+[2025.02.08-17.49.56:152][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.02.08-17.49.56:153][846]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.08-17.49.56:153][846]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.08-17.49.56:153][846]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.08-17.49.56:154][846]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.08-17.49.56:154][846]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.08-17.49.56:154][846]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.08-17.49.56:154][846]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.08-17.49.56:155][846]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.08-17.49.56:155][846]LogWorldPartition: Display: WorldPartition initialize took 812 us (total: 65 ms)
+[2025.02.08-17.49.56:155][846]LogPlayLevel: PIE: World Init took: (0.002379s)
+[2025.02.08-17.49.56:155][846]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.08-17.49.56:155][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.08-17.49.56:155][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.08-17.49.56:155][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.08-17.49.56:155][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.08-17.49.56:155][846]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.08-17.49.56:155][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.08-17.49.56:155][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.08-17.49.56:155][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.08-17.49.56:156][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.08-17.49.56:156][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.08-17.49.56:156][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.08-17.49.56:157][846]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.08-17.49.56:178][846]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.08-17.49.56:179][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.08-17.49.56:179][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.08-17.49.56:179][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.08-17.49.56:180][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.08-17.49.56:180][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2025.02.08-17.49.56:181][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.08-17.49.56:181][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.08-17.49.56:181][846]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.08-17.49.56:181][846]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2025.02.08-17.49.56:181][846]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.08-17.49.56:187][846]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.08-17.49.56:188][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.08-17.49.56
+[2025.02.08-17.49.56:189][846]LogWorld: Bringing up level for play took: 0.001681
+[2025.02.08-17.49.56:191][846]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.02.08-17.49.56:200][846]PIE: Server logged in
+[2025.02.08-17.49.56:200][846]PIE: Play in editor total start time 0.188 seconds.
+[2025.02.08-17.50.04:434][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-17.50.04:434][818]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.08-17.50.04:435][818]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-17.50.04:435][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.08-17.50.04:435][818]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.08-17.50.04:437][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-17.50.04:439][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.08-17.50.04:446][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-17.50.04:447][818]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.08-17.50.04:447][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.08-17.50.04:451][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.08-17.50.04:456][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.02.08-17.50.04:511][822]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.02.08-17.50.10:846][579]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Player/Input/Actions/IA_Jump.IA_Jump
+[2025.02.08-17.50.14:162][966]LogSlate: Window 'IA_Jump' being destroyed
+[2025.02.08-17.50.16:697][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.08-17.50.16:697][267]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.08-17.50.16:697][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.08-17.50.16:836][267]LogSlate: Took 0.006090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.08-17.50.24:783][ 20]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.08-17.50.24:787][ 20]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.08-17.50.24:787][ 20]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.08-17.50.24:788][ 20]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 3 ms)
+[2025.02.08-17.50.24:789][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.08-17.50.24:789][ 20]PIE: New page: PIE session: ThirdPersonMap (8 Feb 2025, 17:50:24)
+[2025.02.08-17.50.24:825][ 20]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.08-17.50.24:828][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002655s)
+[2025.02.08-17.50.24:828][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002694s)
+[2025.02.08-17.50.24:838][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.02.08-17.50.24:839][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.08-17.50.24:839][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.08-17.50.24:839][ 20]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.08-17.50.24:839][ 20]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.08-17.50.24:839][ 20]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.08-17.50.24:839][ 20]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.08-17.50.24:839][ 20]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.08-17.50.24:840][ 20]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.08-17.50.24:841][ 20]LogWorldPartition: Display: WorldPartition initialize took 687 us (total: 66 ms)
+[2025.02.08-17.50.24:841][ 20]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2025.02.08-17.50.24:841][ 20]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.02.08-17.50.24:841][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.08-17.50.24:841][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.08-17.50.24:841][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.08-17.50.24:841][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.08-17.50.24:841][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.08-17.50.24:841][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.08-17.50.24:841][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.08-17.50.24:841][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.08-17.50.24:841][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.08-17.50.24:841][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.08-17.50.24:841][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.08-17.50.24:843][ 20]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.08-17.50.24:861][ 20]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.08-17.50.24:861][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.08-17.50.24:861][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.08-17.50.24:861][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.08-17.50.24:862][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.02.08-17.50.24:862][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2025.02.08-17.50.24:863][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.02.08-17.50.24:863][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.02.08-17.50.24:863][ 20]LogInit: FAudioDevice initialized with ID 3.
+[2025.02.08-17.50.24:863][ 20]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.02.08-17.50.24:864][ 20]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.08-17.50.24:866][ 20]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.08-17.50.24:867][ 20]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.08-17.50.24
+[2025.02.08-17.50.24:867][ 20]LogWorld: Bringing up level for play took: 0.001138
+[2025.02.08-17.50.24:868][ 20]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.02.08-17.50.24:869][ 20]PIE: Server logged in
+[2025.02.08-17.50.24:870][ 20]PIE: Play in editor total start time 0.083 seconds.
+[2025.02.08-17.50.28:915][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-17.50.28:915][460]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.08-17.50.28:916][460]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-17.50.28:916][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.08-17.50.28:917][460]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.08-17.50.28:925][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-17.50.28:927][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.08-17.50.28:933][460]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.08-17.50.28:934][460]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.08-17.50.28:934][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.08-17.50.28:936][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.08-17.50.28:939][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-17.50.28:941][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.08-17.50.29:036][461]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.02.08-17.50.32:212][733]LogSlate: Window 'BP_Player' being destroyed
+[2025.02.08-18.03.49:442][337]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.02.08-18.03.49:442][337]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.02.08-18.03.52:996][716]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Player/Input/Actions/IA_Jump.IA_Jump
+[2025.02.08-18.04.03:765][958]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.08-18.04.03:768][958]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.08-18.04.03:768][958]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.08-18.04.03:769][958]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 983 us (total: 4 ms)
+[2025.02.08-18.04.03:769][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.08-18.04.03:770][958]PIE: New page: PIE session: ThirdPersonMap (8 Feb 2025, 18:04:03)
+[2025.02.08-18.04.03:795][958]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.08-18.04.03:798][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002667s)
+[2025.02.08-18.04.03:798][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002712s)
+[2025.02.08-18.04.03:807][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.08-18.04.03:809][958]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.08-18.04.03:809][958]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.08-18.04.03:809][958]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.08-18.04.03:810][958]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.08-18.04.03:810][958]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.08-18.04.03:810][958]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.08-18.04.03:810][958]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.08-18.04.03:811][958]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.08-18.04.03:811][958]LogWorldPartition: Display: WorldPartition initialize took 735 us (total: 67 ms)
+[2025.02.08-18.04.03:811][958]LogPlayLevel: PIE: World Init took: (0.001974s)
+[2025.02.08-18.04.03:811][958]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.02.08-18.04.03:811][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.08-18.04.03:811][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.08-18.04.03:811][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.08-18.04.03:811][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.08-18.04.03:811][958]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.08-18.04.03:811][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.08-18.04.03:811][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.08-18.04.03:811][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.08-18.04.03:811][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.08-18.04.03:811][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.08-18.04.03:811][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.08-18.04.03:813][958]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.08-18.04.03:834][958]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.08-18.04.03:834][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.08-18.04.03:834][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.08-18.04.03:834][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.08-18.04.03:835][958]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.02.08-18.04.03:835][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2025.02.08-18.04.03:837][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.02.08-18.04.03:837][958]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.02.08-18.04.03:837][958]LogInit: FAudioDevice initialized with ID 4.
+[2025.02.08-18.04.03:837][958]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.02.08-18.04.03:837][958]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.08-18.04.03:839][958]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.08-18.04.03:840][958]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.08-18.04.03
+[2025.02.08-18.04.03:840][958]LogWorld: Bringing up level for play took: 0.001392
+[2025.02.08-18.04.03:843][958]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.02.08-18.04.03:844][958]PIE: Server logged in
+[2025.02.08-18.04.03:845][958]PIE: Play in editor total start time 0.076 seconds.
+[2025.02.08-18.04.13:076][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-18.04.13:076][752]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.08-18.04.13:076][752]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-18.04.13:076][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.08-18.04.13:076][752]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.08-18.04.13:086][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-18.04.13:087][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.08-18.04.13:094][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-18.04.13:094][752]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.08-18.04.13:094][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.08-18.04.13:096][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.08-18.04.13:103][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.08-18.04.13:202][753]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.02.08-18.04.17:595][149]LogSlate: Window 'BP_Player' being destroyed
+[2025.02.08-18.04.29:675][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.08-18.04.29:679][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-18.04.29:709][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.08-18.04.29:718][504]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.08-18.04.29:718][504]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player3CAD937D4DC977C286331C8F804B8549.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.08-18.04.29:720][504]LogSavePackage: Moving output files for package: /Game/Player/Input/Actions/IA_Jump
+[2025.02.08-18.04.29:720][504]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/IA_JumpFE075D7D4A207A8D61F25E9EA91DAE1F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/Actions/IA_Jump.uasset'
+[2025.02.08-18.04.29:728][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 1.44 sec)
+[2025.02.08-18.04.29:730][504]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.08-18.04.29:730][504]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.08-18.04.29:730][504]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Player/Input/Actions/IA_Jump.IA_Jump
+[2025.02.08-18.04.30:913][644]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.08-18.04.30:917][644]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.08-18.04.30:917][644]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.08-18.04.30:918][644]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 989 us (total: 5 ms)
+[2025.02.08-18.04.30:918][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.08-18.04.30:918][644]PIE: New page: PIE session: ThirdPersonMap (8 Feb 2025, 18:04:30)
+[2025.02.08-18.04.30:944][644]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.08-18.04.30:946][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002602s)
+[2025.02.08-18.04.30:946][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002658s)
+[2025.02.08-18.04.30:952][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.08-18.04.30:953][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.08-18.04.30:953][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.08-18.04.30:953][644]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.08-18.04.30:953][644]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.08-18.04.30:954][644]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.08-18.04.30:954][644]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.08-18.04.30:954][644]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.08-18.04.30:954][644]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.08-18.04.30:954][644]LogWorldPartition: Display: WorldPartition initialize took 727 us (total: 68 ms)
+[2025.02.08-18.04.30:954][644]LogPlayLevel: PIE: World Init took: (0.001647s)
+[2025.02.08-18.04.30:954][644]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.02.08-18.04.30:954][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.08-18.04.30:954][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.08-18.04.30:954][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.08-18.04.30:954][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.08-18.04.30:954][644]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.08-18.04.30:954][644]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.08-18.04.30:954][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.08-18.04.30:954][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.08-18.04.30:955][644]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.08-18.04.30:955][644]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.08-18.04.30:955][644]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.08-18.04.30:956][644]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.08-18.04.30:976][644]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.08-18.04.30:976][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.08-18.04.30:976][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.08-18.04.30:976][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.08-18.04.30:977][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.02.08-18.04.30:978][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2025.02.08-18.04.30:980][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.02.08-18.04.30:980][644]LogInit: FAudioDevice initialized with ID 5.
+[2025.02.08-18.04.30:980][644]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2025.02.08-18.04.30:980][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.02.08-18.04.30:980][644]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.08-18.04.30:982][644]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.08-18.04.30:983][644]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.08-18.04.30
+[2025.02.08-18.04.30:984][644]LogWorld: Bringing up level for play took: 0.001157
+[2025.02.08-18.04.30:985][644]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.02.08-18.04.30:986][644]PIE: Server logged in
+[2025.02.08-18.04.30:987][644]PIE: Play in editor total start time 0.07 seconds.
+[2025.02.08-18.04.35:885][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-18.04.35:886][221]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.08-18.04.35:886][221]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.08-18.04.35:886][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.08-18.04.35:886][221]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.08-18.04.35:896][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.08-18.04.35:898][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.08-18.04.35:904][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.08-18.04.35:904][221]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.08-18.04.35:904][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.08-18.04.35:906][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.08-18.04.35:912][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.08-18.04.35:965][225]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.02.08-18.04.36:361][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.02.08-18.16.50:603][606]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.02.08-18.16.50:603][606]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
