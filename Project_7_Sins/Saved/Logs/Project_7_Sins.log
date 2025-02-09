@@ -1493,3 +1493,257 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.09-13.07.22:929][349]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager
 [2025.02.09-13.07.23:266][390]BlueprintLog: New page: Compile BP_Turn_Manager
 [2025.02.09-13.07.23:281][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.09-13.14.13:397][949]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.14.13:416][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.02.09-13.14.37:024][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.09-13.14.37:028][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.14.37:056][748]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.14.37:057][748]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer146DE8554F5BE1B47E99C0B819713EA5.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.14.37:061][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 872 ms)
+[2025.02.09-13.14.37:063][748]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.14.37:063][748]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.14.37:930][845]LogSlate: Took 0.005908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.02.09-13.14.42:736][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.09-13.14.42:739][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.14.42:773][414]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.14.42:773][414]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_DealerD01FE2A047E0AB621C2EA29F34A3B4C6.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.14.42:778][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 911 ms)
+[2025.02.09-13.14.42:779][414]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.14.42:779][414]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.14.43:951][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.09-13.14.43:954][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.14.43:983][553]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.14.43:983][553]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer66AE8CB542A61283A30D58BB9D51DE56.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.14.43:988][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 945 ms)
+[2025.02.09-13.14.43:989][553]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.14.43:989][553]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.14.44:626][630]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.14.44:642][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.09-13.15.35:847][685]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.15.35:865][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.09-13.16.07:998][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.09-13.16.07:999][766]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.008
+[2025.02.09-13.16.08:000][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer] ([2] browsable assets)...
+[2025.02.09-13.16.08:000][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer]
+[2025.02.09-13.16.08:010][766]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer_Auto2
+[2025.02.09-13.16.08:010][766]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer_Auto2854393224191576AD449EDA762176192.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer_Auto2.uasset'
+[2025.02.09-13.16.08:011][766]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.02.09-13.16.40:995][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.02.09-13.16.40:998][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.16.41:038][337]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.16.41:039][337]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer8653269F4BF3D5E39AAFD3AB7C888057.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.16.41:045][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 992 ms)
+[2025.02.09-13.16.41:046][337]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.16.41:046][337]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.16.45:949][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.09-13.16.45:951][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.16.45:990][921]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.16.45:990][921]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer9346B897496E01D284CD2693C0635BEA.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.16.45:995][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.03 sec)
+[2025.02.09-13.16.45:997][921]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.16.45:997][921]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.16.49:891][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.09-13.16.49:894][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.16.49:928][387]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.16.49:928][387]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer9E7425F74AD020BEBCC854A4BDF57B05.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.16.49:933][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.07 sec)
+[2025.02.09-13.16.49:935][387]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.16.49:935][387]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.16.50:994][514]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.16.51:010][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.09-13.17.02:353][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.09-13.17.02:356][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.17.02:393][831]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.17.02:393][831]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer7A3BCB3F46E6B85DD799549BC37F0E26.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.17.02:398][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.11 sec)
+[2025.02.09-13.17.02:399][831]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.17.02:399][831]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.17.02:814][881]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.17.02:834][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.09-13.17.16:753][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.09-13.17.16:756][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.17.16:793][499]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.17.16:793][499]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer0258A6E94B9C544BFA14298982B367A9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.17.16:799][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.15 sec)
+[2025.02.09-13.17.16:800][499]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.17.16:800][499]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.17.17:528][587]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.17.17:545][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.02.09-13.17.18:684][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.09-13.17.34:776][633]LogContentBrowser: Attempting asset rename: BPI_Turn_Taker -> BPI_Playing_Character
+[2025.02.09-13.17.34:827][633]LogMetaData: Removing '/Game/Shared_Game_Mechanics/Turn_Taking/BPI_Playing_Character.BPI_Playing_Character_C' ref from Metadata '/Game/Shared_Game_Mechanics/Turn_Taking/BPI_Turn_Taker.PackageMetaData'
+[2025.02.09-13.17.34:827][633]LogMetaData: Removing '/Game/Shared_Game_Mechanics/Turn_Taking/BPI_Playing_Character.BPI_Playing_Character:Take Turn.K2Node_FunctionEntry_0' ref from Metadata '/Game/Shared_Game_Mechanics/Turn_Taking/BPI_Turn_Taker.PackageMetaData'
+[2025.02.09-13.17.34:827][633]LogMetaData: Removing '/Game/Shared_Game_Mechanics/Turn_Taking/BPI_Playing_Character.SKEL_BPI_Playing_Character_C' ref from Metadata '/Game/Shared_Game_Mechanics/Turn_Taking/BPI_Turn_Taker.PackageMetaData'
+[2025.02.09-13.17.34:837][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.17.34:871][633]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager
+[2025.02.09-13.17.34:872][633]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Turn_ManagerC88B711746FCDF1EE01FA7B6391D181A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.uasset'
+[2025.02.09-13.17.34:873][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.02.09-13.17.34:875][633]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.02.09-13.17.34:876][633]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC218FF13E41743F912F1EFC87C30947CC.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.02.09-13.17.34:880][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.09-13.17.34:886][633]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.09-13.17.34:888][633]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player0D39C78941AC2BC4C41751984F0D6AE8.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.09-13.17.34:889][633]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Turn_Taking/BPI_Playing_Character
+[2025.02.09-13.17.34:889][633]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPI_Playing_CharacterF301871E4C72874D131031BD9A5ADDE2.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Turn_Taking/BPI_Playing_Character.uasset'
+[2025.02.09-13.17.34:896][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.21 sec)
+[2025.02.09-13.17.34:908][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.09-13.17.34:914][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.02.09-13.17.34:922][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.09-13.17.34:924][633]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.09-13.17.34:924][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager
+[2025.02.09-13.17.34:924][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.02.09-13.17.34:924][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.09-13.17.34:924][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Turn_Taking/BPI_Playing_Character.BPI_Playing_Character
+[2025.02.09-13.17.38:700][ 72]LogMetaData: Removing '/Game/Shared_Game_Mechanics/BPI_Playing_Character.BPI_Playing_Character_C' ref from Metadata '/Game/Shared_Game_Mechanics/Turn_Taking/BPI_Playing_Character.PackageMetaData'
+[2025.02.09-13.17.38:701][ 72]LogMetaData: Removing '/Game/Shared_Game_Mechanics/BPI_Playing_Character.SKEL_BPI_Playing_Character_C' ref from Metadata '/Game/Shared_Game_Mechanics/Turn_Taking/BPI_Playing_Character.PackageMetaData'
+[2025.02.09-13.17.38:701][ 72]LogMetaData: Removing '/Game/Shared_Game_Mechanics/BPI_Playing_Character.BPI_Playing_Character:Take Turn.K2Node_FunctionEntry_0' ref from Metadata '/Game/Shared_Game_Mechanics/Turn_Taking/BPI_Playing_Character.PackageMetaData'
+[2025.02.09-13.17.38:706][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.17.38:736][ 72]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager
+[2025.02.09-13.17.38:736][ 72]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Turn_Manager2511899F4C3240D60423C6B5E0FF79B2.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.uasset'
+[2025.02.09-13.17.38:737][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.02.09-13.17.38:738][ 72]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.02.09-13.17.38:739][ 72]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPCC11BA9D9464FBD710AF8F28DF84A50DE.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.02.09-13.17.38:740][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.09-13.17.38:746][ 72]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.09-13.17.38:747][ 72]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_PlayerC5A1331243462048D64F709D6053F7F4.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.09-13.17.38:748][ 72]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/BPI_Playing_Character
+[2025.02.09-13.17.38:748][ 72]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPI_Playing_Character0BE7D95344A30AAD60840B9F7BCC0BB6.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPI_Playing_Character.uasset'
+[2025.02.09-13.17.38:756][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 1.26 sec)
+[2025.02.09-13.17.38:767][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.09-13.17.38:774][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.09-13.17.38:780][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.02.09-13.17.38:790][ 72]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.09-13.17.38:791][ 72]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager
+[2025.02.09-13.17.38:791][ 72]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.02.09-13.17.38:791][ 72]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.09-13.17.38:791][ 72]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/BPI_Playing_Character.BPI_Playing_Character
+[2025.02.09-13.18.20:998][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.09-13.18.23:318][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Shared_Game_Mechanics/BPI_Playing_Character.BPI_Playing_Character
+[2025.02.09-13.18.23:318][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.09-13.18.23:318][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.09-13.18.36:111][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.09-13.18.36:113][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.18.36:145][514]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/BPI_Playing_Character
+[2025.02.09-13.18.36:146][514]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPI_Playing_CharacterEE10FB094ECB7D637DB25BA0BEFA41B0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPI_Playing_Character.uasset'
+[2025.02.09-13.18.36:151][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.30 sec)
+[2025.02.09-13.18.36:151][514]AssetCheck: New page: Asset Save: BPI_Playing_Character
+[2025.02.09-13.18.36:151][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/BPI_Playing_Character.BPI_Playing_Character
+[2025.02.09-13.18.37:797][712]BlueprintLog: New page: Compile BPI_Playing_Character
+[2025.02.09-13.18.37:811][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.09-13.18.42:656][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.09-13.18.42:659][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.18.42:691][288]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/BPI_Playing_Character
+[2025.02.09-13.18.42:692][288]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPI_Playing_Character850FA141418B4D8E825FE6AF6D9BEA8B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPI_Playing_Character.uasset'
+[2025.02.09-13.18.42:696][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.34 sec)
+[2025.02.09-13.18.42:698][288]AssetCheck: New page: Asset Save: BPI_Playing_Character
+[2025.02.09-13.18.42:698][288]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/BPI_Playing_Character.BPI_Playing_Character
+[2025.02.09-13.18.48:583][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.09-13.18.48:585][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.18.48:610][982]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/BPI_Playing_Character
+[2025.02.09-13.18.48:611][982]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPI_Playing_Character1D682E3043BA0CE84AF790BA250F0FB0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPI_Playing_Character.uasset'
+[2025.02.09-13.18.48:615][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 1.37 sec)
+[2025.02.09-13.18.48:616][982]AssetCheck: New page: Asset Save: BPI_Playing_Character
+[2025.02.09-13.18.48:616][982]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/BPI_Playing_Character.BPI_Playing_Character
+[2025.02.09-13.18.53:487][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.09-13.18.53:490][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.18.53:510][565]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/BPI_Playing_Character
+[2025.02.09-13.18.53:511][565]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPI_Playing_Character0D2FBA53486C2932687D2C979D778EF2.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPI_Playing_Character.uasset'
+[2025.02.09-13.18.53:516][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 1.39 sec)
+[2025.02.09-13.18.53:517][565]AssetCheck: New page: Asset Save: BPI_Playing_Character
+[2025.02.09-13.18.53:517][565]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/BPI_Playing_Character.BPI_Playing_Character
+[2025.02.09-13.18.53:780][597]BlueprintLog: New page: Compile BPI_Playing_Character
+[2025.02.09-13.18.53:789][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.09-13.19.30:501][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.09-13.20.24:687][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.09-13.20.24:690][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.20.24:726][439]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.20.24:726][439]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer358A5E0A4FDB19628206908885C1BDFF.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.20.24:732][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.43 sec)
+[2025.02.09-13.20.24:733][439]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.20.24:733][439]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.20.51:021][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.09-13.20.51:025][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.20.51:053][551]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.20.51:054][551]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_DealerF710E1374E1B97C7BCF92E8287E801DB.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.20.51:059][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.47 sec)
+[2025.02.09-13.20.51:061][551]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.20.51:061][551]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.20.51:640][621]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.20.51:662][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.02.09-13.26.08:847][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.02.09-13.26.08:848][599]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.015
+[2025.02.09-13.26.08:848][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer] ([2] browsable assets)...
+[2025.02.09-13.26.08:848][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer]
+[2025.02.09-13.26.08:862][599]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer_Auto3
+[2025.02.09-13.26.08:862][599]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer_Auto3B9D0B0DC4ACC0ED79ECE70909CE75830.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer_Auto3.uasset'
+[2025.02.09-13.26.08:863][599]LogFileHelpers: Auto-saving content packages took 0.015
+[2025.02.09-13.28.42:831][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.02.09-13.28.42:835][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.28.42:878][732]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.28.42:878][732]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer7F60EDA14D9E15F96E09F3A955406617.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.28.42:883][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1.52 sec)
+[2025.02.09-13.28.42:885][732]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.28.42:885][732]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.28.45:112][999]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.28.45:132][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.09-13.29.24:960][359]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.02.09-13.29.27:581][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.09-13.29.27:584][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.29.27:622][637]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.29.27:622][637]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer052C1C904DB7201E5E3D70A0AE2FAF7B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.29.27:630][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1.56 sec)
+[2025.02.09-13.29.27:631][637]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.29.27:631][637]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.29.28:193][705]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.29.28:211][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.02.09-13.29.45:588][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.09-13.29.45:593][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.29.45:629][774]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.29.45:630][774]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer93897E874CA51C46B9CB539F6FB2265D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.29.45:635][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.60 sec)
+[2025.02.09-13.29.45:636][774]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.29.45:636][774]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.29.45:991][817]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.29.46:013][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.09-13.29.59:776][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.02.09-13.29.59:779][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.29.59:815][433]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.29.59:815][433]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_DealerADC21DE9420D257D13CEA88191D68FA0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.29.59:824][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.65 sec)
+[2025.02.09-13.29.59:825][433]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.29.59:825][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.30.07:238][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.09-13.30.07:241][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.30.07:276][295]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.30.07:276][295]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer8F9AA1E542D83BE8C1161B903FA49E12.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.30.07:284][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.69 sec)
+[2025.02.09-13.30.07:285][295]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.30.07:285][295]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.30.16:604][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.09-13.30.16:607][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.30.16:651][410]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.30.16:652][410]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_DealerC63DD4D1473DB7BC522122BA43549321.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.30.16:658][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.74 sec)
+[2025.02.09-13.30.16:660][410]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.30.16:660][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.37.13:054][ 39]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.160 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 27166 files in 29545 folders with total size 2825 MiB.
+[2025.02.09-13.38.17:825][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.09-13.38.17:827][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.38.17:864][364]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.38.17:864][364]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_DealerF8217173445166525CF7F1A48DAD1731.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.38.17:870][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.79 sec)
+[2025.02.09-13.38.17:871][364]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.38.17:871][364]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.38.21:180][758]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.38.21:202][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.09-13.38.50:621][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.09-13.38.50:625][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-13.38.50:661][ 43]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.09-13.38.50:662][ 43]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer9F8D56C649C96960D2F995A6C2196C05.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.09-13.38.50:668][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.83 sec)
+[2025.02.09-13.38.50:669][ 43]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.09-13.38.50:669][ 43]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.09-13.50.26:726][759]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.02.09-13.50.26:726][759]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.02.09-13.50.28:519][970]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.09-13.50.28:540][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
