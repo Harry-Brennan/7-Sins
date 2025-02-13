@@ -12,7 +12,10 @@
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BPI_Card.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/C_Card_Hover_Select_Amount.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/Actions/Card_Selection/IA_Next_Card.uasset",
-				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/Actions/Card_Selection/IA_Previous_Card.uasset"
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/Actions/Card_Selection/IA_Previous_Card.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset"
 			]
 		}
 	]

@@ -13085,3 +13085,985 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.13-16.27.25:725][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2025.02.13-16.27.25:773][565]LogPlayLevel: Display: Destroying online subsystem :Context_93
 [2025.02.13-16.27.26:180][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.13-17.03.08:756][426]LogViewport: Scene viewport resized to 1397x519, mode Windowed.
+[2025.02.13-17.03.08:768][427]LogViewport: Scene viewport resized to 1397x523, mode Windowed.
+[2025.02.13-17.03.08:785][428]LogViewport: Scene viewport resized to 1397x534, mode Windowed.
+[2025.02.13-17.03.08:806][429]LogViewport: Scene viewport resized to 1397x553, mode Windowed.
+[2025.02.13-17.03.08:823][430]LogViewport: Scene viewport resized to 1397x566, mode Windowed.
+[2025.02.13-17.03.08:840][431]LogViewport: Scene viewport resized to 1397x576, mode Windowed.
+[2025.02.13-17.03.08:855][432]LogViewport: Scene viewport resized to 1397x584, mode Windowed.
+[2025.02.13-17.03.08:877][433]LogViewport: Scene viewport resized to 1397x590, mode Windowed.
+[2025.02.13-17.03.08:894][434]LogViewport: Scene viewport resized to 1397x593, mode Windowed.
+[2025.02.13-17.03.08:910][435]LogViewport: Scene viewport resized to 1397x597, mode Windowed.
+[2025.02.13-17.03.08:928][436]LogViewport: Scene viewport resized to 1397x600, mode Windowed.
+[2025.02.13-17.03.08:943][437]LogViewport: Scene viewport resized to 1397x602, mode Windowed.
+[2025.02.13-17.03.08:960][438]LogViewport: Scene viewport resized to 1397x604, mode Windowed.
+[2025.02.13-17.03.08:977][439]LogViewport: Scene viewport resized to 1397x608, mode Windowed.
+[2025.02.13-17.03.08:994][440]LogViewport: Scene viewport resized to 1397x611, mode Windowed.
+[2025.02.13-17.03.09:011][441]LogViewport: Scene viewport resized to 1397x615, mode Windowed.
+[2025.02.13-17.03.09:029][442]LogViewport: Scene viewport resized to 1397x621, mode Windowed.
+[2025.02.13-17.03.09:044][443]LogViewport: Scene viewport resized to 1397x625, mode Windowed.
+[2025.02.13-17.03.09:061][444]LogViewport: Scene viewport resized to 1397x628, mode Windowed.
+[2025.02.13-17.03.09:078][445]LogViewport: Scene viewport resized to 1397x633, mode Windowed.
+[2025.02.13-17.03.09:093][446]LogViewport: Scene viewport resized to 1397x635, mode Windowed.
+[2025.02.13-17.03.09:109][447]LogViewport: Scene viewport resized to 1397x636, mode Windowed.
+[2025.02.13-17.03.09:124][448]LogViewport: Scene viewport resized to 1397x637, mode Windowed.
+[2025.02.13-17.03.09:958][547]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.13-17.03.09:963][547]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.13-17.03.09:963][547]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.13-17.03.09:965][547]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 116 ms)
+[2025.02.13-17.03.09:965][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.13-17.03.09:965][547]PIE: New page: PIE session: ThirdPersonMap (13 Feb 2025, 17:03:09)
+[2025.02.13-17.03.09:988][547]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-17.03.09:992][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004307s)
+[2025.02.13-17.03.09:992][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004357s)
+[2025.02.13-17.03.10:002][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.02.13-17.03.10:003][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-17.03.10:003][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-17.03.10:004][547]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.13-17.03.10:005][547]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.13-17.03.10:005][547]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.13-17.03.10:005][547]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.13-17.03.10:005][547]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.13-17.03.10:006][547]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.13-17.03.10:006][547]LogWorldPartition: Display: WorldPartition initialize took 926 us (total: 485 ms)
+[2025.02.13-17.03.10:006][547]LogPlayLevel: PIE: World Init took: (0.002049s)
+[2025.02.13-17.03.10:006][547]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2025.02.13-17.03.10:006][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.13-17.03.10:006][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.13-17.03.10:006][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.13-17.03.10:006][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.13-17.03.10:006][547]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.13-17.03.10:006][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.13-17.03.10:006][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.13-17.03.10:006][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.13-17.03.10:006][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.13-17.03.10:006][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.13-17.03.10:006][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.13-17.03.10:009][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.13-17.03.10:029][547]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.13-17.03.10:030][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.13-17.03.10:030][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.13-17.03.10:030][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.13-17.03.10:031][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2025.02.13-17.03.10:031][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=88
+[2025.02.13-17.03.10:032][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2025.02.13-17.03.10:032][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2025.02.13-17.03.10:032][547]LogInit: FAudioDevice initialized with ID 88.
+[2025.02.13-17.03.10:032][547]LogAudio: Display: Audio Device (ID: 88) registered with world 'ThirdPersonMap'.
+[2025.02.13-17.03.10:032][547]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 88
+[2025.02.13-17.03.10:034][547]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.13-17.03.10:037][547]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.13-17.03.10
+[2025.02.13-17.03.10:038][547]LogWorld: Bringing up level for play took: 0.003331
+[2025.02.13-17.03.10:039][547]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2025.02.13-17.03.10:068][547]PIE: Server logged in
+[2025.02.13-17.03.10:068][547]PIE: Play in editor total start time 0.106 seconds.
+[2025.02.13-17.03.24:457][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-17.03.24:458][255]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-17.03.24:458][255]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-17.03.24:459][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-17.03.24:459][255]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.13-17.03.24:464][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.13-17.03.24:467][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-17.03.24:475][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.13-17.03.24:476][255]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 88
+[2025.02.13-17.03.24:477][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2025.02.13-17.03.24:480][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2025.02.13-17.03.24:483][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-17.03.24:486][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.13-17.03.24:520][256]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2025.02.13-17.03.49:383][391]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.13-17.03.49:388][391]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.13-17.03.49:388][391]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.13-17.03.49:389][391]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 117 ms)
+[2025.02.13-17.03.49:389][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.13-17.03.49:390][391]PIE: New page: PIE session: ThirdPersonMap (13 Feb 2025, 17:03:49)
+[2025.02.13-17.03.49:390][391]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-17.03.49:394][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003750s)
+[2025.02.13-17.03.49:394][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003779s)
+[2025.02.13-17.03.49:405][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.13-17.03.49:406][391]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-17.03.49:406][391]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-17.03.49:407][391]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.13-17.03.49:407][391]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.13-17.03.49:407][391]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.13-17.03.49:407][391]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.13-17.03.49:407][391]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.13-17.03.49:408][391]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.13-17.03.49:408][391]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 486 ms)
+[2025.02.13-17.03.49:408][391]LogPlayLevel: PIE: World Init took: (0.001979s)
+[2025.02.13-17.03.49:408][391]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2025.02.13-17.03.49:409][391]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.13-17.03.49:409][391]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.13-17.03.49:409][391]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.13-17.03.49:409][391]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.13-17.03.49:409][391]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.13-17.03.49:409][391]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.13-17.03.49:409][391]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.13-17.03.49:409][391]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.13-17.03.49:409][391]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.13-17.03.49:409][391]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.13-17.03.49:409][391]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.13-17.03.49:411][391]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.13-17.03.49:428][391]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.13-17.03.49:429][391]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.13-17.03.49:429][391]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.13-17.03.49:429][391]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.13-17.03.49:429][391]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2025.02.13-17.03.49:429][391]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=89
+[2025.02.13-17.03.49:431][391]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2025.02.13-17.03.49:431][391]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2025.02.13-17.03.49:431][391]LogInit: FAudioDevice initialized with ID 89.
+[2025.02.13-17.03.49:431][391]LogAudio: Display: Audio Device (ID: 89) registered with world 'ThirdPersonMap'.
+[2025.02.13-17.03.49:431][391]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 89
+[2025.02.13-17.03.49:433][391]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.13-17.03.49:436][391]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.13-17.03.49
+[2025.02.13-17.03.49:436][391]LogWorld: Bringing up level for play took: 0.002826
+[2025.02.13-17.03.49:438][391]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2025.02.13-17.03.49:464][391]PIE: Server logged in
+[2025.02.13-17.03.49:465][391]PIE: Play in editor total start time 0.077 seconds.
+[2025.02.13-17.03.50:595][488]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.13-17.03.50:595][488]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.13-17.03.52:931][767]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.03.52:931][767]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.03.53:023][778]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.03.53:023][778]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.03.57:875][360]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.03.57:875][360]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.03.58:224][402]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.03.58:224][402]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.03.59:709][580]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Suit
+[2025.02.13-17.04.00:542][680]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Ascending
+[2025.02.13-17.04.00:542][680]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.00:542][680]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.01:026][738]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Descending
+[2025.02.13-17.04.01:026][738]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.01:026][738]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.01:668][815]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Random
+[2025.02.13-17.04.01:893][842]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Suit
+[2025.02.13-17.04.02:101][867]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Ascending
+[2025.02.13-17.04.02:101][867]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.02:101][867]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.02:376][900]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Descending
+[2025.02.13-17.04.02:376][900]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.02:376][900]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.04:810][192]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.04:810][192]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.05:111][228]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Random
+[2025.02.13-17.04.06:928][446]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Suit
+[2025.02.13-17.04.08:646][652]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.08:647][652]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.08:930][686]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Ascending
+[2025.02.13-17.04.08:930][686]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.08:930][686]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.11:280][967]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.11:280][967]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.11:347][975]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.11:347][975]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.12:989][172]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.12:989][172]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.16:446][586]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.16:446][586]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.17:947][766]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.17:947][766]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.19:448][946]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.19:448][946]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.20:948][126]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.20:948][126]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.21:674][213]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Descending
+[2025.02.13-17.04.21:675][213]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.21:675][213]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.22:449][306]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.22:449][306]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.23:516][434]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Random
+[2025.02.13-17.04.24:850][594]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.24:850][594]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.25:684][694]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Suit
+[2025.02.13-17.04.26:751][822]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.26:751][822]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.36:846][ 33]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.36:846][ 33]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.40:447][464]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.40:447][464]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.41:949][644]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.41:949][644]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.43:449][824]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.43:449][824]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.44:950][  4]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.44:950][  4]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.46:448][183]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.46:448][183]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.47:949][363]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.47:949][363]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.49:449][543]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.49:450][543]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.50:951][723]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.04.50:951][723]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.04.53:858][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-17.04.53:858][ 69]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-17.04.53:858][ 69]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-17.04.53:859][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-17.04.53:859][ 69]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.13-17.04.53:865][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.13-17.04.53:867][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-17.04.53:877][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-17.04.53:877][ 69]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 89
+[2025.02.13-17.04.53:877][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2025.02.13-17.04.53:878][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2025.02.13-17.04.53:887][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.13-17.04.53:937][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2025.02.13-17.04.55:245][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.13-17.05.11:120][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.13-17.05.11:123][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-17.05.11:157][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-17.05.11:224][ 86]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-17.05.11:225][ 86]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_PlayerE9A99A2D4B69CD1D24CED4A05496AF57.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-17.05.11:231][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 8.97 sec)
+[2025.02.13-17.05.11:234][ 86]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-17.05.11:234][ 86]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-17.05.12:050][180]BlueprintLog: New page: Compile BP_Player
+[2025.02.13-17.05.12:134][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.13-17.05.14:435][407]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.13-17.05.14:439][407]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.13-17.05.14:439][407]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.13-17.05.14:440][407]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 118 ms)
+[2025.02.13-17.05.14:440][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.13-17.05.14:440][407]PIE: New page: PIE session: ThirdPersonMap (13 Feb 2025, 17:05:14)
+[2025.02.13-17.05.14:468][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-17.05.14:471][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003726s)
+[2025.02.13-17.05.14:471][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003764s)
+[2025.02.13-17.05.14:478][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.13-17.05.14:480][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-17.05.14:480][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-17.05.14:481][407]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.13-17.05.14:481][407]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.13-17.05.14:481][407]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.13-17.05.14:481][407]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.13-17.05.14:481][407]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.13-17.05.14:481][407]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.13-17.05.14:481][407]LogWorldPartition: Display: WorldPartition initialize took 925 us (total: 487 ms)
+[2025.02.13-17.05.14:481][407]LogPlayLevel: PIE: World Init took: (0.001933s)
+[2025.02.13-17.05.14:482][407]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2025.02.13-17.05.14:482][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.13-17.05.14:482][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.13-17.05.14:482][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.13-17.05.14:482][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.13-17.05.14:482][407]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.13-17.05.14:482][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.13-17.05.14:482][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.13-17.05.14:482][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.13-17.05.14:482][407]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.13-17.05.14:482][407]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.13-17.05.14:482][407]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.13-17.05.14:484][407]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.13-17.05.14:503][407]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.13-17.05.14:503][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.13-17.05.14:503][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.13-17.05.14:503][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.13-17.05.14:504][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2025.02.13-17.05.14:504][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=90
+[2025.02.13-17.05.14:505][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2025.02.13-17.05.14:505][407]LogInit: FAudioDevice initialized with ID 90.
+[2025.02.13-17.05.14:505][407]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2025.02.13-17.05.14:505][407]LogAudio: Display: Audio Device (ID: 90) registered with world 'ThirdPersonMap'.
+[2025.02.13-17.05.14:505][407]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 90
+[2025.02.13-17.05.14:507][407]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.13-17.05.14:510][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.13-17.05.14
+[2025.02.13-17.05.14:510][407]LogWorld: Bringing up level for play took: 0.002586
+[2025.02.13-17.05.14:512][407]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2025.02.13-17.05.14:536][407]PIE: Server logged in
+[2025.02.13-17.05.14:537][407]PIE: Play in editor total start time 0.098 seconds.
+[2025.02.13-17.05.15:393][502]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.13-17.05.15:393][502]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.13-17.05.16:992][694]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.16:992][694]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.18:494][874]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.18:494][874]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.19:995][ 54]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.19:995][ 54]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.21:495][234]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.21:495][234]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.22:996][414]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.22:996][414]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.24:497][594]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.24:497][594]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.25:997][774]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.25:998][774]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.27:498][954]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.27:498][954]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.28:998][134]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.28:998][134]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.30:494][313]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.30:494][313]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.31:995][493]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.31:995][493]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.33:496][673]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.33:496][673]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.34:996][853]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.34:996][853]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.36:496][ 33]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.36:496][ 33]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.37:997][213]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.37:998][213]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.39:498][393]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.39:498][393]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.42:566][761]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.42:566][761]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.44:391][980]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.05.44:391][980]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.05.46:798][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-17.05.46:798][264]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-17.05.46:798][264]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-17.05.46:799][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-17.05.46:799][264]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.13-17.05.46:911][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.13-17.05.46:916][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-17.05.46:925][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.13-17.05.46:925][264]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 90
+[2025.02.13-17.05.46:925][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2025.02.13-17.05.46:927][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2025.02.13-17.05.46:931][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-17.05.46:934][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.13-17.05.46:965][265]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2025.02.13-17.05.47:626][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.13-17.05.57:050][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.13-17.05.57:053][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-17.05.57:081][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-17.05.57:142][439]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-17.05.57:142][439]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player9B5C50E54AC13CC899D7F3AFF2667682.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-17.05.57:149][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 9.06 sec)
+[2025.02.13-17.05.57:151][439]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-17.05.57:151][439]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-17.06.02:599][ 90]BlueprintLog: New page: Compile BP_Player
+[2025.02.13-17.06.02:668][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.13-17.06.03:659][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.13-17.06.03:664][160]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.13-17.06.03:664][160]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.13-17.06.03:665][160]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 119 ms)
+[2025.02.13-17.06.03:665][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.13-17.06.03:665][160]PIE: New page: PIE session: ThirdPersonMap (13 Feb 2025, 17:06:03)
+[2025.02.13-17.06.03:688][160]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-17.06.03:691][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003541s)
+[2025.02.13-17.06.03:691][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003578s)
+[2025.02.13-17.06.03:702][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.13-17.06.03:705][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-17.06.03:705][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-17.06.03:705][160]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.13-17.06.03:705][160]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.13-17.06.03:705][160]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.13-17.06.03:705][160]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.13-17.06.03:705][160]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.13-17.06.03:706][160]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.13-17.06.03:706][160]LogWorldPartition: Display: WorldPartition initialize took 902 us (total: 487 ms)
+[2025.02.13-17.06.03:706][160]LogPlayLevel: PIE: World Init took: (0.001813s)
+[2025.02.13-17.06.03:706][160]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2025.02.13-17.06.03:706][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.13-17.06.03:706][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.13-17.06.03:706][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.13-17.06.03:706][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.13-17.06.03:706][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.13-17.06.03:707][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.13-17.06.03:707][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.13-17.06.03:707][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.13-17.06.03:707][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.13-17.06.03:707][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.13-17.06.03:707][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.13-17.06.03:708][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.13-17.06.03:727][160]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.13-17.06.03:727][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.13-17.06.03:727][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.13-17.06.03:727][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.13-17.06.03:728][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2025.02.13-17.06.03:728][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=91
+[2025.02.13-17.06.03:729][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2025.02.13-17.06.03:729][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2025.02.13-17.06.03:729][160]LogInit: FAudioDevice initialized with ID 91.
+[2025.02.13-17.06.03:729][160]LogAudio: Display: Audio Device (ID: 91) registered with world 'ThirdPersonMap'.
+[2025.02.13-17.06.03:729][160]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 91
+[2025.02.13-17.06.03:731][160]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.13-17.06.03:733][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.13-17.06.03
+[2025.02.13-17.06.03:733][160]LogWorld: Bringing up level for play took: 0.002319
+[2025.02.13-17.06.03:735][160]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2025.02.13-17.06.03:758][160]PIE: Server logged in
+[2025.02.13-17.06.03:759][160]PIE: Play in editor total start time 0.095 seconds.
+[2025.02.13-17.06.04:565][249]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.13-17.06.04:565][249]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.13-17.06.06:990][540]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.06:990][540]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.08:492][720]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.08:492][720]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.09:994][900]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.09:994][900]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.11:494][ 80]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.11:495][ 80]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.12:995][260]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.12:995][260]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.14:495][440]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.14:496][440]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.15:996][620]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.15:996][620]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.17:497][800]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.17:497][800]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.18:997][980]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.18:997][980]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.20:498][160]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.20:498][160]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.22:191][363]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.22:191][363]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.23:692][543]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.23:692][543]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.25:196][723]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.25:196][723]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.26:696][903]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.26:696][903]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.28:196][ 83]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.06.28:196][ 83]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.06.29:287][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-17.06.29:287][210]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-17.06.29:287][210]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-17.06.29:288][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-17.06.29:288][210]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.13-17.06.29:408][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.13-17.06.29:410][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-17.06.29:420][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.13-17.06.29:421][210]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 91
+[2025.02.13-17.06.29:421][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2025.02.13-17.06.29:423][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2025.02.13-17.06.29:427][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-17.06.29:430][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.13-17.06.29:465][211]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2025.02.13-17.06.29:832][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.13-17.07.08:168][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.02.13-17.07.08:169][919]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.012
+[2025.02.13-17.07.08:170][919]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_Player] ([2] browsable assets)...
+[2025.02.13-17.07.08:170][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player]
+[2025.02.13-17.07.08:232][919]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/BP_Player_Auto4
+[2025.02.13-17.07.08:232][919]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player_Auto43E5C0BF34668CEA28A4A3CB8211D151F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/Player/BP_Player_Auto4.uasset'
+[2025.02.13-17.07.08:233][919]LogFileHelpers: Auto-saving content packages took 0.063
+[2025.02.13-17.17.36:176][991]BlueprintLog: New page: Compile BP_Player
+[2025.02.13-17.17.36:260][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.13-17.17.37:023][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.13-17.17.37:027][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-17.17.37:053][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-17.17.37:115][ 47]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-17.17.37:115][ 47]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_PlayerA6279E9142230CC601BEAEB52D55381B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-17.17.37:122][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 9.16 sec)
+[2025.02.13-17.17.37:122][ 47]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-17.17.37:122][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-17.17.43:935][842]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.13-17.17.43:935][842]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.13-17.17.43:937][842]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 121 ms)
+[2025.02.13-17.17.43:937][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.13-17.17.43:937][842]PIE: New page: PIE session: ThirdPersonMap (13 Feb 2025, 17:17:43)
+[2025.02.13-17.17.43:958][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-17.17.43:961][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003536s)
+[2025.02.13-17.17.43:961][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003574s)
+[2025.02.13-17.17.43:967][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-17.17.43:968][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-17.17.43:968][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-17.17.43:969][842]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.13-17.17.43:969][842]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.13-17.17.43:969][842]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.13-17.17.43:970][842]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.13-17.17.43:970][842]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.13-17.17.43:970][842]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.13-17.17.43:970][842]LogWorldPartition: Display: WorldPartition initialize took 892 us (total: 488 ms)
+[2025.02.13-17.17.43:970][842]LogPlayLevel: PIE: World Init took: (0.001893s)
+[2025.02.13-17.17.43:970][842]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2025.02.13-17.17.43:971][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.13-17.17.43:971][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.13-17.17.43:971][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.13-17.17.43:971][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.13-17.17.43:971][842]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.13-17.17.43:971][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.13-17.17.43:971][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.13-17.17.43:971][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.13-17.17.43:971][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.13-17.17.43:971][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.13-17.17.43:971][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.13-17.17.43:973][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.13-17.17.43:992][842]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.13-17.17.43:993][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.13-17.17.43:993][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.13-17.17.43:993][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.13-17.17.43:994][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2025.02.13-17.17.43:994][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=92
+[2025.02.13-17.17.43:994][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2025.02.13-17.17.43:994][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2025.02.13-17.17.43:994][842]LogInit: FAudioDevice initialized with ID 92.
+[2025.02.13-17.17.43:994][842]LogAudio: Display: Audio Device (ID: 92) registered with world 'ThirdPersonMap'.
+[2025.02.13-17.17.43:994][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 92
+[2025.02.13-17.17.44:009][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-17.17.44:009][842]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.13-17.17.44:012][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.13-17.17.44
+[2025.02.13-17.17.44:012][842]LogWorld: Bringing up level for play took: 0.002903
+[2025.02.13-17.17.44:014][842]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2025.02.13-17.17.44:041][842]PIE: Server logged in
+[2025.02.13-17.17.44:042][842]PIE: Play in editor total start time 0.107 seconds.
+[2025.02.13-17.17.44:078][842]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2025.02.13-17.17.46:103][ 75]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.13-17.17.46:103][ 75]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.13-17.18.01:118][ 11]LogBlueprintUserMessages: [BP_Card_C_27] 1.0
+[2025.02.13-17.18.01:803][ 92]LogBlueprintUserMessages: [BP_Card_C_7] 1.0
+[2025.02.13-17.18.02:841][216]LogBlueprintUserMessages: [BP_Card_C_3] 1.0
+[2025.02.13-17.18.03:829][334]LogBlueprintUserMessages: [BP_Card_C_48] 1.0
+[2025.02.13-17.18.10:348][111]LogBlueprintUserMessages: [BP_Card_C_7] 0.0
+[2025.02.13-17.18.10:692][152]LogBlueprintUserMessages: [BP_Card_C_48] 0.0
+[2025.02.13-17.18.10:945][181]LogBlueprintUserMessages: [BP_Card_C_27] 0.0
+[2025.02.13-17.18.11:230][215]LogBlueprintUserMessages: [BP_Card_C_3] 0.0
+[2025.02.13-17.18.14:932][657]LogBlueprintUserMessages: [BP_Card_C_36] 1.0
+[2025.02.13-17.18.16:267][817]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.18.16:267][817]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.18.16:585][855]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.18.16:585][855]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.18.18:089][ 35]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.18.18:089][ 35]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.18.19:315][182]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.18.19:315][182]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.18.20:615][338]LogBlueprintUserMessages: [BP_Card_C_29] 1.0
+[2025.02.13-17.18.20:815][362]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.18.20:816][362]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.18.21:100][396]LogBlueprintUserMessages: [BP_Card_C_3] 1.0
+[2025.02.13-17.18.21:517][446]LogBlueprintUserMessages: [BP_Card_C_14] 1.0
+[2025.02.13-17.18.22:318][542]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-17.18.22:318][542]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-17.18.27:167][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-17.18.27:167][847]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-17.18.27:167][847]LogSlate: Window 'Project_7_Sins Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.02.13-17.18.27:175][847]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-17.18.27:176][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-17.18.27:176][847]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.13-17.18.27:299][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.13-17.18.27:301][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-17.18.27:313][847]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 92
+[2025.02.13-17.18.27:313][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2025.02.13-17.18.27:314][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2025.02.13-17.18.27:322][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.13-17.18.27:476][848]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2025.02.13-17.24.14:781][891]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:44.083 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 22715 files in 25270 folders with total size 2185 MiB.
+[2025.02.13-18.24.14:836][690]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:44.137 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 22715 files in 25270 folders with total size 2185 MiB.
+[2025.02.13-18.26.20:844][206]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.02.13-18.26.20:849][206]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.13-18.26.20:849][206]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.13-18.26.20:850][206]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 122 ms)
+[2025.02.13-18.26.20:851][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.13-18.26.20:851][206]PIE: New page: PIE session: ThirdPersonMap (13 Feb 2025, 18:26:20)
+[2025.02.13-18.26.20:851][206]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-18.26.20:855][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003898s)
+[2025.02.13-18.26.20:855][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003935s)
+[2025.02.13-18.26.20:863][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.02.13-18.26.20:865][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-18.26.20:866][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-18.26.20:866][206]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.13-18.26.20:866][206]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.13-18.26.20:866][206]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.13-18.26.20:866][206]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.13-18.26.20:866][206]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.13-18.26.20:867][206]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.13-18.26.20:867][206]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 489 ms)
+[2025.02.13-18.26.20:867][206]LogPlayLevel: PIE: World Init took: (0.002067s)
+[2025.02.13-18.26.20:867][206]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2025.02.13-18.26.20:867][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.13-18.26.20:867][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.13-18.26.20:867][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.13-18.26.20:867][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.13-18.26.20:867][206]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.13-18.26.20:867][206]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.13-18.26.20:867][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.13-18.26.20:867][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.13-18.26.20:867][206]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.13-18.26.20:867][206]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.13-18.26.20:867][206]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.13-18.26.20:869][206]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.13-18.26.20:889][206]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.13-18.26.20:889][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.13-18.26.20:889][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.13-18.26.20:889][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.13-18.26.20:890][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2025.02.13-18.26.20:890][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=93
+[2025.02.13-18.26.20:891][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2025.02.13-18.26.20:891][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2025.02.13-18.26.20:891][206]LogInit: FAudioDevice initialized with ID 93.
+[2025.02.13-18.26.20:891][206]LogAudio: Display: Audio Device (ID: 93) registered with world 'ThirdPersonMap'.
+[2025.02.13-18.26.20:891][206]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 93
+[2025.02.13-18.26.20:910][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-18.26.20:910][206]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.13-18.26.20:914][206]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.13-18.26.20
+[2025.02.13-18.26.20:914][206]LogWorld: Bringing up level for play took: 0.003013
+[2025.02.13-18.26.20:916][206]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2025.02.13-18.26.20:941][206]PIE: Server logged in
+[2025.02.13-18.26.20:943][206]PIE: Play in editor total start time 0.093 seconds.
+[2025.02.13-18.26.20:968][206]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2025.02.13-18.26.21:797][297]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.13-18.26.21:797][297]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.13-18.26.24:001][561]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Suit
+[2025.02.13-18.26.24:576][630]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-18.26.24:577][630]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-18.26.24:693][644]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Ascending
+[2025.02.13-18.26.24:694][644]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-18.26.24:694][644]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-18.26.25:118][695]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Descending
+[2025.02.13-18.26.25:118][695]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-18.26.25:118][695]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-18.26.25:735][769]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Random
+[2025.02.13-18.26.27:068][929]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-18.26.27:068][929]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-18.26.27:152][939]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.13-18.26.27:152][939]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.13-18.26.28:010][ 42]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Suit
+[2025.02.13-18.26.41:327][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-18.26.41:327][634]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.13-18.26.41:328][634]LogSlate: Window 'Project_7_Sins Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.02.13-18.26.41:335][634]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-18.26.41:335][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-18.26.41:335][634]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.13-18.26.41:338][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.13-18.26.41:341][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-18.26.41:349][634]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 93
+[2025.02.13-18.26.41:350][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2025.02.13-18.26.41:351][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2025.02.13-18.26.41:358][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.13-18.26.41:404][637]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2025.02.13-18.27.22:043][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.13-18.27.22:047][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.27.22:075][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.27.22:134][391]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.27.22:135][391]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player1CF6A63E4785C346D68536AEF27A6606.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.27.22:141][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 9.25 sec)
+[2025.02.13-18.27.22:143][391]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.27.22:143][391]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.28.03:867][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.13-18.28.03:871][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.28.03:900][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.28.03:961][219]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.28.03:961][219]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player89641E984C8E3C432B5D809AF7B88C24.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.28.03:968][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 9.35 sec)
+[2025.02.13-18.28.03:970][219]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.28.03:970][219]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.28.20:193][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-18.28.20:197][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.28.20:221][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.28.20:281][ 78]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.28.20:283][ 78]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_PlayerE9A3BFFB4B2C32CDA758768488B2C67A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.28.20:288][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 9.44 sec)
+[2025.02.13-18.28.20:291][ 78]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.28.20:291][ 78]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.29.39:717][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.02.13-18.29.39:720][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.29.39:747][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.29.39:808][310]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.29.39:808][310]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player9AC7FF964867E3A8B71843AB0C2CB08B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.29.39:818][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 9.54 sec)
+[2025.02.13-18.29.39:820][310]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.29.39:820][310]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.29.58:800][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.13-18.29.58:803][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.29.58:832][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.29.58:893][387]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.29.58:894][387]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player2E97197B43D3BFD653CCD489A90AFC62.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.29.58:900][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 9.63 sec)
+[2025.02.13-18.29.58:902][387]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.29.58:902][387]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.30.02:085][678]BlueprintLog: New page: Compile BP_Player
+[2025.02.13-18.30.02:160][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.13-18.30.02:843][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.13-18.30.17:355][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.13-18.30.17:360][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.30.17:387][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.30.17:449][311]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.30.17:450][311]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player828D97E64174F5E6B65B5D99328C6AFE.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.30.17:457][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 9.73 sec)
+[2025.02.13-18.30.17:458][311]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.30.17:458][311]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.30.34:737][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.13-18.30.34:741][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.30.34:768][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.30.34:828][318]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.30.34:828][318]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player302E791B433E7DE4B16C2BABFD94372D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.30.34:834][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 9.82 sec)
+[2025.02.13-18.30.34:836][318]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.30.34:836][318]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.30.47:140][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.13-18.30.47:147][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.30.47:172][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.30.47:234][756]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.30.47:235][756]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player08F558BA46E01F66B417798754ABA4B9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.30.47:242][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 9.92 sec)
+[2025.02.13-18.30.47:244][756]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.30.47:245][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.30.49:977][ 81]BlueprintLog: New page: Compile BP_Player
+[2025.02.13-18.30.50:042][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-18.34.26:398][213]BlueprintLog: New page: Compile BP_Player
+[2025.02.13-18.34.26:469][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.02.13-18.34.57:449][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-18.34.57:454][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.34.57:483][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.34.57:542][826]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.34.57:543][826]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player6501EEF24F17536DAA80B1A616512E18.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.34.57:549][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 10.0 sec)
+[2025.02.13-18.34.57:551][826]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.34.57:551][826]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.35.37:898][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.13-18.35.37:903][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.35.37:931][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.35.37:990][571]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.35.37:990][571]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_PlayerE5D77C434F121318E4A92FA6580063ED.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.35.37:999][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 10.1 sec)
+[2025.02.13-18.35.38:000][571]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.35.38:000][571]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.35.55:544][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.02.13-18.35.55:551][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.35.55:578][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.02.13-18.35.55:637][645]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.02.13-18.35.55:637][645]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player9E12D7EB40A13675F053B6A07529513E.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.02.13-18.35.55:644][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 10.2 sec)
+[2025.02.13-18.35.55:646][645]AssetCheck: New page: Asset Save: BP_Player
+[2025.02.13-18.35.55:646][645]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.02.13-18.35.56:272][720]BlueprintLog: New page: Compile BP_Player
+[2025.02.13-18.35.56:334][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.13-18.36.22:447][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-18.36.22:453][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.36.22:509][820]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/BPC_CurrentHand
+[2025.02.13-18.36.22:509][820]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_CurrentHand728BF3DC47B6B68615452EB671BE5DA8.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPC_CurrentHand.uasset'
+[2025.02.13-18.36.22:518][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 10.2 sec)
+[2025.02.13-18.36.22:519][820]AssetCheck: New page: Asset Save: BPC_CurrentHand
+[2025.02.13-18.36.22:519][820]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand
+[2025.02.13-18.36.23:433][930]BlueprintLog: New page: Compile BPC_CurrentHand
+[2025.02.13-18.36.23:535][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.13-18.39.14:615][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.13-18.39.14:621][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.39.14:671][774]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/BPC_CurrentHand
+[2025.02.13-18.39.14:672][774]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_CurrentHandEA97063749C687F2746F1B86BE0C9001.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPC_CurrentHand.uasset'
+[2025.02.13-18.39.14:677][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 10.3 sec)
+[2025.02.13-18.39.14:683][774]AssetCheck: New page: Asset Save: BPC_CurrentHand
+[2025.02.13-18.39.14:683][774]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand
+[2025.02.13-18.39.15:916][922]BlueprintLog: New page: Compile BPC_CurrentHand
+[2025.02.13-18.39.15:965][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.13-18.39.24:567][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-18.39.24:572][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.39.24:625][944]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/BPC_CurrentHand
+[2025.02.13-18.39.24:626][944]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_CurrentHandB10E1D6646D36F483F2AE6AC90ACCEEC.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPC_CurrentHand.uasset'
+[2025.02.13-18.39.24:631][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 10.3 sec)
+[2025.02.13-18.39.24:633][944]AssetCheck: New page: Asset Save: BPC_CurrentHand
+[2025.02.13-18.39.24:633][944]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand
+[2025.02.13-18.39.25:455][ 43]BlueprintLog: New page: Compile BPC_CurrentHand
+[2025.02.13-18.39.25:499][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.02.13-18.39.41:818][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.02.13-18.39.41:823][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.39.41:880][939]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/BPC_CurrentHand
+[2025.02.13-18.39.41:880][939]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_CurrentHand2781D6554B10D3562F54A4886E2D2577.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPC_CurrentHand.uasset'
+[2025.02.13-18.39.41:886][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 10.4 sec)
+[2025.02.13-18.39.41:887][939]AssetCheck: New page: Asset Save: BPC_CurrentHand
+[2025.02.13-18.39.41:887][939]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand
+[2025.02.13-18.41.15:272][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.02.13-18.41.15:277][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.41.15:336][564]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/BPC_CurrentHand
+[2025.02.13-18.41.15:337][564]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_CurrentHandF5E596FE4B6201141658A0805C741DA6.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPC_CurrentHand.uasset'
+[2025.02.13-18.41.15:344][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 10.5 sec)
+[2025.02.13-18.41.15:346][564]AssetCheck: New page: Asset Save: BPC_CurrentHand
+[2025.02.13-18.41.15:346][564]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand
+[2025.02.13-18.41.17:430][804]BlueprintLog: New page: Compile BPC_CurrentHand
+[2025.02.13-18.41.17:486][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.13-18.41.32:904][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-18.41.32:907][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.41.33:016][607]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card
+[2025.02.13-18.41.33:016][607]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_CardB913A97D459F366C8A7558A3C899311D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card.uasset'
+[2025.02.13-18.41.33:025][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 10.6 sec)
+[2025.02.13-18.41.33:025][607]AssetCheck: New page: Asset Save: BP_Card
+[2025.02.13-18.41.33:025][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card.BP_Card
+[2025.02.13-18.41.37:586][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.13-18.41.37:589][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.41.37:632][153]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card
+[2025.02.13-18.41.37:632][153]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_CardF63288CE46823704C782F5BBFFA7DFEF.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card.uasset'
+[2025.02.13-18.41.37:639][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 10.6 sec)
+[2025.02.13-18.41.37:641][153]AssetCheck: New page: Asset Save: BP_Card
+[2025.02.13-18.41.37:641][153]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card.BP_Card
+[2025.02.13-18.41.41:263][587]BlueprintLog: New page: Compile BP_Card
+[2025.02.13-18.41.41:382][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.02.13-18.41.41:839][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.02.13-18.41.41:846][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.41.42:003][624]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card
+[2025.02.13-18.41.42:003][624]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card576022734FD0A12733F265A1556A0B3E.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card.uasset'
+[2025.02.13-18.41.42:011][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 10.8 sec)
+[2025.02.13-18.41.42:012][624]AssetCheck: New page: Asset Save: BP_Card
+[2025.02.13-18.41.42:012][624]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card.BP_Card
+[2025.02.13-18.41.51:965][777]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager
+[2025.02.13-18.41.51:966][777]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-18.41.51:966][777]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-18.42.23:118][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-18.42.23:122][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.42.23:171][462]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager
+[2025.02.13-18.42.23:171][462]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Turn_ManagerF8682CC4499C47760374F190FF5E158C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.uasset'
+[2025.02.13-18.42.23:179][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 10.9 sec)
+[2025.02.13-18.42.23:181][462]AssetCheck: New page: Asset Save: BP_Turn_Manager
+[2025.02.13-18.42.23:181][462]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager
+[2025.02.13-18.43.04:786][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.13-18.43.04:789][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.43.04:825][439]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager
+[2025.02.13-18.43.04:825][439]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Turn_Manager6F467A3D49BA4FCF9302D0A69D32C7E5.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.uasset'
+[2025.02.13-18.43.04:833][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 10.9 sec)
+[2025.02.13-18.43.04:835][439]AssetCheck: New page: Asset Save: BP_Turn_Manager
+[2025.02.13-18.43.04:835][439]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager
+[2025.02.13-18.43.05:192][480]BlueprintLog: New page: Compile BP_Turn_Manager
+[2025.02.13-18.43.05:228][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.13-18.43.13:167][379]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.13-18.43.13:167][379]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-18.43.13:167][379]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-18.43.27:721][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.13-18.43.27:725][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.43.27:769][ 85]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.13-18.43.27:769][ 85]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer204B492044D09A44DC85B093422382E0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.13-18.43.27:776][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 11.0 sec)
+[2025.02.13-18.43.27:777][ 85]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.13-18.43.27:777][ 85]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.13-18.43.29:566][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.13-18.43.29:569][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.43.29:616][298]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.13-18.43.29:617][298]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer581A4DB9439E600856CAD1A2C01A4842.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.13-18.43.29:624][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 11.0 sec)
+[2025.02.13-18.43.29:626][298]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.13-18.43.29:626][298]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.13-18.43.29:934][335]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.13-18.43.29:978][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-18.43.58:963][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.13-18.43.58:967][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.43.59:021][743]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.13-18.43.59:022][743]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_DealerE3BA850F433777F747ADFC811427163B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.13-18.43.59:030][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 11.1 sec)
+[2025.02.13-18.43.59:031][743]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.13-18.43.59:031][743]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.13-18.44.27:956][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.13-18.44.27:960][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.44.28:006][191]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.13-18.44.28:007][191]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_DealerFB8835E54D02104C738554AF81185CE0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.13-18.44.28:015][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 11.1 sec)
+[2025.02.13-18.44.28:016][191]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.13-18.44.28:016][191]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.13-18.44.30:071][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.13-18.44.30:074][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.44.30:118][435]LogSavePackage: Moving output files for package: /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer
+[2025.02.13-18.44.30:118][435]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Card_Dealer90B83E1C47A7D39A0294AABB8AA05DEF.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_Card_Dealer.uasset'
+[2025.02.13-18.44.30:127][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 11.2 sec)
+[2025.02.13-18.44.30:129][435]AssetCheck: New page: Asset Save: BP_Card_Dealer
+[2025.02.13-18.44.30:129][435]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer
+[2025.02.13-18.44.30:647][496]BlueprintLog: New page: Compile BP_Card_Dealer
+[2025.02.13-18.44.30:685][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.13-18.44.52:679][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile
+[2025.02.13-18.44.52:679][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-18.44.52:679][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-18.45.02:346][611]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-18.45.02:346][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-18.45.02:346][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-18.46.00:667][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.02.13-18.46.00:671][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.46.00:723][561]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-18.46.00:724][561]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerFF933F764BAF5A2E8C4DADBF42C3DE1E.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-18.46.00:731][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 11.2 sec)
+[2025.02.13-18.46.00:731][561]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-18.46.00:731][561]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-18.46.34:730][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.13-18.46.34:734][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-18.46.34:776][631]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-18.46.34:777][631]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager3352A8A74C1CFB68779DF39C65F6A7E4.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-18.46.34:784][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 11.3 sec)
+[2025.02.13-18.46.34:785][631]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-18.46.34:785][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-18.46.36:794][872]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.13-18.46.36:831][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.13-19.07.22:745][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.02.13-19.07.22:749][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-19.07.22:796][382]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.07.22:796][382]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager3B09A2CD4A58716022C2E88DF7E53A4F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-19.07.22:803][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 11.3 sec)
+[2025.02.13-19.07.22:804][382]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.07.22:804][382]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.07.24:363][568]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.07.24:400][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.13-19.07.51:259][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.13-19.07.51:264][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-19.07.51:318][769]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.07.51:318][769]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerCD0BED2F4E8A83374FC2AFB65C29ADEB.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-19.07.51:325][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 11.4 sec)
+[2025.02.13-19.07.51:326][769]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.07.51:326][769]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.07.51:816][828]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.07.51:852][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.13-19.08.11:875][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.13-19.08.11:881][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-19.08.11:934][211]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.08.11:934][211]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerFC5FD1E8460CA6392C31CE974D787E6D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-19.08.11:942][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 11.5 sec)
+[2025.02.13-19.08.11:943][211]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.08.11:943][211]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.08.13:084][348]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.08.13:121][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.13-19.08.24:511][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-19.08.24:515][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-19.08.24:565][690]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.08.24:566][690]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager0A34405F4FBB98F6C20AAF9AD86991F8.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-19.08.24:573][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 11.5 sec)
+[2025.02.13-19.08.24:574][690]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.08.24:574][690]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.08.25:372][786]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.08.25:416][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.02.13-19.09.24:498][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.13-19.09.24:503][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-19.09.24:545][ 81]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.09.24:546][ 81]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerEEAAF40444C3181BF3522E9018EB4517.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-19.09.24:552][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 11.6 sec)
+[2025.02.13-19.09.24:554][ 81]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.09.24:554][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.09.25:337][175]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.09.25:376][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.13-19.09.37:817][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-19.09.37:821][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-19.09.37:867][628]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.09.37:868][628]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager30F046154A281E0BE32DC4BBE228EB10.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-19.09.37:874][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 11.6 sec)
+[2025.02.13-19.09.37:875][628]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.09.37:875][628]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.09.38:198][667]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.09.38:235][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.13-19.10.00:101][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.02.13-19.10.00:106][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-19.10.00:159][268]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.10.00:160][268]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager80FC025C40A8917BD931988C45D7BF82.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-19.10.00:166][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 11.7 sec)
+[2025.02.13-19.10.00:168][268]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.10.00:168][268]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.10.56:475][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.13-19.10.56:480][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-19.10.56:524][990]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.10.56:525][990]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager2109DDC04AF407B764C9098BFF5A1C3A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-19.10.56:531][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 11.7 sec)
+[2025.02.13-19.10.56:533][990]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.10.56:533][990]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-19.16.13:068][296]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.02.13-19.16.13:271][296]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3012
+[2025.02.13-19.16.13:605][297]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{64f8190f-3f83-4456-98a7-678c11b7ff7c}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=290.78
+[2025.02.13-19.16.13:606][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.02.13-19.16.13:606][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.02.13-19.24.13:848][738]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:43.148 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 22715 files in 25270 folders with total size 2185 MiB.
+[2025.02.13-20.15.00:185][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.13-20.15.00:535][945]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.13-20.15.00:605][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.13-20.15.00:736][947]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.13-20.15.00:791][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.02.13-20.15.08:618][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.02.13-20.15.21:851][838]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset), InstanceID=1
+[2025.02.13-20.15.21:956][838]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3012
+[2025.02.13-20.15.22:292][839]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{9ef285cd-c5cf-4d16-ae36-55cb9d4cf385}, Name=Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=237.41
+[2025.02.13-20.15.22:292][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.02.13-20.15.22:293][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.02.13-20.15.32:822][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.13-20.15.32:826][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-20.15.32:875][826]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.13-20.15.32:875][826]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager00F0B31A4126A6320760CBA20AEF688C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.13-20.15.32:882][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 11.8 sec)
+[2025.02.13-20.15.32:884][826]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.13-20.15.32:884][826]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.13-20.15.33:537][904]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.13-20.15.33:583][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.13-20.24.14:742][788]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:44.042 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 22715 files in 25270 folders with total size 2185 MiB.
+[2025.02.13-21.24.14:820][587]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:44.119 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 22715 files in 25270 folders with total size 2185 MiB.
+[2025.02.13-22.24.14:846][386]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:44.144 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 22715 files in 25270 folders with total size 2185 MiB.
