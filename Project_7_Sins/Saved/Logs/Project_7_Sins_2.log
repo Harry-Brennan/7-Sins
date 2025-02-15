@@ -1348,3 +1348,38 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.15-02.00.46:760][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
 [2025.02.15-02.00.46:764][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
 [2025.02.15-02.00.46:776][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 127 ms)
+[2025.02.15-02.03.16:434][296]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:24.369 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44583 files in 43593 folders with total size 7509 MiB.
+[2025.02.15-02.05.19:489][663]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 316.478058
+[2025.02.15-02.05.20:490][666]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-02.05.20:490][666]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 317.145935, Update Interval: 354.999237
+[2025.02.15-02.05.31:457][727]LogShaderCompilers: Display: ================================================
+[2025.02.15-02.05.31:457][727]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.15-02.05.31:457][727]LogShaderCompilers: Display: Total job queries 21, among them cache hits 4 (19.05%)
+[2025.02.15-02.05.31:457][727]LogShaderCompilers: Display: Tracking 17 distinct input hashes that result in 17 distinct outputs (100.00%)
+[2025.02.15-02.05.31:457][727]LogShaderCompilers: Display: RAM used: 426.25 KiB of 819.20 MiB budget. Usage: 0.05%
+[2025.02.15-02.05.31:457][727]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.15-02.05.31:457][727]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.02.15-02.05.31:457][727]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.02.15-02.05.31:457][727]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.02.15-02.05.31:457][727]LogShaderCompilers: Display: ================================================
+[2025.02.15-02.05.40:656][256]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-02.05.47:290][587]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Environment/Bar_Assets/Models/SM_Wall_01.SM_Wall_01
+[2025.02.15-02.05.47:388][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-02.05.47:388][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.15-02.05.47:548][587]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2025.02.15-02.05.48:040][587]LogViewport: Scene viewport resized to 634x969, mode Windowed.
+[2025.02.15-02.05.48:143][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-02.05.49:155][637]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.15-02.05.56:600][891]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Environment/Bar_Assets/Models/SM_Wall_01) ...
+[2025.02.15-02.05.56:600][891]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=200.000 Y=-10.354 Z=200.000, BoxExtent=(X=300.000 Y=33.957 Z=300.000), SphereRadius=(425.620724)) and MeshDescription Bounds (Origin=X=200.000 Y=-8.333 Z=200.000, BoxExtent=(X=200.000 Y=8.333 Z=200.000), SphereRadius=(282.965467)) is significative for StaticMesh /Game/Environment/Bar_Assets/Models/SM_Wall_01.SM_Wall_01
+[2025.02.15-02.06.03:490][166]LogViewport: Scene viewport resized to 1400x1025, mode Windowed.
+[2025.02.15-02.06.06:788][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-02.06.06:826][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.15-02.06.06:832][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.15-02.06.06:836][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.02.15-02.06.06:845][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 184 ms)
+[2025.02.15-02.06.08:425][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-02.06.08:462][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.15-02.06.08:468][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.15-02.06.08:472][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.02.15-02.06.08:491][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 250 ms)
