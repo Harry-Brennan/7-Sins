@@ -1405,3 +1405,87 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.15-17.00.37:728][ 18]LogFab: Display: User logged in
 [2025.02.15-17.00.37:728][ 18]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.02.15-17.00.38:389][ 20]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-khxXvc9evECybksrjkVsCA-HBEmt0oK40aBM6Qq3L0Jpw]
+[2025.02.15-17.01.45:902][570]Cmd: MAP LOAD FILE="../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/Environment/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.15-17.01.45:909][570]LightingResults: New page: Lighting Build
+[2025.02.15-17.01.45:912][570]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2025.02.15-17.01.45:934][570]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-17.01.45:938][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-17.01.45:942][570]MapCheck: New page: Map Check
+[2025.02.15-17.01.45:942][570]LightingResults: New page: Lighting Build
+[2025.02.15-17.01.45:957][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.15-17.01.45:973][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.02.15-17.01.46:626][570]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.02.15-17.01.46:726][570]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2025.02.15-17.01.46:726][570]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-17.01.46:727][570]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.15-17.01.46:727][570]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.02.15-17.01.46:730][570]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.02.15-17.01.46:730][570]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.15-17.01.46:730][570]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.15-17.01.55:820][570]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Content\__ExternalActors__\Environment\FirstPerson\Maps\FirstPersonMap\2\1R\Z9QE7WJBWFDPB40M1JDIMQ.uasset: Failed to load '/Game/main_door/Materials/main_door': Can't find file.
+[2025.02.15-17.01.55:822][570]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Content\__ExternalActors__\Environment\FirstPerson\Maps\FirstPersonMap\2\1R\Z9QE7WJBWFDPB40M1JDIMQ.uasset: VerifyImport: Failed to load package for import object 'Package /Game/main_door/Materials/main_door'
+[2025.02.15-17.01.55:822][570]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Content\__ExternalActors__\Environment\FirstPerson\Maps\FirstPersonMap\2\1R\Z9QE7WJBWFDPB40M1JDIMQ.uasset: Failed to load '/Game/main_door/Models/Untitled_2_L': Can't find file.
+[2025.02.15-17.01.55:822][570]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Content\__ExternalActors__\Environment\FirstPerson\Maps\FirstPersonMap\2\1R\Z9QE7WJBWFDPB40M1JDIMQ.uasset: VerifyImport: Failed to load package for import object 'Package /Game/main_door/Models/Untitled_2_L'
+[2025.02.15-17.01.56:828][570]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Content\__ExternalActors__\Environment\FirstPerson\Maps\FirstPersonMap\9\UA\SGJIERNUEGS03LLCQLH5KD.uasset: Failed to load '/Game/main_door/Models/Untitled_2_frame': Can't find file.
+[2025.02.15-17.01.56:828][570]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Content\__ExternalActors__\Environment\FirstPerson\Maps\FirstPersonMap\9\UA\SGJIERNUEGS03LLCQLH5KD.uasset: VerifyImport: Failed to load package for import object 'Package /Game/main_door/Models/Untitled_2_frame'
+[2025.02.15-17.02.07:077][570]LogStaticMesh: Display: Building static mesh Box_EECA24E5...
+[2025.02.15-17.02.07:085][570]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/FirstPerson/Maps/_GENERATED/ASUS/Box_EECA24E5.Box_EECA24E5
+[2025.02.15-17.02.11:453][570]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.02.15-17.02.11:454][570]LogWorldPartition: Display: WorldPartition initialize took 24.7 sec
+[2025.02.15-17.02.11:665][570]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2025.02.15-17.02.11:681][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.02.15-17.02.11:699][570]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.15-17.02.11:706][570]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.828ms to complete.
+[2025.02.15-17.02.11:937][571]LogAutomationController: Ignoring very large delta of 26.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.15-17.02.12:426][573]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/57/a5/1a24f888e2d5e037ec2fa716b9087ea01083.udd from '/Game/Environment/FirstPerson/Maps/_GENERATED/ASUS/Box_EECA24E5.Box_EECA24E5'.
+[2025.02.15-17.02.12:470][574]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/10/ca/c67b368bf0cf3f924b66f6eea45838270bfb.udd from '/Game/Environment/FirstPerson/Maps/_GENERATED/ASUS/Box_EECA24E5.Box_EECA24E5'.
+[2025.02.15-17.02.30:403][602]LogSlate: External Image Picker: DecompressImage failed
+[2025.02.15-17.02.30:765][613]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-17.03.02:070][421]LogSlate: Window 'Project Settings' being destroyed
+[2025.02.15-17.03.02:075][421]LogSlate: Window 'Project Settings' being destroyed
+[2025.02.15-17.03.05:266][582]LogSlate: External Image Picker: DecompressImage failed
+[2025.02.15-17.03.33:153][225]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.592 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44979 files in 43964 folders with total size 7542 MiB.
+[2025.02.15-17.05.45:684][204]Cmd: TRANSACTION UNDO
+[2025.02.15-17.05.45:684][204]LogEditorTransaction: Undo Move Elements
+[2025.02.15-17.05.45:944][212]Cmd: TRANSACTION UNDO
+[2025.02.15-17.05.45:944][212]LogEditorTransaction: Undo Move Elements
+[2025.02.15-17.06.29:040][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 361.740662
+[2025.02.15-17.06.30:041][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-17.06.30:041][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 362.408203, Update Interval: 312.433228
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: ================================================
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Total job queries 34, among them cache hits 13 (38.24%)
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 20 distinct outputs (100.00%)
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: RAM used: 498.35 KiB of 819.20 MiB budget. Usage: 0.06%
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Jobs assigned 2, completed 1 (50.00%)
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Job execution time: average 2.84 s, max 2.84 s
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Job life time (pending + execution): average 2.90 s, max 2.90
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Shader code size: average 31.148 KiB, min 31.148 KiB, max 31.148 KiB
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.90 s
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Average processing rate: 0.34 jobs/sec
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Total thread time: 0.111 s
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Total thread preprocess time: 0.042 s
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Percentage time preprocessing: 37.64%
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Effective parallelization: 0.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 100.00% of total time (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2025.02.15-17.08.05:343][702]LogShaderCompilers: Display: ================================================
+[2025.02.15-17.08.06:211][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.08.06:258][746]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.012381 seconds
+[2025.02.15-17.08.06:265][746]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/PJ/WTG5IN785RUC58258ICY89
+[2025.02.15-17.08.06:266][746]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/WTG5IN785RUC58258ICY898308C84A45C93FD01F23B3A5D2B954B7.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/PJ/WTG5IN785RUC58258ICY89.uasset'
+[2025.02.15-17.08.06:271][746]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/PV/TADF83UL8VRT1CZ8IEIFP8
+[2025.02.15-17.08.06:271][746]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/TADF83UL8VRT1CZ8IEIFP8BDB2B745493AC34EFC9687974400513B.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/PV/TADF83UL8VRT1CZ8IEIFP8.uasset'
+[2025.02.15-17.08.06:274][746]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/8/L2/Z7X25QV1AZ183S4YLTFGW0
+[2025.02.15-17.08.06:274][746]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/Z7X25QV1AZ183S4YLTFGW0B559FF1642F1791B4C7EEC8D357AE05D.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/8/L2/Z7X25QV1AZ183S4YLTFGW0.uasset'
+[2025.02.15-17.08.06:286][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms
+[2025.02.15-17.08.06:293][746]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-17.08.06:293][746]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2094C02_1944866340
+[2025.02.15-17.08.06:293][746]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A54A02_1224823688
+[2025.02.15-17.08.06:293][746]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2164C02_1122728632
