@@ -1489,3 +1489,1254 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.15-17.08.06:293][746]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2094C02_1944866340
 [2025.02.15-17.08.06:293][746]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A54A02_1224823688
 [2025.02.15-17.08.06:293][746]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2164C02_1122728632
+[2025.02.15-17.11.40:217][577]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-17.11.45:197][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 677.896851
+[2025.02.15-17.11.45:381][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-17.11.45:381][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 678.063965, Update Interval: 313.357941
+[2025.02.15-17.12.49:223][560]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.02.15-17.12.59:175][126]Cmd: DELETE
+[2025.02.15-17.12.59:177][126]Cmd: ACTOR DELETE
+[2025.02.15-17.12.59:203][126]LogEditorActor: Actor SM_Lamp_01A12 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1122728635.
+[2025.02.15-17.13.03:169][126]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.13.03:176][126]Message dialog closed, result: NoAll, title: Message, text: Actor SM_Lamp_01A12 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_UAID_C87F54CA0DD2164C02_1122728635
+[2025.02.15-17.13.03:184][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.15-17.13.03:185][126]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.02.15-17.13.03:207][127]LogAutomationController: Ignoring very large delta of 4.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.15-17.13.12:682][670]Cmd: DELETE
+[2025.02.15-17.13.12:682][670]Cmd: ACTOR DELETE
+[2025.02.15-17.13.12:696][670]LogEditorActor: Actor SM_Lamp_01A12 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1122728635.
+[2025.02.15-17.13.14:601][670]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.13.14:608][670]Message dialog closed, result: YesAll, title: Message, text: Actor SM_Lamp_01A12 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_UAID_C87F54CA0DD2164C02_1122728635
+[2025.02.15-17.13.14:612][670]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.13.14:614][670]LogEditorActor: Actor SM_Lamp_12 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1122728635.
+[2025.02.15-17.13.14:617][670]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.13.14:621][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.02.15-17.13.14:623][670]LogEditorActor: Deleted 2 Actors (0.028 secs)
+[2025.02.15-17.13.57:047][128]LogToolMenus: Error: UI command not found for menu entry: GroupActors[Group], menu: LevelEditor.ActorContextMenu.GroupMenu
+[2025.02.15-17.14.09:004][818]LogToolMenus: Error: UI command not found for menu entry: GroupActors[Group], menu: LevelEditor.ActorContextMenu.GroupMenu
+[2025.02.15-17.14.14:909][149]LogToolMenus: Error: UI command not found for menu entry: GroupActors[Group], menu: LevelEditor.ActorContextMenu.GroupMenu
+[2025.02.15-17.15.23:504][152]Cmd: TRANSACTION UNDO
+[2025.02.15-17.15.23:504][152]LogEditorTransaction: Undo Move Elements
+[2025.02.15-17.15.42:024][189]LogToolMenus: Error: UI command not found for menu entry: GroupActors[Group], menu: LevelEditor.ActorContextMenu.GroupMenu
+[2025.02.15-17.15.42:534][217]LogToolMenus: Error: UI command not found for menu entry: GroupActors[Group], menu: LevelEditor.ActorContextMenu.GroupMenu
+[2025.02.15-17.16.05:093][540]Cmd: TRANSACTION UNDO
+[2025.02.15-17.16.05:094][540]LogEditorTransaction: Undo Move Elements
+[2025.02.15-17.16.23:219][563]Cmd: TRANSACTION UNDO
+[2025.02.15-17.16.23:219][563]LogEditorTransaction: Undo Move Elements
+[2025.02.15-17.16.25:911][705]Cmd: TRANSACTION UNDO
+[2025.02.15-17.16.25:911][705]LogEditorTransaction: Undo Move Elements
+[2025.02.15-17.16.48:075][997]Cmd: TRANSACTION UNDO
+[2025.02.15-17.16.48:075][997]LogEditorTransaction: Undo Edit Intensity
+[2025.02.15-17.17.04:945][984]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 997.644836
+[2025.02.15-17.17.05:092][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-17.17.05:092][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 997.774719, Update Interval: 308.199707
+[2025.02.15-17.17.11:333][366]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-17.17.24:902][141]Cmd: DUPLICATE
+[2025.02.15-17.17.24:902][141]Cmd: ACTOR DUPLICATE
+[2025.02.15-17.17.55:562][949]Cmd: DUPLICATE
+[2025.02.15-17.17.55:564][949]Cmd: ACTOR DUPLICATE
+[2025.02.15-17.18.20:222][399]LogSlate: Took 0.000786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.15-17.18.22:044][506]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.15-17.18.43:574][784]Cmd: DUPLICATE
+[2025.02.15-17.18.43:574][784]Cmd: ACTOR DUPLICATE
+[2025.02.15-17.18.56:746][549]Cmd: DELETE
+[2025.02.15-17.18.56:746][549]Cmd: ACTOR DELETE
+[2025.02.15-17.18.56:763][549]LogEditorActor: Deleted Actor: PointLight
+[2025.02.15-17.18.56:782][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.15-17.18.56:783][549]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.02.15-17.18.58:538][646]Cmd: DELETE
+[2025.02.15-17.18.58:538][646]Cmd: ACTOR DELETE
+[2025.02.15-17.18.58:552][646]LogEditorActor: Actor SM_Lamp_01A6 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1122728632.
+[2025.02.15-17.19.01:176][646]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.19.01:182][646]Message dialog closed, result: YesAll, title: Message, text: Actor SM_Lamp_01A6 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_UAID_C87F54CA0DD2164C02_1122728632
+[2025.02.15-17.19.01:187][646]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.01:187][646]LogEditorActor: Actor SM_Lamp_9 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1122728632.
+[2025.02.15-17.19.01:189][646]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.01:197][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.15-17.19.01:200][646]LogEditorActor: Deleted 2 Actors (0.030 secs)
+[2025.02.15-17.19.01:251][647]LogAutomationController: Ignoring very large delta of 2.72 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.15-17.19.13:275][351]Cmd: DELETE
+[2025.02.15-17.19.13:275][351]Cmd: ACTOR DELETE
+[2025.02.15-17.19.13:289][351]LogEditorActor: Actor SM_Lamp_3 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1127782633.
+[2025.02.15-17.19.14:285][351]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.19.14:292][351]Message dialog closed, result: Yes, title: Message, text: Actor SM_Lamp_3 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_UAID_C87F54CA0DD2164C02_1127782633
+[2025.02.15-17.19.14:296][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.14:297][351]LogEditorActor: Actor SM_Lamp_01A7 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1127782633.
+[2025.02.15-17.19.16:837][351]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.19.16:846][351]Message dialog closed, result: YesAll, title: Message, text: Actor SM_Lamp_01A7 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_UAID_C87F54CA0DD2164C02_1127782633
+[2025.02.15-17.19.16:847][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.16:855][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.02.15-17.19.16:857][351]LogEditorActor: Deleted 2 Actors (0.031 secs)
+[2025.02.15-17.19.16:926][351]LogAutomationController: Ignoring very large delta of 3.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.15-17.19.32:162][244]Cmd: DELETE
+[2025.02.15-17.19.32:162][244]Cmd: ACTOR DELETE
+[2025.02.15-17.19.32:176][244]LogEditorActor: Actor SM_Lamp_01A9 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1122728633.
+[2025.02.15-17.19.34:205][244]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.19.34:212][244]Message dialog closed, result: YesAll, title: Message, text: Actor SM_Lamp_01A9 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_UAID_C87F54CA0DD2164C02_1122728633
+[2025.02.15-17.19.34:216][244]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.34:216][244]LogEditorActor: Actor SM_Lamp_6 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1122728633.
+[2025.02.15-17.19.34:217][244]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.34:225][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.15-17.19.34:227][244]LogEditorActor: Deleted 2 Actors (0.028 secs)
+[2025.02.15-17.19.34:271][245]LogAutomationController: Ignoring very large delta of 2.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.15-17.19.35:355][303]Cmd: DELETE
+[2025.02.15-17.19.35:355][303]Cmd: ACTOR DELETE
+[2025.02.15-17.19.35:372][303]LogEditorActor: Deleted Actor: PointLight
+[2025.02.15-17.19.35:381][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.15-17.19.35:384][303]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.02.15-17.19.37:609][433]Cmd: DELETE
+[2025.02.15-17.19.37:609][433]Cmd: ACTOR DELETE
+[2025.02.15-17.19.37:626][433]LogEditorActor: Deleted Actor: PointLight
+[2025.02.15-17.19.37:634][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.15-17.19.37:636][433]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.02.15-17.19.38:689][487]Cmd: DELETE
+[2025.02.15-17.19.38:689][487]Cmd: ACTOR DELETE
+[2025.02.15-17.19.38:703][487]LogEditorActor: Actor SM_Lamp_01A10 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1598006641.
+[2025.02.15-17.19.39:712][487]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.19.39:719][487]Message dialog closed, result: Yes, title: Message, text: Actor SM_Lamp_01A10 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_UAID_C87F54CA0DD2164C02_1598006641
+[2025.02.15-17.19.39:723][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.39:733][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.02.15-17.19.39:734][487]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.02.15-17.19.40:807][546]Cmd: DELETE
+[2025.02.15-17.19.40:807][546]Cmd: ACTOR DELETE
+[2025.02.15-17.19.40:821][546]LogEditorActor: Actor SM_Lamp_4 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1118419631.
+[2025.02.15-17.19.42:333][546]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.19.42:340][546]Message dialog closed, result: Yes, title: Message, text: Actor SM_Lamp_4 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_UAID_C87F54CA0DD2164C02_1118419631
+[2025.02.15-17.19.42:344][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.42:344][546]LogEditorActor: Actor SM_Lamp_01A8 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1118419631.
+[2025.02.15-17.19.42:848][546]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.19.42:854][546]Message dialog closed, result: Yes, title: Message, text: Actor SM_Lamp_01A8 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_UAID_C87F54CA0DD2164C02_1118419631
+[2025.02.15-17.19.42:855][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.42:865][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.15-17.19.42:869][546]LogEditorActor: Deleted 2 Actors (0.034 secs)
+[2025.02.15-17.19.42:915][547]LogAutomationController: Ignoring very large delta of 2.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.15-17.19.43:952][604]Cmd: DELETE
+[2025.02.15-17.19.43:952][604]Cmd: ACTOR DELETE
+[2025.02.15-17.19.43:968][604]LogEditorActor: Deleted Actor: PointLight
+[2025.02.15-17.19.43:979][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.15-17.19.43:983][604]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.02.15-17.19.51:120][ 28]Cmd: DELETE
+[2025.02.15-17.19.51:120][ 28]Cmd: ACTOR DELETE
+[2025.02.15-17.19.51:137][ 28]LogEditorActor: Deleted Actor: PointLight
+[2025.02.15-17.19.51:148][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.15-17.19.51:151][ 28]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.02.15-17.19.54:296][209]Cmd: DELETE
+[2025.02.15-17.19.54:296][209]Cmd: ACTOR DELETE
+[2025.02.15-17.19.54:309][209]LogEditorActor: Actor SM_Lamp_01A11 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1122728634.
+[2025.02.15-17.19.56:811][209]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.19.56:819][209]Message dialog closed, result: YesAll, title: Message, text: Actor SM_Lamp_01A11 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_UAID_C87F54CA0DD2164C02_1122728634
+[2025.02.15-17.19.56:824][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.56:824][209]LogEditorActor: Actor SM_Lamp_10 is referenced by GroupActor_UAID_C87F54CA0DD2164C02_1122728634.
+[2025.02.15-17.19.56:825][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.19.56:835][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.02.15-17.19.56:837][209]LogEditorActor: Deleted 2 Actors (0.031 secs)
+[2025.02.15-17.19.56:884][210]LogAutomationController: Ignoring very large delta of 2.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.15-17.19.58:202][282]Cmd: DELETE
+[2025.02.15-17.19.58:202][282]Cmd: ACTOR DELETE
+[2025.02.15-17.19.58:219][282]LogEditorActor: Deleted Actor: PointLight
+[2025.02.15-17.19.58:230][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.15-17.19.58:233][282]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.02.15-17.20.05:943][740]Cmd: DUPLICATE
+[2025.02.15-17.20.05:943][740]Cmd: ACTOR DUPLICATE
+[2025.02.15-17.20.22:798][736]Cmd: DUPLICATE
+[2025.02.15-17.20.22:798][736]Cmd: ACTOR DUPLICATE
+[2025.02.15-17.20.56:510][725]Cmd: DUPLICATE
+[2025.02.15-17.20.56:510][725]Cmd: ACTOR DUPLICATE
+[2025.02.15-17.21.06:070][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.21.06:127][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.02.15-17.21.06:141][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.02.15-17.21.06:151][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.02.15-17.21.06:157][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/PJ/WTG5IN785RUC58258ICY89
+[2025.02.15-17.21.06:157][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/WTG5IN785RUC58258ICY89DE16E7F347EF4C995D9706AEE743C3AF.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/PJ/WTG5IN785RUC58258ICY89.uasset'
+[2025.02.15-17.21.06:160][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/RQ/EFOU08SJ0JWFIXRUJU0XRW
+[2025.02.15-17.21.06:160][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/EFOU08SJ0JWFIXRUJU0XRW501FED744D8A7FE654D21E99C24367B0.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/RQ/EFOU08SJ0JWFIXRUJU0XRW.uasset'
+[2025.02.15-17.21.06:162][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/VD/SSSCADNK2MZ9VEKAAWSYN1
+[2025.02.15-17.21.06:162][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/SSSCADNK2MZ9VEKAAWSYN1B44293AF4687BDAE0C3286A12B9892E7.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/VD/SSSCADNK2MZ9VEKAAWSYN1.uasset'
+[2025.02.15-17.21.06:165][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/11/RFKSKKUKM7JRS3Y38WAO28
+[2025.02.15-17.21.06:165][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/RFKSKKUKM7JRS3Y38WAO286034311B41603ADD06B52D8F6941621E.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/11/RFKSKKUKM7JRS3Y38WAO28.uasset'
+[2025.02.15-17.21.06:168][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/8T/BQZOUBMYC56OF9D9FX68IW
+[2025.02.15-17.21.06:168][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/BQZOUBMYC56OF9D9FX68IW7F4B5B764DF5D8DAB9EEEF9138440C56.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/8T/BQZOUBMYC56OF9D9FX68IW.uasset'
+[2025.02.15-17.21.06:170][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/Y7/TODROALMAJWCM4CMMDYOUT
+[2025.02.15-17.21.06:170][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/TODROALMAJWCM4CMMDYOUTEC6D3C4441FE478A6EE267BF91AE091E.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/Y7/TODROALMAJWCM4CMMDYOUT.uasset'
+[2025.02.15-17.21.06:173][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/PV/TADF83UL8VRT1CZ8IEIFP8
+[2025.02.15-17.21.06:173][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/TADF83UL8VRT1CZ8IEIFP84CA8F4DA4FE9FBE90C7B0D9ECC472566.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/PV/TADF83UL8VRT1CZ8IEIFP8.uasset'
+[2025.02.15-17.21.06:174][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/88/TE30KWHPXFFVILOYOQLQ3H
+[2025.02.15-17.21.06:176][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/TE30KWHPXFFVILOYOQLQ3H5D5307A248CA8369E5C897866B9B1BDB.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/88/TE30KWHPXFFVILOYOQLQ3H.uasset'
+[2025.02.15-17.21.06:178][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/29/FH83ZPK17249P1JM6JZ7EG
+[2025.02.15-17.21.06:178][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/FH83ZPK17249P1JM6JZ7EG029ECD334AC249ADDCE04390B23A8D6E.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/29/FH83ZPK17249P1JM6JZ7EG.uasset'
+[2025.02.15-17.21.06:180][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/YY/JAGAW148XRA9173E42XJ0Y
+[2025.02.15-17.21.06:180][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/JAGAW148XRA9173E42XJ0Y260857524608FF17A1B1FD8B4DBC7C3F.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/YY/JAGAW148XRA9173E42XJ0Y.uasset'
+[2025.02.15-17.21.06:182][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/88/9S8N61DGQLOYC7AR3GV4RV
+[2025.02.15-17.21.06:182][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/9S8N61DGQLOYC7AR3GV4RV80A5E7FB47CDAD619A4216ADFD4876A3.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/88/9S8N61DGQLOYC7AR3GV4RV.uasset'
+[2025.02.15-17.21.06:185][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/8/NU/753L784Q82O4LWLI3TN18B
+[2025.02.15-17.21.06:185][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/753L784Q82O4LWLI3TN18B4356762A4378C4338343E084C4ED97FC.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/8/NU/753L784Q82O4LWLI3TN18B.uasset'
+[2025.02.15-17.21.06:186][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/6S/61JXF41L9IYJZZLMIB8BQ1
+[2025.02.15-17.21.06:186][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/61JXF41L9IYJZZLMIB8BQ1E18155174D6797CDB6598482BD2A104E.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/6S/61JXF41L9IYJZZLMIB8BQ1.uasset'
+[2025.02.15-17.21.06:188][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/IC/1OCS7JH0EB11THS8PYZ0GM
+[2025.02.15-17.21.06:188][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/1OCS7JH0EB11THS8PYZ0GM4D6AFDD544DDF204B9EB56B85575BF3D.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/IC/1OCS7JH0EB11THS8PYZ0GM.uasset'
+[2025.02.15-17.21.06:190][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/SZ/0UDYXZFL4TUACG6WHETKV1
+[2025.02.15-17.21.06:190][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/0UDYXZFL4TUACG6WHETKV1318833354BA4AF231CEA0FAB93CD4D1B.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/SZ/0UDYXZFL4TUACG6WHETKV1.uasset'
+[2025.02.15-17.21.06:192][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/8/G3/SDUGDJIGXW2WRGXC0ZHGVH
+[2025.02.15-17.21.06:192][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/SDUGDJIGXW2WRGXC0ZHGVH600EE78A4CAF0FA037D1C998374F1796.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/8/G3/SDUGDJIGXW2WRGXC0ZHGVH.uasset'
+[2025.02.15-17.21.06:195][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/AV/U3MGYP162B0K5CAQNFWLM7
+[2025.02.15-17.21.06:195][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/U3MGYP162B0K5CAQNFWLM7E3995D5A476D3560E8982AA713B80745.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/AV/U3MGYP162B0K5CAQNFWLM7.uasset'
+[2025.02.15-17.21.06:196][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/A/3H/RK2Z793UACXFBKDW6XK0Q8
+[2025.02.15-17.21.06:196][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/RK2Z793UACXFBKDW6XK0Q8FEE98FD64F468FFE9C743D8C60298FBC.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/A/3H/RK2Z793UACXFBKDW6XK0Q8.uasset'
+[2025.02.15-17.21.06:199][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/L1/DCSAUG5W4HSNARNP0K7WR5
+[2025.02.15-17.21.06:199][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/DCSAUG5W4HSNARNP0K7WR5FEE26AFB49C689E372921089B7B48920.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/L1/DCSAUG5W4HSNARNP0K7WR5.uasset'
+[2025.02.15-17.21.06:202][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/PP/YGV71Y7S7QJJ69WTY1DDU4
+[2025.02.15-17.21.06:202][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/YGV71Y7S7QJJ69WTY1DDU47B860DB749872DA9606E96BAEA219472.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/PP/YGV71Y7S7QJJ69WTY1DDU4.uasset'
+[2025.02.15-17.21.06:204][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/F/39/EZ78HU7QF6JWM07YG9RPR1
+[2025.02.15-17.21.06:204][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/EZ78HU7QF6JWM07YG9RPR10ED1C2BD4135381F6D99ADB04B43A96D.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/F/39/EZ78HU7QF6JWM07YG9RPR1.uasset'
+[2025.02.15-17.21.06:206][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/62/3D7WNFMTFAUDRC07JLKOWY
+[2025.02.15-17.21.06:206][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/3D7WNFMTFAUDRC07JLKOWY5238534746CDE41DFC27F8B869EB2B3F.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/62/3D7WNFMTFAUDRC07JLKOWY.uasset'
+[2025.02.15-17.21.06:208][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E
+[2025.02.15-17.21.06:208][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/AVYR9X4WMZ17CYT0IZVW9E7D43F75E4520B3CC5142A1A090A2DC7B.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E.uasset'
+[2025.02.15-17.21.06:211][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/NL/QN7EMEF9TOU430E4T12ZVD
+[2025.02.15-17.21.06:211][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/QN7EMEF9TOU430E4T12ZVD7C51780746EAAFD69F8CC3A450CE1C75.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/NL/QN7EMEF9TOU430E4T12ZVD.uasset'
+[2025.02.15-17.21.06:213][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/98/EXKTYPPH8NV65JDW34Z815
+[2025.02.15-17.21.06:213][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/EXKTYPPH8NV65JDW34Z815C8E102D34631471996B3E7AF18848219.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/98/EXKTYPPH8NV65JDW34Z815.uasset'
+[2025.02.15-17.21.06:214][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR
+[2025.02.15-17.21.06:214][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/FFKWS1ZC5WVUQR593Y7PAR2A54A78D43DA325DA4A5A7B07157FF6D.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR.uasset'
+[2025.02.15-17.21.06:218][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/YA/9CQ5X5431I4JNMEAA4F0KU
+[2025.02.15-17.21.06:218][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/9CQ5X5431I4JNMEAA4F0KUD25AAEF94F1C572358781981F14636EE.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/YA/9CQ5X5431I4JNMEAA4F0KU.uasset'
+[2025.02.15-17.21.06:220][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/GM/Y2POZYIP7IXOG0K5JUQ4UR
+[2025.02.15-17.21.06:220][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/Y2POZYIP7IXOG0K5JUQ4UR285C84A34B8C8C08E5B36892A519E03D.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/GM/Y2POZYIP7IXOG0K5JUQ4UR.uasset'
+[2025.02.15-17.21.06:221][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/9V/J9D1XWCD77TTFY4XPT0MXV
+[2025.02.15-17.21.06:221][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/J9D1XWCD77TTFY4XPT0MXVCBD30A1946C87888C3E165BC6FC3F6BE.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/9V/J9D1XWCD77TTFY4XPT0MXV.uasset'
+[2025.02.15-17.21.06:223][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/3G/VP9R202P0G1AN323UWNK5X
+[2025.02.15-17.21.06:224][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/VP9R202P0G1AN323UWNK5X21A24C964D00916514C542A62ECB3830.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/3G/VP9R202P0G1AN323UWNK5X.uasset'
+[2025.02.15-17.21.06:226][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/33/F15244IR2SQKA0ELCJRYKT
+[2025.02.15-17.21.06:226][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/F15244IR2SQKA0ELCJRYKT6E050449498393FF416D84B5E5DFCB72.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/33/F15244IR2SQKA0ELCJRYKT.uasset'
+[2025.02.15-17.21.06:228][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/0V/QT1BFNNHTHUEUKHUCUNX0J
+[2025.02.15-17.21.06:228][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/QT1BFNNHTHUEUKHUCUNX0J4DDC663343D100541EF989BA1A0BE7F1.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/0V/QT1BFNNHTHUEUKHUCUNX0J.uasset'
+[2025.02.15-17.21.06:230][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/9G/7D6QGBPP4K1063IC2BUGA1
+[2025.02.15-17.21.06:230][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/7D6QGBPP4K1063IC2BUGA161DCECFF48957EEDBF274F8715F055AE.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/9G/7D6QGBPP4K1063IC2BUGA1.uasset'
+[2025.02.15-17.21.06:232][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/7Y/YW3AMXUQ6T6RF7B9B313O6
+[2025.02.15-17.21.06:232][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/YW3AMXUQ6T6RF7B9B313O6F200BB694E9DCA10557AC4B122F1D2F0.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/7Y/YW3AMXUQ6T6RF7B9B313O6.uasset'
+[2025.02.15-17.21.06:234][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/M8/1UC13HZHKVBYE4U3CGAB9Z
+[2025.02.15-17.21.06:234][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/1UC13HZHKVBYE4U3CGAB9Z4AC47BF54552CD378BB60EA23F998645.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/M8/1UC13HZHKVBYE4U3CGAB9Z.uasset'
+[2025.02.15-17.21.06:237][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/D9/7XZNLR6V21IG5W5DYDH9LJ
+[2025.02.15-17.21.06:237][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/7XZNLR6V21IG5W5DYDH9LJCBBD5B404BC9EE4193619E80E2E65A7C.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/D9/7XZNLR6V21IG5W5DYDH9LJ.uasset'
+[2025.02.15-17.21.06:239][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/QY/8GQBDM8GA5BYX1IYE13GA6
+[2025.02.15-17.21.06:239][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/8GQBDM8GA5BYX1IYE13GA67D5735D74893CDB7ED01718F03B0BB8D.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/QY/8GQBDM8GA5BYX1IYE13GA6.uasset'
+[2025.02.15-17.21.06:241][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/BN/NFP0H596OGQS682JLYQJTR
+[2025.02.15-17.21.06:241][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/NFP0H596OGQS682JLYQJTRC57E088D401D08B94FAA88942EEDE221.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/BN/NFP0H596OGQS682JLYQJTR.uasset'
+[2025.02.15-17.21.06:244][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/CL/CG493JYOQXWC90WFS0T9AN
+[2025.02.15-17.21.06:244][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/CG493JYOQXWC90WFS0T9AN16E43CFC4F7640B902C0FC80CE6FFC14.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/CL/CG493JYOQXWC90WFS0T9AN.uasset'
+[2025.02.15-17.21.06:246][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/FZ/VNNMKLRBJSLB7T6SZ70GN4
+[2025.02.15-17.21.06:246][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/VNNMKLRBJSLB7T6SZ70GN4D5F7512D4074AD17D35FFF8831AF1F61.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/FZ/VNNMKLRBJSLB7T6SZ70GN4.uasset'
+[2025.02.15-17.21.06:247][286]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/5H/A0H55N76RK61O4LA4WHFIZ
+[2025.02.15-17.21.06:247][286]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/A0H55N76RK61O4LA4WHFIZ15E58B734C7AA2AF795038A1879C35A4.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/5H/A0H55N76RK61O4LA4WHFIZ.uasset'
+[2025.02.15-17.21.06:266][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 271 ms)
+[2025.02.15-17.21.06:278][286]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2094C02_1944866340
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2724C02_1128194816
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD20A4C02_2067312518
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2974A02_1196181218
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2154C02_1852293453
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2174C02_1207649827
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A54A02_1224823688
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2724C02_1128240817
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD20A4C02_1410433517
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_1862638264
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_1898059265
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_1963197266
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_1963200267
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_1963203268
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_1963204269
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_1963205270
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_1993856271
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_1993859272
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_1993860273
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_1993861274
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_1993864275
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2041864276
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2041867277
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2041870278
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2041870279
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2041872280
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2124233281
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2124236282
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2124237283
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2124238284
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2124239285
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2141089286
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2141092287
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2141093288
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2141094289
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2141096290
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1101061467
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A34C02_1101064468
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1101066469
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1101067470
+[2025.02.15-17.21.06:278][286]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1101068471
+[2025.02.15-17.21.10:883][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.21.10:927][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.15-17.21.10:941][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.15-17.21.10:954][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.15-17.21.10:976][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 364 ms)
+[2025.02.15-17.21.41:190][ 67]Cmd: DELETE
+[2025.02.15-17.21.41:190][ 67]Cmd: ACTOR DELETE
+[2025.02.15-17.21.41:206][ 67]LogEditorActor: Deleted Actor: PointLight
+[2025.02.15-17.21.41:220][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.15-17.21.41:222][ 67]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-17.21.41:228][ 67]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.02.15-17.21.56:124][919]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-17.22.03:215][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.22.03:269][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.15-17.22.03:284][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.15-17.22.03:297][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.02.15-17.22.03:300][340]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E
+[2025.02.15-17.22.03:301][340]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/AVYR9X4WMZ17CYT0IZVW9E02D340CA46F3E26010CD698A3B60F073.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E.uasset'
+[2025.02.15-17.22.03:302][340]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR
+[2025.02.15-17.22.03:302][340]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/FFKWS1ZC5WVUQR593Y7PARF278FF8F4E2B56C57B12CAB97C7370EB.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR.uasset'
+[2025.02.15-17.22.03:322][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 472 ms)
+[2025.02.15-17.22.03:327][340]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-17.22.03:327][340]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2041867277
+[2025.02.15-17.22.03:327][340]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2041872280
+[2025.02.15-17.22.09:869][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.22.09:917][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.15-17.22.09:932][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.15-17.22.09:944][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.15-17.22.09:947][684]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E
+[2025.02.15-17.22.09:948][684]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/AVYR9X4WMZ17CYT0IZVW9E90523288432A27CAAE8CD0AA298BB948.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E.uasset'
+[2025.02.15-17.22.09:966][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 568 ms)
+[2025.02.15-17.22.09:971][684]AssetCheck: New page: Asset Save: GroupActor_UAID_C87F54CA0DD2A24C02_2041867277
+[2025.02.15-17.22.09:971][684]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2041867277
+[2025.02.15-17.22.21:619][376]Cmd: DELETE
+[2025.02.15-17.22.21:619][376]Cmd: ACTOR DELETE
+[2025.02.15-17.22.21:633][376]LogEditorActor: Actor SM_Lamp_01A5 is referenced by GroupActor.
+[2025.02.15-17.22.23:660][376]LogSlate: Window 'Message' being destroyed
+[2025.02.15-17.22.23:668][376]Message dialog closed, result: YesAll, title: Message, text: Actor SM_Lamp_01A5 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor
+[2025.02.15-17.22.23:673][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.22.23:673][376]LogEditorActor: Actor SM_Lamp_01 is referenced by GroupActor.
+[2025.02.15-17.22.23:677][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.15-17.22.23:692][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.02.15-17.22.23:695][376]LogEditorActor: Deleted 2 Actors (0.041 secs)
+[2025.02.15-17.22.23:733][377]LogAutomationController: Ignoring very large delta of 2.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.15-17.22.26:309][524]Cmd: DELETE
+[2025.02.15-17.22.26:309][524]Cmd: ACTOR DELETE
+[2025.02.15-17.22.26:326][524]LogEditorActor: Deleted Actor: PointLight
+[2025.02.15-17.22.26:341][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.02.15-17.22.26:343][524]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.02.15-17.22.28:240][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1320.938843
+[2025.02.15-17.22.28:410][648]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-17.22.28:410][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1321.092285, Update Interval: 315.049896
+[2025.02.15-17.22.36:983][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.22.37:022][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.15-17.22.37:038][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.15-17.22.37:053][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.15-17.22.37:072][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 658 ms)
+[2025.02.15-17.23.14:092][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.23.14:153][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.15-17.23.14:170][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.02.15-17.23.14:183][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.15-17.23.14:186][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/YA/9CQ5X5431I4JNMEAA4F0KU
+[2025.02.15-17.23.14:186][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/9CQ5X5431I4JNMEAA4F0KU2453C87B4D4E54FCAD9C9398E89F5DC0.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/YA/9CQ5X5431I4JNMEAA4F0KU.uasset'
+[2025.02.15-17.23.14:187][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/GM/Y2POZYIP7IXOG0K5JUQ4UR
+[2025.02.15-17.23.14:188][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/Y2POZYIP7IXOG0K5JUQ4URF7C9D707490B870B927EA8A9E3129F00.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/GM/Y2POZYIP7IXOG0K5JUQ4UR.uasset'
+[2025.02.15-17.23.14:189][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/9V/J9D1XWCD77TTFY4XPT0MXV
+[2025.02.15-17.23.14:191][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/J9D1XWCD77TTFY4XPT0MXV6BC0BEFA4BB1598BED4EB088291E0223.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/9V/J9D1XWCD77TTFY4XPT0MXV.uasset'
+[2025.02.15-17.23.14:193][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/3G/VP9R202P0G1AN323UWNK5X
+[2025.02.15-17.23.14:193][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/VP9R202P0G1AN323UWNK5X57B40AF046B500FF615D4AA2A1174C86.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/3G/VP9R202P0G1AN323UWNK5X.uasset'
+[2025.02.15-17.23.14:195][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/33/F15244IR2SQKA0ELCJRYKT
+[2025.02.15-17.23.14:196][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/F15244IR2SQKA0ELCJRYKT6CA4F6C54D8419B23E43F3A7CD51B259.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/33/F15244IR2SQKA0ELCJRYKT.uasset'
+[2025.02.15-17.23.14:198][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/0V/QT1BFNNHTHUEUKHUCUNX0J
+[2025.02.15-17.23.14:199][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/QT1BFNNHTHUEUKHUCUNX0JA396115B40775BF76F1B40BC97FA2052.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/0V/QT1BFNNHTHUEUKHUCUNX0J.uasset'
+[2025.02.15-17.23.14:201][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/9G/7D6QGBPP4K1063IC2BUGA1
+[2025.02.15-17.23.14:201][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/7D6QGBPP4K1063IC2BUGA1F4E45E654CFF18A1B58FA9B89663BC66.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/9G/7D6QGBPP4K1063IC2BUGA1.uasset'
+[2025.02.15-17.23.14:203][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/7Y/YW3AMXUQ6T6RF7B9B313O6
+[2025.02.15-17.23.14:203][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/YW3AMXUQ6T6RF7B9B313O6646EA48A41840D1739EF34AD95CAE66F.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/7Y/YW3AMXUQ6T6RF7B9B313O6.uasset'
+[2025.02.15-17.23.14:207][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/M8/1UC13HZHKVBYE4U3CGAB9Z
+[2025.02.15-17.23.14:207][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/1UC13HZHKVBYE4U3CGAB9Z33FACA984976C165E101FC9BF5BF8CAB.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/M8/1UC13HZHKVBYE4U3CGAB9Z.uasset'
+[2025.02.15-17.23.14:209][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/D9/7XZNLR6V21IG5W5DYDH9LJ
+[2025.02.15-17.23.14:209][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/7XZNLR6V21IG5W5DYDH9LJC352CCCD42717B46E7E73CA4C149585A.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/D9/7XZNLR6V21IG5W5DYDH9LJ.uasset'
+[2025.02.15-17.23.14:211][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/QY/8GQBDM8GA5BYX1IYE13GA6
+[2025.02.15-17.23.14:212][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/8GQBDM8GA5BYX1IYE13GA656BFCB084B7DE07C3D58B397E7D42E4D.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/QY/8GQBDM8GA5BYX1IYE13GA6.uasset'
+[2025.02.15-17.23.14:214][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/BN/NFP0H596OGQS682JLYQJTR
+[2025.02.15-17.23.14:214][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/NFP0H596OGQS682JLYQJTRC8664C99418F15F5F64558AC6F9DCA91.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/BN/NFP0H596OGQS682JLYQJTR.uasset'
+[2025.02.15-17.23.14:217][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/CL/CG493JYOQXWC90WFS0T9AN
+[2025.02.15-17.23.14:217][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/CG493JYOQXWC90WFS0T9ANA8644615465658DE776C598CAD9A99B5.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/CL/CG493JYOQXWC90WFS0T9AN.uasset'
+[2025.02.15-17.23.14:220][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/FZ/VNNMKLRBJSLB7T6SZ70GN4
+[2025.02.15-17.23.14:220][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/VNNMKLRBJSLB7T6SZ70GN4891947CC421459640B068B8EC6097C16.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/FZ/VNNMKLRBJSLB7T6SZ70GN4.uasset'
+[2025.02.15-17.23.14:222][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/5H/A0H55N76RK61O4LA4WHFIZ
+[2025.02.15-17.23.14:223][342]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/A0H55N76RK61O4LA4WHFIZ9B87E153431B3C2EA8CF4D8410F9555C.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/5H/A0H55N76RK61O4LA4WHFIZ.uasset'
+[2025.02.15-17.23.14:244][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 809 ms)
+[2025.02.15-17.23.14:252][342]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-17.23.14:252][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2124233281
+[2025.02.15-17.23.14:252][342]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2124236282
+[2025.02.15-17.23.14:252][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2124237283
+[2025.02.15-17.23.14:252][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2124238284
+[2025.02.15-17.23.14:252][342]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2124239285
+[2025.02.15-17.23.14:252][342]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2141089286
+[2025.02.15-17.23.14:252][342]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2141092287
+[2025.02.15-17.23.14:252][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2141093288
+[2025.02.15-17.23.14:252][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2141094289
+[2025.02.15-17.23.14:252][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2141096290
+[2025.02.15-17.23.14:253][342]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1101061467
+[2025.02.15-17.23.14:253][342]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A34C02_1101064468
+[2025.02.15-17.23.14:253][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1101066469
+[2025.02.15-17.23.14:253][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1101067470
+[2025.02.15-17.23.14:253][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1101068471
+[2025.02.15-17.23.24:643][958]Cmd: TRANSACTION UNDO
+[2025.02.15-17.23.24:643][958]LogEditorTransaction: Undo Rotate Elements
+[2025.02.15-17.23.45:286][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.23.45:338][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.15-17.23.45:353][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.15-17.23.45:366][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.02.15-17.23.45:369][120]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E
+[2025.02.15-17.23.45:369][120]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/AVYR9X4WMZ17CYT0IZVW9ED4BC3E814310CF41DF3C00A0CA27DB12.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E.uasset'
+[2025.02.15-17.23.45:371][120]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/NL/QN7EMEF9TOU430E4T12ZVD
+[2025.02.15-17.23.45:371][120]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/QN7EMEF9TOU430E4T12ZVD60EE7FD149515096831072974D296302.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/NL/QN7EMEF9TOU430E4T12ZVD.uasset'
+[2025.02.15-17.23.45:395][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 918 ms)
+[2025.02.15-17.23.45:400][120]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-17.23.45:400][120]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2041867277
+[2025.02.15-17.23.45:400][120]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A24C02_2041870278
+[2025.02.15-17.25.52:117][436]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.15-17.25.52:124][436]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.15-17.25.52:124][436]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.02.15-17.25.52:186][436]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 61 ms
+[2025.02.15-17.25.52:189][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.15-17.25.52:197][436]PIE: New page: PIE session: FirstPersonMap (15 Feb 2025, 17:25:52)
+[2025.02.15-17.25.52:202][436]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.15-17.25.52:202][436]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.15-17.25.52:203][436]LogPlayLevel: Creating play world package: /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.15-17.25.52:571][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.368018s)
+[2025.02.15-17.25.52:572][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.368069s)
+[2025.02.15-17.25.52:584][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.02.15-17.25.52:587][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-17.25.52:587][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.15-17.25.52:587][436]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.02.15-17.25.52:590][436]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.15-17.25.52:590][436]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.15-17.25.52:590][436]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.15-17.25.52:591][436]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.15-17.25.52:679][436]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.02.15-17.25.52:679][436]LogWorldPartition: Display: WorldPartition initialize took 89 ms (total: 24.8 sec)
+[2025.02.15-17.25.52:679][436]LogPlayLevel: PIE: World Init took: (0.092577s)
+[2025.02.15-17.25.52:679][436]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.15-17.25.52:679][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.15-17.25.52:679][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.15-17.25.52:679][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.15-17.25.52:679][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.15-17.25.52:679][436]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.15-17.25.52:679][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.15-17.25.52:679][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.15-17.25.52:679][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.15-17.25.52:680][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.15-17.25.52:680][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.15-17.25.52:680][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.15-17.25.52:682][436]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.15-17.25.52:774][436]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.15-17.25.52:774][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.15-17.25.52:774][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.15-17.25.52:774][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.15-17.25.52:775][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.15-17.25.52:775][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.02.15-17.25.52:777][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.15-17.25.52:777][436]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.15-17.25.52:777][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.15-17.25.52:777][436]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.02.15-17.25.52:777][436]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.15-17.25.52:783][436]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.15-17.25.52:828][436]LogWorld: Bringing World /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.02.15-17.25.52
+[2025.02.15-17.25.52:832][436]LogWorld: Bringing up level for play took: 0.046791
+[2025.02.15-17.25.52:834][436]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.02.15-17.25.52:871][436]PIE: Server logged in
+[2025.02.15-17.25.52:871][436]PIE: Play in editor total start time 0.748 seconds.
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: ================================================
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Total job queries 37, among them cache hits 13 (35.14%)
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 24 distinct outputs (100.00%)
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: RAM used: 619.34 KiB of 819.20 MiB budget. Usage: 0.07%
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Job execution time: average 2.89 s, max 2.94 s
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Job life time (pending + execution): average 2.95 s, max 3.00
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Shader code size: average 35.227 KiB, min 31.148 KiB, max 39.305 KiB
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.00 s
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Average processing rate: 0.67 jobs/sec
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Total thread time: 0.335 s
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Total thread preprocess time: 0.084 s
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Percentage time preprocessing: 25.19%
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Effective parallelization: 0.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 66.71% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 33.29% of total time (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2025.02.15-17.25.52:969][437]LogShaderCompilers: Display: ================================================
+[2025.02.15-17.26.41:628][318]LogChaos: Warning: Degenerate triangle 10193: (-172.242203 -108.181198 79.460732) (-172.242203 -108.171310 79.416161) (-172.215607 -108.181198 79.460732)
+[2025.02.15-17.26.41:628][318]LogChaos: Warning: Degenerate triangle 10193: (-172.242203 -108.181198 79.460732) (-172.242203 -108.171310 79.416161) (-172.215607 -108.181198 79.460732)
+[2025.02.15-17.27.20:571][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-17.27.20:571][652]LogWorld: BeginTearingDown for /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.15-17.27.20:574][652]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-17.27.20:586][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-17.27.20:587][652]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.02.15-17.27.20:592][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.15-17.27.20:596][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-17.27.20:614][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.15-17.27.20:619][652]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.15-17.27.20:622][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.15-17.27.20:624][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.15-17.27.20:628][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-17.27.20:654][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.02.15-17.27.20:732][653]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.02.15-17.28.09:056][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1661.757324
+[2025.02.15-17.28.09:222][528]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-17.28.09:222][528]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1661.907959, Update Interval: 341.914124
+[2025.02.15-17.28.16:861][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.28.16:910][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.02.15-17.28.16:925][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.15-17.28.16:936][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.15-17.28.16:959][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.01 sec)
+[2025.02.15-17.28.43:808][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.28.43:849][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.02.15-17.28.43:864][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.15-17.28.43:878][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.02.15-17.28.43:900][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.10 sec)
+[2025.02.15-17.28.46:779][759]Cmd: TRANSACTION UNDO
+[2025.02.15-17.28.46:779][759]LogEditorTransaction: Undo Move Elements
+[2025.02.15-17.28.48:271][836]Cmd: DUPLICATE
+[2025.02.15-17.28.48:271][836]Cmd: ACTOR DUPLICATE
+[2025.02.15-17.29.02:419][671]Cmd: DUPLICATE
+[2025.02.15-17.29.02:419][671]Cmd: ACTOR DUPLICATE
+[2025.02.15-17.30.21:157][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.30.21:275][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.02.15-17.30.21:292][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.15-17.30.21:307][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.15-17.30.21:310][359]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/4/BK/LGUTK3RTL3D3JUI0251Z1X
+[2025.02.15-17.30.21:310][359]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/LGUTK3RTL3D3JUI0251Z1XD71425ED4E7464C78DB5129B6C73F49B.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/4/BK/LGUTK3RTL3D3JUI0251Z1X.uasset'
+[2025.02.15-17.30.21:312][359]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/M8/642XYQ0JI52DVMGWAC8BSZ
+[2025.02.15-17.30.21:312][359]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/642XYQ0JI52DVMGWAC8BSZ618A991942A2D0F682E4ABB61DBE5262.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/M8/642XYQ0JI52DVMGWAC8BSZ.uasset'
+[2025.02.15-17.30.21:314][359]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/8/ND/QX71P377O9R2BEDY895OQY
+[2025.02.15-17.30.21:314][359]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/QX71P377O9R2BEDY895OQYEFB9B9D54E14EF40C6A74DAABDE97B51.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/8/ND/QX71P377O9R2BEDY895OQY.uasset'
+[2025.02.15-17.30.21:317][359]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/B5/TT79ISYNYSUR8J61Q2BCXE
+[2025.02.15-17.30.21:317][359]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/TT79ISYNYSUR8J61Q2BCXEB858BFD6499FDDF8D1FB9AAF12BBE607.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/B5/TT79ISYNYSUR8J61Q2BCXE.uasset'
+[2025.02.15-17.30.21:319][359]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/OD/KOWBZGMRJ5C7DI2EUTXIX7
+[2025.02.15-17.30.21:319][359]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/KOWBZGMRJ5C7DI2EUTXIX7A4D4AB8649BB8A17941E078CBB34A307.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/OD/KOWBZGMRJ5C7DI2EUTXIX7.uasset'
+[2025.02.15-17.30.21:321][359]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/21/J43D4T1L90DP6NT3IWKB9K
+[2025.02.15-17.30.21:321][359]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/J43D4T1L90DP6NT3IWKB9K037997CB48B624070C4CA0B68D503764.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/21/J43D4T1L90DP6NT3IWKB9K.uasset'
+[2025.02.15-17.30.21:323][359]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/G6/CHZHPUJ5QO7PT7WUQ2MZEE
+[2025.02.15-17.30.21:323][359]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/CHZHPUJ5QO7PT7WUQ2MZEE0E9C00474F60D182EC9F91BBE539B810.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/G6/CHZHPUJ5QO7PT7WUQ2MZEE.uasset'
+[2025.02.15-17.30.21:325][359]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/CW/RCXVMUI35KS4YE2WEOJ3XZ
+[2025.02.15-17.30.21:325][359]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/RCXVMUI35KS4YE2WEOJ3XZ3317F37247E223FDEB75CCB13688EBBF.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/CW/RCXVMUI35KS4YE2WEOJ3XZ.uasset'
+[2025.02.15-17.30.21:328][359]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/BA/3DW300I6682GD28WGPAQ6Q
+[2025.02.15-17.30.21:328][359]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/3DW300I6682GD28WGPAQ6Q7D3518CE4C9B79455C33D980D85D625C.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/BA/3DW300I6682GD28WGPAQ6Q.uasset'
+[2025.02.15-17.30.21:330][359]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/IX/N6WAXN6NFHBC0PGE2LJPCM
+[2025.02.15-17.30.21:330][359]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/N6WAXN6NFHBC0PGE2LJPCMA9ADE35D4CBE90BB58F1EDBA20B6514C.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/IX/N6WAXN6NFHBC0PGE2LJPCM.uasset'
+[2025.02.15-17.30.21:350][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 1.30 sec)
+[2025.02.15-17.30.21:357][359]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-17.30.21:357][359]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1572820472
+[2025.02.15-17.30.21:357][359]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A34C02_1572823473
+[2025.02.15-17.30.21:357][359]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1572825474
+[2025.02.15-17.30.21:357][359]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1572825475
+[2025.02.15-17.30.21:357][359]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1572827476
+[2025.02.15-17.30.21:357][359]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1586971477
+[2025.02.15-17.30.21:357][359]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A34C02_1586974478
+[2025.02.15-17.30.21:357][359]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1586975479
+[2025.02.15-17.30.21:357][359]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1586976480
+[2025.02.15-17.30.21:357][359]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A34C02_1586977481
+[2025.02.15-17.30.56:186][362]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-17.31.30:711][414]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-17.31.51:045][624]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-17.33.13:673][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.33.13:735][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.15-17.33.13:748][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.15-17.33.13:763][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.15-17.33.13:765][550]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/GM/Y2POZYIP7IXOG0K5JUQ4UR
+[2025.02.15-17.33.13:766][550]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/Y2POZYIP7IXOG0K5JUQ4URDF7365714B9CDD92D2A4AAA41810C153.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/GM/Y2POZYIP7IXOG0K5JUQ4UR.uasset'
+[2025.02.15-17.33.13:767][550]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/33/F15244IR2SQKA0ELCJRYKT
+[2025.02.15-17.33.13:767][550]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/F15244IR2SQKA0ELCJRYKT533B82B34C5812A465E82FA5A058EDBB.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/33/F15244IR2SQKA0ELCJRYKT.uasset'
+[2025.02.15-17.33.13:769][550]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/0V/QT1BFNNHTHUEUKHUCUNX0J
+[2025.02.15-17.33.13:769][550]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/QT1BFNNHTHUEUKHUCUNX0J238B23CA45138F32B2CC4A8DD8F8291D.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/0V/QT1BFNNHTHUEUKHUCUNX0J.uasset'
+[2025.02.15-17.33.13:771][550]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/9G/7D6QGBPP4K1063IC2BUGA1
+[2025.02.15-17.33.13:771][550]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/7D6QGBPP4K1063IC2BUGA153DC24854FE49D55163DDA9D56FCD85B.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/9G/7D6QGBPP4K1063IC2BUGA1.uasset'
+[2025.02.15-17.33.13:772][550]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/QY/8GQBDM8GA5BYX1IYE13GA6
+[2025.02.15-17.33.13:773][550]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/8GQBDM8GA5BYX1IYE13GA69EB4CA164B55A6CC4E54D295B4EB3012.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/QY/8GQBDM8GA5BYX1IYE13GA6.uasset'
+[2025.02.15-17.33.13:775][550]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/BN/NFP0H596OGQS682JLYQJTR
+[2025.02.15-17.33.13:775][550]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/NFP0H596OGQS682JLYQJTR526D49CC4CB6F07AB76EAEA1204674B2.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/BN/NFP0H596OGQS682JLYQJTR.uasset'
+[2025.02.15-17.33.13:804][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 1.43 sec)
+[2025.02.15-17.33.13:811][550]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-17.33.13:811][550]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2124236282
+[2025.02.15-17.33.13:811][550]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2124239285
+[2025.02.15-17.33.13:811][550]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2141089286
+[2025.02.15-17.33.13:811][550]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2141092287
+[2025.02.15-17.33.13:811][550]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1101061467
+[2025.02.15-17.33.13:811][550]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A34C02_1101064468
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: ================================================
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Total job queries 48, among them cache hits 18 (37.50%)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Tracking 29 distinct input hashes that result in 29 distinct outputs (100.00%)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: RAM used: 763.88 KiB of 819.20 MiB budget. Usage: 0.09%
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Jobs assigned 7, completed 6 (85.71%)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Average time worker was idle: 624.74 s
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Job execution time: average 1.91 s, max 2.94 s
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Job life time (pending + execution): average 1.98 s, max 3.00
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Shader code size: average 35.738 KiB, min 31.047 KiB, max 40.82 KiB
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.26 s
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Average processing rate: 0.96 jobs/sec
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Total thread time: 0.975 s
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Total thread preprocess time: 0.179 s
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Percentage time preprocessing: 18.38%
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Effective parallelization: 0.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.19 sec, max 0.20 sec, min 0.17 sec)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display:             TShadowDepthPSPixelShadowDepth_OnePassPointLight (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 57.46% of total time (compiled    3 times, average 0.19 sec, max 0.20 sec, min 0.17 sec)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 22.90% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 11.43% of total time (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display:             TShadowDepthPSPixelShadowDepth_OnePassPointLight - 8.22% of total time (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2025.02.15-17.34.10:198][894]LogShaderCompilers: Display: ================================================
+[2025.02.15-17.34.29:737][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2042.437500
+[2025.02.15-17.34.29:904][ 72]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-17.34.29:904][ 72]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2042.589355, Update Interval: 333.696106
+[2025.02.15-17.35.12:923][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.02.15-17.35.12:929][633]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E_Auto1
+[2025.02.15-17.35.12:929][633]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/AVYR9X4WMZ17CYT0IZVW9E_Auto1AC1CC64D493B21967F3EF2997DACB63A.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/Autosaves/Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E_Auto1.uasset'
+[2025.02.15-17.35.12:931][633]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR_Auto1
+[2025.02.15-17.35.12:931][633]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/FFKWS1ZC5WVUQR593Y7PAR_Auto181DA37F1424C218157270BBC516074E2.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/Autosaves/Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR_Auto1.uasset'
+[2025.02.15-17.35.12:932][633]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Environment/FirstPerson/Maps/FirstPersonMap' took 0.029
+[2025.02.15-17.35.12:932][633]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2025.02.15-17.36.51:155][515]Cmd: TRANSACTION UNDO
+[2025.02.15-17.36.51:155][515]LogEditorTransaction: Undo Edit Shadow Slope Bias
+[2025.02.15-17.38.04:824][914]Cmd: TRANSACTION UNDO
+[2025.02.15-17.38.04:824][914]LogEditorTransaction: Undo Edit Light Falloff Exponent
+[2025.02.15-17.40.31:930][712]Cmd: TRANSACTION UNDO
+[2025.02.15-17.40.31:930][712]LogEditorTransaction: Undo Edit Shadow Slope Bias
+[2025.02.15-17.40.34:753][869]Cmd: TRANSACTION UNDO
+[2025.02.15-17.40.34:753][869]LogEditorTransaction: Undo Edit Shadow Bias
+[2025.02.15-17.40.38:912][117]Cmd: TRANSACTION UNDO
+[2025.02.15-17.40.38:912][117]LogEditorTransaction: Undo Edit Shadow Resolution Scale
+[2025.02.15-17.40.59:027][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2431.730225
+[2025.02.15-17.40.59:195][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-17.40.59:195][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2431.880127, Update Interval: 318.104187
+[2025.02.15-17.41.33:564][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.41.33:615][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.15-17.41.33:633][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.15-17.41.33:647][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.15-17.41.33:650][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E
+[2025.02.15-17.41.33:650][376]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/AVYR9X4WMZ17CYT0IZVW9E69917E43482ABBB32905CB949F9FC106.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/2Y/AVYR9X4WMZ17CYT0IZVW9E.uasset'
+[2025.02.15-17.41.33:651][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR
+[2025.02.15-17.41.33:652][376]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/FFKWS1ZC5WVUQR593Y7PAR89DC51464918F28EF42912B78952A4E8.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR.uasset'
+[2025.02.15-17.41.33:653][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/33/F15244IR2SQKA0ELCJRYKT
+[2025.02.15-17.41.33:653][376]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/F15244IR2SQKA0ELCJRYKTB2692E8B460D714BC60510BB65878E9B.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/33/F15244IR2SQKA0ELCJRYKT.uasset'
+[2025.02.15-17.41.33:673][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.54 sec)
+[2025.02.15-17.41.33:680][376]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-17.41.33:680][376]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2041867277
+[2025.02.15-17.41.33:680][376]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2041872280
+[2025.02.15-17.41.33:680][376]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2124239285
+[2025.02.15-17.42.17:075][945]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-17.42.57:217][347]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-17.44.06:384][487]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-17.44.24:269][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.44.24:324][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.02.15-17.44.24:342][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.15-17.44.24:358][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.02.15-17.44.24:361][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/21/J43D4T1L90DP6NT3IWKB9K
+[2025.02.15-17.44.24:361][556]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/J43D4T1L90DP6NT3IWKB9K118477674F435E0922F47A8F718C970B.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/21/J43D4T1L90DP6NT3IWKB9K.uasset'
+[2025.02.15-17.44.24:362][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/G6/CHZHPUJ5QO7PT7WUQ2MZEE
+[2025.02.15-17.44.24:363][556]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/CHZHPUJ5QO7PT7WUQ2MZEE1DE9C735444C6F4648F402A4FAFCBA89.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/G6/CHZHPUJ5QO7PT7WUQ2MZEE.uasset'
+[2025.02.15-17.44.24:379][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1.65 sec)
+[2025.02.15-17.44.24:386][556]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-17.44.24:386][556]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1586971477
+[2025.02.15-17.44.24:386][556]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A34C02_1586974478
+[2025.02.15-17.44.28:021][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.15-17.44.28:027][772]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.15-17.44.28:027][772]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.02.15-17.44.28:085][772]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 58 ms (total: 119 ms)
+[2025.02.15-17.44.28:085][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.15-17.44.28:086][772]PIE: New page: PIE session: FirstPersonMap (15 Feb 2025, 17:44:28)
+[2025.02.15-17.44.28:114][772]LogPlayLevel: Creating play world package: /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.15-17.44.28:501][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.386872s)
+[2025.02.15-17.44.28:501][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.386927s)
+[2025.02.15-17.44.28:515][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.02.15-17.44.28:516][772]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-17.44.28:516][772]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.15-17.44.28:517][772]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.02.15-17.44.28:519][772]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.15-17.44.28:519][772]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.15-17.44.28:519][772]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.15-17.44.28:519][772]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.15-17.44.28:615][772]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.02.15-17.44.28:615][772]LogWorldPartition: Display: WorldPartition initialize took 95 ms (total: 24.9 sec)
+[2025.02.15-17.44.28:615][772]LogPlayLevel: PIE: World Init took: (0.098480s)
+[2025.02.15-17.44.28:615][772]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.02.15-17.44.28:615][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.15-17.44.28:615][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.15-17.44.28:615][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.15-17.44.28:615][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.15-17.44.28:615][772]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.15-17.44.28:615][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.15-17.44.28:615][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.15-17.44.28:615][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.15-17.44.28:616][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.15-17.44.28:616][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.15-17.44.28:616][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.15-17.44.28:618][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.15-17.44.28:706][772]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.15-17.44.28:706][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.15-17.44.28:707][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.15-17.44.28:707][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.15-17.44.28:708][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.02.15-17.44.28:708][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.02.15-17.44.28:709][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.02.15-17.44.28:709][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.02.15-17.44.28:709][772]LogInit: FAudioDevice initialized with ID 3.
+[2025.02.15-17.44.28:709][772]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2025.02.15-17.44.28:709][772]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.15-17.44.28:713][772]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.15-17.44.28:756][772]LogWorld: Bringing World /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.02.15-17.44.28
+[2025.02.15-17.44.28:757][772]LogWorld: Bringing up level for play took: 0.043333
+[2025.02.15-17.44.28:759][772]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.02.15-17.44.28:764][772]PIE: Server logged in
+[2025.02.15-17.44.28:764][772]PIE: Play in editor total start time 0.737 seconds.
+[2025.02.15-17.44.44:754][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-17.44.44:754][726]LogWorld: BeginTearingDown for /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.15-17.44.44:756][726]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-17.44.44:767][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-17.44.44:767][726]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.02.15-17.44.44:770][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.15-17.44.44:775][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-17.44.44:796][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-17.44.44:803][726]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.15-17.44.44:803][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.15-17.44.44:805][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.15-17.44.44:830][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.02.15-17.44.44:912][727]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.02.15-17.45.06:397][  9]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.15-17.45.06:402][  9]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.15-17.45.06:402][  9]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.02.15-17.45.06:460][  9]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 58 ms (total: 177 ms)
+[2025.02.15-17.45.06:460][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.15-17.45.06:460][  9]PIE: New page: PIE session: FirstPersonMap (15 Feb 2025, 17:45:06)
+[2025.02.15-17.45.06:494][  9]LogPlayLevel: Creating play world package: /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.15-17.45.06:855][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.361236s)
+[2025.02.15-17.45.06:856][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.361290s)
+[2025.02.15-17.45.06:870][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.02.15-17.45.06:872][  9]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-17.45.06:872][  9]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.15-17.45.06:872][  9]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.02.15-17.45.06:874][  9]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.15-17.45.06:874][  9]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.15-17.45.06:874][  9]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.15-17.45.06:874][  9]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.15-17.45.06:959][  9]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.02.15-17.45.06:959][  9]LogWorldPartition: Display: WorldPartition initialize took 84 ms (total: 24.9 sec)
+[2025.02.15-17.45.06:959][  9]LogPlayLevel: PIE: World Init took: (0.087571s)
+[2025.02.15-17.45.06:959][  9]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.02.15-17.45.06:959][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.15-17.45.06:959][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.15-17.45.06:959][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.15-17.45.06:959][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.15-17.45.06:959][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.15-17.45.06:959][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.15-17.45.06:959][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.15-17.45.06:959][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.15-17.45.06:960][  9]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.15-17.45.06:960][  9]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.15-17.45.06:960][  9]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.15-17.45.06:961][  9]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.15-17.45.07:056][  9]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.15-17.45.07:056][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.15-17.45.07:056][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.15-17.45.07:056][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.15-17.45.07:057][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.02.15-17.45.07:057][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.02.15-17.45.07:059][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.02.15-17.45.07:059][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.02.15-17.45.07:059][  9]LogInit: FAudioDevice initialized with ID 4.
+[2025.02.15-17.45.07:059][  9]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2025.02.15-17.45.07:059][  9]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.15-17.45.07:063][  9]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.15-17.45.07:108][  9]LogWorld: Bringing World /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.02.15-17.45.07
+[2025.02.15-17.45.07:110][  9]LogWorld: Bringing up level for play took: 0.045390
+[2025.02.15-17.45.07:112][  9]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.02.15-17.45.07:114][  9]PIE: Server logged in
+[2025.02.15-17.45.07:115][  9]PIE: Play in editor total start time 0.713 seconds.
+[2025.02.15-17.46.22:514][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-17.46.22:514][522]LogWorld: BeginTearingDown for /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.15-17.46.22:515][522]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-17.46.22:526][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-17.46.22:527][522]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.02.15-17.46.22:531][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.15-17.46.22:536][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-17.46.22:560][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-17.46.22:571][522]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.15-17.46.22:571][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.15-17.46.22:574][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.15-17.46.22:592][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.15-17.46.22:674][523]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.02.15-17.46.24:858][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.46.24:909][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.15-17.46.24:927][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.15-17.46.24:939][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.15-17.46.24:967][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.76 sec)
+[2025.02.15-17.46.51:776][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.46.51:823][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.15-17.46.51:839][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.15-17.46.51:851][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.15-17.46.51:871][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1.85 sec)
+[2025.02.15-17.47.02:121][844]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2794.810547
+[2025.02.15-17.47.02:277][853]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-17.47.02:277][853]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2794.957520, Update Interval: 300.439453
+[2025.02.15-17.52.35:455][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3128.141357
+[2025.02.15-17.52.36:455][262]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-17.52.36:455][262]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3128.807617, Update Interval: 315.113983
+[2025.02.15-17.56.35:476][274]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-17.56.36:813][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.56.36:943][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.15-17.56.36:960][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.15-17.56.36:976][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.15-17.56.36:978][353]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/21/J43D4T1L90DP6NT3IWKB9K
+[2025.02.15-17.56.36:979][353]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/J43D4T1L90DP6NT3IWKB9K45484E224FCB14F711B1C885992154F3.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/21/J43D4T1L90DP6NT3IWKB9K.uasset'
+[2025.02.15-17.56.36:998][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 2.04 sec)
+[2025.02.15-17.56.37:004][353]AssetCheck: New page: Asset Save: PointLight_UAID_C87F54CA0DD2A34C02_1586971477
+[2025.02.15-17.56.37:004][353]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1586971477
+[2025.02.15-17.56.50:683][121]Cmd: DUPLICATE
+[2025.02.15-17.56.50:683][121]Cmd: ACTOR DUPLICATE
+[2025.02.15-17.56.53:475][284]Cmd: TRANSACTION UNDO
+[2025.02.15-17.56.53:475][284]LogEditorTransaction: Undo Duplicate Elements
+[2025.02.15-17.56.54:879][349]Cmd: TRANSACTION UNDO
+[2025.02.15-17.56.54:879][349]LogEditorTransaction: Undo Move Elements
+[2025.02.15-17.56.59:520][589]Cmd: DUPLICATE
+[2025.02.15-17.56.59:520][589]Cmd: ACTOR DUPLICATE
+[2025.02.15-17.57.34:997][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.57.35:046][703]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A54C02_1107745835 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/RN/QBGN56Y99A6UJZ84PO8XLI.PackageMetaData in its package
+[2025.02.15-17.57.35:046][703]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A54C02_1107742834 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/IJ/AL8D47MKPV57TJUSH36411.PackageMetaData in its package
+[2025.02.15-17.57.35:049][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.02.15-17.57.35:064][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.02.15-17.57.35:080][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.15-17.57.35:083][703]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/GM/Y2POZYIP7IXOG0K5JUQ4UR
+[2025.02.15-17.57.35:083][703]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/Y2POZYIP7IXOG0K5JUQ4URFAD7D1DB43E776F6D9EA14B470466B97.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/GM/Y2POZYIP7IXOG0K5JUQ4UR.uasset'
+[2025.02.15-17.57.35:084][703]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/V9/03WPR3UP8CFZSTJFWUUIKQ
+[2025.02.15-17.57.35:085][703]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/03WPR3UP8CFZSTJFWUUIKQC38D55C54C777B310822B48B59BF199C.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/V9/03WPR3UP8CFZSTJFWUUIKQ.uasset'
+[2025.02.15-17.57.35:086][703]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/8A/VNNK1HKMDYZLHBHPPQC83Y
+[2025.02.15-17.57.35:086][703]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/VNNK1HKMDYZLHBHPPQC83Y4E07B79C4AE19AD19863628839153A09.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/8A/VNNK1HKMDYZLHBHPPQC83Y.uasset'
+[2025.02.15-17.57.35:089][703]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/A/8B/TKZKFG2UDCB3KJLDD1BASG
+[2025.02.15-17.57.35:089][703]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/TKZKFG2UDCB3KJLDD1BASG47B426484FE1419EFDF98BA98E81B474.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/A/8B/TKZKFG2UDCB3KJLDD1BASG.uasset'
+[2025.02.15-17.57.35:091][703]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/4/NR/V5PTLX8JLDQ0PSCJR9H8W6
+[2025.02.15-17.57.35:091][703]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/V5PTLX8JLDQ0PSCJR9H8W6CD2371DC48B1FDECBFD896BE968E1699.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/4/NR/V5PTLX8JLDQ0PSCJR9H8W6.uasset'
+[2025.02.15-17.57.35:094][703]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/5/KU/YTA3SHW1FUWYQS6K3FCAPY
+[2025.02.15-17.57.35:094][703]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/YTA3SHW1FUWYQS6K3FCAPY7A15FFE048B01ACBD21FABA3C70B64CF.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/5/KU/YTA3SHW1FUWYQS6K3FCAPY.uasset'
+[2025.02.15-17.57.35:113][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 2.15 sec)
+[2025.02.15-17.57.35:119][703]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-17.57.35:119][703]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2124236282
+[2025.02.15-17.57.35:119][703]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A54C02_1116586836
+[2025.02.15-17.57.35:119][703]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A54C02_1116590837
+[2025.02.15-17.57.35:119][703]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A54C02_1116592838
+[2025.02.15-17.57.35:119][703]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2A54C02_1116593839
+[2025.02.15-17.57.35:119][703]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A54C02_1116594840
+[2025.02.15-17.57.35:137][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.15-17.57.51:024][581]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Environment/Bar_Assets/Models/SM_Stage_01.SM_Stage_01
+[2025.02.15-17.57.51:068][581]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-17.57.51:068][581]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.15-17.57.51:603][581]LogViewport: Scene viewport resized to 566x987, mode Windowed.
+[2025.02.15-17.57.52:965][651]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Environment/Bar_Assets/Materials/MI_Prop_04.MI_Prop_04
+[2025.02.15-17.57.52:986][651]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-17.57.52:986][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.15-17.57.53:190][651]LogViewport: Scene viewport resized to 300x987, mode Windowed.
+[2025.02.15-17.57.56:087][809]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Environment/Bar_Assets/Textures/T_Prop_04_A.T_Prop_04_A
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: ================================================
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Total job queries 56, among them cache hits 18 (32.14%)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 38 distinct outputs (100.00%)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: RAM used: 969.46 KiB of 819.20 MiB budget. Usage: 0.12%
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Shaders Compiled: 7
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Average time worker was idle: 624.74 s
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Job execution time: average 1.68 s, max 2.94 s
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Job life time (pending + execution): average 1.76 s, max 3.00
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Shader code size: average 36.23 KiB, min 31.047 KiB, max 40.82 KiB
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.36 s
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Average processing rate: 1.10 jobs/sec
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Total thread time: 1.146 s
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Total thread preprocess time: 0.196 s
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Percentage time preprocessing: 17.13%
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Effective parallelization: 0.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.19 sec, max 0.20 sec, min 0.17 sec)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display:             TShadowDepthPSPixelShadowDepth_OnePassPointLight (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 48.89% of total time (compiled    3 times, average 0.19 sec, max 0.20 sec, min 0.17 sec)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 19.48% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight - 14.92% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 9.72% of total time (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display:             TShadowDepthPSPixelShadowDepth_OnePassPointLight - 6.99% of total time (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2025.02.15-17.57.56:265][809]LogShaderCompilers: Display: ================================================
+[2025.02.15-17.57.56:301][809]LogViewport: Scene viewport resized to 636x982, mode Windowed.
+[2025.02.15-17.58.04:666][228]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive
+[2025.02.15-17.58.04:803][228]LogViewport: Scene viewport resized to 636x982, mode Windowed.
+[2025.02.15-17.58.09:511][483]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.10:903][536]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.12:542][601]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.14:482][688]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.15:848][742]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.18:023][840]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.23:238][125]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.24:689][182]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.25:865][224]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.28:033][327]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.29:765][404]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.35:847][740]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.38:483][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3491.167969
+[2025.02.15-17.58.38:753][883]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.39:085][884]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-17.58.39:085][884]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3491.317383, Update Interval: 336.733917
+[2025.02.15-17.58.40:237][952]Cmd: TRANSACTION UNDO
+[2025.02.15-17.58.40:237][952]LogEditorTransaction: Undo Edit Brightness Curve
+[2025.02.15-17.58.42:165][ 35]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.44:472][145]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.47:174][279]LogTexture: Display: Building textures: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2025.02.15-17.58.53:659][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-17.58.53:762][648]LogSavePackage: Moving output files for package: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive
+[2025.02.15-17.58.53:763][648]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/T_Prop_04_Emissive5A757CCE4F8049894B047E96D141C04F.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.uasset'
+[2025.02.15-17.58.53:775][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.27 sec)
+[2025.02.15-17.58.53:778][648]AssetCheck: New page: Asset Save: T_Prop_04_Emissive
+[2025.02.15-17.58.53:778][648]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive
+[2025.02.15-18.00.55:288][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_1829812263 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/6O/VSFXL16S3RRIMTYVFZ5KKO.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2174C02_1304137830 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/26/Y24CNEJT56T7PT6LJVSKYG.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2724C02_1273904818 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/I9/UD6FCGXLNMPY9RU5EWZ07O.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2174C02_1304144833 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/VE/5XCLZ5QRM3GBW5A7EX496X.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2164C02_2046854646 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/H4/L8EM97VSAFCIW7Q94WI1E7.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2164C02_2046861648 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/4W/8M0OE1MM07FEEJFYKWMJOE.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2164C02_2046858647 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/1I/VLDN7Q5RLYOON8DYPZMLMV.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2724C02_1273910820 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/56/9EOWF56WQVSR7HIIAAGUBA.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2174C02_1304141831 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/6V/GMT2SPPLDN5XGEWUB9310R.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD20B4C02_1165384696 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/2G/AZ9G37DHXODDNFYAL26BMA.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2154C02_1975666454 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/9J/YDMJO79C8LO5VIJS73GEOT.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2164C02_1118419631 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/IL/7J0OHQHMMS1FUZ3FYEZMWZ.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2164C02_1598002640 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/SW/VZ9AH2Z836F1VW5YVO0CS4.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD20B4C02_1278784699 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/TN/V4MKXTMEADCRI45S0QZZMD.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2174C02_1207652828 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/YO/G7V15EDCRQP6C9TCJ92G82.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2164C02_2128413649 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/2A/9LPYTCZK6EGTSFVFZ5D773.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2164C02_1213154639 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/BG/QTW8S829X136747BRDR0RV.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2974A02_1100624216 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/ZF/T2HZ1C1W5LCFYOU0PIXYR2.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2164C02_1127782633 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/J8/VW25WX8JANZZEJ21P5AV0T.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2164C02_1140408636 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/G2/5S2X1T3SGLSYFW9807U70W.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2164C02_1140401634 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/7J/RV95UWJ8KEXZYCQYIKOFP2.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2164C02_1140405635 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/JX/VJ3V12MRQP38WEAP4MKYDO.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2164C02_1213147637 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/4/G9/8CHQ0VMGMB3NMYD2US137L.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2724C02_1273907819 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/5/GM/382FG96M8H7IC5DHIAUHPK.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD20B4C02_1083796695 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/GO/UQETT08D8W29RFKQ4LJFJU.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2104C02_2101586571 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/MK/MANG0QPN4LP3Z46Z1ZIXIN.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2164C02_1122728632 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/8/L2/Z7X25QV1AZ183S4YLTFGW0.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2174C02_1304142832 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/0A/WBD5VXYCO0312LGEKDF3PX.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2174C02_1218588829 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/CT/FDHX2XP00GSJYKJXY04L2K.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2164C02_1598009642 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/5Z/TEI4S3PTKZM57O9TKGLJYK.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2164C02_1598006641 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/A/ZK/1UZ0W5PKGR6CIQLHP32185.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2164C02_1213152638 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/38/AS0X6VZBJE47T9KJK8NG0N.PackageMetaData in its package
+[2025.02.15-18.00.55:330][873]LogWorldPartition: Actor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2104C02_1303541569 is unreachable without properly detaching object /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/3N/2OWQB7ESYMQ03YK7OJ0YMA.PackageMetaData in its package
+[2025.02.15-18.00.55:334][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.02.15-18.00.55:341][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.15-18.00.55:347][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.15-18.00.55:349][873]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/M8/642XYQ0JI52DVMGWAC8BSZ
+[2025.02.15-18.00.55:349][873]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/642XYQ0JI52DVMGWAC8BSZ96DB95EF452495FA251295A477B01472.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/9/M8/642XYQ0JI52DVMGWAC8BSZ.uasset'
+[2025.02.15-18.00.55:351][873]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/OD/KOWBZGMRJ5C7DI2EUTXIX7
+[2025.02.15-18.00.55:351][873]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/KOWBZGMRJ5C7DI2EUTXIX7A27D7CF745C7E2FFB25A5A99301E9525.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/OD/KOWBZGMRJ5C7DI2EUTXIX7.uasset'
+[2025.02.15-18.00.55:354][873]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/21/J43D4T1L90DP6NT3IWKB9K
+[2025.02.15-18.00.55:354][873]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/J43D4T1L90DP6NT3IWKB9K03F7456B41360CEEF6DD009CF8FAB86C.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/21/J43D4T1L90DP6NT3IWKB9K.uasset'
+[2025.02.15-18.00.55:364][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.34 sec)
+[2025.02.15-18.00.55:370][873]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-18.00.55:370][873]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A34C02_1572823473
+[2025.02.15-18.00.55:370][873]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1572827476
+[2025.02.15-18.00.55:370][873]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1586971477
+[2025.02.15-18.00.55:377][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.15-18.01.27:247][757]Cmd: TRANSACTION UNDO
+[2025.02.15-18.01.27:247][757]LogEditorTransaction: Undo Move Elements
+[2025.02.15-18.02.23:682][ 81]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-18.02.36:589][849]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-18.03.13:077][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.03.13:109][ 33]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/VD/SSSCADNK2MZ9VEKAAWSYN1
+[2025.02.15-18.03.13:111][ 33]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/SSSCADNK2MZ9VEKAAWSYN1A46F23F34D959CE233EBAF91067E9A4A.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/VD/SSSCADNK2MZ9VEKAAWSYN1.uasset'
+[2025.02.15-18.03.13:113][ 33]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/GM/Y2POZYIP7IXOG0K5JUQ4UR
+[2025.02.15-18.03.13:113][ 33]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/Y2POZYIP7IXOG0K5JUQ4URB485A7974507957301282E901A370DD7.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/B/GM/Y2POZYIP7IXOG0K5JUQ4UR.uasset'
+[2025.02.15-18.03.13:115][ 33]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/33/F15244IR2SQKA0ELCJRYKT
+[2025.02.15-18.03.13:116][ 33]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/F15244IR2SQKA0ELCJRYKT871C8D9649FB7BFE4207DF9CA8292278.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/33/F15244IR2SQKA0ELCJRYKT.uasset'
+[2025.02.15-18.03.13:118][ 33]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/88/9S8N61DGQLOYC7AR3GV4RV
+[2025.02.15-18.03.13:119][ 33]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/9S8N61DGQLOYC7AR3GV4RV46A6FB1C4B268A64F1E327B503F88365.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/C/88/9S8N61DGQLOYC7AR3GV4RV.uasset'
+[2025.02.15-18.03.13:130][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 2.40 sec)
+[2025.02.15-18.03.13:136][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-18.03.13:137][ 33]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD20A4C02_2067312518
+[2025.02.15-18.03.13:137][ 33]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_2124236282
+[2025.02.15-18.03.13:137][ 33]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2124239285
+[2025.02.15-18.03.13:137][ 33]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_1898059265
+[2025.02.15-18.03.20:662][474]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-18.03.32:709][182]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.147 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 45118 files in 44074 folders with total size 7548 MiB.
+[2025.02.15-18.04.33:183][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.04.33:208][797]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/0V/QT1BFNNHTHUEUKHUCUNX0J
+[2025.02.15-18.04.33:209][797]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/QT1BFNNHTHUEUKHUCUNX0JF88EA3CD48C26673CEFFDEAFF99AFFAE.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/0V/QT1BFNNHTHUEUKHUCUNX0J.uasset'
+[2025.02.15-18.04.33:212][797]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/QY/8GQBDM8GA5BYX1IYE13GA6
+[2025.02.15-18.04.33:213][797]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/8GQBDM8GA5BYX1IYE13GA694BA9D78410E08B75084FA8BE4FD8779.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/0/QY/8GQBDM8GA5BYX1IYE13GA6.uasset'
+[2025.02.15-18.04.33:214][797]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/YY/JAGAW148XRA9173E42XJ0Y
+[2025.02.15-18.04.33:215][797]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/JAGAW148XRA9173E42XJ0YBEE654944EF5F2ABBC1B73A41C679555.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/7/YY/JAGAW148XRA9173E42XJ0Y.uasset'
+[2025.02.15-18.04.33:223][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 2.44 sec)
+[2025.02.15-18.04.33:228][797]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-18.04.33:228][797]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2141089286
+[2025.02.15-18.04.33:228][797]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1101061467
+[2025.02.15-18.04.33:229][797]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A24C02_1862638264
+[2025.02.15-18.04.51:412][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.04.51:442][883]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR
+[2025.02.15-18.04.51:442][883]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/FFKWS1ZC5WVUQR593Y7PARA571A19144B5A662099C749354DAE8F3.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR.uasset'
+[2025.02.15-18.04.51:451][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 2.48 sec)
+[2025.02.15-18.04.51:455][883]AssetCheck: New page: Asset Save: PointLight_UAID_C87F54CA0DD2A24C02_2041872280
+[2025.02.15-18.04.51:455][883]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2041872280
+[2025.02.15-18.04.52:690][957]Cmd: TRANSACTION UNDO
+[2025.02.15-18.04.52:690][957]LogEditorTransaction: Undo Edit Intensity
+[2025.02.15-18.04.54:002][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.04.54:040][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR
+[2025.02.15-18.04.54:040][ 15]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/FFKWS1ZC5WVUQR593Y7PARCCF07E7B43D4D6206139BD941AD1938D.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/D/CB/FFKWS1ZC5WVUQR593Y7PAR.uasset'
+[2025.02.15-18.04.54:048][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 2.52 sec)
+[2025.02.15-18.04.54:053][ 15]AssetCheck: New page: Asset Save: PointLight_UAID_C87F54CA0DD2A24C02_2041872280
+[2025.02.15-18.04.54:053][ 15]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2041872280
+[2025.02.15-18.05.06:203][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3878.896484
+[2025.02.15-18.05.06:352][748]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-18.05.06:352][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3879.029297, Update Interval: 315.652344
+[2025.02.15-18.05.33:429][334]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-18.05.52:554][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.05.52:588][477]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/5/KU/YTA3SHW1FUWYQS6K3FCAPY
+[2025.02.15-18.05.52:588][477]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/YTA3SHW1FUWYQS6K3FCAPYC4168208438C0B0E02B03B8838B1D81A.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/5/KU/YTA3SHW1FUWYQS6K3FCAPY.uasset'
+[2025.02.15-18.05.52:590][477]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/8A/VNNK1HKMDYZLHBHPPQC83Y
+[2025.02.15-18.05.52:591][477]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/VNNK1HKMDYZLHBHPPQC83Y869CC94D41F45A3D158E2D9CF0C4A94D.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/6/8A/VNNK1HKMDYZLHBHPPQC83Y.uasset'
+[2025.02.15-18.05.52:599][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 2.57 sec)
+[2025.02.15-18.05.52:605][477]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.15-18.05.52:605][477]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A54C02_1116594840
+[2025.02.15-18.05.52:605][477]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_C87F54CA0DD2A54C02_1116590837
+[2025.02.15-18.06.38:732][230]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-18.06.51:843][ 12]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-18.06.52:645][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.06.52:677][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/OD/KOWBZGMRJ5C7DI2EUTXIX7
+[2025.02.15-18.06.52:677][ 59]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/KOWBZGMRJ5C7DI2EUTXIX741E903884E6215C82018B7BE45372650.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/3/OD/KOWBZGMRJ5C7DI2EUTXIX7.uasset'
+[2025.02.15-18.06.52:686][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 2.61 sec)
+[2025.02.15-18.06.52:691][ 59]AssetCheck: New page: Asset Save: PointLight_UAID_C87F54CA0DD2A34C02_1572827476
+[2025.02.15-18.06.52:691][ 59]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A34C02_1572827476
+[2025.02.15-18.07.57:890][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.07.57:922][961]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/29/FH83ZPK17249P1JM6JZ7EG
+[2025.02.15-18.07.57:922][961]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/FH83ZPK17249P1JM6JZ7EG73F2C6BF40223B75BB2876A11924C3F6.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/E/29/FH83ZPK17249P1JM6JZ7EG.uasset'
+[2025.02.15-18.07.57:933][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 2.65 sec)
+[2025.02.15-18.07.57:938][961]AssetCheck: New page: Asset Save: PointLight_UAID_C87F54CA0DD20A4C02_1410433517
+[2025.02.15-18.07.57:938][961]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD20A4C02_1410433517
+[2025.02.15-18.08.31:045][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.08.31:073][929]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/5/KU/YTA3SHW1FUWYQS6K3FCAPY
+[2025.02.15-18.08.31:074][929]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/YTA3SHW1FUWYQS6K3FCAPYFA061D2F444316108EAFE4BDB8834280.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/5/KU/YTA3SHW1FUWYQS6K3FCAPY.uasset'
+[2025.02.15-18.08.31:080][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 2.69 sec)
+[2025.02.15-18.08.31:086][929]AssetCheck: New page: Asset Save: PointLight_UAID_C87F54CA0DD2A54C02_1116594840
+[2025.02.15-18.08.31:086][929]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A54C02_1116594840
+[2025.02.15-18.09.03:776][869]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-18.09.04:556][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.09.04:595][915]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/0V/QT1BFNNHTHUEUKHUCUNX0J
+[2025.02.15-18.09.04:596][915]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/QT1BFNNHTHUEUKHUCUNX0J0D137CAC4AB6E6F0CE84CCB9935CEC70.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/2/0V/QT1BFNNHTHUEUKHUCUNX0J.uasset'
+[2025.02.15-18.09.04:604][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 2.73 sec)
+[2025.02.15-18.09.04:610][915]AssetCheck: New page: Asset Save: PointLight_UAID_C87F54CA0DD2A24C02_2141089286
+[2025.02.15-18.09.04:610][915]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD2A24C02_2141089286
+[2025.02.15-18.09.49:613][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.09.49:647][603]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/VD/SSSCADNK2MZ9VEKAAWSYN1
+[2025.02.15-18.09.49:648][603]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/SSSCADNK2MZ9VEKAAWSYN1CC3F5CE543BC6523072009B95A1FEBD8.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/VD/SSSCADNK2MZ9VEKAAWSYN1.uasset'
+[2025.02.15-18.09.49:658][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 2.78 sec)
+[2025.02.15-18.09.49:662][603]AssetCheck: New page: Asset Save: PointLight_UAID_C87F54CA0DD20A4C02_2067312518
+[2025.02.15-18.09.49:662][603]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD20A4C02_2067312518
+[2025.02.15-18.10.01:965][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-18.10.01:996][334]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/VD/SSSCADNK2MZ9VEKAAWSYN1
+[2025.02.15-18.10.01:996][334]LogSavePackage: Moving '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Saved/SSSCADNK2MZ9VEKAAWSYN189A5E9E342DF6FA6846C9EACA2C86B3E.tmp' to '../../../../Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Environment/FirstPerson/Maps/FirstPersonMap/1/VD/SSSCADNK2MZ9VEKAAWSYN1.uasset'
+[2025.02.15-18.10.02:003][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 2.81 sec)
+[2025.02.15-18.10.02:008][334]AssetCheck: New page: Asset Save: PointLight_UAID_C87F54CA0DD20A4C02_2067312518
+[2025.02.15-18.10.02:008][334]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_C87F54CA0DD20A4C02_2067312518
+[2025.02.15-18.10.14:499][ 76]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.15-18.10.14:505][ 76]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.15-18.10.14:505][ 76]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.02.15-18.10.14:564][ 76]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 59 ms (total: 237 ms)
+[2025.02.15-18.10.14:564][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.15-18.10.14:565][ 76]PIE: New page: PIE session: FirstPersonMap (15 Feb 2025, 18:10:14)
+[2025.02.15-18.10.14:565][ 76]LogPlayLevel: Creating play world package: /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.15-18.10.14:937][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.372142s)
+[2025.02.15-18.10.14:937][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.372185s)
+[2025.02.15-18.10.14:948][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.15-18.10.14:953][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.15-18.10.14:953][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.15-18.10.14:953][ 76]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.02.15-18.10.14:955][ 76]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.15-18.10.14:955][ 76]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.15-18.10.14:955][ 76]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.15-18.10.14:955][ 76]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.15-18.10.15:041][ 76]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.02.15-18.10.15:041][ 76]LogWorldPartition: Display: WorldPartition initialize took 85 ms (total: 25.0 sec)
+[2025.02.15-18.10.15:041][ 76]LogPlayLevel: PIE: World Init took: (0.088480s)
+[2025.02.15-18.10.15:041][ 76]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.02.15-18.10.15:041][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.15-18.10.15:041][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.15-18.10.15:041][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.15-18.10.15:041][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.15-18.10.15:041][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.15-18.10.15:041][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.15-18.10.15:041][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.15-18.10.15:041][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.15-18.10.15:042][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.15-18.10.15:042][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.15-18.10.15:042][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.15-18.10.15:043][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.15-18.10.15:144][ 76]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.15-18.10.15:144][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.15-18.10.15:144][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.15-18.10.15:144][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.15-18.10.15:146][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.02.15-18.10.15:146][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.02.15-18.10.15:147][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.02.15-18.10.15:147][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.02.15-18.10.15:147][ 76]LogInit: FAudioDevice initialized with ID 5.
+[2025.02.15-18.10.15:147][ 76]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2025.02.15-18.10.15:147][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.15-18.10.15:151][ 76]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.15-18.10.15:196][ 76]LogWorld: Bringing World /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.02.15-18.10.15
+[2025.02.15-18.10.15:197][ 76]LogWorld: Bringing up level for play took: 0.043837
+[2025.02.15-18.10.15:199][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.02.15-18.10.15:202][ 76]PIE: Server logged in
+[2025.02.15-18.10.15:203][ 76]PIE: Play in editor total start time 0.698 seconds.
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: ================================================
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Total job queries 83, among them cache hits 42 (50.60%)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Tracking 41 distinct input hashes that result in 41 distinct outputs (100.00%)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: RAM used: 1.06 MiB of 819.20 MiB budget. Usage: 0.13%
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Shaders Compiled: 7
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Average time worker was idle: 624.74 s
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Job execution time: average 1.68 s, max 2.94 s
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Job life time (pending + execution): average 1.76 s, max 3.00
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Shader code size: average 36.23 KiB, min 31.047 KiB, max 40.82 KiB
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.36 s
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Average processing rate: 1.10 jobs/sec
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Total thread time: 1.146 s
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Total thread preprocess time: 0.196 s
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Percentage time preprocessing: 17.13%
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Effective parallelization: 0.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.19 sec, max 0.20 sec, min 0.17 sec)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display:             TShadowDepthPSPixelShadowDepth_OnePassPointLight (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 48.89% of total time (compiled    3 times, average 0.19 sec, max 0.20 sec, min 0.17 sec)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 19.48% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight - 14.92% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 9.72% of total time (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display:             TShadowDepthPSPixelShadowDepth_OnePassPointLight - 6.99% of total time (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2025.02.15-18.10.15:247][ 76]LogShaderCompilers: Display: ================================================
+[2025.02.15-18.10.59:581][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4232.248535
+[2025.02.15-18.10.59:748][691]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-18.10.59:748][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4232.398926, Update Interval: 308.234497
+[2025.02.15-18.11.05:941][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-18.11.05:941][ 60]LogWorld: BeginTearingDown for /Game/Environment/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.15-18.11.05:944][ 60]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-18.11.05:954][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-18.11.05:955][ 60]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.02.15-18.11.05:957][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.15-18.11.05:962][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-18.11.05:967][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-18.11.05:977][ 60]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.15-18.11.05:977][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.15-18.11.05:980][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.15-18.11.05:999][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.02.15-18.11.06:076][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.02.15-18.13.09:278][446]LogViewport: Scene viewport resized to 1399x1025, mode Windowed.
+[2025.02.15-18.13.09:295][447]LogViewport: Scene viewport resized to 1400x1025, mode Windowed.
+[2025.02.15-18.13.09:311][448]LogViewport: Scene viewport resized to 1410x1025, mode Windowed.
+[2025.02.15-18.13.09:330][449]LogViewport: Scene viewport resized to 1425x1025, mode Windowed.
+[2025.02.15-18.13.09:350][450]LogViewport: Scene viewport resized to 1440x1025, mode Windowed.
+[2025.02.15-18.13.09:370][451]LogViewport: Scene viewport resized to 1469x1025, mode Windowed.
+[2025.02.15-18.13.09:390][452]LogViewport: Scene viewport resized to 1488x1025, mode Windowed.
+[2025.02.15-18.13.09:458][453]LogViewport: Scene viewport resized to 1555x1025, mode Windowed.
+[2025.02.15-18.13.09:480][454]LogViewport: Scene viewport resized to 1565x1025, mode Windowed.
+[2025.02.15-18.13.09:501][455]LogViewport: Scene viewport resized to 1567x1025, mode Windowed.
+[2025.02.15-18.13.09:522][456]LogViewport: Scene viewport resized to 1577x1025, mode Windowed.
+[2025.02.15-18.13.09:540][457]LogViewport: Scene viewport resized to 1589x1025, mode Windowed.
+[2025.02.15-18.13.09:565][458]LogViewport: Scene viewport resized to 1606x1025, mode Windowed.
+[2025.02.15-18.13.09:586][459]LogViewport: Scene viewport resized to 1623x1025, mode Windowed.
+[2025.02.15-18.13.09:611][460]LogViewport: Scene viewport resized to 1637x1025, mode Windowed.
+[2025.02.15-18.13.09:635][461]LogViewport: Scene viewport resized to 1649x1025, mode Windowed.
+[2025.02.15-18.13.09:656][462]LogViewport: Scene viewport resized to 1660x1025, mode Windowed.
+[2025.02.15-18.13.09:682][463]LogViewport: Scene viewport resized to 1669x1025, mode Windowed.
+[2025.02.15-18.13.09:740][466]LogViewport: Scene viewport resized to 1670x1025, mode Windowed.
+[2025.02.15-18.13.09:766][467]LogViewport: Scene viewport resized to 1669x1025, mode Windowed.
+[2025.02.15-18.16.50:775][939]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4583.432617
+[2025.02.15-18.16.51:776][942]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-18.16.51:776][942]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4584.099609, Update Interval: 350.177917
+[2025.02.15-18.23.18:817][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4971.477051
+[2025.02.15-18.23.19:817][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-18.23.19:817][ 22]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4972.144043, Update Interval: 347.004608
