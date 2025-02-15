@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\harry\\documents\\uni\\advanced specialised project\\7-sins\\project_7_sins\\source\\project_7_sins\\project_7_sins.cpp",
+        "Source": "c:\\users\\asus\\documents\\github\\7-sins\\project_7_sins\\source\\project_7_sins\\project_7_sins.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\harry\\documents\\uni\\advanced specialised project\\7-sins\\project_7_sins\\intermediate\\build\\win64\\x64\\project_7_sinseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\asus\\documents\\github\\7-sins\\project_7_sins\\intermediate\\build\\win64\\x64\\project_7_sinseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\harry\\documents\\uni\\advanced specialised project\\7-sins\\project_7_sins\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_7_sins\\definitions.project_7_sins.h",
-            "c:\\users\\harry\\documents\\uni\\advanced specialised project\\7-sins\\project_7_sins\\source\\project_7_sins\\project_7_sins.h"
+            "c:\\users\\asus\\documents\\github\\7-sins\\project_7_sins\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_7_sins\\definitions.project_7_sins.h",
+            "c:\\users\\asus\\documents\\github\\7-sins\\project_7_sins\\source\\project_7_sins\\project_7_sins.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

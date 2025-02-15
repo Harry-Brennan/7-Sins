@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Project_7_Sins.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\Project_7_SinsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_Sins.init.gen.cpp.obj"
+"C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_SinsCharacter.gen.cpp.obj"
+"C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_SinsGameMode.gen.cpp.obj"
+"C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_Sins.cpp.obj"
+"C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_SinsCharacter.cpp.obj"
+"C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_SinsGameMode.cpp.obj"
+"C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Default.rc2.res"
+/OUT:"C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\UnrealEditor-Project_7_Sins.lib"
