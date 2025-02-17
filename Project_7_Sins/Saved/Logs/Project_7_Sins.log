@@ -9975,3 +9975,193 @@ Script Stack (0 frames) :
 [2025.02.16-21.45.02:243][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 15.4 sec)
 [2025.02.16-21.45.02:243][ 64]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
 [2025.02.16-21.45.02:243][ 64]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.16-21.54.32:539][140]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.034 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23113 files in 25680 folders with total size 2408 MiB.
+[2025.02.16-22.54.31:654][936]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:44.148 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23113 files in 25680 folders with total size 2408 MiB.
+[2025.02.16-23.31.25:463][576]LogViewport: Scene viewport resized to 924x401, mode Windowed.
+[2025.02.16-23.31.25:812][576]LogViewport: Scene viewport resized to 1390x652, mode Windowed.
+[2025.02.16-23.32.36:238][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2025.02.16-23.32.36:245][419]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.112
+[2025.02.16-23.32.36:247][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind] ([2] browsable assets)...
+[2025.02.16-23.32.36:247][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind]
+[2025.02.16-23.32.36:290][419]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind_Auto4
+[2025.02.16-23.32.36:291][419]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind_Auto436B3D05C4DE4D5CB67C5F597956E6231.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind_Auto4.uasset'
+[2025.02.16-23.32.36:292][419]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.02.16-23.32.42:318][818]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.16-23.32.42:650][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.02.16-23.32.43:160][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.16-23.32.43:164][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-23.32.43:221][845]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.16-23.32.43:222][845]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind9208DFF744A1993BABF05AB99D89E257.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.16-23.32.43:231][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 15.5 sec)
+[2025.02.16-23.32.43:234][845]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.16-23.32.43:234][845]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.16-23.33.45:216][179]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.16-23.33.45:480][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.16-23.33.57:376][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.02.16-23.33.57:381][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-23.33.57:449][ 75]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.16-23.33.57:450][ 75]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind1F712E834F96821C1018DB986A199705.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.16-23.33.57:471][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 15.6 sec)
+[2025.02.16-23.33.57:474][ 75]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.16-23.33.57:474][ 75]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.16-23.34.15:318][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.16-23.34.15:323][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-23.34.15:380][349]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.16-23.34.15:380][349]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindBD2B2680495F7A0EA4520C83C4A30FD7.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.16-23.34.15:389][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 15.6 sec)
+[2025.02.16-23.34.15:391][349]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.16-23.34.15:391][349]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.16-23.34.15:975][397]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.16-23.34.16:236][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.16-23.34.41:521][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.16-23.34.41:917][291]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.16-23.34.42:184][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.16-23.54.32:588][131]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.082 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23113 files in 25680 folders with total size 2408 MiB.
+[2025.02.17-00.10.19:554][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.02.17-00.10.19:560][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.10.19:619][459]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.10.19:620][459]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindD01EF08B4147BDC3AA7D5E8B65A29F09.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.10.19:629][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 15.7 sec)
+[2025.02.17-00.10.19:631][459]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.10.19:631][459]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.10.32:501][198]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.17-00.10.32:784][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.17-00.11.08:524][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.17-00.11.08:527][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.015
+[2025.02.17-00.11.08:527][393]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind] ([2] browsable assets)...
+[2025.02.17-00.11.08:527][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind]
+[2025.02.17-00.11.08:558][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind_Auto5
+[2025.02.17-00.11.08:558][393]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind_Auto5959E20404A7B7A8E90B192B5B118E61A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind_Auto5.uasset'
+[2025.02.17-00.11.08:560][393]LogFileHelpers: Auto-saving content packages took 0.033
+[2025.02.17-00.15.03:908][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.02.17-00.15.03:912][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.15.03:977][991]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.15.03:977][991]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind23769ACC4FF8675085F10DBAD449CFA4.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.15.03:989][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 15.8 sec)
+[2025.02.17-00.15.03:992][991]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.15.03:992][991]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.15.05:148][ 80]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.17-00.15.05:425][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.02.17-00.15.19:624][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.17-00.15.19:628][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.15.19:687][197]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.15.19:687][197]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind405DF1E140AA8724CA1EAFB47E6B0CA9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.15.19:697][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 15.9 sec)
+[2025.02.17-00.15.19:700][197]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.15.19:700][197]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.15.56:184][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.02.17-00.15.56:189][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.15.56:251][833]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.15.56:251][833]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind312900D3444A5B36C3CA7EB41643B833.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.15.56:261][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 15.9 sec)
+[2025.02.17-00.15.56:263][833]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.15.56:263][833]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.16.29:164][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.02.17-00.16.29:169][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.16.29:232][197]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.16.29:233][197]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindE75DD058451C141AEDBC11A4993B9D09.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.16.29:244][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 16.0 sec)
+[2025.02.17-00.16.29:246][197]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.16.29:246][197]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.16.32:526][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.17-00.16.32:530][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.16.32:584][459]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.16.32:585][459]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind11980E314500962D970E819CE039680E.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.16.32:595][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 16.1 sec)
+[2025.02.17-00.16.32:596][459]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.16.32:596][459]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.16.32:760][472]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.17-00.16.33:035][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.02.17-00.16.35:493][665]LogEditorTransaction: Undo Delete current selection
+[2025.02.17-00.16.47:095][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.02.17-00.16.47:099][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.16.47:152][621]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.16.47:153][621]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind090F46B849BD50014E54DEB57B09627F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.16.47:162][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 16.1 sec)
+[2025.02.17-00.16.47:164][621]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.16.47:164][621]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.16.48:265][716]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.17-00.16.48:537][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.17-00.17.18:151][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.17-00.17.18:155][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.17.18:213][916]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.17.18:214][916]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind264FE0954F8303124EADA38EFBF6AC86.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.17.18:224][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 16.2 sec)
+[2025.02.17-00.17.18:226][916]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.17.18:226][916]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.17.36:051][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.17-00.17.36:055][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.17.36:109][325]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.17.36:110][325]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind630C03B94BDA57CC97B142A796792789.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.17.36:119][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 16.3 sec)
+[2025.02.17-00.17.36:121][325]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.17.36:121][325]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.17.44:890][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.17-00.17.44:894][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.17.44:951][ 68]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.17.44:952][ 68]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindB2FE4FD64B80A5FC5418E4BE26A11297.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.17.44:962][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 16.3 sec)
+[2025.02.17-00.17.44:966][ 68]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.17.44:966][ 68]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.17.45:279][ 94]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.17-00.17.45:552][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.02.17-00.18.01:260][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.17-00.18.01:264][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.18.01:318][402]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.18.01:319][402]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind6050C1DF4A915CFC485D2D8A43643503.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.18.01:329][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 16.4 sec)
+[2025.02.17-00.18.01:331][402]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.18.01:331][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.18.11:825][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.17-00.18.11:830][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.18.11:884][243]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.18.11:885][243]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind727C4C3F4EB0FE547CC3ADBEFA4DBD72.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.18.11:895][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 16.5 sec)
+[2025.02.17-00.18.11:897][243]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.18.11:897][243]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.19.41:615][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.02.17-00.19.41:619][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.19.41:684][897]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.19.41:685][897]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindE8CADE0D4EFC8DDE8B64A0877682EDA0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.19.41:694][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 16.5 sec)
+[2025.02.17-00.19.41:696][897]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.19.41:696][897]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.19.42:023][924]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.17-00.19.42:305][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.17-00.22.47:400][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.02.17-00.22.47:405][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.22.47:465][189]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.22.47:465][189]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind1DF219A54A403F429CE0B7ADC84056BF.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.22.47:475][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 16.6 sec)
+[2025.02.17-00.22.47:477][189]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.22.47:477][189]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.22.47:704][207]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.17-00.22.48:003][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.17-00.22.49:604][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.17-00.22.49:608][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.22.49:664][328]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.22.49:665][328]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindD8554D4E4A3F4FEB90B0FABC9FF23A1D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.22.49:676][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 16.7 sec)
+[2025.02.17-00.22.49:678][328]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.22.49:678][328]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.22.50:227][380]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.17-00.22.50:514][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.02.17-00.41.29:211][771]LogViewport: Scene viewport resized to 924x401, mode Windowed.
+[2025.02.17-00.41.29:525][771]LogViewport: Scene viewport resized to 1390x652, mode Windowed.
+[2025.02.17-00.41.32:640][ 66]LogSlate: Window 'BPC_NPC_Decision_Mind' being destroyed
+[2025.02.17-00.42.42:974][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.17-00.42.42:976][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.024
+[2025.02.17-00.42.42:977][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind] ([2] browsable assets)...
+[2025.02.17-00.42.42:977][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind]
+[2025.02.17-00.42.43:008][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind_Auto6
+[2025.02.17-00.42.43:009][345]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind_Auto6F01C729545674B1D50C84983A7B55B76.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind_Auto6.uasset'
+[2025.02.17-00.42.43:009][345]LogFileHelpers: Auto-saving content packages took 0.033
+[2025.02.17-00.42.49:362][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.17-00.42.49:367][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-00.42.49:422][750]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.17-00.42.49:422][750]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind5D605DC14676B214C434B79958AB7A96.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.17-00.42.49:431][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 16.7 sec)
+[2025.02.17-00.42.49:431][750]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.17-00.42.49:431][750]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.17-00.42.50:025][816]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.17-00.42.50:319][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
