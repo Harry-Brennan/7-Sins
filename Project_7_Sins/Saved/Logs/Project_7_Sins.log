@@ -3953,3 +3953,197 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.19-20.56.08:628][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 21.9 sec)
 [2025.02.19-20.56.08:631][217]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
 [2025.02.19-20.56.08:631][217]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-21.06.18:082][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.02.19-21.06.18:086][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.06.18:245][800]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-21.06.18:246][800]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindC88F9BF84EC700F36716968455C93352.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-21.06.18:254][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 22.1 sec)
+[2025.02.19-21.06.18:256][800]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-21.06.18:256][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-21.06.22:499][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.02.19-21.06.22:503][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.06.22:667][307]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-21.06.22:667][307]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindC0E515D543BAEEAE83F5BD9EA00D8767.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-21.06.22:674][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 22.3 sec)
+[2025.02.19-21.06.22:676][307]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-21.06.22:676][307]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-21.06.23:849][448]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-21.06.23:952][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.19-21.07.02:988][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.19-21.07.02:996][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.07.03:161][ 35]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-21.07.03:161][ 35]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind476D46C74145553FEF4F56A7ECDF3D6C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-21.07.03:167][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 22.5 sec)
+[2025.02.19-21.07.03:170][ 35]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-21.07.03:170][ 35]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-21.07.04:059][142]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-21.07.04:159][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.19-21.07.42:843][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.19-21.07.42:849][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.07.42:904][708]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.07.42:905][708]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager68AEC97447FEA3157DF13A95736A3EF6.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.07.42:913][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 22.5 sec)
+[2025.02.19-21.07.42:915][708]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.07.42:915][708]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.07.43:333][758]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.07.43:418][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-21.08.04:472][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.02.19-21.08.04:479][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.08.04:536][212]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.08.04:536][212]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerA3CF2552430F454C1A29BE8DB2AE19D3.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.08.04:542][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 22.6 sec)
+[2025.02.19-21.08.04:545][212]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.08.04:545][212]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.08.05:737][355]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.08.05:762][355]LogClass: Warning: Type mismatch in NPC Doubt Timers of BP_I_Doubt_It_Game_Manager_C - Previous (ArrayProperty) Current(MapProperty) for package:  FObjectReader
+[2025.02.19-21.08.05:820][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.19-21.08.29:757][184]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.08.29:821][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.19-21.08.56:136][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.02.19-21.08.56:138][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.017
+[2025.02.19-21.08.56:139][637]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager] ([2] browsable assets)...
+[2025.02.19-21.08.56:139][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager]
+[2025.02.19-21.08.56:170][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager_Auto6
+[2025.02.19-21.08.56:170][637]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager_Auto69C0306D744DFD3780B5547AA673A9075.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager_Auto6.uasset'
+[2025.02.19-21.08.56:171][637]LogFileHelpers: Auto-saving content packages took 0.032
+[2025.02.19-21.11.34:605][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.02.19-21.11.34:613][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.11.34:671][691]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.11.34:671][691]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager6F4F5AC84C1238163E1B7BBA22248961.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.11.34:677][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 22.7 sec)
+[2025.02.19-21.11.34:679][691]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.11.34:679][691]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.11.35:534][794]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.11.35:599][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.02.19-21.12.44:320][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.19-21.12.44:325][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.12.44:388][826]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.12.44:388][826]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager38840A29491A733B1934E288C2D668B9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.12.44:394][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 22.7 sec)
+[2025.02.19-21.12.44:395][826]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.12.44:395][826]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.12.44:810][876]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.12.44:836][876]LogClass: Warning: Type mismatch in NPC Doubt Timers of BP_I_Doubt_It_Game_Manager_C - Previous (MapProperty) Current(ArrayProperty) for package:  FObjectReader
+[2025.02.19-21.12.44:874][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.19-21.13.07:819][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.19-21.13.07:824][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.13.07:881][576]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.13.07:882][576]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager0D482781437BF6EEF1FC24AA22EEBD84.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.13.07:888][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 22.8 sec)
+[2025.02.19-21.13.07:890][576]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.13.07:890][576]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.13.08:266][621]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.13.08:355][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.19-21.13.21:693][210]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:41.167 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 21675 files in 24292 folders with total size 2283 MiB.
+[2025.02.19-21.13.49:783][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.19-21.13.49:790][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.13.49:852][544]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.13.49:852][544]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerF66DB10C4653C4A1046331A3CE4DC331.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.13.49:861][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 22.9 sec)
+[2025.02.19-21.13.49:862][544]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.13.49:862][544]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.13.51:628][756]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.13.51:720][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.02.19-21.14.11:618][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.19-21.14.11:624][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.14.11:682][ 72]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.14.11:683][ 72]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager718C15C94B7CC3DF281D098C7ECCC262.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.14.11:689][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 22.9 sec)
+[2025.02.19-21.14.11:691][ 72]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.14.11:691][ 72]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.14.13:620][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.19-21.14.13:624][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.14.13:681][300]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.14.13:682][300]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerA1365582432149AA383F4B994A398300.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.14.13:689][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 23.0 sec)
+[2025.02.19-21.14.13:690][300]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.14.13:690][300]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.14.14:447][389]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.14.14:533][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.19-21.14.33:606][600]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.02.19-21.14.35:444][782]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.02.19-21.14.47:642][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.19-21.14.47:647][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.14.47:809][232]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-21.14.47:809][232]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind4058D96B4B5187473185BF97BA16D6C7.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-21.14.47:817][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 23.2 sec)
+[2025.02.19-21.14.47:821][232]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-21.14.47:821][232]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-21.14.48:335][294]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-21.14.48:438][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.19-21.15.30:191][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-21.15.30:195][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.15.30:358][ 22]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-21.15.30:358][ 22]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind8509A2DE4D00C6C9DA8983A4C6A7562D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-21.15.30:366][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 23.3 sec)
+[2025.02.19-21.15.30:369][ 22]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-21.15.30:369][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-21.15.31:606][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.02.19-21.15.31:610][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.15.31:771][169]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-21.15.31:772][169]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind6795394B4F6063C9BDBD5FB518831853.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-21.15.31:780][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 23.5 sec)
+[2025.02.19-21.15.31:783][169]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-21.15.31:783][169]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-21.15.32:263][227]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-21.15.32:368][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.02.19-21.15.57:569][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-21.15.57:576][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.15.57:633][228]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.15.57:634][228]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager5FF0EC8C41541F3BB997D8BAA8EDBDD1.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.15.57:641][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 23.6 sec)
+[2025.02.19-21.15.57:642][228]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.15.57:642][228]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.16.00:342][552]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.16.00:417][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.19-21.17.13:568][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.19-21.17.13:576][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.17.13:638][807]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.17.13:639][807]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager7D054E574090BE950D9FFD8C3ABE507E.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.17.13:645][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 23.6 sec)
+[2025.02.19-21.17.13:647][807]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.17.13:647][807]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.17.26:229][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.19-21.17.26:234][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.17.26:293][267]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.17.26:293][267]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager27CD62384E9CB4244ADCFFB924EFE167.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.17.26:299][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 23.7 sec)
+[2025.02.19-21.17.26:302][267]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.17.26:302][267]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.18.06:116][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.02.19-21.18.06:121][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.18.06:183][921]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.18.06:183][921]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerB526E7934FDC797557E31EA8F502ED31.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.18.06:190][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 23.8 sec)
+[2025.02.19-21.18.06:191][921]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.18.06:191][921]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.18.08:356][181]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.18.08:427][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.02.19-21.32.47:758][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.02.19-21.32.47:762][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.32.47:824][306]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.32.47:824][306]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerE52B5A8C45C717B201F852B168A44D1B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.32.47:832][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 23.8 sec)
+[2025.02.19-21.32.47:834][306]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.32.47:834][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.32.48:214][350]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.32.48:285][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.19-21.33.02:268][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.19-21.33.02:272][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.33.02:334][993]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.33.02:335][993]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager17C411B74088907A030E13BDFCCB3EAF.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.33.02:341][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 23.9 sec)
+[2025.02.19-21.33.02:343][993]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.33.02:343][993]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.33.03:153][ 90]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.33.03:225][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.19-21.35.10:696][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.19-21.35.10:699][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-21.35.10:764][ 63]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.35.10:764][ 63]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager3D54936347A404B70D1A19A4884D1707.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-21.35.10:772][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 24.0 sec)
+[2025.02.19-21.35.10:773][ 63]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.35.10:773][ 63]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-21.38.07:889][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.02.19-21.38.07:889][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-21.38.07:889][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
