@@ -4147,3 +4147,1461 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.19-21.38.07:889][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPCs/BP_NPC.BP_NPC
 [2025.02.19-21.38.07:889][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2025.02.19-21.38.07:889][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.13.22:616][966]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:42.090 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 21675 files in 24292 folders with total size 2283 MiB.
+[2025.02.19-22.31.41:604][811]LogViewport: Scene viewport resized to 924x401, mode Windowed.
+[2025.02.19-22.31.41:907][811]LogViewport: Scene viewport resized to 1390x652, mode Windowed.
+[2025.02.19-22.31.42:839][918]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.31.42:845][918]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.31.42:845][918]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.31.42:846][918]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 14 ms)
+[2025.02.19-22.31.42:846][918]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.02.19-22.31.42:858][918]LogPlayLevel: [PlayLevel] Compiling BP_I_Doubt_It_Game_Manager before play...
+[2025.02.19-22.31.43:108][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.19-22.31.43:111][918]LogPlayLevel: PlayLevel: Blueprint regeneration took 264 ms (1 blueprints)
+[2025.02.19-22.31.43:111][918]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:31:43)
+[2025.02.19-22.31.43:135][918]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.31.43:140][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005145s)
+[2025.02.19-22.31.43:140][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005245s)
+[2025.02.19-22.31.43:151][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.19-22.31.43:152][918]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.31.43:152][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.31.43:152][918]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.31.43:153][918]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.31.43:153][918]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.31.43:153][918]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.31.43:153][918]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.31.43:154][918]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.31.43:154][918]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 450 ms)
+[2025.02.19-22.31.43:154][918]LogPlayLevel: PIE: World Init took: (0.002410s)
+[2025.02.19-22.31.43:154][918]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.02.19-22.31.43:154][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.31.43:154][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.31.43:154][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.31.43:154][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.31.43:154][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.31.43:154][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.31.43:154][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.31.43:154][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.31.43:155][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.31.43:155][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.31.43:155][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.31.43:157][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.31.43:178][918]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.31.43:178][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.31.43:178][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.31.43:178][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.31.43:178][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.02.19-22.31.43:178][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=11
+[2025.02.19-22.31.43:180][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.02.19-22.31.43:180][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.02.19-22.31.43:180][918]LogInit: FAudioDevice initialized with ID 11.
+[2025.02.19-22.31.43:180][918]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.31.43:180][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.02.19-22.31.43:184][918]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.31.43:188][918]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.31.43
+[2025.02.19-22.31.43:189][918]LogWorld: Bringing up level for play took: 0.002905
+[2025.02.19-22.31.43:190][918]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.02.19-22.31.43:216][918]PIE: Server logged in
+[2025.02.19-22.31.43:217][918]PIE: Play in editor total start time 0.372 seconds.
+[2025.02.19-22.31.44:688][ 83]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.31.44:688][ 83]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.31.44:689][ 83]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC2 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.31.44:689][ 83]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 2
+[2025.02.19-22.31.44:689][ 83]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.31.44:690][ 83]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.31.44:690][ 83]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.31.46:138][257]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.31.46:138][257]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.31.46:180][262]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS NOT GOING TO BLUFF
+[2025.02.19-22.31.46:180][262]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.31.46:180][262]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.31.46:180][262]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Two OF Diamonds
+[2025.02.19-22.31.46:180][262]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.31.50:314][758]LogBlueprintUserMessages: [BP_Card_C_24] 1.0
+[2025.02.19-22.31.50:881][826]LogBlueprintUserMessages: [BP_Card_C_36] 1.0
+[2025.02.19-22.31.51:623][915]LogBlueprintUserMessages: [BP_Card_C_28] 1.0
+[2025.02.19-22.31.52:106][973]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Current turn: BP_NPC1
+[2025.02.19-22.31.52:106][973]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.31.53:598][152]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO BLUFF
+[2025.02.19-22.31.53:598][152]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] NUMBER OF CORRECT CARDS HELD BY PLAYER OR EXPERT NPCS : 4
+[2025.02.19-22.31.53:598][152]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] AMOUNT OF CARDS ATTEMPT TO PLAY EXPERT : 2
+[2025.02.19-22.31.53:598][152]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 WILL PLAY Ten OF Diamonds
+[2025.02.19-22.31.53:598][152]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 WILL PLAY Three OF Clubs
+[2025.02.19-22.31.53:598][152]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Current turn: BP_NPC2
+[2025.02.19-22.31.53:598][152]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.31.55:090][331]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS GOING TO BLUFF
+[2025.02.19-22.31.55:090][331]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] NUMBER OF CORRECT CARDS HELD BY PLAYER OR EXPERT NPCS : 4
+[2025.02.19-22.31.55:090][331]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] AMOUNT OF CARDS ATTEMPT TO PLAY EXPERT : 2
+[2025.02.19-22.31.55:090][331]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY King OF Hearts
+[2025.02.19-22.31.55:090][331]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Queen OF Spades
+[2025.02.19-22.31.55:090][331]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.31.55:090][331]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.31.55:090][331]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.31.56:582][510]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO BLUFF
+[2025.02.19-22.31.56:582][510]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] NUMBER OF CORRECT CARDS HELD BY PLAYER OR EXPERT NPCS : 4
+[2025.02.19-22.31.56:582][510]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] AMOUNT OF CARDS ATTEMPT TO PLAY EXPERT : 2
+[2025.02.19-22.31.56:582][510]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Four OF Spades
+[2025.02.19-22.31.56:582][510]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Nine OF Hearts
+[2025.02.19-22.31.56:582][510]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.31.56:582][510]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.31.58:665][760]LogScript: Warning: Script Msg: Attempted to access index -2 from array 'Current Hand' of length 12 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.31.58:665][760]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.32.00:108][933]LogBlueprintUserMessages: [BP_Card_C_38] 1.0
+[2025.02.19-22.32.00:575][989]LogBlueprintUserMessages: [BP_Card_C_17] 1.0
+[2025.02.19-22.32.00:833][ 20]LogBlueprintUserMessages: [BP_Card_C_8] 1.0
+[2025.02.19-22.32.01:701][124]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Current turn: BP_NPC1
+[2025.02.19-22.32.01:701][124]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.32.03:191][303]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS NOT GOING TO BLUFF
+[2025.02.19-22.32.03:192][303]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.32.03:192][303]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.32.03:192][303]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 WILL PLAY Eight OF Diamonds
+[2025.02.19-22.32.03:192][303]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Current turn: BP_NPC2
+[2025.02.19-22.32.03:192][303]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.32.03:192][303]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.32.04:683][482]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS GOING TO BLUFF
+[2025.02.19-22.32.04:684][482]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] NUMBER OF CORRECT CARDS HELD BY PLAYER OR EXPERT NPCS : 3
+[2025.02.19-22.32.04:684][482]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] AMOUNT OF CARDS ATTEMPT TO PLAY EXPERT : 2
+[2025.02.19-22.32.04:684][482]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Seven OF Clubs
+[2025.02.19-22.32.04:684][482]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Jack OF Diamonds
+[2025.02.19-22.32.04:684][482]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.32.04:684][482]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.32.06:175][661]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO BLUFF
+[2025.02.19-22.32.06:175][661]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] NUMBER OF CORRECT CARDS HELD BY PLAYER OR EXPERT NPCS : 1
+[2025.02.19-22.32.06:175][661]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] AMOUNT OF CARDS ATTEMPT TO PLAY EXPERT : 3
+[2025.02.19-22.32.06:175][661]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Five OF Hearts
+[2025.02.19-22.32.06:175][661]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Famine OF Unique
+[2025.02.19-22.32.06:175][661]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Ace OF Clubs
+[2025.02.19-22.32.06:175][661]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.32.06:175][661]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.32.06:175][661]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.32.08:755][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.32.08:755][966]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.32.08:755][966]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.32.08:756][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.32.08:756][966]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.32.08:762][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.32.08:764][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.32.08:780][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.32.08:781][966]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.02.19-22.32.08:781][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.02.19-22.32.08:782][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.02.19-22.32.08:793][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.19-22.32.08:860][967]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.02.19-22.32.29:570][291]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.02.19-22.32.45:927][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.19-22.32.45:931][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.32.46:093][164]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.32.46:093][164]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindE6CEFD7344A821DD95148B8F9E4B1A9E.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.32.46:101][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 24.1 sec)
+[2025.02.19-22.32.46:104][164]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.32.46:104][164]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.32.46:629][227]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-22.32.46:737][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.02.19-22.32.47:572][291]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.32.47:577][291]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.32.47:577][291]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.32.47:578][291]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 15 ms)
+[2025.02.19-22.32.47:578][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-22.32.47:578][291]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:32:47)
+[2025.02.19-22.32.47:605][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.32.47:608][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003600s)
+[2025.02.19-22.32.47:608][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003635s)
+[2025.02.19-22.32.47:624][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.19-22.32.47:628][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.32.47:628][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.32.47:628][291]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.32.47:629][291]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.32.47:629][291]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.32.47:629][291]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.32.47:629][291]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.32.47:630][291]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.32.47:630][291]LogWorldPartition: Display: WorldPartition initialize took 990 us (total: 451 ms)
+[2025.02.19-22.32.47:630][291]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2025.02.19-22.32.47:630][291]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.02.19-22.32.47:630][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.32.47:630][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.32.47:630][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.32.47:630][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.32.47:630][291]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.32.47:630][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.32.47:630][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.32.47:630][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.32.47:631][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.32.47:631][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.32.47:631][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.32.47:632][291]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.32.47:652][291]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.32.47:652][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.32.47:652][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.32.47:652][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.32.47:654][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.02.19-22.32.47:654][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=12
+[2025.02.19-22.32.47:655][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.02.19-22.32.47:655][291]LogInit: FAudioDevice initialized with ID 12.
+[2025.02.19-22.32.47:655][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.02.19-22.32.47:655][291]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.32.47:655][291]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.02.19-22.32.47:657][291]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.32.47:659][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.32.47
+[2025.02.19-22.32.47:659][291]LogWorld: Bringing up level for play took: 0.002503
+[2025.02.19-22.32.47:661][291]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.02.19-22.32.47:683][291]PIE: Server logged in
+[2025.02.19-22.32.47:683][291]PIE: Play in editor total start time 0.107 seconds.
+[2025.02.19-22.32.48:407][371]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.32.48:407][371]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.32.48:408][371]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC2 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.32.48:408][371]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 2
+[2025.02.19-22.32.48:408][371]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.32.48:408][371]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO DOUBT
+[2025.02.19-22.32.48:408][371]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.32.48:408][371]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO DOUBT
+[2025.02.19-22.32.48:408][371]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.32.49:900][550]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS NOT GOING TO BLUFF
+[2025.02.19-22.32.49:900][550]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.32.49:900][550]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.32.49:900][550]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Two OF Spades
+[2025.02.19-22.32.49:900][550]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.32.49:900][550]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO DOUBT
+[2025.02.19-22.32.49:900][550]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.32.51:704][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.32.51:704][763]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.32.51:705][763]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.32.51:706][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.32.51:706][763]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.32.51:710][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.32.51:713][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.32.51:727][763]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.19-22.32.51:728][763]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.02.19-22.32.51:728][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.02.19-22.32.51:730][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.02.19-22.32.51:735][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.32.51:737][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.19-22.32.51:801][764]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.02.19-22.34.03:352][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.02.19-22.34.03:356][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.34.03:522][126]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.34.03:522][126]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind94CAF3C541E8FFB60825E5B88CDF96F4.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.34.03:529][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 24.3 sec)
+[2025.02.19-22.34.03:533][126]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.34.03:533][126]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.34.34:173][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.19-22.34.34:178][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.34.34:337][672]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.34.34:337][672]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind2746C1F94B316F8470873D876922B75C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.34.34:346][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 24.5 sec)
+[2025.02.19-22.34.34:349][672]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.34.34:349][672]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.34.34:619][704]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-22.34.34:725][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.19-22.34.35:852][758]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.34.35:856][758]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.34.35:856][758]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.34.35:857][758]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 17 ms)
+[2025.02.19-22.34.35:857][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-22.34.35:857][758]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:34:35)
+[2025.02.19-22.34.35:894][758]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.34.35:898][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003754s)
+[2025.02.19-22.34.35:898][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003791s)
+[2025.02.19-22.34.35:913][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.19-22.34.35:915][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.34.35:915][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.34.35:916][758]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.34.35:916][758]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.34.35:916][758]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.34.35:917][758]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.34.35:917][758]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.34.35:918][758]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.34.35:918][758]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 452 ms)
+[2025.02.19-22.34.35:918][758]LogPlayLevel: PIE: World Init took: (0.002166s)
+[2025.02.19-22.34.35:918][758]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.02.19-22.34.35:918][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.34.35:918][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.34.35:918][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.34.35:918][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.34.35:918][758]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.34.35:918][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.34.35:918][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.34.35:918][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.34.35:918][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.34.35:918][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.34.35:918][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.34.35:920][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.34.35:939][758]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.34.35:939][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.34.35:939][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.34.35:939][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.34.35:941][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.02.19-22.34.35:941][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=13
+[2025.02.19-22.34.35:942][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.02.19-22.34.35:942][758]LogInit: FAudioDevice initialized with ID 13.
+[2025.02.19-22.34.35:942][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.02.19-22.34.35:942][758]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.34.35:942][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.02.19-22.34.35:944][758]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.34.35:946][758]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.34.35
+[2025.02.19-22.34.35:947][758]LogWorld: Bringing up level for play took: 0.002410
+[2025.02.19-22.34.35:948][758]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.02.19-22.34.35:969][758]PIE: Server logged in
+[2025.02.19-22.34.35:969][758]PIE: Play in editor total start time 0.114 seconds.
+[2025.02.19-22.34.36:812][852]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.34.36:812][852]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.34.36:813][852]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC2 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.34.36:813][852]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 2
+[2025.02.19-22.34.36:813][852]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.34.38:304][ 31]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS NOT GOING TO BLUFF
+[2025.02.19-22.34.38:304][ 31]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.34.38:304][ 31]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.34.38:304][ 31]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Two OF Hearts
+[2025.02.19-22.34.38:304][ 31]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.34.38:305][ 31]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS GOING TO DOUBT
+[2025.02.19-22.34.38:305][ 31]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.34.42:315][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.34.42:315][509]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.34.42:315][509]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.34.42:316][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.34.42:316][509]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.34.42:321][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.34.42:323][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.34.42:338][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.19-22.34.42:340][509]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.02.19-22.34.42:340][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.02.19-22.34.42:343][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.02.19-22.34.42:347][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.34.42:350][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.19-22.34.42:414][510]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.02.19-22.34.42:954][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.19-22.35.02:216][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.02.19-22.35.02:220][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.35.02:382][647]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.35.02:383][647]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind792B8F9B470006612E59EABAE012EDD9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.35.02:391][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 24.7 sec)
+[2025.02.19-22.35.02:395][647]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.35.02:395][647]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.35.11:195][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.19-22.35.11:199][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.35.11:360][692]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.35.11:361][692]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindAAE2049542DBE6051D0F5A837EA9A188.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.35.11:371][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 24.8 sec)
+[2025.02.19-22.35.11:374][692]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.35.11:374][692]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.35.36:528][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.19-22.35.36:531][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.35.36:699][685]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.35.36:700][685]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind1EBD759A4D7FE5F9FCBD79AAFEE3BA76.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.35.36:708][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 25.0 sec)
+[2025.02.19-22.35.36:709][685]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.35.36:709][685]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.35.46:223][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.19-22.35.46:226][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.35.46:392][726]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.35.46:393][726]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind78BB24374E1A66608136C9B81CE7434A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.35.46:401][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 25.2 sec)
+[2025.02.19-22.35.46:402][726]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.35.46:402][726]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.35.46:939][765]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-22.35.47:047][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.19-22.35.48:349][818]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.35.48:354][818]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.35.48:354][818]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.35.48:356][818]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 18 ms)
+[2025.02.19-22.35.48:356][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-22.35.48:356][818]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:35:48)
+[2025.02.19-22.35.48:384][818]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.35.48:388][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003659s)
+[2025.02.19-22.35.48:388][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003693s)
+[2025.02.19-22.35.48:405][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.19-22.35.48:407][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.35.48:407][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.35.48:407][818]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.35.48:407][818]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.35.48:407][818]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.35.48:407][818]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.35.48:407][818]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.35.48:409][818]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.35.48:409][818]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 453 ms)
+[2025.02.19-22.35.48:409][818]LogPlayLevel: PIE: World Init took: (0.002128s)
+[2025.02.19-22.35.48:409][818]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.02.19-22.35.48:409][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.35.48:409][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.35.48:409][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.35.48:409][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.35.48:409][818]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.35.48:409][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.35.48:409][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.35.48:409][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.35.48:409][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.35.48:409][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.35.48:409][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.35.48:411][818]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.35.48:431][818]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.35.48:431][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.35.48:431][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.35.48:431][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.35.48:432][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.02.19-22.35.48:432][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2025.02.19-22.35.48:432][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.02.19-22.35.48:432][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.02.19-22.35.48:432][818]LogInit: FAudioDevice initialized with ID 14.
+[2025.02.19-22.35.48:432][818]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.35.48:432][818]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.02.19-22.35.48:435][818]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.35.48:437][818]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.35.48
+[2025.02.19-22.35.48:438][818]LogWorld: Bringing up level for play took: 0.002333
+[2025.02.19-22.35.48:439][818]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.02.19-22.35.48:460][818]PIE: Server logged in
+[2025.02.19-22.35.48:460][818]PIE: Play in editor total start time 0.106 seconds.
+[2025.02.19-22.35.49:169][896]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.35.49:169][896]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.35.49:170][896]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC2 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.35.49:170][896]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 2
+[2025.02.19-22.35.49:170][896]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.35.50:659][ 75]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS NOT GOING TO BLUFF
+[2025.02.19-22.35.50:659][ 75]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.35.50:660][ 75]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.35.50:660][ 75]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Two OF Diamonds
+[2025.02.19-22.35.50:660][ 75]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.35.50:660][ 75]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO DOUBT
+[2025.02.19-22.35.50:660][ 75]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.35.54:705][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.35.54:705][555]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.35.54:706][555]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.35.54:706][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.35.54:706][555]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.35.54:711][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.35.54:713][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.35.54:728][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.19-22.35.54:729][555]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.02.19-22.35.54:729][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.02.19-22.35.54:731][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.02.19-22.35.54:734][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.35.54:736][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.19-22.35.54:798][556]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.02.19-22.35.55:619][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.19-22.36.33:823][102]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.36.33:937][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.19-22.36.56:376][505]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.36.56:704][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-22.36.56:709][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.36.56:767][540]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.36.56:768][540]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerC6FAE9384C75353850B45A8D3125F113.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-22.36.56:903][540]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.36.56:903][540]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind07E464E84AFB50B37E4C76B35904CF80.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.36.56:910][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 25.4 sec)
+[2025.02.19-22.36.56:914][540]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.19-22.36.56:914][540]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.36.56:914][540]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.36.57:129][566]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.36.57:231][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.02.19-22.37.02:851][ 62]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.37.03:486][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-22.37.03:492][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.37.03:657][134]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.37.03:657][134]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind7411A4F04FD6B4B2739F45A89A16CBC8.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.37.03:664][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 25.6 sec)
+[2025.02.19-22.37.03:668][134]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.37.03:668][134]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.37.04:312][210]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-22.37.04:423][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.02.19-22.37.11:882][923]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.37.12:295][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.19-22.37.12:303][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.37.12:359][968]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.37.12:360][968]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager4BC7997A40F61C8CDAA6A2B1918886B9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-22.37.12:366][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 25.6 sec)
+[2025.02.19-22.37.12:368][968]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.37.12:368][968]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.37.13:244][ 73]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.37.13:345][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.19-22.37.17:274][505]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.37.17:278][505]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.37.17:278][505]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.37.17:280][505]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 19 ms)
+[2025.02.19-22.37.17:280][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-22.37.17:280][505]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:37:17)
+[2025.02.19-22.37.17:325][505]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.37.17:329][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003712s)
+[2025.02.19-22.37.17:329][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003748s)
+[2025.02.19-22.37.17:342][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.19-22.37.17:346][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.37.17:346][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.37.17:346][505]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.37.17:346][505]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.37.17:346][505]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.37.17:346][505]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.37.17:346][505]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.37.17:348][505]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.37.17:348][505]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 455 ms)
+[2025.02.19-22.37.17:348][505]LogPlayLevel: PIE: World Init took: (0.002123s)
+[2025.02.19-22.37.17:348][505]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.02.19-22.37.17:348][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.37.17:348][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.37.17:348][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.37.17:348][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.37.17:348][505]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.37.17:348][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.37.17:348][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.37.17:348][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.37.17:349][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.37.17:349][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.37.17:349][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.37.17:351][505]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.37.17:370][505]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.37.17:370][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.37.17:370][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.37.17:371][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.37.17:372][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.02.19-22.37.17:372][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2025.02.19-22.37.17:373][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.02.19-22.37.17:373][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.02.19-22.37.17:373][505]LogInit: FAudioDevice initialized with ID 15.
+[2025.02.19-22.37.17:373][505]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.37.17:373][505]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.19-22.37.17:374][505]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.37.17:377][505]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.37.17
+[2025.02.19-22.37.17:377][505]LogWorld: Bringing up level for play took: 0.002423
+[2025.02.19-22.37.17:379][505]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.02.19-22.37.17:400][505]PIE: Server logged in
+[2025.02.19-22.37.17:401][505]PIE: Play in editor total start time 0.122 seconds.
+[2025.02.19-22.37.18:215][596]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.37.18:215][596]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.37.18:217][596]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC3 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.37.18:217][596]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 3
+[2025.02.19-22.37.18:217][596]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.37.18:217][596]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.37.20:283][844]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.37.20:283][844]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.37.21:958][ 45]LogBlueprintUserMessages: [BP_Card_C_4] 1.0
+[2025.02.19-22.37.22:900][158]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.37.22:900][158]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Current turn: BP_NPC1
+[2025.02.19-22.37.22:900][158]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO DOUBT
+[2025.02.19-22.37.22:900][158]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.37.24:392][337]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO BLUFF
+[2025.02.19-22.37.24:392][337]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] NUMBER OF CORRECT CARDS HELD BY PLAYER OR EXPERT NPCS : 4
+[2025.02.19-22.37.24:392][337]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] AMOUNT OF CARDS ATTEMPT TO PLAY EXPERT : 2
+[2025.02.19-22.37.24:392][337]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 WILL PLAY King OF Diamonds
+[2025.02.19-22.37.24:392][337]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 WILL PLAY Nine OF Spades
+[2025.02.19-22.37.24:392][337]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.37.24:392][337]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Current turn: BP_NPC2
+[2025.02.19-22.37.24:392][337]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS GOING TO DOUBT
+[2025.02.19-22.37.24:392][337]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.37.25:889][516]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS GOING TO BLUFF
+[2025.02.19-22.37.25:890][516]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] NUMBER OF CORRECT CARDS HELD BY PLAYER OR EXPERT NPCS : 4
+[2025.02.19-22.37.25:890][516]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] AMOUNT OF CARDS ATTEMPT TO PLAY EXPERT : 2
+[2025.02.19-22.37.25:890][516]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Ten OF Hearts
+[2025.02.19-22.37.25:890][516]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Ten OF Clubs
+[2025.02.19-22.37.25:890][516]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.37.25:890][516]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.37.27:381][695]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS NOT GOING TO BLUFF
+[2025.02.19-22.37.27:381][695]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.37.27:381][695]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.37.27:381][695]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Five OF Hearts
+[2025.02.19-22.37.27:381][695]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.37.27:381][695]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.37.27:381][695]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO DOUBT
+[2025.02.19-22.37.27:381][695]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.37.44:055][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.37.44:055][693]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.37.44:056][693]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.37.44:056][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.37.44:056][693]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.37.44:061][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.37.44:063][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.37.44:077][693]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.19-22.37.44:078][693]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.19-22.37.44:078][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.19-22.37.44:080][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.19-22.37.44:084][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.37.44:087][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.19-22.37.44:149][694]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.02.19-22.38.28:057][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-22.38.28:063][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.38.28:092][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.38.28:156][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.02.19-22.38.28:174][  0]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.02.19-22.38.28:175][  0]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPCBB76C71A40FCA7D03BC12F8243706E6F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.02.19-22.38.28:182][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 25.7 sec)
+[2025.02.19-22.38.28:184][  0]AssetCheck: New page: Asset Save: BP_NPC
+[2025.02.19-22.38.28:184][  0]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.02.19-22.38.29:905][206]BlueprintLog: New page: Compile BP_NPC
+[2025.02.19-22.38.30:112][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.02.19-22.38.46:082][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.38.46:087][ 26]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.38.46:088][ 26]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.38.46:088][ 26]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 21 ms)
+[2025.02.19-22.38.46:089][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-22.38.46:089][ 26]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:38:46)
+[2025.02.19-22.38.46:134][ 26]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.38.46:138][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003885s)
+[2025.02.19-22.38.46:138][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003934s)
+[2025.02.19-22.38.46:151][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.19-22.38.46:154][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.38.46:154][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.38.46:154][ 26]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.38.46:155][ 26]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.38.46:155][ 26]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.38.46:155][ 26]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.38.46:155][ 26]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.38.46:156][ 26]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.38.46:156][ 26]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 456 ms)
+[2025.02.19-22.38.46:156][ 26]LogPlayLevel: PIE: World Init took: (0.001985s)
+[2025.02.19-22.38.46:156][ 26]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.02.19-22.38.46:156][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.38.46:156][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.38.46:156][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.38.46:156][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.38.46:156][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.38.46:156][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.38.46:156][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.38.46:156][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.38.46:156][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.38.46:156][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.38.46:156][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.38.46:158][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.38.46:178][ 26]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.38.46:178][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.38.46:178][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.38.46:178][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.38.46:179][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.02.19-22.38.46:179][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2025.02.19-22.38.46:180][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.02.19-22.38.46:180][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.02.19-22.38.46:180][ 26]LogInit: FAudioDevice initialized with ID 16.
+[2025.02.19-22.38.46:180][ 26]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.38.46:180][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.02.19-22.38.46:182][ 26]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.38.46:184][ 26]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.38.46
+[2025.02.19-22.38.46:185][ 26]LogWorld: Bringing up level for play took: 0.002360
+[2025.02.19-22.38.46:186][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.02.19-22.38.46:209][ 26]PIE: Server logged in
+[2025.02.19-22.38.46:210][ 26]PIE: Play in editor total start time 0.123 seconds.
+[2025.02.19-22.38.46:957][109]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.38.46:957][109]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.38.46:958][109]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC2 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.38.46:958][109]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 3
+[2025.02.19-22.38.46:958][109]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.38.46:958][109]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.38.48:382][280]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.38.48:382][280]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.38.52:198][738]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Suit
+[2025.02.19-22.38.52:373][759]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Ascending
+[2025.02.19-22.38.52:373][759]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.38.52:373][759]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.38.52:931][826]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Descending
+[2025.02.19-22.38.52:932][826]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.38.52:932][826]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.38.53:606][907]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Random
+[2025.02.19-22.38.54:173][975]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Suit
+[2025.02.19-22.38.55:523][137]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Ascending
+[2025.02.19-22.38.55:523][137]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.38.55:523][137]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.38.57:206][339]LogBlueprintUserMessages: [BP_Card_C_4] 1.0
+[2025.02.19-22.38.57:665][394]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.38.57:665][394]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.38.57:666][394]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO DOUBT
+[2025.02.19-22.38.57:666][394]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.39.01:658][873]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS NOT GOING TO BLUFF
+[2025.02.19-22.39.01:658][873]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.39.01:658][873]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.39.01:658][873]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Three OF Clubs
+[2025.02.19-22.39.01:658][873]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.39.01:658][873]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Current turn: BP_NPC1
+[2025.02.19-22.39.01:658][873]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS GOING TO DOUBT
+[2025.02.19-22.39.01:658][873]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.39.03:675][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.39.03:675][111]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.39.03:675][111]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.39.03:676][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.39.03:676][111]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.39.03:696][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.39.03:700][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.39.03:715][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.19-22.39.03:715][111]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.02.19-22.39.03:716][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.02.19-22.39.03:717][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.02.19-22.39.03:720][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.39.03:723][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.19-22.39.03:785][112]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.02.19-22.39.04:266][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.19-22.39.33:808][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.02.19-22.39.33:813][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.39.33:871][633]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.39.33:872][633]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager723FD9EB48C353AB5B5CA3A4AA01BB58.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-22.39.33:878][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 25.8 sec)
+[2025.02.19-22.39.33:880][633]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.39.33:880][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.39.41:108][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.19-22.39.41:113][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.39.41:167][480]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.39.41:168][480]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager7ABFB6B94DB4C8D22ECC52B5F3B74B9C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-22.39.41:174][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 25.9 sec)
+[2025.02.19-22.39.41:176][480]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.39.41:176][480]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.39.41:644][535]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.39.41:748][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-22.39.42:737][611]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.39.42:743][611]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.39.42:743][611]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.39.42:744][611]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 22 ms)
+[2025.02.19-22.39.42:744][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-22.39.42:744][611]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:39:42)
+[2025.02.19-22.39.42:774][611]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.39.42:778][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003594s)
+[2025.02.19-22.39.42:778][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003646s)
+[2025.02.19-22.39.42:789][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.19-22.39.42:795][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.39.42:795][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.39.42:795][611]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.39.42:796][611]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.39.42:796][611]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.39.42:796][611]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.39.42:796][611]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.39.42:797][611]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.39.42:797][611]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 457 ms)
+[2025.02.19-22.39.42:797][611]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2025.02.19-22.39.42:797][611]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.02.19-22.39.42:797][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.39.42:797][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.39.42:797][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.39.42:797][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.39.42:797][611]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.39.42:797][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.39.42:797][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.39.42:797][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.39.42:797][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.39.42:797][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.39.42:797][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.39.42:799][611]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.39.42:818][611]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.39.42:818][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.39.42:818][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.39.42:818][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.39.42:820][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.02.19-22.39.42:820][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2025.02.19-22.39.42:821][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.02.19-22.39.42:821][611]LogInit: FAudioDevice initialized with ID 17.
+[2025.02.19-22.39.42:821][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.02.19-22.39.42:821][611]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.39.42:821][611]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.02.19-22.39.42:822][611]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.39.42:824][611]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.39.42
+[2025.02.19-22.39.42:825][611]LogWorld: Bringing up level for play took: 0.002131
+[2025.02.19-22.39.42:826][611]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.02.19-22.39.42:847][611]PIE: Server logged in
+[2025.02.19-22.39.42:848][611]PIE: Play in editor total start time 0.106 seconds.
+[2025.02.19-22.39.44:077][750]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.39.44:077][750]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.39.44:078][750]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC3 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.39.44:078][750]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 3
+[2025.02.19-22.39.44:078][750]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.39.44:078][750]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.39.45:502][921]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.39.45:502][921]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.39.47:427][152]LogBlueprintUserMessages: [BP_Card_C_6] 1.0
+[2025.02.19-22.39.47:635][177]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.39.47:635][177]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Current turn: BP_NPC1
+[2025.02.19-22.39.47:635][177]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO DOUBT
+[2025.02.19-22.39.47:635][177]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.39.47:636][177]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO DOUBT
+[2025.02.19-22.39.47:636][177]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.39.51:627][656]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS NOT GOING TO BLUFF
+[2025.02.19-22.39.51:627][656]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.39.51:627][656]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 2
+[2025.02.19-22.39.51:627][656]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 WILL PLAY Three OF Clubs
+[2025.02.19-22.39.51:627][656]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.39.51:627][656]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Current turn: BP_NPC2
+[2025.02.19-22.39.54:725][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.39.54:725][ 24]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.39.54:725][ 24]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.39.54:726][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.39.54:726][ 24]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.39.54:730][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.39.54:732][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.39.54:749][ 24]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.19-22.39.54:750][ 24]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.02.19-22.39.54:750][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.02.19-22.39.54:751][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.02.19-22.39.54:754][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.39.54:757][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-22.39.54:820][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.02.19-22.40.07:738][556]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.40.07:842][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.19-22.40.08:760][631]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.40.08:764][631]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.40.08:764][631]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.40.08:765][631]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 23 ms)
+[2025.02.19-22.40.08:766][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-22.40.08:766][631]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:40:08)
+[2025.02.19-22.40.08:794][631]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.40.08:798][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003654s)
+[2025.02.19-22.40.08:798][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003689s)
+[2025.02.19-22.40.08:810][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.02.19-22.40.08:814][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.40.08:814][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.40.08:815][631]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.40.08:815][631]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.40.08:815][631]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.40.08:815][631]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.40.08:815][631]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.40.08:816][631]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.40.08:816][631]LogWorldPartition: Display: WorldPartition initialize took 984 us (total: 458 ms)
+[2025.02.19-22.40.08:816][631]LogPlayLevel: PIE: World Init took: (0.001920s)
+[2025.02.19-22.40.08:817][631]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.02.19-22.40.08:817][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.40.08:817][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.40.08:817][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.40.08:817][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.40.08:817][631]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.40.08:817][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.40.08:817][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.40.08:817][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.40.08:817][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.40.08:817][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.40.08:817][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.40.08:818][631]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.40.08:837][631]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.40.08:838][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.40.08:838][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.40.08:838][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.40.08:838][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.02.19-22.40.08:838][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2025.02.19-22.40.08:839][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.02.19-22.40.08:839][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.02.19-22.40.08:839][631]LogInit: FAudioDevice initialized with ID 18.
+[2025.02.19-22.40.08:839][631]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.40.08:839][631]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.02.19-22.40.08:841][631]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.40.08:843][631]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.40.08
+[2025.02.19-22.40.08:844][631]LogWorld: Bringing up level for play took: 0.002223
+[2025.02.19-22.40.08:845][631]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.02.19-22.40.08:866][631]PIE: Server logged in
+[2025.02.19-22.40.08:867][631]PIE: Play in editor total start time 0.103 seconds.
+[2025.02.19-22.40.09:629][716]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.40.09:629][716]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.40.09:631][716]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC2 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.40.09:631][716]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 2
+[2025.02.19-22.40.09:631][716]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.40.10:779][854]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.40.10:779][854]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.40.12:963][116]LogBlueprintUserMessages: [BP_Card_C_4] 1.0
+[2025.02.19-22.40.13:622][195]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS NOT GOING TO BLUFF
+[2025.02.19-22.40.13:622][195]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.40.13:622][195]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.40.13:622][195]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Two OF Hearts
+[2025.02.19-22.40.13:622][195]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.40.19:023][843]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Current turn: BP_NPC1
+[2025.02.19-22.40.23:022][322]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS NOT GOING TO BLUFF
+[2025.02.19-22.40.23:022][322]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.40.23:022][322]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.40.23:022][322]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 WILL PLAY Four OF Diamonds
+[2025.02.19-22.40.23:022][322]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Current turn: BP_NPC2
+[2025.02.19-22.40.23:022][322]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO DOUBT
+[2025.02.19-22.40.23:022][322]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.40.27:014][801]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS NOT GOING TO BLUFF
+[2025.02.19-22.40.27:014][801]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.40.27:014][801]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.40.27:014][801]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Five OF Hearts
+[2025.02.19-22.40.27:014][801]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.40.27:014][801]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO DOUBT
+[2025.02.19-22.40.27:014][801]LogBlueprintUserMessages: Warning: SetTimer passed a function (Doubt Check) that expects parameters.
+[2025.02.19-22.40.30:135][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.40.30:135][170]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.40.30:135][170]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.40.30:136][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.40.30:136][170]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.40.30:141][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.40.30:143][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.40.30:161][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.19-22.40.30:162][170]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.02.19-22.40.30:162][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.02.19-22.40.30:163][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.02.19-22.40.30:167][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.40.30:170][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.19-22.40.30:231][171]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.02.19-22.40.30:831][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.19-22.40.30:837][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.40.30:895][237]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.40.30:895][237]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerBE38D7274A8CC2B113A350943589FF54.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-22.40.31:031][237]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.40.31:032][237]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind21341F67474654744C73BCB6C771A164.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.40.31:040][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 26.1 sec)
+[2025.02.19-22.40.31:044][237]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.19-22.40.31:044][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.40.31:044][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.40.57:064][335]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.40.57:138][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.02.19-22.40.57:475][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.02.19-22.40.57:482][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.40.57:541][352]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.40.57:542][352]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager61435ADE4A130CFD1732029DA74225B5.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-22.40.57:549][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 26.1 sec)
+[2025.02.19-22.40.57:551][352]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.40.57:551][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.41.03:333][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPCs/BPI_NPC_Opponent.BPI_NPC_Opponent
+[2025.02.19-22.41.03:333][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.41.03:333][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.41.14:410][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.19-22.41.14:415][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.41.14:440][331]LogSavePackage: Moving output files for package: /Game/NPCs/BPI_NPC_Opponent
+[2025.02.19-22.41.14:440][331]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPI_NPC_Opponent5F2B0D8B43203FDB9F4B74B2CDF204CE.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BPI_NPC_Opponent.uasset'
+[2025.02.19-22.41.14:446][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 26.2 sec)
+[2025.02.19-22.41.14:447][331]AssetCheck: New page: Asset Save: BPI_NPC_Opponent
+[2025.02.19-22.41.14:447][331]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BPI_NPC_Opponent.BPI_NPC_Opponent
+[2025.02.19-22.41.15:434][449]BlueprintLog: New page: Compile BPI_NPC_Opponent
+[2025.02.19-22.41.15:462][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.19-22.41.21:481][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.02.19-22.41.21:487][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.41.21:555][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.02.19-22.41.21:568][125]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.02.19-22.41.21:569][125]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPCE7A1A0BC4FC250662192488B551327C2.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.02.19-22.41.21:576][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 26.3 sec)
+[2025.02.19-22.41.21:577][125]AssetCheck: New page: Asset Save: BP_NPC
+[2025.02.19-22.41.21:577][125]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.02.19-22.41.39:723][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.19-22.41.39:726][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.41.39:797][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.02.19-22.41.39:811][123]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.02.19-22.41.39:811][123]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC8C8863F846C2F1621800D784F96FCD79.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.02.19-22.41.39:817][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 26.4 sec)
+[2025.02.19-22.41.39:818][123]AssetCheck: New page: Asset Save: BP_NPC
+[2025.02.19-22.41.39:818][123]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.02.19-22.41.40:042][150]BlueprintLog: New page: Compile BP_NPC
+[2025.02.19-22.41.40:208][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.19-22.41.48:087][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.19-22.41.48:524][334]BlueprintLog: New page: Compile BP_NPC
+[2025.02.19-22.41.48:686][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.19-22.42.18:847][900]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(754)].
+[2025.02.19-22.42.21:766][900]LogSlate: Window 'Message' being destroyed
+[2025.02.19-22.42.21:775][900]Message dialog closed, result: No, title: Message, text: There is more than one referenced asset in the selection. Do you want to open them all for editing?
+[2025.02.19-22.42.21:787][900]LogAutomationController: Ignoring very large delta of 2.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.19-22.42.33:263][262]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.42.35:549][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.19-22.42.35:555][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.42.35:671][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.02.19-22.42.35:685][525]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.02.19-22.42.35:685][525]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC63C509474705AAEFFB9B528798453A7E.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.02.19-22.42.35:692][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 26.5 sec)
+[2025.02.19-22.42.35:693][525]AssetCheck: New page: Asset Save: BP_NPC
+[2025.02.19-22.42.35:693][525]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.02.19-22.42.53:172][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.19-22.42.53:176][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.42.53:341][556]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.42.53:341][556]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind29332BD648DD92C9CC21D5AFDB005F8D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.42.53:349][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 26.7 sec)
+[2025.02.19-22.42.53:352][556]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.42.53:352][556]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.42.55:249][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.19-22.42.55:253][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.42.55:416][777]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.42.55:417][777]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindE44BC2A74537B617B51AF780DFB71E4F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.42.55:425][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 26.8 sec)
+[2025.02.19-22.42.55:428][777]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.42.55:428][777]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.42.55:560][793]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-22.42.55:685][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.19-22.43.01:201][403]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.43.01:282][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.19-22.43.02:270][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.43.02:274][489]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.43.02:274][489]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.43.02:276][489]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 25 ms)
+[2025.02.19-22.43.02:276][489]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.02.19-22.43.02:280][489]LogPlayLevel: [PlayLevel] Compiling BP_NPC before play...
+[2025.02.19-22.43.02:496][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.19-22.43.02:500][489]LogPlayLevel: PlayLevel: Blueprint regeneration took 224 ms (1 blueprints)
+[2025.02.19-22.43.02:500][489]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:43:02)
+[2025.02.19-22.43.02:500][489]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.43.02:504][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003691s)
+[2025.02.19-22.43.02:504][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003720s)
+[2025.02.19-22.43.02:514][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.19-22.43.02:515][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.43.02:516][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.43.02:516][489]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.43.02:516][489]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.43.02:516][489]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.43.02:516][489]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.43.02:516][489]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.43.02:517][489]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.43.02:517][489]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 459 ms)
+[2025.02.19-22.43.02:517][489]LogPlayLevel: PIE: World Init took: (0.002015s)
+[2025.02.19-22.43.02:517][489]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.02.19-22.43.02:517][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.43.02:517][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.43.02:517][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.43.02:517][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.43.02:517][489]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.43.02:517][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.43.02:517][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.43.02:517][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.43.02:518][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.43.02:518][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.43.02:518][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.43.02:519][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.43.02:541][489]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.43.02:541][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.43.02:541][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.43.02:541][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.43.02:542][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.02.19-22.43.02:542][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2025.02.19-22.43.02:542][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.02.19-22.43.02:542][489]LogInit: FAudioDevice initialized with ID 19.
+[2025.02.19-22.43.02:542][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.02.19-22.43.02:542][489]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.43.02:542][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.02.19-22.43.02:545][489]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.43.02:547][489]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.43.02
+[2025.02.19-22.43.02:548][489]LogWorld: Bringing up level for play took: 0.002462
+[2025.02.19-22.43.02:549][489]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.02.19-22.43.02:571][489]PIE: Server logged in
+[2025.02.19-22.43.02:571][489]PIE: Play in editor total start time 0.298 seconds.
+[2025.02.19-22.43.03:354][571]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.43.03:354][571]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.43.03:356][571]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC2 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.43.03:356][571]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 2
+[2025.02.19-22.43.03:356][571]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.43.03:356][571]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.43.05:221][795]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.43.05:221][795]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.43.06:354][931]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Suit
+[2025.02.19-22.43.06:521][951]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Ascending
+[2025.02.19-22.43.06:521][951]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.43.06:521][951]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.43.07:347][ 50]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS NOT GOING TO BLUFF
+[2025.02.19-22.43.07:347][ 50]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.43.07:347][ 50]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.43.07:347][ 50]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Two OF Clubs
+[2025.02.19-22.43.07:347][ 50]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.43.07:347][ 50]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.43.07:347][ 50]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO DOUBT
+[2025.02.19-22.43.07:621][ 83]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.43.07:621][ 83]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] Doubt Check
+[2025.02.19-22.43.07:621][ 83]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] Doubt InCorrect
+[2025.02.19-22.43.09:056][255]LogBlueprintUserMessages: [BP_Card_C_7] 1.0
+[2025.02.19-22.43.09:363][292]LogBlueprintUserMessages: [BP_Card_C_5] 1.0
+[2025.02.19-22.43.09:647][326]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.43.09:647][326]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Current turn: BP_NPC1
+[2025.02.19-22.43.13:647][804]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS NOT GOING TO BLUFF
+[2025.02.19-22.43.13:647][804]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.43.13:647][804]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.43.13:647][804]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 WILL PLAY Four OF Diamonds
+[2025.02.19-22.43.13:647][804]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.43.13:647][804]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Current turn: BP_NPC2
+[2025.02.19-22.43.13:647][804]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS GOING TO DOUBT
+[2025.02.19-22.43.13:647][804]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO DOUBT
+[2025.02.19-22.43.14:038][851]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.43.14:038][851]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] Doubt Check
+[2025.02.19-22.43.14:038][851]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] Doubt InCorrect
+[2025.02.19-22.43.17:638][283]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS GOING TO BLUFF
+[2025.02.19-22.43.17:639][283]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] NUMBER OF CORRECT CARDS HELD BY PLAYER OR EXPERT NPCS : 4
+[2025.02.19-22.43.17:639][283]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] AMOUNT OF CARDS ATTEMPT TO PLAY EXPERT : 2
+[2025.02.19-22.43.17:639][283]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Ten OF Diamonds
+[2025.02.19-22.43.17:639][283]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Ten OF Hearts
+[2025.02.19-22.43.17:639][283]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.43.17:639][283]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.43.21:631][762]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO BLUFF
+[2025.02.19-22.43.21:631][762]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] NUMBER OF CORRECT CARDS HELD BY PLAYER OR EXPERT NPCS : 3
+[2025.02.19-22.43.21:631][762]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] AMOUNT OF CARDS ATTEMPT TO PLAY EXPERT : 2
+[2025.02.19-22.43.21:631][762]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Five OF Clubs
+[2025.02.19-22.43.21:631][762]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Four OF Hearts
+[2025.02.19-22.43.21:631][762]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.43.21:631][762]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.43.21:631][762]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO DOUBT
+[2025.02.19-22.43.21:631][762]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO DOUBT
+[2025.02.19-22.43.21:931][798]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] FIRST DOUBT CHECK FAILED
+[2025.02.19-22.43.21:997][806]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.43.21:997][806]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] Doubt Check
+[2025.02.19-22.43.21:997][806]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] Doubt Correct
+[2025.02.19-22.43.21:997][806]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] BP_Card39 being remove from pile due to doubt being correct
+[2025.02.19-22.43.21:997][806]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] BP_Card37 being remove from pile due to doubt being correct
+[2025.02.19-22.43.21:997][806]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] BP_Card17 being remove from pile due to doubt being correct
+[2025.02.19-22.43.21:997][806]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] BP_Card13 being remove from pile due to doubt being correct
+[2025.02.19-22.43.22:055][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.43.22:055][809]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.43.22:055][809]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.43.22:056][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.43.22:056][809]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.43.22:061][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.43.22:062][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.43.22:080][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.43.22:080][809]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.02.19-22.43.22:080][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.02.19-22.43.22:082][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.02.19-22.43.22:088][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.02.19-22.43.22:156][810]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.02.19-22.43.23:338][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.19-22.43.23:345][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.43.23:403][942]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.43.23:404][942]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_ManagerA09587E5413E77F2958D4DAD2AE1C366.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.02.19-22.43.23:410][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 26.9 sec)
+[2025.02.19-22.43.23:411][942]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.43.23:411][942]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.02.19-22.44.18:248][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.19-22.44.18:251][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.44.18:421][642]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.44.18:422][642]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind4A9F53E24D72F4C02C467F9430F15CAD.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.44.18:431][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 27.1 sec)
+[2025.02.19-22.44.18:434][642]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.44.18:434][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.47.59:162][204]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-22.47.59:277][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.02.19-22.48.34:948][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.19-22.48.34:950][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.015
+[2025.02.19-22.48.34:951][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind] ([2] browsable assets)...
+[2025.02.19-22.48.34:951][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind]
+[2025.02.19-22.48.35:089][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind_Auto7
+[2025.02.19-22.48.35:089][345]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind_Auto7DADE1EC84A1B07CB7236EDA0CDACB073.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind_Auto7.uasset'
+[2025.02.19-22.48.35:091][345]LogFileHelpers: Auto-saving content packages took 0.140
+[2025.02.19-22.49.34:122][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.19-22.49.34:126][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.49.34:297][372]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.49.34:297][372]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindA9D16E9B479B0D9D3983B59BF708612C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.49.34:306][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 27.3 sec)
+[2025.02.19-22.49.34:308][372]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.49.34:308][372]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.49.34:520][397]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-22.49.34:630][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.19-22.50.24:429][101]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.50.24:434][101]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.50.24:434][101]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.50.24:435][101]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 26 ms)
+[2025.02.19-22.50.24:435][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-22.50.24:435][101]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:50:24)
+[2025.02.19-22.50.24:436][101]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.50.24:440][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004372s)
+[2025.02.19-22.50.24:440][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004403s)
+[2025.02.19-22.50.24:456][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.02.19-22.50.24:459][101]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.50.24:459][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.50.24:460][101]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.50.24:460][101]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.50.24:460][101]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.50.24:460][101]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.50.24:460][101]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.50.24:461][101]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.50.24:461][101]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 460 ms)
+[2025.02.19-22.50.24:461][101]LogPlayLevel: PIE: World Init took: (0.002129s)
+[2025.02.19-22.50.24:461][101]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.02.19-22.50.24:461][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.50.24:461][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.50.24:461][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.50.24:461][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.50.24:461][101]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.50.24:461][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.50.24:461][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.50.24:461][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.50.24:461][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.50.24:461][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.50.24:461][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.50.24:462][101]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.50.24:485][101]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.50.24:485][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.50.24:485][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.50.24:485][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.50.24:486][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.02.19-22.50.24:486][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2025.02.19-22.50.24:487][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.02.19-22.50.24:487][101]LogInit: FAudioDevice initialized with ID 20.
+[2025.02.19-22.50.24:487][101]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.50.24:487][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.02.19-22.50.24:487][101]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.02.19-22.50.24:489][101]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.50.24:492][101]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.50.24
+[2025.02.19-22.50.24:492][101]LogWorld: Bringing up level for play took: 0.002487
+[2025.02.19-22.50.24:493][101]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.02.19-22.50.24:515][101]PIE: Server logged in
+[2025.02.19-22.50.24:516][101]PIE: Play in editor total start time 0.082 seconds.
+[2025.02.19-22.50.25:461][207]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.50.25:461][207]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.50.25:463][207]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC1 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.50.25:463][207]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 1
+[2025.02.19-22.50.25:463][207]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.50.25:463][207]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Current turn: BP_NPC2
+[2025.02.19-22.50.27:570][460]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.50.27:570][460]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.50.28:245][541]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Suit
+[2025.02.19-22.50.28:870][616]LogBlueprintUserMessages: [BPC_CurrentHand] SORTING : Value Ascending
+[2025.02.19-22.50.28:870][616]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Current Hand' of length 15 in '/Game/Shared_Game_Mechanics/BPC_CurrentHand.BPC_CurrentHand_C'!
+[2025.02.19-22.50.28:870][616]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.02.19-22.50.29:454][686]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS NOT GOING TO BLUFF
+[2025.02.19-22.50.29:454][686]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.50.29:454][686]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 2
+[2025.02.19-22.50.29:454][686]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Two OF Hearts
+[2025.02.19-22.50.29:454][686]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.50.29:454][686]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.50.29:454][686]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO DOUBT
+[2025.02.19-22.50.29:454][686]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS GOING TO DOUBT
+[2025.02.19-22.50.29:454][686]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO DOUBT
+[2025.02.19-22.50.29:720][718]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.50.29:720][718]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] Doubt Check
+[2025.02.19-22.50.29:720][718]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] Doubt InCorrect
+[2025.02.19-22.50.33:447][165]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS NOT GOING TO BLUFF
+[2025.02.19-22.50.33:447][165]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.50.33:447][165]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 2
+[2025.02.19-22.50.33:447][165]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Three OF Diamonds
+[2025.02.19-22.50.33:447][165]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.50.33:447][165]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.50.44:505][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.50.44:505][487]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.50.44:506][487]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.50.44:506][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.50.44:506][487]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.50.44:510][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.50.44:514][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.50.44:536][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.50.44:536][487]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.02.19-22.50.44:537][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.02.19-22.50.44:538][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.02.19-22.50.44:544][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.19-22.50.44:608][488]Cmd: SELECT NONE
+[2025.02.19-22.50.44:629][488]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.02.19-22.50.55:745][803]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.02.19-22.50.58:024][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.19-22.50.58:028][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.50.58:191][ 17]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.50.58:191][ 17]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind2C8633EF49A0AA2C4FE330BA8997BCF1.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.50.58:199][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 27.4 sec)
+[2025.02.19-22.50.58:203][ 17]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.50.58:203][ 17]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.51.22:581][838]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.51.36:974][487]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.51.54:967][ 90]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.51.55:010][ 90]LogAutomationController: Ignoring very large delta of 2.74 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.19-22.52.54:490][657]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.52.59:056][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-22.52.59:060][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.52.59:225][169]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.52.59:226][169]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind87EB48FF41C3A324342F30BE4EFA5997.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.52.59:233][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 27.6 sec)
+[2025.02.19-22.52.59:236][169]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.52.59:236][169]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.53.19:763][203]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.53.19:809][204]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.19-22.53.32:791][705]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-22.53.32:908][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.19-22.54.01:418][382]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.54.56:979][436]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.55.44:001][950]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.55.58:586][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.02.19-22.55.58:591][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.55.58:753][545]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.55.58:753][545]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindE05B3F9847CC91835F49CFB911CE487B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.55.58:761][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 27.8 sec)
+[2025.02.19-22.55.58:763][545]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.55.58:763][545]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.56.36:343][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.19-22.56.36:347][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.56.36:509][340]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.56.36:509][340]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_Mind4DF36A03491C5F0BB75AA6AD297AAB16.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.56.36:518][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 27.9 sec)
+[2025.02.19-22.56.36:521][340]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.56.36:521][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.56.36:734][353]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-22.56.36:842][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-22.56.42:572][870]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.56.42:577][870]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.56.42:577][870]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.56.42:578][870]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 28 ms)
+[2025.02.19-22.56.42:579][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-22.56.42:579][870]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:56:42)
+[2025.02.19-22.56.42:615][870]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.56.42:619][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004197s)
+[2025.02.19-22.56.42:619][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004239s)
+[2025.02.19-22.56.42:634][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-22.56.42:637][870]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.56.42:638][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.56.42:638][870]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.56.42:638][870]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.56.42:638][870]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.56.42:638][870]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.56.42:638][870]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.56.42:639][870]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.56.42:639][870]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 461 ms)
+[2025.02.19-22.56.42:639][870]LogPlayLevel: PIE: World Init took: (0.002203s)
+[2025.02.19-22.56.42:639][870]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.02.19-22.56.42:639][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.56.42:639][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.56.42:639][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.56.42:639][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.56.42:639][870]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.56.42:639][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.56.42:639][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.56.42:639][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.56.42:639][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.56.42:639][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.56.42:639][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.56.42:642][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.56.42:665][870]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.56.42:665][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.56.42:665][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.56.42:665][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.56.42:666][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.02.19-22.56.42:666][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2025.02.19-22.56.42:667][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.02.19-22.56.42:667][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.02.19-22.56.42:667][870]LogInit: FAudioDevice initialized with ID 21.
+[2025.02.19-22.56.42:667][870]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.56.42:667][870]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.02.19-22.56.42:670][870]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.56.42:672][870]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.56.42
+[2025.02.19-22.56.42:673][870]LogWorld: Bringing up level for play took: 0.002711
+[2025.02.19-22.56.42:674][870]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.02.19-22.56.42:697][870]PIE: Server logged in
+[2025.02.19-22.56.42:698][870]PIE: Play in editor total start time 0.121 seconds.
+[2025.02.19-22.56.43:446][953]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.56.43:447][953]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.56.43:449][953]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC1 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.56.43:449][953]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 1
+[2025.02.19-22.56.43:449][953]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.56.43:449][953]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Current turn: BP_NPC2
+[2025.02.19-22.56.47:438][432]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS NOT GOING TO BLUFF
+[2025.02.19-22.56.47:438][432]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.56.47:438][432]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 2
+[2025.02.19-22.56.47:438][432]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Two OF Diamonds
+[2025.02.19-22.56.47:438][432]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.56.47:438][432]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.56.51:430][911]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS NOT GOING TO BLUFF
+[2025.02.19-22.56.51:430][911]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.56.51:430][911]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.56.51:430][911]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Three OF Clubs
+[2025.02.19-22.56.51:430][911]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.56.51:430][911]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.56.51:431][911]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS GOING TO DOUBT
+[2025.02.19-22.56.51:431][911]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS GOING TO DOUBT
+[2025.02.19-22.56.51:847][961]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.56.51:847][961]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] Doubt Check
+[2025.02.19-22.56.51:847][961]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] Doubt InCorrect
+[2025.02.19-22.57.00:505][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.57.00:505][994]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.57.00:505][994]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.57.00:507][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.57.00:507][994]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.57.00:511][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.57.00:513][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.57.00:530][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.57.00:530][994]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.02.19-22.57.00:530][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.02.19-22.57.00:532][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.02.19-22.57.00:539][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.19-22.57.00:574][996]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.02.19-22.57.30:669][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.19-22.57.30:674][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.57.30:831][278]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.57.30:832][278]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindF57EA38D46898C3932E984BEDB5F8779.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.57.30:840][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 28.1 sec)
+[2025.02.19-22.57.30:843][278]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.57.30:843][278]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.57.36:177][843]LogEditorTransaction: Undo Create Pin Link
+[2025.02.19-22.57.42:207][304]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.19-22.57.42:502][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.19-22.57.42:507][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-22.57.42:669][333]LogSavePackage: Moving output files for package: /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind
+[2025.02.19-22.57.42:670][333]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPC_NPC_Decision_MindF0AEDADA42A7BAECFE9F4FB2C9C98308.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset'
+[2025.02.19-22.57.42:678][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 28.3 sec)
+[2025.02.19-22.57.42:681][333]AssetCheck: New page: Asset Save: BPC_NPC_Decision_Mind
+[2025.02.19-22.57.42:681][333]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/Decision_Making/BPC_NPC_Decision_Mind.BPC_NPC_Decision_Mind
+[2025.02.19-22.57.43:266][403]BlueprintLog: New page: Compile BPC_NPC_Decision_Mind
+[2025.02.19-22.57.43:374][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.02.19-22.57.44:754][479]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.19-22.57.44:758][479]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.19-22.57.44:758][479]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.19-22.57.44:759][479]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 29 ms)
+[2025.02.19-22.57.44:759][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.19-22.57.44:759][479]PIE: New page: PIE session: ThirdPersonMap (19 Feb 2025, 22:57:44)
+[2025.02.19-22.57.44:794][479]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.57.44:798][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003845s)
+[2025.02.19-22.57.44:798][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003886s)
+[2025.02.19-22.57.44:814][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.19-22.57.44:817][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.19-22.57.44:817][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.19-22.57.44:817][479]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.19-22.57.44:818][479]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.19-22.57.44:818][479]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.19-22.57.44:818][479]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.19-22.57.44:818][479]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.19-22.57.44:819][479]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.19-22.57.44:819][479]LogWorldPartition: Display: WorldPartition initialize took 994 us (total: 462 ms)
+[2025.02.19-22.57.44:819][479]LogPlayLevel: PIE: World Init took: (0.001949s)
+[2025.02.19-22.57.44:819][479]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.02.19-22.57.44:819][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.19-22.57.44:819][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.19-22.57.44:819][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.19-22.57.44:819][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.19-22.57.44:819][479]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.19-22.57.44:819][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.19-22.57.44:819][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.19-22.57.44:819][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.19-22.57.44:820][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.19-22.57.44:820][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.19-22.57.44:820][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.19-22.57.44:820][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.19-22.57.44:841][479]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.02.19-22.57.44:841][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.19-22.57.44:841][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.19-22.57.44:841][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.19-22.57.44:842][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.02.19-22.57.44:842][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2025.02.19-22.57.44:843][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.02.19-22.57.44:843][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.02.19-22.57.44:843][479]LogInit: FAudioDevice initialized with ID 22.
+[2025.02.19-22.57.44:843][479]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2025.02.19-22.57.44:843][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.02.19-22.57.44:845][479]LogLoad: Game class is 'GM_Bar_C'
+[2025.02.19-22.57.44:847][479]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.19-22.57.44
+[2025.02.19-22.57.44:848][479]LogWorld: Bringing up level for play took: 0.002373
+[2025.02.19-22.57.44:848][479]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.02.19-22.57.44:870][479]PIE: Server logged in
+[2025.02.19-22.57.44:870][479]PIE: Play in editor total start time 0.113 seconds.
+[2025.02.19-22.57.45:530][551]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.19-22.57.45:530][551]LogScript: Warning: Script Msg called by: BP_Player_C /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+[2025.02.19-22.57.45:531][551]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_Player0 HAS JUST PLAYED THE ACE OF SPADES
+[2025.02.19-22.57.45:531][551]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 0
+[2025.02.19-22.57.45:531][551]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.57.45:532][551]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Current turn: BP_NPC1
+[2025.02.19-22.57.45:532][551]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] FREQUENCY CHECK FAILED
+[2025.02.19-22.57.49:522][ 30]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 IS NOT GOING TO BLUFF
+[2025.02.19-22.57.49:522][ 30]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.57.49:522][ 30]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 2
+[2025.02.19-22.57.49:522][ 30]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC1 WILL PLAY Two OF Diamonds
+[2025.02.19-22.57.49:522][ 30]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.57.49:522][ 30]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Current turn: BP_NPC2
+[2025.02.19-22.57.49:522][ 30]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] FAILED AWARENESS CHECK AFTER HAVING CARDS
+[2025.02.19-22.57.49:522][ 30]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] FREQUENCY CHECK FAILED
+[2025.02.19-22.57.49:522][ 30]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] FREQUENCY CHECK FAILED
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 IS NOT GOING TO BLUFF
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] MEDIAN AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] TOTAL AMOUNT OF CORRECT CARDS TO PLAY : 1
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC2 WILL PLAY Three OF Diamonds
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Current turn: BP_NPC3
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] FREQUENCY CHECK FAILED
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] DONT HAVE ANY CARDS SO NOT DOING AWARENESS CHECK
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] PASSED ACCURACY TEST AFTER HAVING NO CARDS
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] CORRECT CARDS IN PILE : 0
+[2025.02.19-22.57.53:515][509]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] FREQUENCY CHECK FAILED
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 IS GOING TO BLUFF
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] NUMBER OF CORRECT CARDS HELD BY PLAYER OR EXPERT NPCS : 4
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] AMOUNT OF CARDS ATTEMPT TO PLAY EXPERT : 2
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Six OF Diamonds
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] BP_NPC3 WILL PLAY Jack OF Diamonds
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] CLEARING NPC DOUBT TIMERS
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BP_Player_C_0] Current turn: BP_Player0
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] PASSED AWARENESS CHECK AFTER HAVING CARDS
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] CORRECT HELD CARDS FOR JUST PLAYED COUNTER : 2
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] CORRECT CARDS IN PILE : 0
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] PASSED AWARENESS CHECK AFTER HAVING CARDS
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] CORRECT HELD CARDS FOR JUST PLAYED COUNTER : 1
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] CORRECT CARDS IN PILE : 0
+[2025.02.19-22.57.57:507][988]LogBlueprintUserMessages: [BPC_NPC_Decision_Mind] FREQUENCY CHECK FAILED
+[2025.02.19-22.58.49:625][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.58.49:625][981]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.19-22.58.49:625][981]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.19-22.58.49:626][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.58.49:626][981]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.19-22.58.49:631][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.19-22.58.49:633][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.19-22.58.49:651][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.19-22.58.49:651][981]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.02.19-22.58.49:651][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.02.19-22.58.49:652][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.02.19-22.58.49:656][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.19-22.58.49:659][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.19-22.58.49:709][986]LogPlayLevel: Display: Destroying online subsystem :Context_34
