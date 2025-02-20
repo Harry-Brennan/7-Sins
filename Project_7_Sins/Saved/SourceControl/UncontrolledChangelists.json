@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.uasset",
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/UI/Diegetic/Main_Games/WBP_FaceCardPlayed.uasset",
 				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/BP_CardPile.uasset",
 				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/ThirdPersonMap/0/JJ/ULN0FLRHWYX5R763L11QCK.uasset",
 				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/ThirdPersonMap/0/SP/E6V1M871EDQK3J6XK405JD.uasset",
@@ -19,6 +18,10 @@
 				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.uasset",
 				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset",
 				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/UI/Diegetic/Main_Games/WBP_TextPopUp.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/UI/Fonts/Magules.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/UI/Fonts/Magules_Font.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/UI/Diegetic/Main_Games/WBP_FaceCardPlayed.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/BPC_CurrentHand.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/Enum_Card_Sort_Methods.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset",
