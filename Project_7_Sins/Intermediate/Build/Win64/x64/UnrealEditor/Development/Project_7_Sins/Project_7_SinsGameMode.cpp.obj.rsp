@@ -1,11 +1,11 @@
-"C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Source\Project_7_Sins\Project_7_SinsGameMode.cpp"
-/FI"C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\Project_7_SinsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Definitions.Project_7_Sins.h"
-/Yu"C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\Project_7_SinsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\Project_7_SinsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_SinsGameMode.cpp.obj"
-/sourceDependencies "C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_SinsGameMode.cpp.dep.json"
-@"C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_Sins.Shared.rsp"
+"D:\GitHub\7-Sins\Project_7_Sins\Source\Project_7_Sins\Project_7_SinsGameMode.cpp"
+/FI"D:\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\Project_7_SinsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"D:\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Definitions.Project_7_Sins.h"
+/Yu"D:\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\Project_7_SinsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"D:\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\Project_7_SinsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"D:\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_SinsGameMode.cpp.obj"
+/sourceDependencies "D:\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_SinsGameMode.cpp.dep.json"
+@"D:\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\x64\UnrealEditor\Development\Project_7_Sins\Project_7_Sins.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
