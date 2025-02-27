@@ -6,7 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Misc/WBP_Jukebox.uasset",
-				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Jukebox/BP_Jukebox.uasset"
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Jukebox/BP_Jukebox.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Outside_Loop/BP_Outside_Loop.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/ThirdPersonMap/C/4R/I33FFUKBV1LH5XSD0NK4L0.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/ThirdPersonMap/D/84/X9Z2UXMRRBXDH55SJ5R19S.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/ThirdPersonMap/9/LO/CFU9NSUXNNE1N3GDW9KWFE.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/ThirdPersonMap/1/D3/S21IMQSRSOUPV4VL5ARPAH.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Position.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Collision.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/ThirdPersonMap/5/7V/SOMCPTZJSHOREEWIFJAJ89.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/ThirdPersonMap/B/XP/220Y6IOAMQNXTP8PBY0ZAJ.uasset"
 			]
 		}
 	]
