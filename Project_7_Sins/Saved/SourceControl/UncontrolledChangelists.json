@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Misc/WBP_Jukebox.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Jukebox/BP_Jukebox.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Outside_Loop/BP_Outside_Loop.uasset",
@@ -45,6 +46,9 @@
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/Actions/Bar_General/IA_Jukebox_Interact.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/ThirdPersonMap/9/LO/CFU9NSUXNNE1N3GDW9KWFE.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/ThirdPersonMap/1/D3/S21IMQSRSOUPV4VL5ARPAH.uasset"
+=======
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/NPCs/Decision_Making/BPC_NPC_Decision_Mind.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
