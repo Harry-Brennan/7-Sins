@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Pause/WBP_Pause_Menu.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Pause/WBP_Options_Pause_Menu.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/Input/Actions/Bar_General/IA_Look.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset",
 				"C:/Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset",
 				"C:/Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/Player/Input/Actions/Shared/IA_Pause.uasset",
 				"C:/Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/Player/Input/IMC/IMC_Auction.uasset",
