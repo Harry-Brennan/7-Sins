@@ -1,0 +1,842 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:017394CF45B3BF2BCF7AB382975F2606 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_39 Label:SM_Ramp2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1400.000 Y=1500.000 Z=0.000), Max=(X=1800.000 Y=1700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:0235F711493B1F4A348E689D4A1814B3 BaseClass:/Game/NPCs/BP_NPC.BP_NPC_C NativeClass:/Script/Engine.Character Name:BP_NPC_C_UAID_107C61B295B0C84A02_1958739840 Label:BP_NPC2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1040.000 Y=910.000 Z=-162.000), Max=(X=1540.000 Y=1410.000 Z=338.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:NPCs FolderGuid:535C834849C79B934F2AC8AF4B794CDA
+ |   |   |- Guid:04359C5946F4665BB1931D85B43ACF6C BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_4CCC6AF998965E4B02_1646122240 Label:BP_RatScrewSharedPile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=700.000 Y=1290.000 Z=90.000), Max=(X=860.000 Y=1450.000 Z=330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:04BD8AA84DA21C31DB5722A42644102D BaseClass:/Game/Shared_Game_Mechanics/Rules/BP_Rules_Manager.BP_Rules_Manager_C NativeClass:/Script/Engine.Actor Name:BP_Rules_Manager_C_UAID_107C61B295B00C5002_1196686087 Label:BP_Rules_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.860 Y=1263.190 Z=-0.000), Max=(X=450.860 Y=1263.190 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Other Managers FolderGuid:CA620F0D4A42190A913CA6846BA13CBC
+ |   |   |- Guid:0870CC704F80A8D5DF802EAC5E048723 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_45 Label:SM_Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1599.391 Y=2600.000 Z=-0.000), Max=(X=2799.391 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- Guid:0BA692F2483B038451D9D4B5070703A2 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829071224 Label:Auction_P2_Won_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=710.000 Z=70.000), Max=(X=560.000 Y=870.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:0EB04C484FA5C4AB6848CFBD4E5D111C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0FE4A02_1320752344 Label:SM_QuarterCylinder16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=682.500 Y=1370.000 Z=60.000), Max=(X=820.000 Y=1507.500 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:0FAEAF0648FC5D7986A36DAFE65FC1D5 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0AD4C02_1351343202 Label:TargetPoint4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1060.000 Y=1370.000 Z=60.000), Max=(X=1060.000 Y=1370.000 Z=60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:IDI POINTS FolderGuid:6ADE40F34ACE67AAEB3A08B738E3B888
+ |   |   |- Guid:174DF71143EA367D14F3838C26CC06DF BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:1B7E668B490D371089E94FB68D19A571 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0AD4C02_1350808201 Label:TargetPoint3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1580.000 Z=70.000), Max=(X=820.000 Y=1580.000 Z=70.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:IDI POINTS FolderGuid:6ADE40F34ACE67AAEB3A08B738E3B888
+ |   |   |- Guid:1ECA43D04F2ABD46671D349E0477666C BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0314F02_1990991543 Label:Auction_Main_Pile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=739.023 Y=1287.680 Z=97.575), Max=(X=899.023 Y=1447.680 Z=337.575) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:22043D904138D0E50DB05FB74FCA2289 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_60 Label:SM_QuarterCylinder13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.000 Y=500.000 Z=0.000), Max=(X=2200.000 Y=700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:243A2084428544D88534E990D8BA5B83 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_38 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=1700.000 Z=-0.000), Max=(X=1800.000 Y=2200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:2B8BD05D434B9D20C205C5B17E7EC610 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer_C NativeClass:/Script/Engine.Actor Name:BP_Card_Dealer_C_UAID_4CCC6AF99896B54A02_1562726495 Label:BP_Card_Dealer SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1220.000 Y=1550.000 Z=140.000), Max=(X=1220.000 Y=1550.000 Z=140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Other Managers FolderGuid:CA620F0D4A42190A913CA6846BA13CBC
+ |   |   |- Guid:31A6AA5C4DF124320956148CAC818A4C BaseClass:/Game/UI/Diegetic/Menus/BP_Main_Menu.BP_Main_Menu_C NativeClass:/Script/Engine.Actor Name:BP_Main_Menu_C_UAID_107C61B295B0615002_1815433047 Label:BP_Main_Menu SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=27.153 Y=1387.107 Z=-76.334), Max=(X=1498.376 Y=2802.712 Z=505.288) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3E0D0C7A4D8FFA7CE31DB8AA2B2D1292 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_57 Label:SM_QuarterCylinder6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=2200.000 Z=0.000), Max=(X=1300.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:3E8CD21E4384208172AE95917AFB97B9 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_4CCC6AF998962D4B02_1348301616 Label:BP_OpponentsPile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=569.871 Y=1229.871 Z=89.500), Max=(X=1070.129 Y=1730.129 Z=330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:3EFF36AA48CB04B9189796B64A49AC23 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0AD4C02_1350181200 Label:TargetPoint2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=580.000 Y=1380.000 Z=60.000), Max=(X=580.000 Y=1380.000 Z=60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:IDI POINTS FolderGuid:6ADE40F34ACE67AAEB3A08B738E3B888
+ |   |   |- Guid:4150656149A1CAC37E270F83FDB4D9D3 BaseClass:/Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Collision.BP_Outside_Loop_Collision_C NativeClass:/Script/Engine.Actor Name:BP_Outside_Loop_C_UAID_107C61B295B05A5002_1661120816 Label:BP_Outside_Loop2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2120.291 Y=2336.330 Z=3.126), Max=(X=2440.291 Y=2400.330 Z=403.126) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:41FB297E46CEB592E9CDAA9AD6DE67EF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0FE4A02_1320753345 Label:SM_QuarterCylinder17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1232.500 Z=60.000), Max=(X=957.500 Y=1370.000 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:4F7B735A44E12B4B031927A9FC21C460 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_1 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:55BB2E2F4AFA453E1F1285A3ADC7186D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_58 Label:SM_QuarterCylinder11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.000 Y=700.000 Z=0.000), Max=(X=2400.000 Y=900.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:5BADA02A4B679914C3BE0AB52FF7B4FB BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_4CCC6AF998962D4B02_1342027615 Label:BP_PlayersPile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=570.000 Y=1020.000 Z=89.500), Max=(X=1070.000 Y=1520.000 Z=330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:5C7C5C40408F48C386D06CA03AB130C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1594956423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:623766974DFEEF99593BECB35DA07677 BaseClass:/Game/Misc_Mechanics/Jukebox/BP_Jukebox.BP_Jukebox_C NativeClass:/Script/Engine.Actor Name:BP_Jukebox_C_UAID_107C61B295B02E5002_1841579073 Label:BP_Jukebox SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-104.287 Y=-4.323 Z=-181.622), Max=(X=595.118 Y=695.082 Z=330.378) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:664A87DA48B6EE38C0ACEA9AEDBA4BA0 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:695A0EF14F495A3A19AA718E09EE75C7 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829074228 Label:Auction_P2_Played_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=460.000 Y=710.000 Z=70.000), Max=(X=620.000 Y=870.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:6DD30F8C47CE4EE8EB2B10A83CE91C12 BaseClass:/Game/NPCs/BP_NPC.BP_NPC_C NativeClass:/Script/Engine.Character Name:BP_NPC_C_UAID_107C61B295B0C84A02_1956770839 Label:BP_NPC1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=948.494 Y=488.494 Z=-162.000), Max=(X=1631.506 Y=1171.506 Z=338.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:NPCs FolderGuid:535C834849C79B934F2AC8AF4B794CDA
+ |   |   |- Guid:723128A2477074C68D9A5EA484DF76A8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_46 Label:SM_Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=1500.000 Z=0.000), Max=(X=2000.000 Y=2200.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:73DCE72F4E202D6176924AADA8B4254E BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_C87F54ABD1F8714E02_2082551754 Label:TargetPoint5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1370.000 Z=-70.000), Max=(X=820.000 Y=1370.000 Z=-70.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:73E902E24771B0582D42799CE24F84CC BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829076230 Label:Auction_P4_Played_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=460.000 Y=810.000 Z=70.000), Max=(X=620.000 Y=970.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:788903924598EC8109F9709A8AB41C0D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:7E67ACA44FEEFA9BAFDE3E955A9EA6D1 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B03D4F02_1260334656 Label:Auctioning_Pile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=719.023 Y=1257.680 Z=97.575), Max=(X=879.023 Y=1417.680 Z=337.575) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:817105674B8D89714A710BB468277A25 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829072225 Label:Auction_P3_Won_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=760.000 Z=70.000), Max=(X=560.000 Y=920.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:830FF81C457CA01C97438B95CD9DF038 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_34 Label:SM_ChamferCube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=2000.000 Z=0.013), Max=(X=1200.000 Y=2100.000 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:84A6C2C04177158166E2439E0CBAE730 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_35 Label:SM_Ramp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=600.000 Z=0.000), Max=(X=1700.000 Y=800.000 Z=30.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:859060FD4C8BAAC158F817BE7E223880 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0465302_2124540664 Label:TargetPoint6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2795.582 Y=1458.199 Z=261.088), Max=(X=2795.582 Y=1458.199 Z=261.088) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Zoom_In_Points FolderGuid:1631A18F4391DB7DA62A4A82DCB8864C
+ |   |   |- Guid:8EB90C194CECB464DF0B01AF04D9E032 BaseClass:/Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Position.BP_Outside_Loop_Position_C NativeClass:/Script/Engine.Actor Name:BP_Outside_Loop_Position_C_UAID_107C61B295B05A5002_1799861819 Label:BP_Outside_Loop_Position SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2279.034 Y=1929.294 Z=-18.062), Max=(X=2439.034 Y=2169.294 Z=141.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:901C748940C0D4AB214A8B8BF7D39AEC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_59 Label:SM_QuarterCylinder12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.000 Y=700.000 Z=0.000), Max=(X=2200.000 Y=900.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:95915BFE4FC2CDFD5893418827035D4C BaseClass:/Game/NPCs/BP_NPC.BP_NPC_C NativeClass:/Script/Engine.Character Name:BP_NPC_C_UAID_107C61B295B0C84A02_1959897841 Label:BP_NPC3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=570.000 Y=1360.000 Z=-162.000), Max=(X=1070.000 Y=1860.000 Z=338.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:NPCs FolderGuid:535C834849C79B934F2AC8AF4B794CDA
+ |   |   |- Guid:96C16AF946CFF8929C47A09CAE7CD832 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_48 Label:SM_Cube10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=2100.000 Z=100.000), Max=(X=2000.000 Y=2200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:97625685428ED89E06818B996F1A508E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_53 Label:SM_QuarterCylinder3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1500.000 Y=2200.000 Z=0.000), Max=(X=1600.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:9A8590F64719696F576D32BEA8B1AF88 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_50 Label:SM_QuarterCylinder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2799.391 Y=2800.000 Z=-0.000), Max=(X=2899.391 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- Guid:9B81DBC24AB262B969F022845CF907FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0FE4A02_1320754346 Label:SM_QuarterCylinder18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1370.000 Z=60.000), Max=(X=957.500 Y=1507.500 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:9B8E15934E21EC11C2601E9B8D2E8C88 BaseClass:/Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Position.BP_Outside_Loop_Position_C NativeClass:/Script/Engine.Actor Name:BP_Outside_Loop_Position_C_UAID_107C61B295B05A5002_1804798820 Label:BP_Outside_Loop_Position2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2279.034 Y=1149.364 Z=-18.062), Max=(X=2439.034 Y=1389.364 Z=141.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9FFE6665469AE829D82050A8B1F67178 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:A25F61BD4F2EE2C7409611810AC3BAD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_52 Label:SM_Cube12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2799.391 Y=2700.000 Z=-0.000), Max=(X=2899.391 Y=2800.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- Guid:A7FB847A4A1DACD12053998C0C82FF9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_55 Label:SM_QuarterCylinder5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2800.000 Z=0.000), Max=(X=400.000 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- Guid:A85A7AD046A0462D176E6889992C1216 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:AA857C9F436500D6ED8E03A5806DCE50 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_44 Label:SM_Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=2200.000 Z=0.000), Max=(X=1500.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:ADE67A12424F0AE793A537ACE111B6D3 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829073226 Label:Auction_P4_Won_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=810.000 Z=70.000), Max=(X=560.000 Y=970.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:AE8AA01A4DE576B371C05FA79B282659 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_40 Label:SM_ChamferCube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=992.077 Y=2692.077 Z=0.013), Max=(X=1107.923 Y=2807.923 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B23C247D4E34A96052E563A19E79FA75 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:B292F0FA413FF4E5BE01F589E9C61225 BaseClass:/Game/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.BP_Rat_Screw_Game_Manager_C NativeClass:/Script/Engine.Actor Name:BP_Rat_Screw_Game_Manager_C_UAID_C87F54ABD1F8714E02_1702700753 Label:BP_Rat_Screw_Game_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=530.000 Y=1140.000 Z=0.000), Max=(X=530.000 Y=1140.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Game Managers FolderGuid:67B737B3449AAC594BF5818DFC645282
+ |   |   |- Guid:B9527F18436B4C90019C7C8AF398144B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_41 Label:SM_ChamferCube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=251.301 Y=2120.052 Z=0.013), Max=(X=387.904 Y=2256.655 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B9D350AF4653682F2EE611BDF851ED40 BaseClass:/Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager.BP_Auction_Game_Manager_C NativeClass:/Script/Engine.Actor Name:BP_Auction_Game_Manager_C_UAID_4CCC6AF99896B54A02_1593621498 Label:BP_Auction_Game_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1670.000 Y=1280.000 Z=0.000), Max=(X=1670.000 Y=1280.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Game Managers FolderGuid:67B737B3449AAC594BF5818DFC645282
+ |   |   |- Guid:BBED4AEF4FF8C0304D1D709BA55AD037 BaseClass:/Game/Mini_Games/Darts/BP_Dart_Board.BP_Dart_Board_C NativeClass:/Script/Engine.Actor Name:BP_Dart_Board_C_UAID_107C61B295B04C5102_1218601234 Label:BP_Dart_Board SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2404.486 Y=1295.880 Z=-91.763), Max=(X=2916.486 Y=1847.148 Z=488.312) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BC42D9B9467E38655AFC6DB667A61ECA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_49 Label:SM_Cube11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=2600.000 Z=0.000), Max=(X=700.000 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- Guid:BD430F5245E33ECC56F7628FBABC5D84 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_33 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=3000.000 Y=3500.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- Guid:BDD6027D41A86A1D417EBB87FBDD35CF BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B01B4B02_1207731447 Label:BP_IDI_Pile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=769.023 Y=1287.680 Z=97.575), Max=(X=929.023 Y=1447.680 Z=337.575) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:BFB671284CA12B07A4565ABBE4C17B4C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_51 Label:SM_QuarterCylinder2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2799.391 Y=2600.000 Z=-0.000), Max=(X=2899.391 Y=2700.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- Guid:C1E516BA480C7F9751AD1984E6D35778 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829074227 Label:Auction_P1_Played_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=460.000 Y=660.000 Z=70.000), Max=(X=620.000 Y=820.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:C23D660C4D0A40D56B3C909E3A106E86 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0FE4A02_1320750343 Label:SM_QuarterCylinder15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=682.500 Y=1232.500 Z=60.000), Max=(X=820.000 Y=1370.000 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:C726A3284B806D4C379405885740B688 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=0.013), Max=(X=940.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C752FDB9451B0FA0675D4B9D3E8B12AB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_56 Label:SM_Cube13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2700.000 Z=0.000), Max=(X=400.000 Y=2800.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- Guid:CE569D114AFED3EACDF4D98C1F48CDAA BaseClass:/Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager_C NativeClass:/Script/Engine.Actor Name:BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075 Label:BP_Turn_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=470.000 Y=1370.000 Z=120.000), Max=(X=470.000 Y=1370.000 Z=120.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Other Managers FolderGuid:CA620F0D4A42190A913CA6846BA13CBC
+ |   |   |- Guid:CF585544407A59E5872945BA51DF779D BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0AD4C02_1349721199 Label:TargetPoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1170.000 Z=90.000), Max=(X=820.000 Y=1170.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:IDI POINTS FolderGuid:6ADE40F34ACE67AAEB3A08B738E3B888
+ |   |   |- Guid:D67498ED4DF3838C755EF3A077A01A65 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_4CCC6AF998965C4B02_1381254887 Label:RatScrewPlayerPosition SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1180.000 Z=100.000), Max=(X=820.000 Y=1180.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rat Screw Positions FolderGuid:5FB1395240434B256C2F058F44C5C777
+ |   |   |- Guid:D6CAE45C4E23DD1723795E8792894597 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_54 Label:SM_QuarterCylinder4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2600.000 Z=0.000), Max=(X=400.000 Y=2700.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- Guid:D716645146AD6E165608CDBF41E9F751 BaseClass:/Game/Mini_Games/Darts/BP_Dart_Game_Manager.BP_Dart_Game_Manager_C NativeClass:/Script/Engine.Actor Name:BP_Dart_Game_Manager_C_UAID_107C61B295B0765002_1297418746 Label:BP_Dart_Game_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2879.252 Y=1526.532 Z=0.000), Max=(X=2879.252 Y=1526.532 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E0E4DF5E4C7F3BAE3B10A79365080E75 BaseClass:/Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Collision.BP_Outside_Loop_Collision_C NativeClass:/Script/Engine.Actor Name:BP_Outside_Loop_C_UAID_107C61B295B05A5002_1658703815 Label:BP_Outside_Loop_Collision SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2048.291 Y=993.023 Z=-0.177), Max=(X=2512.291 Y=1057.023 Z=511.823) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E7C88B004DFFF4BE08155AB223A0EF2C BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:ED634735430DB9B4198DF4A9A188273B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_61 Label:SM_QuarterCylinder14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.000 Y=500.000 Z=0.000), Max=(X=2400.000 Y=700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:EDEC6DF048814769750EA2BC473CA3E8 BaseClass:/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager_C NativeClass:/Script/Engine.Actor Name:BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497 Label:BP_I_Doubt_It_Game_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1570.000 Y=1210.000 Z=0.000), Max=(X=1570.000 Y=1210.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Game Managers FolderGuid:67B737B3449AAC594BF5818DFC645282
+ |   |   |- Guid:F273828D468DD479CDB07EBF9F6EBA68 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_47 Label:SM_Ramp3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=1700.000 Z=100.000), Max=(X=2000.000 Y=2100.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:F6974391454BE3281D0A9AAB775EBFF6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_43 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2900.000 Y=100.000 Z=0.000), Max=(X=3000.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- Guid:F84627E14E581D6446EBE987C8E864C6 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829075229 Label:Auction_P3_Played_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=460.000 Y=760.000 Z=70.000), Max=(X=620.000 Y=920.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- Guid:FC2659D1462E0C2787253D85D4D3D619 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_37 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=3400.000 Z=0.000), Max=(X=3000.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- Guid:FDAFDE474365F652C3DF3DA532A85111 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829067223 Label:Auction_P1_Won_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=660.000 Z=70.000), Max=(X=560.000 Y=820.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:017394CF45B3BF2BCF7AB382975F2606 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_39 Label:SM_Ramp2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1400.000 Y=1500.000 Z=0.000), Max=(X=1800.000 Y=1700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0235F711493B1F4A348E689D4A1814B3 BaseClass:/Game/NPCs/BP_NPC.BP_NPC_C NativeClass:/Script/Engine.Character Name:BP_NPC_C_UAID_107C61B295B0C84A02_1958739840 Label:BP_NPC2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1040.000 Y=910.000 Z=-162.000), Max=(X=1540.000 Y=1410.000 Z=338.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:NPCs FolderGuid:535C834849C79B934F2AC8AF4B794CDA
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:04359C5946F4665BB1931D85B43ACF6C BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_4CCC6AF998965E4B02_1646122240 Label:BP_RatScrewSharedPile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=700.000 Y=1290.000 Z=90.000), Max=(X=860.000 Y=1450.000 Z=330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:04BD8AA84DA21C31DB5722A42644102D BaseClass:/Game/Shared_Game_Mechanics/Rules/BP_Rules_Manager.BP_Rules_Manager_C NativeClass:/Script/Engine.Actor Name:BP_Rules_Manager_C_UAID_107C61B295B00C5002_1196686087 Label:BP_Rules_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=450.860 Y=1263.190 Z=-0.000), Max=(X=450.860 Y=1263.190 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Other Managers FolderGuid:CA620F0D4A42190A913CA6846BA13CBC
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:0870CC704F80A8D5DF802EAC5E048723 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_45 Label:SM_Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1599.391 Y=2600.000 Z=-0.000), Max=(X=2799.391 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:0BA692F2483B038451D9D4B5070703A2 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829071224 Label:Auction_P2_Won_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=710.000 Z=70.000), Max=(X=560.000 Y=870.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:0EB04C484FA5C4AB6848CFBD4E5D111C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0FE4A02_1320752344 Label:SM_QuarterCylinder16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=682.500 Y=1370.000 Z=60.000), Max=(X=820.000 Y=1507.500 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:0FAEAF0648FC5D7986A36DAFE65FC1D5 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0AD4C02_1351343202 Label:TargetPoint4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1060.000 Y=1370.000 Z=60.000), Max=(X=1060.000 Y=1370.000 Z=60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:IDI POINTS FolderGuid:6ADE40F34ACE67AAEB3A08B738E3B888
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:174DF71143EA367D14F3838C26CC06DF BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:1B7E668B490D371089E94FB68D19A571 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0AD4C02_1350808201 Label:TargetPoint3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1580.000 Z=70.000), Max=(X=820.000 Y=1580.000 Z=70.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:IDI POINTS FolderGuid:6ADE40F34ACE67AAEB3A08B738E3B888
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:1ECA43D04F2ABD46671D349E0477666C BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0314F02_1990991543 Label:Auction_Main_Pile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=739.023 Y=1287.680 Z=97.575), Max=(X=899.023 Y=1447.680 Z=337.575) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:22043D904138D0E50DB05FB74FCA2289 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_60 Label:SM_QuarterCylinder13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.000 Y=500.000 Z=0.000), Max=(X=2200.000 Y=700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:243A2084428544D88534E990D8BA5B83 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_38 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=1700.000 Z=-0.000), Max=(X=1800.000 Y=2200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:2B8BD05D434B9D20C205C5B17E7EC610 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_Card_Dealer.BP_Card_Dealer_C NativeClass:/Script/Engine.Actor Name:BP_Card_Dealer_C_UAID_4CCC6AF99896B54A02_1562726495 Label:BP_Card_Dealer SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1220.000 Y=1550.000 Z=140.000), Max=(X=1220.000 Y=1550.000 Z=140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Other Managers FolderGuid:CA620F0D4A42190A913CA6846BA13CBC
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:31A6AA5C4DF124320956148CAC818A4C BaseClass:/Game/UI/Diegetic/Menus/BP_Main_Menu.BP_Main_Menu_C NativeClass:/Script/Engine.Actor Name:BP_Main_Menu_C_UAID_107C61B295B0615002_1815433047 Label:BP_Main_Menu SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=27.153 Y=1387.107 Z=-76.334), Max=(X=1498.376 Y=2802.712 Z=505.288) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:3E0D0C7A4D8FFA7CE31DB8AA2B2D1292 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_57 Label:SM_QuarterCylinder6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=2200.000 Z=0.000), Max=(X=1300.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:3E8CD21E4384208172AE95917AFB97B9 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_4CCC6AF998962D4B02_1348301616 Label:BP_OpponentsPile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=569.871 Y=1229.871 Z=89.500), Max=(X=1070.129 Y=1730.129 Z=330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:3EFF36AA48CB04B9189796B64A49AC23 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0AD4C02_1350181200 Label:TargetPoint2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=580.000 Y=1380.000 Z=60.000), Max=(X=580.000 Y=1380.000 Z=60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:IDI POINTS FolderGuid:6ADE40F34ACE67AAEB3A08B738E3B888
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:4150656149A1CAC37E270F83FDB4D9D3 BaseClass:/Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Collision.BP_Outside_Loop_Collision_C NativeClass:/Script/Engine.Actor Name:BP_Outside_Loop_C_UAID_107C61B295B05A5002_1661120816 Label:BP_Outside_Loop2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2120.291 Y=2336.330 Z=3.126), Max=(X=2440.291 Y=2400.330 Z=403.126) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:9B8E15934E21EC11C2601E9B8D2E8C88 BaseClass:/Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Position.BP_Outside_Loop_Position_C NativeClass:/Script/Engine.Actor Name:BP_Outside_Loop_Position_C_UAID_107C61B295B05A5002_1804798820 Label:BP_Outside_Loop_Position2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2279.034 Y=1149.364 Z=-18.062), Max=(X=2439.034 Y=1389.364 Z=141.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:41FB297E46CEB592E9CDAA9AD6DE67EF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0FE4A02_1320753345 Label:SM_QuarterCylinder17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1232.500 Z=60.000), Max=(X=957.500 Y=1370.000 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:4F7B735A44E12B4B031927A9FC21C460 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_1 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:55BB2E2F4AFA453E1F1285A3ADC7186D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_58 Label:SM_QuarterCylinder11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.000 Y=700.000 Z=0.000), Max=(X=2400.000 Y=900.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:5BADA02A4B679914C3BE0AB52FF7B4FB BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_4CCC6AF998962D4B02_1342027615 Label:BP_PlayersPile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=570.000 Y=1020.000 Z=89.500), Max=(X=1070.000 Y=1520.000 Z=330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:5C7C5C40408F48C386D06CA03AB130C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1594956423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:623766974DFEEF99593BECB35DA07677 BaseClass:/Game/Misc_Mechanics/Jukebox/BP_Jukebox.BP_Jukebox_C NativeClass:/Script/Engine.Actor Name:BP_Jukebox_C_UAID_107C61B295B02E5002_1841579073 Label:BP_Jukebox SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-104.287 Y=-4.323 Z=-181.622), Max=(X=595.118 Y=695.082 Z=330.378) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:664A87DA48B6EE38C0ACEA9AEDBA4BA0 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:695A0EF14F495A3A19AA718E09EE75C7 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829074228 Label:Auction_P2_Played_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=460.000 Y=710.000 Z=70.000), Max=(X=620.000 Y=870.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:6DD30F8C47CE4EE8EB2B10A83CE91C12 BaseClass:/Game/NPCs/BP_NPC.BP_NPC_C NativeClass:/Script/Engine.Character Name:BP_NPC_C_UAID_107C61B295B0C84A02_1956770839 Label:BP_NPC1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=948.494 Y=488.494 Z=-162.000), Max=(X=1631.506 Y=1171.506 Z=338.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:NPCs FolderGuid:535C834849C79B934F2AC8AF4B794CDA
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:723128A2477074C68D9A5EA484DF76A8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_46 Label:SM_Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=1500.000 Z=0.000), Max=(X=2000.000 Y=2200.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:73DCE72F4E202D6176924AADA8B4254E BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_C87F54ABD1F8714E02_2082551754 Label:TargetPoint5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1370.000 Z=-70.000), Max=(X=820.000 Y=1370.000 Z=-70.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:73E902E24771B0582D42799CE24F84CC BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829076230 Label:Auction_P4_Played_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=460.000 Y=810.000 Z=70.000), Max=(X=620.000 Y=970.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:788903924598EC8109F9709A8AB41C0D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:7E67ACA44FEEFA9BAFDE3E955A9EA6D1 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B03D4F02_1260334656 Label:Auctioning_Pile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=719.023 Y=1257.680 Z=97.575), Max=(X=879.023 Y=1417.680 Z=337.575) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:817105674B8D89714A710BB468277A25 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829072225 Label:Auction_P3_Won_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=760.000 Z=70.000), Max=(X=560.000 Y=920.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:830FF81C457CA01C97438B95CD9DF038 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_34 Label:SM_ChamferCube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=2000.000 Z=0.013), Max=(X=1200.000 Y=2100.000 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:84A6C2C04177158166E2439E0CBAE730 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_35 Label:SM_Ramp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=600.000 Z=0.000), Max=(X=1700.000 Y=800.000 Z=30.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:859060FD4C8BAAC158F817BE7E223880 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0465302_2124540664 Label:TargetPoint6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2795.582 Y=1458.199 Z=261.088), Max=(X=2795.582 Y=1458.199 Z=261.088) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Zoom_In_Points FolderGuid:1631A18F4391DB7DA62A4A82DCB8864C
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:8EB90C194CECB464DF0B01AF04D9E032 BaseClass:/Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Position.BP_Outside_Loop_Position_C NativeClass:/Script/Engine.Actor Name:BP_Outside_Loop_Position_C_UAID_107C61B295B05A5002_1799861819 Label:BP_Outside_Loop_Position SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2279.034 Y=1929.294 Z=-18.062), Max=(X=2439.034 Y=2169.294 Z=141.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:E0E4DF5E4C7F3BAE3B10A79365080E75 BaseClass:/Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Collision.BP_Outside_Loop_Collision_C NativeClass:/Script/Engine.Actor Name:BP_Outside_Loop_C_UAID_107C61B295B05A5002_1658703815 Label:BP_Outside_Loop_Collision SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2048.291 Y=993.023 Z=-0.177), Max=(X=2512.291 Y=1057.023 Z=511.823) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:901C748940C0D4AB214A8B8BF7D39AEC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_59 Label:SM_QuarterCylinder12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.000 Y=700.000 Z=0.000), Max=(X=2200.000 Y=900.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:95915BFE4FC2CDFD5893418827035D4C BaseClass:/Game/NPCs/BP_NPC.BP_NPC_C NativeClass:/Script/Engine.Character Name:BP_NPC_C_UAID_107C61B295B0C84A02_1959897841 Label:BP_NPC3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=570.000 Y=1360.000 Z=-162.000), Max=(X=1070.000 Y=1860.000 Z=338.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:NPCs FolderGuid:535C834849C79B934F2AC8AF4B794CDA
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:96C16AF946CFF8929C47A09CAE7CD832 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_48 Label:SM_Cube10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=2100.000 Z=100.000), Max=(X=2000.000 Y=2200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:97625685428ED89E06818B996F1A508E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_53 Label:SM_QuarterCylinder3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1500.000 Y=2200.000 Z=0.000), Max=(X=1600.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:9A8590F64719696F576D32BEA8B1AF88 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_50 Label:SM_QuarterCylinder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2799.391 Y=2800.000 Z=-0.000), Max=(X=2899.391 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:9B81DBC24AB262B969F022845CF907FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0FE4A02_1320754346 Label:SM_QuarterCylinder18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1370.000 Z=60.000), Max=(X=957.500 Y=1507.500 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:9FFE6665469AE829D82050A8B1F67178 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:A25F61BD4F2EE2C7409611810AC3BAD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_52 Label:SM_Cube12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2799.391 Y=2700.000 Z=-0.000), Max=(X=2899.391 Y=2800.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:A7FB847A4A1DACD12053998C0C82FF9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_55 Label:SM_QuarterCylinder5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2800.000 Z=0.000), Max=(X=400.000 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:A85A7AD046A0462D176E6889992C1216 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:AA857C9F436500D6ED8E03A5806DCE50 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_44 Label:SM_Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=2200.000 Z=0.000), Max=(X=1500.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:ADE67A12424F0AE793A537ACE111B6D3 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829073226 Label:Auction_P4_Won_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=810.000 Z=70.000), Max=(X=560.000 Y=970.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:AE8AA01A4DE576B371C05FA79B282659 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_40 Label:SM_ChamferCube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=992.077 Y=2692.077 Z=0.013), Max=(X=1107.923 Y=2807.923 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:B23C247D4E34A96052E563A19E79FA75 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:B292F0FA413FF4E5BE01F589E9C61225 BaseClass:/Game/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.BP_Rat_Screw_Game_Manager_C NativeClass:/Script/Engine.Actor Name:BP_Rat_Screw_Game_Manager_C_UAID_C87F54ABD1F8714E02_1702700753 Label:BP_Rat_Screw_Game_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=530.000 Y=1140.000 Z=0.000), Max=(X=530.000 Y=1140.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Game Managers FolderGuid:67B737B3449AAC594BF5818DFC645282
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:B9527F18436B4C90019C7C8AF398144B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_41 Label:SM_ChamferCube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=251.301 Y=2120.052 Z=0.013), Max=(X=387.904 Y=2256.655 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:B9D350AF4653682F2EE611BDF851ED40 BaseClass:/Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager.BP_Auction_Game_Manager_C NativeClass:/Script/Engine.Actor Name:BP_Auction_Game_Manager_C_UAID_4CCC6AF99896B54A02_1593621498 Label:BP_Auction_Game_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1670.000 Y=1280.000 Z=0.000), Max=(X=1670.000 Y=1280.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Game Managers FolderGuid:67B737B3449AAC594BF5818DFC645282
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:BBED4AEF4FF8C0304D1D709BA55AD037 BaseClass:/Game/Mini_Games/Darts/BP_Dart_Board.BP_Dart_Board_C NativeClass:/Script/Engine.Actor Name:BP_Dart_Board_C_UAID_107C61B295B04C5102_1218601234 Label:BP_Dart_Board SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2404.486 Y=1295.880 Z=-91.763), Max=(X=2916.486 Y=1847.148 Z=488.312) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:BC42D9B9467E38655AFC6DB667A61ECA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_49 Label:SM_Cube11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=2600.000 Z=0.000), Max=(X=700.000 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:BD430F5245E33ECC56F7628FBABC5D84 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_33 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=3000.000 Y=3500.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:BDD6027D41A86A1D417EBB87FBDD35CF BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B01B4B02_1207731447 Label:BP_IDI_Pile SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=769.023 Y=1287.680 Z=97.575), Max=(X=929.023 Y=1447.680 Z=337.575) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:BFB671284CA12B07A4565ABBE4C17B4C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_51 Label:SM_QuarterCylinder2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2799.391 Y=2600.000 Z=-0.000), Max=(X=2899.391 Y=2700.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:C1E516BA480C7F9751AD1984E6D35778 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829074227 Label:Auction_P1_Played_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=460.000 Y=660.000 Z=70.000), Max=(X=620.000 Y=820.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:C23D660C4D0A40D56B3C909E3A106E86 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0FE4A02_1320750343 Label:SM_QuarterCylinder15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=682.500 Y=1232.500 Z=60.000), Max=(X=820.000 Y=1370.000 Z=85.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:C726A3284B806D4C379405885740B688 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=0.013), Max=(X=940.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:C752FDB9451B0FA0675D4B9D3E8B12AB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_56 Label:SM_Cube13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2700.000 Z=0.000), Max=(X=400.000 Y=2800.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:CE569D114AFED3EACDF4D98C1F48CDAA BaseClass:/Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager_C NativeClass:/Script/Engine.Actor Name:BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075 Label:BP_Turn_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=470.000 Y=1370.000 Z=120.000), Max=(X=470.000 Y=1370.000 Z=120.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Other Managers FolderGuid:CA620F0D4A42190A913CA6846BA13CBC
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:CF585544407A59E5872945BA51DF779D BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0AD4C02_1349721199 Label:TargetPoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1170.000 Z=90.000), Max=(X=820.000 Y=1170.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:IDI POINTS FolderGuid:6ADE40F34ACE67AAEB3A08B738E3B888
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:D67498ED4DF3838C755EF3A077A01A65 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_4CCC6AF998965C4B02_1381254887 Label:RatScrewPlayerPosition SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=820.000 Y=1180.000 Z=100.000), Max=(X=820.000 Y=1180.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Rat Screw Positions FolderGuid:5FB1395240434B256C2F058F44C5C777
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:D6CAE45C4E23DD1723795E8792894597 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_54 Label:SM_QuarterCylinder4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2600.000 Z=0.000), Max=(X=400.000 Y=2700.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:D716645146AD6E165608CDBF41E9F751 BaseClass:/Game/Mini_Games/Darts/BP_Dart_Game_Manager.BP_Dart_Game_Manager_C NativeClass:/Script/Engine.Actor Name:BP_Dart_Game_Manager_C_UAID_107C61B295B0765002_1297418746 Label:BP_Dart_Game_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2879.252 Y=1526.532 Z=0.000), Max=(X=2879.252 Y=1526.532 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:E7C88B004DFFF4BE08155AB223A0EF2C BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:ED634735430DB9B4198DF4A9A188273B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_61 Label:SM_QuarterCylinder14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.000 Y=500.000 Z=0.000), Max=(X=2400.000 Y=700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:EDEC6DF048814769750EA2BC473CA3E8 BaseClass:/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager_C NativeClass:/Script/Engine.Actor Name:BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497 Label:BP_I_Doubt_It_Game_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1570.000 Y=1210.000 Z=0.000), Max=(X=1570.000 Y=1210.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Game Managers FolderGuid:67B737B3449AAC594BF5818DFC645282
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:F273828D468DD479CDB07EBF9F6EBA68 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_47 Label:SM_Ramp3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=1700.000 Z=100.000), Max=(X=2000.000 Y=2100.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:F6974391454BE3281D0A9AAB775EBFF6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_43 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2900.000 Y=100.000 Z=0.000), Max=(X=3000.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:F84627E14E581D6446EBE987C8E864C6 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829075229 Label:Auction_P3_Played_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=460.000 Y=760.000 Z=70.000), Max=(X=620.000 Y=920.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:FC2659D1462E0C2787253D85D4D3D619 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_37 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=3400.000 Z=0.000), Max=(X=3000.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:FDAFDE474365F652C3DF3DA532A85111 BaseClass:/Game/Shared_Game_Mechanics/Cards/BP_CardPile.BP_CardPile_C NativeClass:/Script/Engine.Actor Name:BP_CardPile_C_UAID_107C61B295B0794F02_1829067223 Label:Auction_P1_Won_Cards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=660.000 Z=70.000), Max=(X=560.000 Y=820.000 Z=310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Piles FolderGuid:A17390024E1E760AD286EE8C99E3CEFB
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of ThirdPersonMap Persistent Level
+ |- Always loaded Actor Count: 287 
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Maps/ThirdPersonMap
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Actor_UAID_4CCC6AF998965C4B02_1381254887
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/MW/K8TH4VAKDXSQQUAS8FXSEI
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Auction_Game_Manager_C_UAID_4CCC6AF99896B54A02_1593621498
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/C/EO/59HJ5594FAEPUFB4A57QEM
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Card_Dealer_C_UAID_4CCC6AF99896B54A02_1562726495
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/LQ/IPO6CP84ELFFUYRWPZ1K6V
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B01B4B02_1207731447
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/E/SX/NPLIN1Y2SD41ANF3I1VN9D
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B0314F02_1990991543
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/B1/A5ICOY6WXEX3Y56SOC972B
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B03D4F02_1260334656
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/0K/05GBBY0BOJN9BJN1BCIG3F
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B0794F02_1829067223
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/OY/WCYSNQ36MW5G76ETU96QSQ
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B0794F02_1829071224
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/A/G1/L25O6RQJ5OMOLK6MTQF1UN
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B0794F02_1829072225
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/0/TL/N1V25X6GS2M42TV7E38L55
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B0794F02_1829073226
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/75/OHXTA8LQ9W6H4GPUPHXFKA
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B0794F02_1829074227
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/KT/PVL5ZD4AYF5TTPPNKTS3HR
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B0794F02_1829074228
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/A/Q6/R9DV9DVB41YG7VQA5MFGAV
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B0794F02_1829075229
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/C/LC/XBE66ASPZXWUCOMA2O6A7U
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B0794F02_1829076230
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/5/LM/03JJTQQ922S523ZYM6GL8N
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_4CCC6AF998962D4B02_1342027615
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/E/AB/TE8I9OIO0SP4UYL420TPQM
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_4CCC6AF998962D4B02_1348301616
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/0/JJ/ULN0FLRHWYX5R763L11QCK
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_4CCC6AF998965E4B02_1646122240
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/0/SP/E6V1M871EDQK3J6XK405JD
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Dart_Board_C_UAID_107C61B295B04C5102_1218601234
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Dart_Game_Manager_C_UAID_107C61B295B0765002_1297418746
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/2L/CJJ1WTB7B40DYRUFLZUWQ4
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/IZ/4QNSDVQQQZH612QJGCDIIG
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Jukebox_C_UAID_107C61B295B02E5002_1841579073
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/E/EC/LFUKLNBV4H0LX1HGW2TKKG
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Main_Menu_C_UAID_107C61B295B0615002_1815433047
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/NA/CH03J19CP3P9281KGQPNEV
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1956770839
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/SQ/0J2CCACFZDQ02BKMJUZ0G8
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1958739840
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/4Z/LEXZZQU6GBM2OBSBENPJ4G
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1959897841
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/W1/C391GGHNKNVEF4UC3KFH63
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Outside_Loop_C_UAID_107C61B295B05A5002_1658703815
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/84/X9Z2UXMRRBXDH55SJ5R19S
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Outside_Loop_C_UAID_107C61B295B05A5002_1661120816
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/C/4R/I33FFUKBV1LH5XSD0NK4L0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Outside_Loop_Position_C_UAID_107C61B295B05A5002_1799861819
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/B/XP/220Y6IOAMQNXTP8PBY0ZAJ
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Outside_Loop_Position_C_UAID_107C61B295B05A5002_1804798820
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/5/7V/SOMCPTZJSHOREEWIFJAJ89
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Rat_Screw_Game_Manager_C_UAID_C87F54ABD1F8714E02_1702700753
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/K0/0YOU51BJTCKZ3HZTQNI6UJ
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Rules_Manager_C_UAID_107C61B295B00C5002_1196686087
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/3/G4/IQI5TPRBD9JZ32B5W39A94
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/A/X6/EZ4SKU166NN2ESL3Y8OEYN
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Maps/ThirdPersonMap
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218613235
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218613236
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218614237
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218614238
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218614239
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218614240
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218615241
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218616242
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218616243
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218616244
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218617245
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218617246
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218617247
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218617248
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218618249
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218618250
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218618251
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218619252
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218619253
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218619254
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218619255
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218620256
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218620257
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218621258
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218621259
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218621260
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218622261
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218622262
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218622263
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218623264
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218623265
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218624266
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218624267
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218624268
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218625269
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218625270
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218625271
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218626272
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218626273
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218626274
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218627275
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218627276
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218628277
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218628278
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218628279
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218629280
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218629281
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218629282
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218629283
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218630284
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218631285
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218631286
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218631287
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218632288
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218632289
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218632290
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218633291
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218633292
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218634293
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218634294
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218635295
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218635296
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218635297
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218636298
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218636299
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218636300
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218637301
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218637302
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218637303
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218638304
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218638305
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218639306
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218639307
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218639308
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218640309
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218640310
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218640311
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218641312
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218641313
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218641314
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218642315
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218643316
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218643317
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218644318
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218644319
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218644320
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218644321
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218645322
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218646323
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218646324
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218646325
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218647326
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218647327
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218648328
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218648329
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218648330
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218649331
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218649332
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218649333
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218650334
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218650335
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218651336
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218651337
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218651338
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218652339
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218652340
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218652341
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218653342
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218653343
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218654344
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218654345
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218654346
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218655347
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218655348
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218655349
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218656350
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218656351
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218656352
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218657353
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218657354
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218658355
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218659356
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218659357
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218660358
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218660359
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218661360
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218661361
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218662362
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218662363
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218663364
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218663365
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218663366
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218664367
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218664368
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218664369
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218665370
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218665371
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218666372
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218666373
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218666374
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218667375
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218667376
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218667377
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218668378
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218668379
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218668380
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218669381
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218669382
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218670383
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218670384
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218671385
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218671386
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218671387
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218672388
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218672389
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218672390
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218673391
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218673392
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218674393
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218674394
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218675395
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218675396
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218675397
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218676398
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218676399
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218676400
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218677401
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218677402
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218677403
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218678404
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218678405
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218678407
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218678408
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218679406
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218679409
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218679410
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218679411
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218680412
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218680413
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218680414
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218681415
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218681416
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218681417
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218682418
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218682419
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218683420
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218683421
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218683422
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218684423
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218684424
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218684425
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218685426
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218685427
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218686428
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218686429
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218686430
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218687431
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218687432
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218687433
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218688434
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Bullseye Point_GEN_VARIABLE_BP_Dart_Score_Point_C_CAT_UAID_107C61B295B04C5102_1218689435
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/FI/1RDMBJB2SSEET19WFAWKM0
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Maps/ThirdPersonMap
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/B/0U/BTI89BYFRN7CT55DFI2M1W
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ExponentialHeightFog_1
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/QR/YS53T6QBXHLS5W3Z3CLSQY
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Maps/ThirdPersonMap
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/0/9Z/OBHQTF8IORVT433VKL992W
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/VI/PDXA9Q02LMQ2U8KWXCKWUI
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyAtmosphere_1
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/O1/O1IX5R1W7OWY6LZ0RCYVRD
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyLight_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/C/HY/QDT9F7V3CSE47XAER57IXV
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_33
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/VY/RSXANJEVJDNKW83NLSURPT
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_34
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/3/3J/IWSSFGQQZ4WAXKO4RKFB5A
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_35
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/3/1B/XASWLK7IUNZGYZ8JCJ6O5Y
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_37
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/B/T7/RSM8TN0HE5ONTXJ6A8NQWC
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_38
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/CG/OPJGUFKWJG8LMV9FMQQ4DL
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_39
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/B/AQ/OJTR8YOVX54WHU7BX19EA2
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_40
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/0/2Q/RFZN3FLL1Z2M7LM5SCTAMM
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_41
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/0/I0/7R2SLCP7RE79Q14ZI9399D
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_43
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/9/RB/8Q172RGHN06IXWEU1ILOI3
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_44
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/3/5L/E3UCWFZX3R2YUOHFCZLK5S
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_45
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/3/DR/UBUMIKTF6OC9Q5F9C5VBSO
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_46
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/TM/RHEKN2PI6VS7X8SU66QWJP
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_47
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/A/J5/6QNAD6R4TEJP8E5X8APZW6
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_48
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/9C/KA1OWREDW9KWZAYKF5PPKI
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_49
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/0/6L/J41VDV09PDRUOAZ7LAU7UI
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_50
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/B/L0/PK2GGQSC29VZ1CPD1O5XNB
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_51
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/0S/89EX1XBYBWIXUJ2W4KHZKR
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_52
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/NH/YRGYL04GL3CB72RO9ZXBAU
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_53
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/9S/V7CUDTMU0BWT3VKRMKGHX6
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_54
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/0/1V/GQWM65LA8E1XPRQAR8KFP9
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_55
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/0/MF/DMRG72MEMJ1XM8IAQURCES
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_56
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/E/VX/G6E2M04N1DLA6AH136CV36
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_57
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/97/SC2AAQCCUQO5SPAGFZJPYQ
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_58
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/E/VI/7A1Z91AH6R4ER1EBVWYP3L
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_59
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/4X/UDP2IN938JI08H3GCLV5MW
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_60
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/6/3M/KQTC6D0WYOPP0CH0C95H43
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_61
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/A5/DRUW0Z9VGD2RB36I1UR9H1
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B295B0FE4A02_1320750343
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/9/S5/WCY8UBHI7CA5ABVJETWGI3
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B295B0FE4A02_1320752344
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/6/N2/SG17W4MI55ZY6ZYPE3G6UN
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B295B0FE4A02_1320753345
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/AK/EOMZT9TYZM64AMH51WX4ZR
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_107C61B295B0FE4A02_1320754346
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/DX/PTNLDST9W212M7GJPLVV4H
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1594956423
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/B/PZ/18PJR4A4AXLPM4AQ34HQZU
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TargetPoint_UAID_107C61B295B0465302_2124540664
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/2K/EFYPQL0OIU2M6P2EWP1V8X
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TargetPoint_UAID_107C61B295B0AD4C02_1349721199
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/6/58/OPP8G7D2X5XUSHEC5B46PJ
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TargetPoint_UAID_107C61B295B0AD4C02_1350181200
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/3N/01ELXBGIRWNJ7S77YUM0OZ
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TargetPoint_UAID_107C61B295B0AD4C02_1350808201
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/MA/G37VEJ2D3JBABT0HUIQ3RO
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TargetPoint_UAID_107C61B295B0AD4C02_1351343202
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/HR/CH4ZSU862DWCPHZWI1QOLO
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TargetPoint_UAID_C87F54ABD1F8714E02_2082551754
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/6/VS/0UZVP6JT5MN4DJ0VVT0243
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_1
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/SN/54G2E6KSHCBT0L3UCPROEX
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonExampleMap_C_0
+ |- Actor Package: /Game/Maps/ThirdPersonMap
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.VolumetricCloud_1
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/87/6HUJP9A096QM74ZVDZJP0S
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/3/UD/BB4MDNTU359RPOEOB0K97W
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/Maps/ThirdPersonMap
+ |- Actor Path: /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/ThirdPersonMap/E/JJ/FJ93PGBA64REAOI7YZUGHA
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
