@@ -4378,3 +4378,535 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.14-11.45.24:705][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
 [2025.03.14-11.45.24:715][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2025.03.14-11.45.24:756][354]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.03.14-11.46.54:223][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6721.125000
+[2025.03.14-11.46.55:223][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.46.55:223][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6721.791016, Update Interval: 314.258850
+[2025.03.14-11.47.16:120][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.14-11.47.17:220][651]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.14-11.47.17:220][651]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.47.17:220][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.47.17:540][678]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.14-11.47.17:540][678]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.47.17:540][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.47.17:698][689]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.14-11.47.17:698][689]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.47.17:698][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.47.17:904][705]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.47.17:904][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.47.17:913][705]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.47.17:913][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.47.18:140][722]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.14-11.47.18:140][722]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.47.18:140][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.47.18:419][744]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.14-11.47.18:419][744]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.47.18:419][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.47.24:294][419]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.03.14-11.47.24:294][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-11.47.24:294][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-11.47.26:760][669]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager.BP_Auction_Game_Manager
+[2025.03.14-11.47.26:760][669]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-11.47.26:760][669]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-11.47.29:536][947]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.BP_Rat_Screw_Game_Manager
+[2025.03.14-11.47.29:536][947]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-11.47.29:536][947]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-11.47.31:650][169]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.47.31:650][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.47.37:165][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mini_Games/Darts/BP_Dart_Game_Manager.BP_Dart_Game_Manager
+[2025.03.14-11.47.37:165][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-11.47.37:165][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-11.49.12:175][723]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.49.12:192][723]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.49.12:207][725]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.49.13:530][884]LogContentBrowser: Attempting asset rename: NewFolder -> Biel
+[2025.03.14-11.49.13:531][884]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.49.15:708][110]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.49.15:727][110]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.49.15:733][111]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.49.17:971][380]LogContentBrowser: Attempting asset rename: NewFolder -> Zillia
+[2025.03.14-11.49.17:972][380]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.49.20:652][700]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-11.49.20:660][700]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-11.49.20:660][700]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-11.49.20:663][700]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 61 ms)
+[2025.03.14-11.49.20:663][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-11.49.20:663][700]PIE: New page: PIE session: ThirdPersonMap (14 Mar 2025, 11:49:20)
+[2025.03.14-11.49.20:683][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-11.49.20:703][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020475s)
+[2025.03.14-11.49.20:703][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.020501s)
+[2025.03.14-11.49.20:721][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.14-11.49.20:728][700]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-11.49.20:728][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-11.49.20:728][700]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.03.14-11.49.20:729][700]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-11.49.20:729][700]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-11.49.20:729][700]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-11.49.20:729][700]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-11.49.20:735][700]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.03.14-11.49.20:735][700]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 220 ms)
+[2025.03.14-11.49.20:735][700]LogPlayLevel: PIE: World Init took: (0.006156s)
+[2025.03.14-11.49.20:735][700]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.03.14-11.49.20:735][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-11.49.20:735][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-11.49.20:735][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-11.49.20:735][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-11.49.20:735][700]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-11.49.20:735][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-11.49.20:735][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-11.49.20:735][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-11.49.20:735][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-11.49.20:735][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-11.49.20:735][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-11.49.20:737][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-11.49.20:757][700]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-11.49.20:757][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-11.49.20:757][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-11.49.20:757][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-11.49.20:757][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.03.14-11.49.20:757][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.03.14-11.49.20:759][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.03.14-11.49.20:759][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.03.14-11.49.20:759][700]LogInit: FAudioDevice initialized with ID 30.
+[2025.03.14-11.49.20:759][700]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonMap'.
+[2025.03.14-11.49.20:759][700]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.03.14-11.49.20:761][700]LogLoad: Game class is 'GM_Bar_C'
+[2025.03.14-11.49.20:764][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-11.49.20
+[2025.03.14-11.49.20:765][700]LogWorld: Bringing up level for play took: 0.004363
+[2025.03.14-11.49.20:766][700]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.03.14-11.49.20:803][700]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.03.14-11.49.20:803][700]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.03.14-11.49.20:803][700]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.03.14-11.49.20:805][700]PIE: Server logged in
+[2025.03.14-11.49.20:805][700]PIE: Play in editor total start time 0.145 seconds.
+[2025.03.14-11.49.21:396][764]LogSlate: New Slate User Created. Platform User Id 13, User Index 13, Is Virtual User: 1
+[2025.03.14-11.49.21:396][764]LogSlate: Slate User Registered.  User Index 13, Is Virtual User: 1
+[2025.03.14-11.49.29:914][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-11.49.29:914][782]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-11.49.29:915][782]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.49.29:922][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.49.29:922][782]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-11.49.29:925][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-11.49.29:930][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.49.29:948][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-11.49.29:948][782]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.03.14-11.49.29:948][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.03.14-11.49.29:950][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.03.14-11.49.29:953][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-11.49.29:957][782]LogSlate: Slate User Unregistered.  User Index 13
+[2025.03.14-11.49.29:957][782]LogSlate: Slate User Destroyed.  User Index 13, Is Virtual User: 1
+[2025.03.14-11.49.29:958][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.14-11.49.29:998][783]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.03.14-11.49.39:377][848]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.49.39:393][848]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.49.39:400][849]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.49.40:497][981]LogContentBrowser: Attempting asset rename: NewFolder -> Dante
+[2025.03.14-11.49.40:498][981]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.50.50:519][924]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.03.14-11.50.51:235][999]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.50.51:245][999]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.50.51:261][  1]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.50.53:000][208]LogContentBrowser: Attempting asset rename: NewFolder -> Cards
+[2025.03.14-11.50.53:001][208]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.50.55:137][438]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.50.55:145][438]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.50.55:152][439]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.51.02:683][342]LogContentBrowser: Attempting asset rename: NewFolder -> Main_Game_Main_Actions
+[2025.03.14-11.51.02:684][342]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.51.05:183][618]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.51.05:197][618]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.51.05:211][620]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.51.06:059][722]LogContentBrowser: Attempting asset rename: NewFolder -> IDI
+[2025.03.14-11.51.06:060][722]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.51.09:504][945]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.51.09:512][945]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.51.09:521][946]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.51.13:292][399]LogContentBrowser: Attempting asset rename: NewFolder -> Rat_Screw
+[2025.03.14-11.51.13:292][399]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.51.15:137][595]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.51.15:147][595]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.51.15:154][596]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.51.17:634][892]LogContentBrowser: Attempting asset rename: NewFolder -> Auction
+[2025.03.14-11.51.17:634][892]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.51.22:012][381]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.51.22:030][381]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.51.22:046][383]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.51.25:584][786]LogContentBrowser: Attempting asset rename: NewFolder -> Card_Movement
+[2025.03.14-11.51.25:584][786]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.51.27:946][ 32]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.51.27:965][ 32]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.51.27:972][ 33]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.51.29:818][253]LogContentBrowser: Attempting asset rename: NewFolder -> Card_Piles
+[2025.03.14-11.51.29:818][253]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.51.36:071][965]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.51.36:080][965]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.51.36:087][966]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.51.41:718][641]LogContentBrowser: Attempting asset rename: NewFolder -> Main_Game_Side_Actions
+[2025.03.14-11.51.41:719][641]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.51.46:881][214]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.51.46:898][214]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.51.46:913][216]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.51.48:318][383]LogContentBrowser: Attempting asset rename: NewFolder -> Auction
+[2025.03.14-11.51.48:318][383]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.51.50:332][598]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.51.50:347][598]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.51.50:355][599]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.51.51:968][791]LogContentBrowser: Attempting asset rename: NewFolder -> IDI
+[2025.03.14-11.51.51:969][791]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.51.54:080][ 17]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.51.54:098][ 17]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.51.54:105][ 18]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.51.56:885][350]LogContentBrowser: Attempting asset rename: NewFolder -> Rat_Screw
+[2025.03.14-11.51.56:885][350]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.52.11:848][145]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.52.11:865][145]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.52.11:873][146]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.52.12:703][244]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2025.03.14-11.52.12:703][244]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.52.15:139][505]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.52.15:148][505]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.52.15:165][507]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.52.16:244][635]LogContentBrowser: Attempting asset rename: NewFolder -> Click
+[2025.03.14-11.52.16:245][635]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.52.18:081][830]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.52.18:098][830]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.52.18:106][831]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.52.19:187][960]LogContentBrowser: Attempting asset rename: NewFolder -> Hover
+[2025.03.14-11.52.19:187][960]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.52.23:459][471]LogContentBrowser: Attempting asset rename: Hover -> Hovering
+[2025.03.14-11.52.29:224][117]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.52.29:231][117]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.52.29:239][118]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.52.35:712][895]LogContentBrowser: Attempting asset rename: NewFolder -> Card_Hovering_Selection
+[2025.03.14-11.52.35:712][895]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.52.40:773][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7067.595703
+[2025.03.14-11.52.40:906][518]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.52.40:906][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7067.719727, Update Interval: 335.027313
+[2025.03.14-11.52.51:551][763]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.52.51:566][763]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.52.51:573][764]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.52.51:671][776]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.03.14-11.52.51:671][776]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.52.53:721][ 21]LogContentBrowser: Attempting asset rename: NewFolder -> Wipe
+[2025.03.14-11.53.20:632][246]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: ae3...f9a
+[2025.03.14-11.53.20:632][246]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.554e+07
+[2025.03.14-11.53.20:782][264]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: ae3...f9a Access[Expires: 2025.03.14-13.53.18 Remaining: 7200.72] Refresh[Expires: 2025-09-10T09:36:39.005Z Remaining: 15543801.00] State: Valid
+[2025.03.14-11.54.18:936][607]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.54.18:952][607]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.54.18:960][608]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.54.28:066][687]LogContentBrowser: Attempting asset rename: NewFolder -> Mini_Game_Actions
+[2025.03.14-11.54.28:066][687]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.54.30:478][947]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.54.30:487][947]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.54.30:504][949]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.54.31:382][ 53]LogContentBrowser: Attempting asset rename: NewFolder -> Darts
+[2025.03.14-11.54.31:383][ 53]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.54.33:402][268]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.54.33:419][268]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.54.33:427][269]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.54.34:448][390]LogContentBrowser: Attempting asset rename: NewFolder -> Pool
+[2025.03.14-11.54.34:450][390]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.54.36:703][637]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.54.36:721][637]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.54.36:736][639]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.54.39:083][921]LogContentBrowser: Attempting asset rename: NewFolder -> Pocketed
+[2025.03.14-11.54.39:083][921]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.54.40:962][113]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.54.40:970][113]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.54.40:978][114]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.54.41:999][235]LogContentBrowser: Attempting asset rename: NewFolder -> Hits
+[2025.03.14-11.54.42:001][235]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.54.47:554][404]LogAutomationController: Ignoring very large delta of 4.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.14-11.54.49:153][556]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.54.49:170][556]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.54.49:178][557]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.54.51:367][820]LogContentBrowser: Attempting asset rename: NewFolder -> Score
+[2025.03.14-11.54.51:367][820]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.54.54:637][184]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.54.54:655][184]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.54.54:670][186]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.54.55:576][295]LogContentBrowser: Attempting asset rename: NewFolder -> Darts
+[2025.03.14-11.54.55:576][295]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.54.57:437][489]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.54.57:454][489]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.54.57:462][490]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.54.58:476][610]LogContentBrowser: Attempting asset rename: NewFolder -> Scores
+[2025.03.14-11.54.58:476][610]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.55.00:520][829]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.55.00:537][829]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.55.00:553][831]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.55.01:683][965]LogContentBrowser: Attempting asset rename: NewFolder -> Normal
+[2025.03.14-11.55.01:683][965]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.55.03:662][177]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.55.03:670][177]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.55.03:678][178]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.55.04:892][323]LogContentBrowser: Attempting asset rename: NewFolder -> Double
+[2025.03.14-11.55.04:893][323]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.55.09:821][869]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.55.09:839][869]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.55.09:845][870]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.55.13:775][340]LogContentBrowser: Attempting asset rename: NewFolder -> Treble
+[2025.03.14-11.55.13:776][340]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.55.32:036][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB6B00) on the [0x0000045E495C0B00, 3D] queue has not completed after 5.000000 seconds.
+[2025.03.14-11.55.32:040][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB1A00) on the [0x0000045E495C1100, Compute] queue has not completed after 5.000000 seconds.
+[2025.03.14-11.55.36:456][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EBA700) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.419695 seconds.
+[2025.03.14-11.55.36:456][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB5200) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.417602 seconds.
+[2025.03.14-11.55.36:456][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB3100) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.417186 seconds.
+[2025.03.14-11.55.36:456][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB9400) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.416942 seconds.
+[2025.03.14-11.55.36:456][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB1300) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.416930 seconds.
+[2025.03.14-11.55.36:456][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB9800) on the [0x0000045E495C1100, Compute] queue has not completed after 9.416532 seconds.
+[2025.03.14-11.55.36:456][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB1700) on the [0x0000045E495C1100, Compute] queue has not completed after 9.416542 seconds.
+[2025.03.14-11.55.36:458][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB1F00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.418932 seconds.
+[2025.03.14-11.55.36:458][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB8A00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.419195 seconds.
+[2025.03.14-11.55.36:459][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB9D00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.419534 seconds.
+[2025.03.14-11.55.36:460][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB0C00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.420348 seconds.
+[2025.03.14-11.55.36:460][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB7D00) on the [0x0000045E495C1100, Compute] queue has not completed after 9.420327 seconds.
+[2025.03.14-11.55.36:460][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB3700) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.420890 seconds.
+[2025.03.14-11.55.36:460][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB6A00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.420972 seconds.
+[2025.03.14-11.55.36:460][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EBA400) on the [0x0000045E495C1100, Compute] queue has not completed after 9.421047 seconds.
+[2025.03.14-11.55.36:460][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB9600) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.421047 seconds.
+[2025.03.14-11.55.36:462][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB8700) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.421578 seconds.
+[2025.03.14-11.55.36:462][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB9300) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.422200 seconds.
+[2025.03.14-11.55.36:463][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB8D00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.422189 seconds.
+[2025.03.14-11.55.36:463][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB7B00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.422444 seconds.
+[2025.03.14-11.55.36:463][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB1200) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.422365 seconds.
+[2025.03.14-11.55.36:463][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EBA000) on the [0x0000045E495C1100, Compute] queue has not completed after 9.423058 seconds.
+[2025.03.14-11.55.36:463][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB9F00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.422421 seconds.
+[2025.03.14-11.55.36:468][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB7500) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.427153 seconds.
+[2025.03.14-11.55.36:469][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB8800) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.427276 seconds.
+[2025.03.14-11.55.36:470][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EBAC00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.428874 seconds.
+[2025.03.14-11.55.36:471][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB2A00) on the [0x0000045E495C1100, Compute] queue has not completed after 9.430810 seconds.
+[2025.03.14-11.55.36:471][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB4000) on the [0x0000045E495C1100, Compute] queue has not completed after 9.430652 seconds.
+[2025.03.14-11.55.36:471][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB1E00) on the [0x0000045E495C1100, Compute] queue has not completed after 9.430658 seconds.
+[2025.03.14-11.55.36:471][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB4500) on the [0x0000045E495C1100, Compute] queue has not completed after 9.430949 seconds.
+[2025.03.14-11.55.36:476][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB4900) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.434213 seconds.
+[2025.03.14-11.55.36:476][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB7E00) on the [0x0000045E495C1100, Compute] queue has not completed after 9.435293 seconds.
+[2025.03.14-11.55.36:478][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB7300) on the [0x0000045E495C1100, Compute] queue has not completed after 9.437894 seconds.
+[2025.03.14-11.55.36:481][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB7A00) on the [0x0000045E495C1100, Compute] queue has not completed after 9.440464 seconds.
+[2025.03.14-11.55.36:481][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB9B00) on the [0x0000045E495C1100, Compute] queue has not completed after 9.439340 seconds.
+[2025.03.14-11.55.36:481][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB6E00) on the [0x0000045E495C1100, Compute] queue has not completed after 9.439433 seconds.
+[2025.03.14-11.55.36:485][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB5F00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.443242 seconds.
+[2025.03.14-11.55.36:485][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB6D00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.443227 seconds.
+[2025.03.14-11.55.36:485][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB5E00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.443844 seconds.
+[2025.03.14-11.55.36:487][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB9C00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.445708 seconds.
+[2025.03.14-11.55.36:487][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB2700) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.445729 seconds.
+[2025.03.14-11.55.36:488][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB4800) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.445872 seconds.
+[2025.03.14-11.55.36:488][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB8400) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.445800 seconds.
+[2025.03.14-11.55.36:488][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB8E00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.445434 seconds.
+[2025.03.14-11.55.36:490][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EBA800) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.447839 seconds.
+[2025.03.14-11.55.36:490][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB9500) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.447588 seconds.
+[2025.03.14-11.55.36:491][905]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000045E69EB3E00) on the [0x0000045E495C0B00, 3D] queue has not completed after 9.447899 seconds.
+[2025.03.14-11.55.36:497][906]LogAutomationController: Ignoring very large delta of 9.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.14-11.55.37:979][ 53]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.55.37:989][ 53]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.55.37:997][ 54]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.55.39:152][193]LogContentBrowser: Attempting asset rename: NewFolder -> Bust
+[2025.03.14-11.55.39:152][193]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.55.41:701][477]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.55.41:722][477]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.55.41:730][478]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.55.42:594][581]LogContentBrowser: Attempting asset rename: NewFolder -> Win
+[2025.03.14-11.55.42:594][581]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.55.45:744][928]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.55.45:756][928]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.55.45:771][930]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.55.46:702][ 42]LogContentBrowser: Attempting asset rename: NewFolder -> Hit
+[2025.03.14-11.55.46:702][ 42]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.55.48:505][237]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.55.48:522][237]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.55.48:530][238]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.55.49:435][346]LogContentBrowser: Attempting asset rename: NewFolder -> Remove
+[2025.03.14-11.55.49:436][346]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.55.56:364][144]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.55.56:372][144]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.55.56:388][146]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.56.01:360][678]LogContentBrowser: Attempting asset rename: NewFolder -> Unique_Cards
+[2025.03.14-11.56.01:361][678]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.56.04:165][982]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.56.04:173][982]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.56.04:189][984]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.56.05:361][125]LogContentBrowser: Attempting asset rename: NewFolder -> Doubt
+[2025.03.14-11.56.05:361][125]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.56.07:898][403]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.56.07:907][403]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.56.07:923][405]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.56.08:836][513]LogContentBrowser: Attempting asset rename: NewFolder -> Slap
+[2025.03.14-11.56.08:836][513]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.56.15:599][283]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.56.15:608][283]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.56.15:623][285]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.56.20:112][824]LogContentBrowser: Attempting asset rename: NewFolder -> Auctioned_Card
+[2025.03.14-11.56.20:112][824]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.56.22:173][ 44]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.56.22:191][ 44]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.56.22:198][ 45]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.56.23:145][159]LogContentBrowser: Attempting asset rename: NewFolder -> Draw
+[2025.03.14-11.56.23:145][159]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.56.27:203][609]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.56.27:225][609]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.56.27:241][611]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.56.34:520][483]LogContentBrowser: Attempting asset rename: NewFolder -> Face_Card
+[2025.03.14-11.56.34:520][483]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.56.41:092][233]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.56.41:109][233]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.56.41:123][235]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.56.42:161][360]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.03.14-11.56.42:163][360]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.56.51:220][348]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.068 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3775 files in 5335 folders with total size 239 MiB.
+[2025.03.14-11.56.55:734][855]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.56.55:742][855]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.56.55:757][857]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.56.56:629][960]LogContentBrowser: Attempting asset rename: NewFolder -> BG
+[2025.03.14-11.56.56:629][960]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.56.58:757][194]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.56.58:775][194]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.56.58:782][195]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.57.02:629][657]LogContentBrowser: Attempting asset rename: NewFolder -> Pause
+[2025.03.14-11.57.02:630][657]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.57.04:683][875]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.57.04:691][875]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.57.04:698][876]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.57.05:772][  4]LogContentBrowser: Attempting asset rename: NewFolder -> Win
+[2025.03.14-11.57.05:772][  4]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.57.10:466][497]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.57.10:476][497]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.57.10:483][498]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.57.12:155][699]LogContentBrowser: Attempting asset rename: NewFolder -> Other
+[2025.03.14-11.57.12:156][699]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.57.24:126][ 65]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.57.24:143][ 65]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.57.24:158][ 67]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.57.24:896][154]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.03.14-11.57.24:897][154]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.57.27:788][499]LogContentBrowser: Attempting asset rename: NewFolder -> General
+[2025.03.14-11.57.29:585][679]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.57.29:592][679]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.57.29:600][680]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.57.30:663][806]LogContentBrowser: Attempting asset rename: NewFolder -> Sorting
+[2025.03.14-11.57.30:664][806]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.58.54:610][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7441.332520
+[2025.03.14-11.58.55:611][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.58.55:611][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7442.000000, Update Interval: 347.136444
+[2025.03.14-12.01.45:296][700]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-12.01.45:304][700]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.14-12.01.45:304][700]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.14-12.01.45:306][700]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 63 ms)
+[2025.03.14-12.01.45:306][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-12.01.45:306][700]PIE: New page: PIE session: ThirdPersonMap (14 Mar 2025, 12:01:45)
+[2025.03.14-12.01.45:342][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-12.01.45:363][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021334s)
+[2025.03.14-12.01.45:363][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.021361s)
+[2025.03.14-12.01.45:418][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.14-12.01.45:443][700]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-12.01.45:443][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-12.01.45:443][700]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.03.14-12.01.45:444][700]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.14-12.01.45:444][700]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.14-12.01.45:444][700]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.14-12.01.45:444][700]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.14-12.01.45:449][700]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.03.14-12.01.45:449][700]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 226 ms)
+[2025.03.14-12.01.45:449][700]LogPlayLevel: PIE: World Init took: (0.006256s)
+[2025.03.14-12.01.45:449][700]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.03.14-12.01.45:449][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-12.01.45:449][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-12.01.45:449][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-12.01.45:449][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-12.01.45:449][700]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-12.01.45:449][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-12.01.45:449][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-12.01.45:449][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-12.01.45:449][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-12.01.45:449][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-12.01.45:449][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-12.01.45:452][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-12.01.45:471][700]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.14-12.01.45:472][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-12.01.45:472][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-12.01.45:472][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-12.01.45:472][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.03.14-12.01.45:472][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.03.14-12.01.45:474][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.03.14-12.01.45:474][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.03.14-12.01.45:474][700]LogInit: FAudioDevice initialized with ID 31.
+[2025.03.14-12.01.45:474][700]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonMap'.
+[2025.03.14-12.01.45:474][700]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.03.14-12.01.45:476][700]LogLoad: Game class is 'GM_Bar_C'
+[2025.03.14-12.01.45:479][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.14-12.01.45
+[2025.03.14-12.01.45:481][700]LogWorld: Bringing up level for play took: 0.004102
+[2025.03.14-12.01.45:482][700]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.03.14-12.01.45:517][700]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.03.14-12.01.45:517][700]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.03.14-12.01.45:517][700]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.03.14-12.01.45:519][700]PIE: Server logged in
+[2025.03.14-12.01.45:520][700]PIE: Play in editor total start time 0.216 seconds.
+[2025.03.14-12.01.46:645][828]LogSlate: New Slate User Created. Platform User Id 13, User Index 13, Is Virtual User: 1
+[2025.03.14-12.01.46:645][828]LogSlate: Slate User Registered.  User Index 13, Is Virtual User: 1
+[2025.03.14-12.01.47:320][909]LogSlate: Slate User Unregistered.  User Index 13
+[2025.03.14-12.01.47:320][909]LogSlate: Slate User Destroyed.  User Index 13, Is Virtual User: 1
+[2025.03.14-12.01.47:320][909]LogSlate: Slate User Unregistered.  User Index 13
+[2025.03.14-12.01.59:832][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-12.01.59:832][406]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.14-12.01.59:833][406]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-12.01.59:840][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-12.01.59:840][406]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.14-12.01.59:843][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-12.01.59:848][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-12.01.59:865][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-12.01.59:866][406]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.03.14-12.01.59:866][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.03.14-12.01.59:867][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.03.14-12.01.59:871][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-12.01.59:876][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.14-12.01.59:919][407]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.03.14-12.02.00:442][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.14-12.02.06:028][101]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-12.02.06:036][101]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-12.02.06:044][102]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-12.02.09:099][467]LogContentBrowser: Attempting asset rename: NewFolder -> Misc
+[2025.03.14-12.02.09:099][467]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-12.02.11:611][743]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-12.02.11:619][743]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-12.02.11:636][745]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-12.02.12:849][889]LogContentBrowser: Attempting asset rename: NewFolder -> Drinks
+[2025.03.14-12.02.12:849][889]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-12.02.15:193][139]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-12.02.15:203][139]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-12.02.15:211][140]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-12.02.16:666][315]LogContentBrowser: Attempting asset rename: NewFolder -> Jukebox
+[2025.03.14-12.02.16:666][315]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-12.02.18:969][567]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-12.02.18:986][567]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-12.02.18:993][568]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-12.02.24:449][223]LogContentBrowser: Attempting asset rename: NewFolder -> Outside_Loop
+[2025.03.14-12.02.24:449][223]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-12.02.29:594][799]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-12.02.29:604][799]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-12.02.29:610][800]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-12.02.31:550][ 33]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2025.03.14-12.02.31:550][ 33]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-12.02.33:595][252]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-12.02.33:604][252]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-12.02.33:620][254]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-12.02.35:233][446]LogContentBrowser: Attempting asset rename: NewFolder -> Movement
+[2025.03.14-12.02.35:233][446]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-12.05.34:285][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7840.834961
+[2025.03.14-12.05.34:424][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-12.05.34:424][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7840.966797, Update Interval: 331.388885
+[2025.03.14-12.11.58:931][636]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8225.331055
+[2025.03.14-12.11.59:064][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-12.11.59:064][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8225.456055, Update Interval: 313.281036
+[2025.03.14-12.17.57:829][703]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8585.596680
+[2025.03.14-12.17.57:938][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-12.17.57:938][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8585.698242, Update Interval: 339.367035
+[2025.03.14-12.24.14:744][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8964.024414
+[2025.03.14-12.24.14:877][948]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-12.24.14:878][948]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8964.151367, Update Interval: 354.008606
+[2025.03.14-12.31.00:510][819]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9371.432617
+[2025.03.14-12.31.00:643][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-12.31.00:643][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9371.558594, Update Interval: 349.775085
+[2025.03.14-12.37.21:449][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9752.574219
+[2025.03.14-12.37.22:449][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-12.37.22:449][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9753.241211, Update Interval: 334.866180
+[2025.03.14-12.43.54:506][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10145.423828
+[2025.03.14-12.43.54:632][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-12.43.54:632][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10145.541992, Update Interval: 353.402496
