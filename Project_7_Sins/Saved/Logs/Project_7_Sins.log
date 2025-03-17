@@ -10457,3 +10457,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.17-15.31.22:435][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager_Auto7
 [2025.03.17-15.31.22:436][314]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager_Auto725331BB8465EBED71BEA6A92AE2194F5.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager_Auto7.uasset'
 [2025.03.17-15.31.22:436][314]LogFileHelpers: Auto-saving content packages took 0.133
+[2025.03.17-15.33.03:732][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.17-15.33.04:731][682]LogSlate: Window 'Save Content' being destroyed
+[2025.03.17-15.33.04:743][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-15.33.04:894][682]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.03.17-15.33.04:895][682]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager50FA4374454542BDB4D570829D1F8AE2.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.03.17-15.33.04:904][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 9.76 sec)
+[2025.03.17-15.33.04:908][682]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.03.17-15.33.04:908][682]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
