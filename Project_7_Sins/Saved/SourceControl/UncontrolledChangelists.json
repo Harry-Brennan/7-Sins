@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/Environment/jess_props/JESSTEST.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/Environment/jess_props/7_SINS_SIGN.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/6/LY/YNW30FLG3D3E2QBRF653H2.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/8/20/MWOFJHTMI8U7V2Z9AKWFQM.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Schrodingers_Cat/BP_Cat.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Shared_Game_Mechanics/Cards/Card_Piles/BP_Card_Holo_Indicator.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset",
