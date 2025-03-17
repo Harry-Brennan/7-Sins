@@ -1,6 +1,6 @@
 /I "."
-/I "C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\UnrealEditor\Inc\Project_7_Sins\UHT"
-/I "C:\Users\ASUS\Documents\GitHub\7-Sins\Project_7_Sins\Source"
+/I "D:\GitHub\7-Sins\Project_7_Sins\Intermediate\Build\Win64\UnrealEditor\Inc\Project_7_Sins\UHT"
+/I "D:\GitHub\7-Sins\Project_7_Sins\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"
