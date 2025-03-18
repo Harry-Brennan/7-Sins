@@ -3136,3 +3136,733 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.18-13.38.27:013][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Diegetic/Menus/BP_Main_Menu_Auto4
 [2025.03.18-13.38.27:014][820]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Main_Menu_Auto4260E0D8F482303629B7D24820F134004.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/UI/Diegetic/Menus/BP_Main_Menu_Auto4.uasset'
 [2025.03.18-13.38.27:015][820]LogFileHelpers: Auto-saving content packages took 0.064
+[2025.03.18-13.42.55:027][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.18-13.42.55:031][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.42.55:107][ 90]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Menus/BP_Main_Menu
+[2025.03.18-13.42.55:108][ 90]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Main_MenuA66725964FF31F728E801CB5F712C601.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Menus/BP_Main_Menu.uasset'
+[2025.03.18-13.42.55:114][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 4.22 sec)
+[2025.03.18-13.42.55:117][ 90]AssetCheck: New page: Asset Save: BP_Main_Menu
+[2025.03.18-13.42.55:117][ 90]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/Diegetic/Menus/BP_Main_Menu.BP_Main_Menu
+[2025.03.18-13.42.56:407][245]BlueprintLog: New page: Compile BP_Main_Menu
+[2025.03.18-13.42.56:480][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.18-13.43.09:459][377]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-13.43.09:459][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.43.09:468][377]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-13.43.09:468][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.43.09:625][390]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-13.43.09:625][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.43.09:827][397]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-13.43.09:827][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.43.09:835][397]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-13.43.09:835][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.43.10:018][409]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.18-13.43.10:019][409]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-13.43.10:019][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.43.24:328][901]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-13.43.25:011][961]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-13.43.25:011][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-13.43.25:011][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-13.43.25:317][963]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-13.43.40:783][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.18-13.43.40:788][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.43.40:815][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-13.43.40:839][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-13.43.40:871][715]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-13.43.40:872][715]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC779A935042A43F63701D269F22DBB9A2.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-13.43.40:880][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.31 sec)
+[2025.03.18-13.43.40:882][715]AssetCheck: New page: Asset Save: BP_NPC
+[2025.03.18-13.43.40:882][715]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-13.43.40:964][725]BlueprintLog: New page: Compile BP_NPC
+[2025.03.18-13.43.40:973][725]LogBlueprint: Error: [AssetLog] C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Content\NPCs\BP_NPC.uasset: [Compiler] No DataTable in  Get Data Table Row NONE
+[2025.03.18-13.43.41:046][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.18-13.43.48:767][238]LogSlate: Window 'Pick Row Structure' being destroyed
+[2025.03.18-13.44.20:362][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.18-13.44.20:369][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.44.20:402][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-13.44.20:434][849]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-13.44.20:434][849]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPCE431D03C4C875902315F79BE162ACDFC.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-13.44.20:440][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 4.38 sec)
+[2025.03.18-13.44.20:441][849]AssetCheck: New page: Asset Save: BP_NPC
+[2025.03.18-13.44.20:441][849]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-13.44.20:724][883]BlueprintLog: New page: Compile BP_NPC
+[2025.03.18-13.44.20:809][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-13.44.48:719][142]BlueprintLog: New page: Compile BP_NPC
+[2025.03.18-13.44.48:812][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.18-13.44.50:680][353]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.03.18-13.44.59:552][399]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-13.44.59:559][399]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-13.44.59:559][399]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-13.44.59:561][399]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 37 ms)
+[2025.03.18-13.44.59:561][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-13.44.59:561][399]PIE: New page: PIE session: ThirdPersonMap (18 Mar 2025, 13:44:59)
+[2025.03.18-13.44.59:589][399]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-13.44.59:610][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021513s)
+[2025.03.18-13.44.59:610][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.021562s)
+[2025.03.18-13.44.59:623][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.18-13.44.59:627][399]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-13.44.59:627][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-13.44.59:628][399]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.03.18-13.44.59:628][399]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-13.44.59:628][399]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-13.44.59:628][399]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-13.44.59:628][399]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-13.44.59:633][399]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.03.18-13.44.59:633][399]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 3.20 sec)
+[2025.03.18-13.44.59:633][399]LogPlayLevel: PIE: World Init took: (0.006551s)
+[2025.03.18-13.44.59:633][399]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.03.18-13.44.59:633][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-13.44.59:633][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-13.44.59:633][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-13.44.59:633][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-13.44.59:633][399]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-13.44.59:633][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-13.44.59:633][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-13.44.59:633][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-13.44.59:634][399]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-13.44.59:634][399]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-13.44.59:634][399]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-13.44.59:635][399]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-13.44.59:653][399]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.03.18-13.44.59:654][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-13.44.59:654][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-13.44.59:654][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-13.44.59:654][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.03.18-13.44.59:654][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2025.03.18-13.44.59:655][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.03.18-13.44.59:655][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.03.18-13.44.59:655][399]LogInit: FAudioDevice initialized with ID 18.
+[2025.03.18-13.44.59:655][399]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2025.03.18-13.44.59:655][399]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.03.18-13.44.59:658][399]LogLoad: Game class is 'GM_Bar_C'
+[2025.03.18-13.44.59:662][399]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-13.44.59
+[2025.03.18-13.44.59:663][399]LogWorld: Bringing up level for play took: 0.004898
+[2025.03.18-13.44.59:665][399]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.03.18-13.44.59:668][399]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.03.18-13.44.59:668][399]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.03.18-13.44.59:668][399]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.03.18-13.44.59:707][399]PIE: Server logged in
+[2025.03.18-13.44.59:707][399]PIE: Play in editor total start time 0.149 seconds.
+[2025.03.18-13.45.02:624][746]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.03.18-13.45.02:624][746]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.03.18-13.45.04:029][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-13.45.04:029][910]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-13.45.04:030][910]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-13.45.04:037][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.45.04:038][910]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.18-13.45.04:041][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-13.45.04:044][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.45.04:058][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.18-13.45.04:059][910]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.03.18-13.45.04:059][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.18-13.45.04:061][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.18-13.45.04:064][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-13.45.04:069][910]LogSlate: Slate User Unregistered.  User Index 8
+[2025.03.18-13.45.04:069][910]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.03.18-13.45.04:070][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.18-13.45.04:121][911]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.03.18-13.45.04:591][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.18-13.45.12:655][921]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.45.12:655][921]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-13.45.12:656][921]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-13.45.22:997][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.18-13.45.23:002][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.45.23:077][106]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.45.23:077][106]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar5777029D41BCE440401697BD85192BFB.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.45.23:085][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.47 sec)
+[2025.03.18-13.45.23:087][106]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.45.23:087][106]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.45.35:534][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.18-13.45.35:539][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.45.35:612][506]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.45.35:612][506]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarB4251D24417D86EE22F62CB13C45EF53.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.45.35:618][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.55 sec)
+[2025.03.18-13.45.35:620][506]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.45.35:620][506]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.45.37:545][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.18-13.45.37:549][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.45.37:618][727]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.45.37:618][727]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar78C339754C50F380824CEDB012EE1678.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.45.37:625][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 4.62 sec)
+[2025.03.18-13.45.37:626][727]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.45.37:626][727]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.45.37:946][765]BlueprintLog: New page: Compile GM_Bar
+[2025.03.18-13.45.38:036][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.18-13.45.39:089][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.18-13.46.05:144][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.18-13.46.05:148][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.46.05:229][931]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.46.05:230][931]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarAE6BC7584E726AAB74BA7FB427E9AB8F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.46.05:237][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 4.71 sec)
+[2025.03.18-13.46.05:239][931]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.46.05:239][931]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.46.12:723][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.18-13.46.15:528][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.18-13.46.15:532][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.46.15:607][381]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.46.15:607][381]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarAC67B6FE483451F404436CA6BB14C7BC.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.46.15:615][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.80 sec)
+[2025.03.18-13.46.15:617][381]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.46.15:617][381]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.46.16:570][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.18-13.46.21:156][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.18-13.46.21:160][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.46.21:235][989]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.46.21:235][989]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar84AF1ABB407D06B3E3494C82099E96BE.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.46.21:242][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 4.88 sec)
+[2025.03.18-13.46.21:244][989]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.46.21:244][989]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.46.43:711][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.18-13.46.43:715][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.46.43:791][535]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.46.43:791][535]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar9D2BB64247D0C83F3F14A5B4CB923053.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.46.43:797][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 4.96 sec)
+[2025.03.18-13.46.43:800][535]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.46.43:800][535]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.46.56:963][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.18-13.47.07:269][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-13.47.07:273][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.47.07:349][255]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.47.07:350][255]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarAB29A7494BC86C065C6697B5C9D9B2DB.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.47.07:357][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 5.04 sec)
+[2025.03.18-13.47.07:358][255]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.47.07:358][255]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.47.45:437][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.18-13.47.45:441][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.47.45:517][671]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.47.45:517][671]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar5F0808374117CD02813841B136CB4FD7.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.47.45:523][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 5.13 sec)
+[2025.03.18-13.47.45:525][671]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.47.45:525][671]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.47.55:707][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.18-13.47.55:710][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.47.55:787][878]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.47.55:788][878]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar8FFB6C0145CB528376ACEB81E9732860.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.47.55:795][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 5.21 sec)
+[2025.03.18-13.47.55:797][878]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.47.55:797][878]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.48.19:553][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.18-13.48.19:556][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.48.19:633][610]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.48.19:633][610]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarCB687A544525D16B8BB9A9960D49668F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.48.19:641][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 5.30 sec)
+[2025.03.18-13.48.19:643][610]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.48.19:643][610]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.48.20:599][725]BlueprintLog: New page: Compile GM_Bar
+[2025.03.18-13.48.20:693][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.03.18-13.48.32:828][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.18-13.48.32:832][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.48.32:910][131]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.48.32:910][131]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar28CA11374BA7DBB5E3B08FB55A8C6544.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.48.32:916][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 5.38 sec)
+[2025.03.18-13.48.32:917][131]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.48.32:917][131]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.48.35:736][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.18-13.48.35:739][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.48.35:812][457]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.48.35:812][457]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar52D8B90F426FAF12A78513A72CFA20DA.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.48.35:819][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 5.46 sec)
+[2025.03.18-13.48.35:820][457]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.48.35:820][457]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.48.46:238][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-13.48.46:242][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.48.46:320][650]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.48.46:321][650]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarA21C9B7047B2E764DB42209DAFBA0325.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.48.46:327][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 5.54 sec)
+[2025.03.18-13.48.46:329][650]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.48.46:329][650]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.48.48:499][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.18-13.48.48:503][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.48.48:583][877]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.48.48:583][877]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarC477DBD1464DBE944A9F74B9A21A38F0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.48.48:591][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.63 sec)
+[2025.03.18-13.48.48:592][877]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.48.48:592][877]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.48.48:809][903]BlueprintLog: New page: Compile GM_Bar
+[2025.03.18-13.48.48:904][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.18-13.48.52:643][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPCs/BPI_NPC_Opponent.BPI_NPC_Opponent
+[2025.03.18-13.48.52:643][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-13.48.52:643][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-13.49.02:193][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.03.18-13.49.02:197][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.49.02:223][438]LogSavePackage: Moving output files for package: /Game/NPCs/BPI_NPC_Opponent
+[2025.03.18-13.49.02:224][438]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPI_NPC_Opponent419E1C4E413A7C580DA8F2A5F2DE5616.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BPI_NPC_Opponent.uasset'
+[2025.03.18-13.49.02:229][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 5.66 sec)
+[2025.03.18-13.49.02:229][438]AssetCheck: New page: Asset Save: BPI_NPC_Opponent
+[2025.03.18-13.49.02:229][438]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BPI_NPC_Opponent.BPI_NPC_Opponent
+[2025.03.18-13.49.02:760][502]BlueprintLog: New page: Compile BPI_NPC_Opponent
+[2025.03.18-13.49.02:804][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.18-13.49.08:267][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.18-13.49.08:271][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.49.08:349][104]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.49.08:349][104]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarA6B4333E488AAF7509C29D967757CA0A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.49.08:354][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 5.75 sec)
+[2025.03.18-13.49.08:356][104]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.49.08:356][104]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.49.09:669][235]BlueprintLog: New page: Compile GM_Bar
+[2025.03.18-13.49.09:762][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.18-13.49.11:928][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.18-13.49.11:934][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.49.12:004][482]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-13.49.12:005][482]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar3759B6BB41A392221494DFA93CB4B809.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-13.49.12:012][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 5.83 sec)
+[2025.03.18-13.49.12:014][482]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-13.49.12:014][482]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-13.49.12:371][525]BlueprintLog: New page: Compile GM_Bar
+[2025.03.18-13.49.12:471][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.18-13.49.41:337][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.18-13.49.41:341][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.49.41:375][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-13.49.41:408][852]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-13.49.41:409][852]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC204A543F438AA4E209EA0FB8D8F176A2.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-13.49.41:415][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 5.90 sec)
+[2025.03.18-13.49.41:416][852]AssetCheck: New page: Asset Save: BP_NPC
+[2025.03.18-13.49.41:417][852]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-13.49.50:085][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.03.18-13.49.50:089][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.49.50:110][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-13.49.50:143][871]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-13.49.50:143][871]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPCDDFF608E4A45E3A29544E1AEAF13ECB4.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-13.49.50:146][871]LogSavePackage: Moving output files for package: /Game/NPCs/BPI_NPC_Opponent
+[2025.03.18-13.49.50:147][871]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BPI_NPC_OpponentAB527ECA44F664E0F8E3878C1B54F64C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BPI_NPC_Opponent.uasset'
+[2025.03.18-13.49.50:153][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 5.96 sec)
+[2025.03.18-13.49.50:155][871]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.18-13.49.50:155][871]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-13.49.50:155][871]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BPI_NPC_Opponent.BPI_NPC_Opponent
+[2025.03.18-13.49.50:585][923]BlueprintLog: New page: Compile BPI_NPC_Opponent
+[2025.03.18-13.49.50:630][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-13.50.09:421][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.18-13.50.09:426][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.50.09:453][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-13.50.09:487][ 18]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-13.50.09:487][ 18]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPCC5DB58F645E7B5D91A7A08A30E581525.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-13.50.09:494][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 6.03 sec)
+[2025.03.18-13.50.09:495][ 18]AssetCheck: New page: Asset Save: BP_NPC
+[2025.03.18-13.50.09:495][ 18]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-13.50.26:899][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.03.18-13.50.26:904][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.50.26:949][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-13.50.26:983][ 74]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-13.50.26:984][ 74]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC7E830D9F43158C67BA577D9E80E8B3E7.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-13.50.26:990][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 6.12 sec)
+[2025.03.18-13.50.26:992][ 74]AssetCheck: New page: Asset Save: BP_NPC
+[2025.03.18-13.50.26:992][ 74]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-13.50.38:487][453]BlueprintLog: New page: Compile BP_NPC
+[2025.03.18-13.50.38:504][453]LogBlueprint: Error: [AssetLog] C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Content\NPCs\BP_NPC.uasset: [Compiler] The current value of the ' Handle ' pin is invalid: 'Handle' in action 'Clear and Invalidate Timer by Handle' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.03.18-13.50.38:578][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.18-13.50.39:336][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-13.50.39:341][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.50.39:383][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-13.50.39:416][524]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-13.50.39:417][524]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC96D8C20F4274BC87C47A839B8D13636E.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-13.50.39:423][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 6.20 sec)
+[2025.03.18-13.50.39:424][524]AssetCheck: New page: Asset Save: BP_NPC
+[2025.03.18-13.50.39:424][524]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-13.50.43:877][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.18-13.50.43:881][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-13.50.43:914][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-13.50.43:950][ 19]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-13.50.43:950][ 19]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC00FF922646135487C154C0B8EDFD282C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-13.50.43:956][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.27 sec)
+[2025.03.18-13.50.43:959][ 19]AssetCheck: New page: Asset Save: BP_NPC
+[2025.03.18-13.50.43:959][ 19]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-13.50.44:270][ 55]BlueprintLog: New page: Compile BP_NPC
+[2025.03.18-13.50.44:369][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.18-13.50.47:923][442]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-13.50.47:930][442]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-13.50.47:930][442]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-13.50.47:932][442]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 39 ms)
+[2025.03.18-13.50.47:932][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-13.50.47:932][442]PIE: New page: PIE session: ThirdPersonMap (18 Mar 2025, 13:50:47)
+[2025.03.18-13.50.47:958][442]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-13.50.47:980][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021218s)
+[2025.03.18-13.50.47:980][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.021263s)
+[2025.03.18-13.50.47:991][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.18-13.50.47:993][442]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-13.50.47:993][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-13.50.47:993][442]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.03.18-13.50.47:995][442]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-13.50.47:995][442]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-13.50.47:995][442]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-13.50.47:995][442]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-13.50.48:000][442]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.03.18-13.50.48:000][442]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 3.20 sec)
+[2025.03.18-13.50.48:000][442]LogPlayLevel: PIE: World Init took: (0.006374s)
+[2025.03.18-13.50.48:000][442]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.03.18-13.50.48:000][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-13.50.48:000][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-13.50.48:000][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-13.50.48:000][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-13.50.48:000][442]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-13.50.48:000][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-13.50.48:000][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-13.50.48:000][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-13.50.48:001][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-13.50.48:001][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-13.50.48:001][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-13.50.48:003][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-13.50.48:021][442]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.03.18-13.50.48:022][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-13.50.48:022][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-13.50.48:022][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-13.50.48:022][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.03.18-13.50.48:022][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2025.03.18-13.50.48:023][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.03.18-13.50.48:023][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.03.18-13.50.48:023][442]LogInit: FAudioDevice initialized with ID 19.
+[2025.03.18-13.50.48:023][442]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2025.03.18-13.50.48:023][442]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.03.18-13.50.48:025][442]LogLoad: Game class is 'GM_Bar_C'
+[2025.03.18-13.50.48:030][442]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-13.50.48
+[2025.03.18-13.50.48:031][442]LogWorld: Bringing up level for play took: 0.005213
+[2025.03.18-13.50.48:033][442]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.03.18-13.50.48:036][442]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.03.18-13.50.48:036][442]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.03.18-13.50.48:036][442]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.03.18-13.50.48:076][442]PIE: Server logged in
+[2025.03.18-13.50.48:077][442]PIE: Play in editor total start time 0.147 seconds.
+[2025.03.18-13.50.48:685][512]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.03.18-13.50.48:686][512]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.03.18-13.50.49:043][555]LogSlate: Slate User Unregistered.  User Index 8
+[2025.03.18-13.50.49:043][555]LogSlate: Slate User Unregistered.  User Index 8
+[2025.03.18-13.50.49:043][555]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 0
+[2025.03.18-13.50.49:044][555]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2025.03.18-13.50.49:044][555]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.03.18-13.50.50:337][710]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Playing Characters' of length 0 in '/Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager_C'!
+[2025.03.18-13.50.50:337][710]LogScript: Warning: Script Msg called by: BP_I_Doubt_It_Game_Manager_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497
+[2025.03.18-13.50.50:337][710]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] TIMER INVALID AND NOT PLAYER FOR PAUSING
+[2025.03.18-13.50.50:337][710]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.18-13.50.50:337][710]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.18-13.50.50:337][710]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.03.18-13.50.50:513][730]LogBlueprintUserMessages: [Rules2] hovered
+[2025.03.18-13.50.50:837][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.50.50:837][769]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.03.18-13.50.50:837][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.50.50:837][769]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1959897841.BPC_CurrentHand
+[2025.03.18-13.50.50:837][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.50.50:837][769]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1956770839.BPC_CurrentHand
+[2025.03.18-13.50.50:837][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.50.50:837][769]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1958739840.BPC_CurrentHand
+[2025.03.18-13.50.52:966][ 23]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.18-13.50.52:966][ 23]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.03.18-13.50.52:968][ 23]LogBlueprintUserMessages: [Rules2] unhovered
+[2025.03.18-13.50.54:966][263]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC2 HAS JUST PLAYED THE ACE OF SPADES
+[2025.03.18-13.50.54:967][263]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 3
+[2025.03.18-13.50.54:967][263]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] CURRENT TURN : BP_Player0
+[2025.03.18-13.50.54:967][263]LogBlueprintUserMessages: [BP_Player_C_0] PLAYER TURN
+[2025.03.18-13.50.54:967][263]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] IDI START GAME
+[2025.03.18-13.50.59:366][791]Cmd: NextDebugTarget
+[2025.03.18-13.51.00:333][907]Cmd: PreviousDebugTarget
+[2025.03.18-13.51.03:898][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-13.51.03:898][ 95]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-13.51.03:900][ 95]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-13.51.03:907][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.51.03:907][ 95]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.18-13.51.03:910][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-13.51.03:913][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.51.03:932][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.18-13.51.03:934][ 95]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.03.18-13.51.03:934][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.03.18-13.51.03:936][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.03.18-13.51.03:939][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-13.51.03:944][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.18-13.51.03:986][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.03.18-13.51.06:411][380]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2025.03.18-13.51.06:411][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-13.51.06:411][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-13.51.16:664][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-13.51.16:672][489]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-13.51.16:672][489]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-13.51.16:674][489]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 41 ms)
+[2025.03.18-13.51.16:674][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-13.51.16:674][489]PIE: New page: PIE session: ThirdPersonMap (18 Mar 2025, 13:51:16)
+[2025.03.18-13.51.16:698][489]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-13.51.16:719][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020860s)
+[2025.03.18-13.51.16:719][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.020895s)
+[2025.03.18-13.51.16:730][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.18-13.51.16:732][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-13.51.16:732][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-13.51.16:732][489]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.03.18-13.51.16:733][489]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-13.51.16:733][489]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-13.51.16:733][489]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-13.51.16:733][489]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-13.51.16:738][489]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.03.18-13.51.16:738][489]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 3.21 sec)
+[2025.03.18-13.51.16:738][489]LogPlayLevel: PIE: World Init took: (0.005772s)
+[2025.03.18-13.51.16:738][489]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.03.18-13.51.16:738][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-13.51.16:738][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-13.51.16:738][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-13.51.16:738][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-13.51.16:738][489]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-13.51.16:738][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-13.51.16:738][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-13.51.16:738][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-13.51.16:738][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-13.51.16:738][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-13.51.16:738][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-13.51.16:740][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-13.51.16:757][489]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.03.18-13.51.16:758][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-13.51.16:758][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-13.51.16:758][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-13.51.16:758][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.03.18-13.51.16:758][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2025.03.18-13.51.16:759][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.03.18-13.51.16:759][489]LogInit: FAudioDevice initialized with ID 20.
+[2025.03.18-13.51.16:759][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.03.18-13.51.16:759][489]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2025.03.18-13.51.16:759][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.03.18-13.51.16:761][489]LogLoad: Game class is 'GM_Bar_C'
+[2025.03.18-13.51.16:766][489]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-13.51.16
+[2025.03.18-13.51.16:766][489]LogWorld: Bringing up level for play took: 0.004619
+[2025.03.18-13.51.16:768][489]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.03.18-13.51.16:771][489]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.03.18-13.51.16:771][489]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.03.18-13.51.16:771][489]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.03.18-13.51.16:810][489]PIE: Server logged in
+[2025.03.18-13.51.16:811][489]PIE: Play in editor total start time 0.139 seconds.
+[2025.03.18-13.51.17:377][554]LogSlate: New Slate User Created. Platform User Id 9, User Index 9, Is Virtual User: 1
+[2025.03.18-13.51.17:377][554]LogSlate: Slate User Registered.  User Index 9, Is Virtual User: 1
+[2025.03.18-13.51.17:735][597]LogSlate: Slate User Unregistered.  User Index 9
+[2025.03.18-13.51.17:735][597]LogSlate: Slate User Unregistered.  User Index 9
+[2025.03.18-13.51.17:735][597]LogSlate: New Slate User Created. Platform User Id 9, User Index 9, Is Virtual User: 0
+[2025.03.18-13.51.17:736][597]LogSlate: Slate User Registered.  User Index 9, Is Virtual User: 0
+[2025.03.18-13.51.17:736][597]LogSlate: Slate User Destroyed.  User Index 9, Is Virtual User: 1
+[2025.03.18-13.51.19:028][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Playing Characters' of length 0 in '/Game/Shared_Game_Mechanics/Turn_Taking/BP_Turn_Manager.BP_Turn_Manager_C'!
+[2025.03.18-13.51.19:028][752]LogScript: Warning: Script Msg called by: BP_I_Doubt_It_Game_Manager_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497
+[2025.03.18-13.51.19:028][752]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] TIMER INVALID AND NOT PLAYER FOR PAUSING
+[2025.03.18-13.51.19:028][752]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.18-13.51.19:028][752]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.18-13.51.19:029][752]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.03.18-13.51.19:195][772]LogBlueprintUserMessages: [Rules2] hovered
+[2025.03.18-13.51.19:528][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.51.19:528][812]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.03.18-13.51.19:528][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.51.19:528][812]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1959897841.BPC_CurrentHand
+[2025.03.18-13.51.19:528][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.51.19:528][812]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1956770839.BPC_CurrentHand
+[2025.03.18-13.51.19:528][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.51.19:528][812]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1958739840.BPC_CurrentHand
+[2025.03.18-13.51.20:688][950]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.18-13.51.20:688][950]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.03.18-13.51.20:690][950]LogBlueprintUserMessages: [Rules2] unhovered
+[2025.03.18-13.51.22:637][184]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] I DOUBT IT GAME OVER, WINNER : BP_Player0
+[2025.03.18-13.51.22:688][190]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] BP_NPC1 HAS JUST PLAYED THE ACE OF SPADES
+[2025.03.18-13.51.22:688][190]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] 2
+[2025.03.18-13.51.22:688][190]LogBlueprintUserMessages: [BP_Turn_Manager_C_UAID_107C61B295B0CF4A02_1151989075] CURRENT TURN : BP_NPC2
+[2025.03.18-13.51.22:688][190]LogBlueprintUserMessages: [BP_I_Doubt_It_Game_Manager_C_UAID_4CCC6AF99896B54A02_1590972497] IDI START GAME
+[2025.03.18-13.51.26:540][652]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.51.26:540][652]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0.BPC_CurrentHand
+[2025.03.18-13.51.26:541][652]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.51.26:541][652]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1959897841.BPC_CurrentHand
+[2025.03.18-13.51.26:542][652]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.51.26:542][652]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1956770839.BPC_CurrentHand
+[2025.03.18-13.51.26:544][652]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.03.18-13.51.26:544][652]LogScript: Warning: Script Msg called by: BPC_CurrentHand_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_107C61B295B0C84A02_1958739840.BPC_CurrentHand
+[2025.03.18-13.51.29:808][ 44]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] ACTIVATE CAT TRACE
+[2025.03.18-13.51.30:450][121]LogSlate: New Slate User Created. Platform User Id 10, User Index 10, Is Virtual User: 1
+[2025.03.18-13.51.30:451][121]LogSlate: Slate User Registered.  User Index 10, Is Virtual User: 1
+[2025.03.18-13.51.34:428][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-13.51.34:428][594]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-13.51.34:429][594]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-13.51.34:436][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.51.34:437][594]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.18-13.51.34:439][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-13.51.34:444][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-13.51.34:459][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.18-13.51.34:459][594]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.03.18-13.51.34:459][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.03.18-13.51.34:460][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.03.18-13.51.34:464][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-13.51.34:467][594]LogSlate: Slate User Unregistered.  User Index 10
+[2025.03.18-13.51.34:467][594]LogSlate: Slate User Destroyed.  User Index 10, Is Virtual User: 1
+[2025.03.18-13.51.34:468][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-13.51.34:518][595]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.03.18-13.51.34:914][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.18-14.05.48:768][499]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.127 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14095 files in 16699 folders with total size 2228 MiB.
+[2025.03.18-14.52.11:571][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.18-14.52.11:575][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.52.11:656][177]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-14.52.11:657][177]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarE051AB1944EEE8E064BD64A83E84F819.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-14.52.11:664][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.36 sec)
+[2025.03.18-14.52.11:667][177]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-14.52.11:667][177]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-14.53.09:694][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.18-14.53.09:698][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.53.09:780][520]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-14.53.09:781][520]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarEE237E0149CEA4268D6B9FB35A73230C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-14.53.09:787][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 6.45 sec)
+[2025.03.18-14.53.09:788][520]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-14.53.09:788][520]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-14.53.11:620][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.18-14.53.11:625][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.53.11:705][736]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-14.53.11:705][736]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar86D9E07748EC564584A7248205DB16D5.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-14.53.11:712][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 6.54 sec)
+[2025.03.18-14.53.11:714][736]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-14.53.11:714][736]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-14.53.55:836][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.18-14.53.55:841][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.53.55:918][402]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-14.53.55:918][402]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar329074E14C769097543682B1D5F53A0B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-14.53.55:925][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.62 sec)
+[2025.03.18-14.53.55:926][402]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-14.53.55:926][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-14.54.27:181][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.18-14.54.27:185][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.54.27:268][ 75]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-14.54.27:268][ 75]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar00957915447D49A4196C0492E29DC65B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-14.54.27:274][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.71 sec)
+[2025.03.18-14.54.27:276][ 75]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-14.54.27:277][ 75]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-14.54.45:577][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.18-14.54.45:581][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.54.45:660][189]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-14.54.45:660][189]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarBF59CD404E9FEB235CFCC2BBC32E6EE6.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-14.54.45:667][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 6.80 sec)
+[2025.03.18-14.54.45:670][189]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-14.54.45:670][189]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-14.54.47:795][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.18-14.54.47:798][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.54.47:878][443]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-14.54.47:878][443]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar1A824839403810196D192D8BA1280464.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-14.54.47:885][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 6.89 sec)
+[2025.03.18-14.54.47:888][443]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-14.54.47:888][443]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-14.55.38:089][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.03.18-14.55.38:091][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_Level/ThirdPersonMap' took 0.018
+[2025.03.18-14.55.38:091][196]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Modes_Instances/Modes/GM_Bar] ([2] browsable assets)...
+[2025.03.18-14.55.38:091][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modes_Instances/Modes/GM_Bar]
+[2025.03.18-14.55.38:153][196]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modes_Instances/Modes/GM_Bar_Auto5
+[2025.03.18-14.55.38:153][196]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar_Auto53B28018C4B1083445722A5AB62FA7A0C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/Modes_Instances/Modes/GM_Bar_Auto5.uasset'
+[2025.03.18-14.55.38:154][196]LogFileHelpers: Auto-saving content packages took 0.064
+[2025.03.18-14.56.28:424][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.03.18-14.56.28:428][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.56.28:509][832]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-14.56.28:509][832]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar9B053D7344905E58B337469245B03A8F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-14.56.28:517][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 6.97 sec)
+[2025.03.18-14.56.28:519][832]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-14.56.28:519][832]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-14.56.54:587][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.18-14.56.54:591][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.56.54:671][781]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-14.56.54:671][781]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar9BFDE93E49436BEB9AB9D5B0FBB57607.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-14.56.54:678][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 7.06 sec)
+[2025.03.18-14.56.54:680][781]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-14.56.54:680][781]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-14.57.56:269][845]BlueprintLog: New page: Compile GM_Bar
+[2025.03.18-14.57.56:379][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.18-14.58.03:975][580]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.03.18-14.58.03:982][580]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.03.18-14.58.03:986][580]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.03.18-14.58.04:002][581]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.03.18-14.58.09:417][230]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Game_Completed
+[2025.03.18-14.58.09:422][230]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.03.18-14.58.10:299][335]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Non_Diegetic/WBP_Game_Completed.WBP_Game_Completed
+[2025.03.18-14.58.10:299][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-14.58.10:299][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-14.58.10:304][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-14.58.10:304][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-14.58.11:035][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-14.58.11:039][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.58.11:067][398]LogSavePackage: Moving output files for package: /Game/UI/Non_Diegetic/WBP_Game_Completed
+[2025.03.18-14.58.11:067][398]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Game_CompletedC10FA821422E77D19344B19DD13E4735.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_Game_Completed.uasset'
+[2025.03.18-14.58.11:076][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 7.10 sec)
+[2025.03.18-14.58.11:076][398]AssetCheck: New page: Asset Save: WBP_Game_Completed
+[2025.03.18-14.58.11:076][398]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Non_Diegetic/WBP_Game_Completed.WBP_Game_Completed
+[2025.03.18-14.58.33:282][646]LogEditorTransaction: Undo Paste clipboard contents
+[2025.03.18-14.58.38:911][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-14.58.38:916][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.58.38:941][ 74]LogSavePackage: Moving output files for package: /Game/UI/Non_Diegetic/WBP_Game_Completed
+[2025.03.18-14.58.38:941][ 74]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Game_Completed12C1B6FA4D534AB58F20E39416E090B4.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_Game_Completed.uasset'
+[2025.03.18-14.58.38:947][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 7.13 sec)
+[2025.03.18-14.58.38:948][ 74]AssetCheck: New page: Asset Save: WBP_Game_Completed
+[2025.03.18-14.58.38:948][ 74]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Non_Diegetic/WBP_Game_Completed.WBP_Game_Completed
+[2025.03.18-14.58.46:173][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.18-14.58.46:178][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.58.46:210][668]LogSavePackage: Moving output files for package: /Game/UI/Non_Diegetic/WBP_Game_Completed
+[2025.03.18-14.58.46:210][668]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Game_CompletedB7E94D0240D1EF3C8A238B9288E5648E.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_Game_Completed.uasset'
+[2025.03.18-14.58.46:215][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 7.17 sec)
+[2025.03.18-14.58.46:217][668]AssetCheck: New page: Asset Save: WBP_Game_Completed
+[2025.03.18-14.58.46:217][668]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Non_Diegetic/WBP_Game_Completed.WBP_Game_Completed
+[2025.03.18-14.59.31:099][312]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.18-14.59.38:280][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.18-14.59.38:286][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.59.38:313][878]LogSavePackage: Moving output files for package: /Game/UI/Non_Diegetic/WBP_Game_Completed
+[2025.03.18-14.59.38:314][878]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Game_CompletedA5B671A746053C92FFF44A8C3FF2D13A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_Game_Completed.uasset'
+[2025.03.18-14.59.38:320][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 7.20 sec)
+[2025.03.18-14.59.38:321][878]AssetCheck: New page: Asset Save: WBP_Game_Completed
+[2025.03.18-14.59.38:321][878]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Non_Diegetic/WBP_Game_Completed.WBP_Game_Completed
+[2025.03.18-14.59.48:420][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.18-14.59.48:425][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.59.48:451][672]LogSavePackage: Moving output files for package: /Game/UI/Non_Diegetic/WBP_Game_Completed
+[2025.03.18-14.59.48:452][672]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Game_Completed8EC3DE164697D104846C7BA67740D6FC.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_Game_Completed.uasset'
+[2025.03.18-14.59.48:457][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 7.23 sec)
+[2025.03.18-14.59.48:458][672]AssetCheck: New page: Asset Save: WBP_Game_Completed
+[2025.03.18-14.59.48:458][672]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Non_Diegetic/WBP_Game_Completed.WBP_Game_Completed
+[2025.03.18-14.59.49:137][726]BlueprintLog: New page: Compile WBP_Game_Completed
+[2025.03.18-14.59.49:161][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.03.18-14.59.53:332][ 43]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.18-14.59.56:431][284]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.18-14.59.58:920][475]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.18-14.59.59:859][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.18-14.59.59:866][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-14.59.59:894][548]LogSavePackage: Moving output files for package: /Game/UI/Non_Diegetic/WBP_Game_Completed
+[2025.03.18-14.59.59:894][548]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Game_Completed74E3FC9041211E373A10F3A318C3A16D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_Game_Completed.uasset'
+[2025.03.18-14.59.59:901][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 7.27 sec)
+[2025.03.18-14.59.59:902][548]AssetCheck: New page: Asset Save: WBP_Game_Completed
+[2025.03.18-14.59.59:902][548]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Non_Diegetic/WBP_Game_Completed.WBP_Game_Completed
+[2025.03.18-15.00.23:164][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.18-15.00.23:169][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.00.23:199][533]LogSavePackage: Moving output files for package: /Game/UI/Non_Diegetic/WBP_Game_Completed
+[2025.03.18-15.00.23:199][533]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Game_CompletedFE1285E54271118BAD6917BA52C95934.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_Game_Completed.uasset'
+[2025.03.18-15.00.23:205][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 7.30 sec)
+[2025.03.18-15.00.23:206][533]AssetCheck: New page: Asset Save: WBP_Game_Completed
+[2025.03.18-15.00.23:206][533]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Non_Diegetic/WBP_Game_Completed.WBP_Game_Completed
+[2025.03.18-15.00.24:342][653]BlueprintLog: New page: Compile WBP_Game_Completed
+[2025.03.18-15.00.24:366][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-15.00.42:611][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.18-15.00.42:614][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.00.42:643][366]LogSavePackage: Moving output files for package: /Game/UI/Non_Diegetic/WBP_Game_Completed
+[2025.03.18-15.00.42:643][366]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Game_CompletedBC1AB3124042C7A052ED8CB17FAE4E6A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_Game_Completed.uasset'
+[2025.03.18-15.00.42:650][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 7.34 sec)
+[2025.03.18-15.00.42:652][366]AssetCheck: New page: Asset Save: WBP_Game_Completed
+[2025.03.18-15.00.42:652][366]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Non_Diegetic/WBP_Game_Completed.WBP_Game_Completed
+[2025.03.18-15.00.43:025][408]BlueprintLog: New page: Compile WBP_Game_Completed
+[2025.03.18-15.00.43:050][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.18-15.00.45:618][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.18-15.00.47:742][828]LogSlate: Window 'WBP_Game_Completed' being destroyed
+[2025.03.18-15.01.13:407][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.18-15.01.13:410][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.01.13:492][724]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-15.01.13:492][724]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar06201B6C4580818FD29470A34F9E71C0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-15.01.13:499][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 7.43 sec)
+[2025.03.18-15.01.13:501][724]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-15.01.13:501][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-15.01.13:959][779]BlueprintLog: New page: Compile GM_Bar
+[2025.03.18-15.01.14:058][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.18-15.01.26:936][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.18-15.01.26:941][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.01.27:019][250]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-15.01.27:019][250]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar13586D294B57C2EC2F5DCDAA545FC39C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-15.01.27:027][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 7.51 sec)
+[2025.03.18-15.01.27:029][250]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-15.01.27:029][250]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-15.01.29:663][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.18-15.01.29:667][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.01.29:743][563]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-15.01.29:744][563]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_BarF92C173746AA56E3EE9E11931EC7C08D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-15.01.29:752][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 7.60 sec)
+[2025.03.18-15.01.29:754][563]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-15.01.29:754][563]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-15.01.29:952][587]BlueprintLog: New page: Compile GM_Bar
+[2025.03.18-15.01.30:051][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.18-15.05.48:769][529]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.127 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14095 files in 16699 folders with total size 2228 MiB.
+[2025.03.18-15.06.51:998][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.18-15.06.52:002][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.06.52:083][374]LogSavePackage: Moving output files for package: /Game/Modes_Instances/Modes/GM_Bar
+[2025.03.18-15.06.52:085][374]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/GM_Bar259CA2FA436A1CC5BE53CE88622CE192.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Modes_Instances/Modes/GM_Bar.uasset'
+[2025.03.18-15.06.52:094][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 7.69 sec)
+[2025.03.18-15.06.52:096][374]AssetCheck: New page: Asset Save: GM_Bar
+[2025.03.18-15.06.52:096][374]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
