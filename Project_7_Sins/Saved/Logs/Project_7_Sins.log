@@ -3866,3 +3866,1019 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.18-15.06.52:094][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 7.69 sec)
 [2025.03.18-15.06.52:096][374]AssetCheck: New page: Asset Save: GM_Bar
 [2025.03.18-15.06.52:096][374]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Modes_Instances/Modes/GM_Bar.GM_Bar
+[2025.03.18-15.10.16:054][970]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.10.16:054][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.10.16:392][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.18-15.10.16:392][  0]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.10.16:392][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.10.16:759][ 23]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.10.16:759][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.10.17:249][ 70]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.18-15.10.17:249][ 70]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.10.17:249][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.10.17:568][ 90]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.10.17:568][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.10.17:576][ 90]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.10.17:576][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.10.33:349][913]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.18-15.10.33:360][913]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.18-15.10.33:369][914]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.18-15.10.34:688][ 73]LogContentBrowser: Attempting asset rename: NewFolder -> Models
+[2025.03.18-15.10.34:689][ 73]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.18-15.10.41:954][910]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.18-15.10.41:964][910]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.18-15.10.41:982][912]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.18-15.10.43:470][ 91]LogContentBrowser: Attempting asset rename: NewFolder -> Dante
+[2025.03.18-15.10.43:470][ 91]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.18-15.10.51:879][697]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\harry\Downloads\Dante_test.fbx)
+[2025.03.18-15.10.51:938][697]LogFbx: Loading FBX Scene from C:\Users\harry\Downloads\Dante_test.fbx
+[2025.03.18-15.10.52:538][697]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.18-15.10.53:468][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.11.07:476][697]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.18-15.11.07:541][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.03.18-15.11.07:548][697]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2025.03.18-15.11.07:888][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.18-15.11.07:890][697]FBXImport: Import was canceled. 
+[2025.03.18-15.11.07:922][697]LogAssetTools: The import task was canceled.
+[2025.03.18-15.11.09:005][823]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.11.09:012][823]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.11.22:417][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_ChamferCube.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset
+[2025.03.18-15.11.22:421][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Cube.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+[2025.03.18-15.11.22:427][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_QuarterCylinder.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset
+[2025.03.18-15.11.22:430][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Ramp.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Meshes/SM_Ramp.uasset
+[2025.03.18-15.11.22:435][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MF_ProcGrid.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset
+[2025.03.18-15.11.22:438][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_Gray.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset
+[2025.03.18-15.11.22:443][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_TopDark.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset
+[2025.03.18-15.11.22:447][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Textures/T_GridChecker_A.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset
+[2025.03.18-15.11.22:449][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_Solid_Blue.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset
+[2025.03.18-15.11.22:452][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/M_PrototypeGrid.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset
+[2025.03.18-15.11.22:456][196]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/M_Solid.uasset to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/LevelPrototyping/Materials/M_Solid.uasset
+[2025.03.18-15.11.23:312][196]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack)
+[2025.03.18-15.11.23:347][196]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.03.18-15.11.23:352][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2025.03.18-15.11.23:356][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2025.03.18-15.11.23:360][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+[2025.03.18-15.11.23:366][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2025.03.18-15.11.23:371][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/IMC_Default.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/ThirdPerson/Input/IMC_Default.uasset"
+[2025.03.18-15.11.23:374][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
+[2025.03.18-15.11.23:377][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Look.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/ThirdPerson/Input/Actions/IA_Look.uasset"
+[2025.03.18-15.11.23:381][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Move.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/ThirdPerson/Input/Actions/IA_Move.uasset"
+[2025.03.18-15.11.23:384][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2025.03.18-15.11.23:387][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2025.03.18-15.11.23:391][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2025.03.18-15.11.23:395][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2025.03.18-15.11.23:398][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2025.03.18-15.11.23:401][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2025.03.18-15.11.23:404][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2025.03.18-15.11.23:407][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2025.03.18-15.11.23:411][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2025.03.18-15.11.23:414][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset"
+[2025.03.18-15.11.23:418][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2025.03.18-15.11.23:421][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2025.03.18-15.11.23:425][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2025.03.18-15.11.23:428][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2025.03.18-15.11.23:431][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2025.03.18-15.11.23:435][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2025.03.18-15.11.23:438][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2025.03.18-15.11.23:441][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2025.03.18-15.11.23:444][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2025.03.18-15.11.23:448][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2025.03.18-15.11.23:451][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2025.03.18-15.11.23:455][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2025.03.18-15.11.23:458][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2025.03.18-15.11.23:461][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2025.03.18-15.11.23:464][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2025.03.18-15.11.23:467][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2025.03.18-15.11.23:470][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2025.03.18-15.11.23:474][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2025.03.18-15.11.23:477][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2025.03.18-15.11.23:480][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2025.03.18-15.11.23:483][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2025.03.18-15.11.23:487][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2025.03.18-15.11.23:490][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2025.03.18-15.11.23:493][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2025.03.18-15.11.23:496][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2025.03.18-15.11.23:500][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2025.03.18-15.11.23:503][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2025.03.18-15.11.23:506][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset"
+[2025.03.18-15.11.23:508][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2025.03.18-15.11.23:512][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2025.03.18-15.11.23:515][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2025.03.18-15.11.23:519][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2025.03.18-15.11.23:523][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2025.03.18-15.11.23:526][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2025.03.18-15.11.23:530][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2025.03.18-15.11.23:533][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+[2025.03.18-15.11.23:536][196]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2025.03.18-15.11.23:876][196]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Materials/Functions/CA_Mannequin.CA_Mannequin (RGBA16F, 64x64 x1x1x1) (Required Memory Estimate: 0.218742 MB), EncodeSpeed: Fast
+[2025.03.18-15.11.23:964][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.11.23:987][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.11.24:025][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.11.24:052][196]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.03.18-15.11.24:052][196]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_ThirdPersonCharacter9084646A49B1BE1B6949E5B28BAB8001.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.03.18-15.11.24:061][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 7.79 sec)
+[2025.03.18-15.11.24:174][196]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.03.18-15.11.24:174][196]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.03.18-15.11.26:185][431]LogSlate: Window 'Add Content to the Project' being destroyed
+[2025.03.18-15.11.30:953][994]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.18-15.11.31:121][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.11.31:122][994]LogLevel: Merging duplicate actor folder Playground.
+[2025.03.18-15.11.31:122][994]LogLevel: Merging duplicate actor folder Lighting.
+[2025.03.18-15.11.31:122][994]LogLevel: Merging duplicate actor folder Cylinder.
+[2025.03.18-15.11.31:122][994]LogLevel: Merging duplicate actor folder Block03.
+[2025.03.18-15.11.31:122][994]LogLevel: Merging duplicate actor folder Block02.
+[2025.03.18-15.11.31:122][994]LogLevel: Merging duplicate actor folder Block01.
+[2025.03.18-15.11.31:125][994]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.18-15.11.31:125][994]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-15.11.31:125][994]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-15.11.31:126][994]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.03.18-15.11.31:126][994]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.21 sec)
+[2025.03.18-15.11.31:148][994]LogObjectTools: Deleting 1 worlds: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.18-15.11.31:148][994]LogObjectTools: Currently 10 active worlds: /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_12, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_29, /Engine/Transient.World_30, /Engine/Transient.World_31
+[2025.03.18-15.11.31:165][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.18-15.11.35:214][994]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.18-15.11.35:280][994]LogUObjectGlobals: Force Deleting 92 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+	Asset Type: Blueprint
+	Asset Name: /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+	Asset Type: InputMappingContext
+	Asset Name: /Game/ThirdPerson/Input/Actions/IA_Move.IA_Move
+	Asset Type: InputAction
+	Asset Name: /Game/ThirdPerson/Input/Actions/IA_Look.IA_Look
+	Asset Type: InputAction
+	Asset Name: /Game/ThirdPerson/Input/Actions/IA_Jump.IA_Jump
+	Asset Type: InputAction
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+	Asset Type: Blueprint
+	Asset Name: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+	Asset Type: World
+	Asset Name: /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ThirdPersonMap_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/3/DH/JQTP3L9HHXRN8IUHATI906
+	Asset Type: Package
+[2025.03.18-15.11.35:528][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.18-15.11.35:570][994]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.11.35:570][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.11.35:570][994]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.18-15.11.36:900][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.18-15.11.36:912][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.18-15.11.36:927][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.18-15.11.36:970][994]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
+[2025.03.18-15.11.39:005][211]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.03.18-15.11.39:005][211]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.03.18-15.11.44:545][850]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.11.44:955][893]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.11.54:334][649]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\harry\Downloads\Dante_test.fbx)
+[2025.03.18-15.11.54:351][649]LogFbx: Loading FBX Scene from C:\Users\harry\Downloads\Dante_test.fbx
+[2025.03.18-15.11.54:713][649]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.18-15.11.55:568][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.01:133][649]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.18-15.12.01:222][649]LogFbx: Valid bind pose for Pose (skinCluster13) - body1
+[2025.03.18-15.12.01:223][649]LogFbx: Valid bind pose for Pose (skinCluster14) - body1
+[2025.03.18-15.12.01:224][649]LogFbx: Valid bind pose for Pose (skinCluster15) - body1
+[2025.03.18-15.12.01:225][649]LogFbx: Valid bind pose for Pose (skinCluster16) - body1
+[2025.03.18-15.12.01:226][649]LogFbx: Valid bind pose for Pose (skinCluster17) - body1
+[2025.03.18-15.12.01:228][649]LogFbx: Valid bind pose for Pose (skinCluster18) - body1
+[2025.03.18-15.12.01:235][649]LogMaterial: Display: Material /Game/NPCs/Models/Dante/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.03.18-15.12.01:267][649]LogShaderCompilers: Display: Current jobs: 26, Batch size: 4, Num Already Dispatched: 0
+[2025.03.18-15.12.01:527][649]LogFbx: Triangulating skeletal mesh body1
+[2025.03.18-15.12.02:098][649]LogMaterial: Display: Material /Game/NPCs/Models/Dante/Default_Material.Default_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2025.03.18-15.12.02:117][649]LogFbx: Triangulating skeletal mesh eye_left1
+[2025.03.18-15.12.02:133][649]LogFbx: Triangulating skeletal mesh eye_right1
+[2025.03.18-15.12.02:146][649]LogFbx: Triangulating skeletal mesh jaw_lower1
+[2025.03.18-15.12.02:255][649]LogFbx: Triangulating skeletal mesh jaw_upper1
+[2025.03.18-15.12.02:367][649]LogFbx: Triangulating skeletal mesh tongue1
+[2025.03.18-15.12.02:425][649]LogFbx: Bones digested - 176  Depth of hierarchy - 15
+[2025.03.18-15.12.03:760][649]LogSkeletalMesh: Section 0: Material=0, 50834 triangles
+[2025.03.18-15.12.03:760][649]LogSkeletalMesh: Section 1: Material=1, 19136 triangles
+[2025.03.18-15.12.03:836][649]LogSkeletalMesh: Building Skeletal Mesh Dante_test...
+[2025.03.18-15.12.03:854][649]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: ================================================
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Total job queries 103, among them cache hits 23 (22.33%)
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 38 distinct outputs (70.37%)
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: RAM used: 1.29 MiB of 1.60 GiB budget. Usage: 0.08%
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Shaders Compiled: 26
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Job execution time: average 2.06 s, max 2.13 s
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Job life time (pending + execution): average 2.07 s, max 2.15
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Shader code size: average 44.239 KiB, min 35.125 KiB, max 60.668 KiB
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.15 s
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Jobs were issued in 7 batches (only distributed compilation was used), average 3.71 jobs/batch
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Average processing rate: 12.11 jobs/sec
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Total thread time: 5.743 s
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Total thread preprocess time: 2.53 s
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Percentage time preprocessing: 44.06%
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Effective parallelization: 2.68 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.50 sec, max 0.54 sec, min 0.46 sec)
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.32 sec, max 0.48 sec, min 0.16 sec)
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.31 sec, max 0.46 sec, min 0.16 sec)
+[2025.03.18-15.12.03:854][649]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.30 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.12.03:855][649]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.30 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.12.03:855][649]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.18-15.12.03:855][649]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.40% of total time (compiled    2 times, average 0.50 sec, max 0.54 sec, min 0.46 sec)
+[2025.03.18-15.12.03:855][649]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 11.08% of total time (compiled    2 times, average 0.32 sec, max 0.48 sec, min 0.16 sec)
+[2025.03.18-15.12.03:855][649]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.83% of total time (compiled    2 times, average 0.31 sec, max 0.46 sec, min 0.16 sec)
+[2025.03.18-15.12.03:855][649]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.42% of total time (compiled    2 times, average 0.30 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.12.03:855][649]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 10.41% of total time (compiled    2 times, average 0.30 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.12.03:855][649]LogShaderCompilers: Display: ================================================
+[2025.03.18-15.12.05:176][649]LogSkeletalMesh: Built Skeletal Mesh [1.34s] /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.12.05:556][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2025.03.18-15.12.05:556][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2025.03.18-15.12.05:556][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2025.03.18-15.12.05:556][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2025.03.18-15.12.05:556][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2025.03.18-15.12.05:556][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2025.03.18-15.12.05:558][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2025.03.18-15.12.05:558][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2025.03.18-15.12.05:566][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2025.03.18-15.12.05:576][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim, at AnimationSequence/a3734f6d25622b664447c857b5cf471e014ce16a
+[2025.03.18-15.12.05:576][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2025.03.18-15.12.05:579][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim, at AnimationSequence/1cf0c2e02bde0f76f4ac0d6f8508fdea5b6d9b07
+[2025.03.18-15.12.05:579][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2025.03.18-15.12.05:586][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim, at AnimationSequence/123ea00a0174834efad8eee2bbecc8ea245e28fe
+[2025.03.18-15.12.05:586][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2025.03.18-15.12.05:595][649]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2025.03.18-15.12.05:603][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim, at AnimationSequence/cfefc040a9671e4991ad611f04308f1a71c3655c
+[2025.03.18-15.12.05:606][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim, at AnimationSequence/9856ab3372449b0a2ad5d1887b06cf938d88e60d
+[2025.03.18-15.12.05:614][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2025.03.18-15.12.05:614][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2025.03.18-15.12.05:615][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim, at AnimationSequence/9452faa666de8f14a3ec3c818b2152924ce2737c
+[2025.03.18-15.12.05:616][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim, at AnimationSequence/a222f26524b0292e6a5c7f16f7860d761755536d
+[2025.03.18-15.12.05:619][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim, at AnimationSequence/8aa8ea0afa53c03a19e253baf9442dd0242c5087
+[2025.03.18-15.12.05:619][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim, at AnimationSequence/1ea8e916f1764ccf146c10fb583b63cdd1bb0c61
+[2025.03.18-15.12.05:621][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim, at AnimationSequence/7fe86160b7dc411a452e8df760a70a7d01900f9d
+[2025.03.18-15.12.05:624][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim, at AnimationSequence/adcc2d066e63a2c74e477fddda3b1fb5cf6d188c
+[2025.03.18-15.12.05:624][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim, at AnimationSequence/37a1813f0fb1fae4da809402f013035f21c49893
+[2025.03.18-15.12.05:631][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim, at AnimationSequence/a1d76721cf3eb965b99e80c9c9ae9478fddb708c
+[2025.03.18-15.12.05:633][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/a8094637e0cdb6733a85720a64bb24eb219cf0f5
+[2025.03.18-15.12.05:896][649]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2025.03.18-15.12.05:901][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2025.03.18-15.12.05:901][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2025.03.18-15.12.05:901][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2025.03.18-15.12.05:901][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2025.03.18-15.12.05:901][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2025.03.18-15.12.05:901][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2025.03.18-15.12.05:901][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2025.03.18-15.12.05:901][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2025.03.18-15.12.05:901][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2025.03.18-15.12.05:901][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2025.03.18-15.12.05:902][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2025.03.18-15.12.05:902][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2025.03.18-15.12.05:909][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/f97894cbf9ba0317c863a1ac3b75972700b0be35
+[2025.03.18-15.12.05:918][649]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2025.03.18-15.12.05:919][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/44813bc5efa0d8760c02d2108b3a7ea0e2095afb
+[2025.03.18-15.12.05:920][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/16326facdb08e557db0f1bd57921df8ccf7f5f7e
+[2025.03.18-15.12.05:924][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/5e7b70a26431d9a184a1ef291575b443d81b06e7
+[2025.03.18-15.12.05:931][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/458c9243aa0a7e207dd0ec3a52b843887992c21d
+[2025.03.18-15.12.05:934][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/f0d8b849e3baaa0a4820a0e5b20a1ad80bf1e824
+[2025.03.18-15.12.05:945][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/118e10ffb0e3b050fcc46e535c496926bd269edd
+[2025.03.18-15.12.05:946][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2025.03.18-15.12.05:946][649]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2025.03.18-15.12.05:949][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/9c9fa6fdb291146a904e4d28fa235116e9d06437
+[2025.03.18-15.12.05:956][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/4c30aa01ef8a68a22e00f2cbf5721a2aa74b086b
+[2025.03.18-15.12.05:966][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/789034517b1befd04addf4813aa047a04d4ea22f
+[2025.03.18-15.12.05:966][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/df34e9b40cd3d801b50414a606581fb906ae9bec
+[2025.03.18-15.12.05:970][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/05609c6bd5857650ca16413c2d32af5bdd6a1578
+[2025.03.18-15.12.05:972][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/ff743d215dff41fe3e055e4ebebab3c40bd9470d
+[2025.03.18-15.12.05:975][649]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/0672e79306e208dd788a5c4b78962a29dcfdb6ef
+[2025.03.18-15.12.08:145][649]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.03.18-15.12.08:145][649]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.03.18-15.12.10:784][649]LogSkeletalMesh: Built Skeletal Mesh [4.89s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2025.03.18-15.12.10:836][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.10:836][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.12.10:843][649]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.12.10:843][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.12.10:877][649]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.12.11:003][649]FBXImport: Warning: The following bones are missing from the bind pose:
+ik_foot_root  
+ik_foot_l  
+ik_foot_r  
+ik_hand_root  
+ik_hand_gun  
+ik_hand_l  
+ik_hand_r  
+interaction  
+center_of_mass  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2025.03.18-15.12.11:287][655]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.11:653][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.15:528][159]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.12.15:570][159]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.15:570][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.12.15:647][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.18-15.12.16:097][159]LogViewport: Scene viewport resized to 1132x390, mode Windowed.
+[2025.03.18-15.12.22:252][756]LogSlate: Window 'Dante_test' being destroyed
+[2025.03.18-15.12.22:308][756]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.12.22:308][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.12.23:972][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.18-15.12.23:979][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.12.24:019][932]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2025.03.18-15.12.24:020][932]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/SK_Mannequin264419644D01114839A6859A85B8334D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2025.03.18-15.12.24:183][932]LogSavePackage: Moving output files for package: /Game/NPCs/Models/Dante/Dante_test
+[2025.03.18-15.12.24:183][932]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Dante_testCBB5319F476E5F941F91DAA0BA93E618.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante/Dante_test.uasset'
+[2025.03.18-15.12.24:620][932]LogSavePackage: Moving output files for package: /Game/NPCs/Models/Dante/lambert2
+[2025.03.18-15.12.24:620][932]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/lambert23F3A267C45C176EC010D109BA4040A11.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante/lambert2.uasset'
+[2025.03.18-15.12.24:637][932]LogSavePackage: Moving output files for package: /Game/NPCs/Models/Dante/Default_Material
+[2025.03.18-15.12.24:637][932]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Default_Material86459D7D4F205264FBB2558559441F3A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante/Default_Material.uasset'
+[2025.03.18-15.12.24:647][932]LogSavePackage: Moving output files for package: /Game/NPCs/Models/Dante/Dante_test_PhysicsAsset
+[2025.03.18-15.12.24:647][932]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Dante_test_PhysicsAsset0FEB1D8C4EFD7D7AB3356AB867E3C827.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante/Dante_test_PhysicsAsset.uasset'
+[2025.03.18-15.12.24:653][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 674 ms (total: 8.46 sec)
+[2025.03.18-15.12.24:655][932]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.18-15.12.24:655][932]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2025.03.18-15.12.24:655][932]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.12.24:655][932]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NPCs/Models/Dante/lambert2.lambert2
+[2025.03.18-15.12.24:655][932]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NPCs/Models/Dante/Default_Material.Default_Material
+[2025.03.18-15.12.24:655][932]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/NPCs/Models/Dante/Dante_test_PhysicsAsset.Dante_test_PhysicsAsset
+[2025.03.18-15.12.25:828][ 65]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-15.12.25:828][ 65]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.25:828][ 65]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.12.27:209][183]LogViewport: Scene viewport resized to 1094x723, mode Windowed.
+[2025.03.18-15.12.28:516][321]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.28:559][322]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.28:589][323]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.28:624][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.38:628][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.03.18-15.12.38:634][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.12.38:665][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-15.12.38:702][458]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-15.12.38:702][458]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC064B2F2E4EE2DBADAEDBD780A52DC6BF.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-15.12.38:709][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 8.54 sec)
+[2025.03.18-15.12.38:711][458]AssetCheck: New page: Asset Save: BP_NPC
+[2025.03.18-15.12.38:711][458]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-15.12.41:379][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.18-15.12.41:384][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.12.41:418][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-15.12.41:454][760]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-15.12.41:454][760]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC5B769CF64B8543157CD9358FA3F6534B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-15.12.41:460][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 8.61 sec)
+[2025.03.18-15.12.41:462][760]AssetCheck: New page: Asset Save: BP_NPC
+[2025.03.18-15.12.41:462][760]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-15.12.41:963][820]BlueprintLog: New page: Compile BP_NPC
+[2025.03.18-15.12.42:106][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.18-15.12.43:559][958]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-15.12.43:567][958]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-15.12.43:567][958]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-15.12.43:569][958]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 44 ms)
+[2025.03.18-15.12.43:569][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-15.12.43:569][958]PIE: New page: PIE session: ThirdPersonMap (18 Mar 2025, 15:12:43)
+[2025.03.18-15.12.43:599][958]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-15.12.43:621][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022035s)
+[2025.03.18-15.12.43:621][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.022097s)
+[2025.03.18-15.12.43:638][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.18-15.12.43:645][958]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.12.43:645][958]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.12.43:646][958]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.03.18-15.12.43:646][958]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-15.12.43:646][958]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-15.12.43:646][958]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-15.12.43:646][958]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-15.12.43:652][958]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.03.18-15.12.43:652][958]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 3.21 sec)
+[2025.03.18-15.12.43:652][958]LogPlayLevel: PIE: World Init took: (0.006324s)
+[2025.03.18-15.12.43:653][958]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.03.18-15.12.43:653][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-15.12.43:653][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-15.12.43:653][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-15.12.43:653][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-15.12.43:653][958]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-15.12.43:653][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-15.12.43:653][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-15.12.43:653][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-15.12.43:653][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-15.12.43:653][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-15.12.43:653][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-15.12.43:655][958]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-15.12.43:672][958]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.03.18-15.12.43:672][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-15.12.43:672][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-15.12.43:672][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-15.12.43:673][958]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.03.18-15.12.43:673][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2025.03.18-15.12.43:674][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.03.18-15.12.43:674][958]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.03.18-15.12.43:674][958]LogInit: FAudioDevice initialized with ID 21.
+[2025.03.18-15.12.43:674][958]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2025.03.18-15.12.43:674][958]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.18-15.12.43:678][958]LogLoad: Game class is 'GM_Bar_C'
+[2025.03.18-15.12.43:686][958]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-15.12.43
+[2025.03.18-15.12.43:687][958]LogWorld: Bringing up level for play took: 0.008418
+[2025.03.18-15.12.43:689][958]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.03.18-15.12.43:692][958]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.03.18-15.12.43:693][958]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.03.18-15.12.43:693][958]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.03.18-15.12.43:732][958]PIE: Server logged in
+[2025.03.18-15.12.43:733][958]PIE: Play in editor total start time 0.166 seconds.
+[2025.03.18-15.12.44:940][ 99]LogSlate: New Slate User Created. Platform User Id 10, User Index 10, Is Virtual User: 1
+[2025.03.18-15.12.44:941][ 99]LogSlate: Slate User Registered.  User Index 10, Is Virtual User: 1
+[2025.03.18-15.12.47:206][371]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.12.47:212][371]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.12.54:053][995]LogSlate: Slate User Unregistered.  User Index 10
+[2025.03.18-15.12.54:053][995]LogSlate: Slate User Destroyed.  User Index 10, Is Virtual User: 1
+[2025.03.18-15.12.54:053][995]LogSlate: Slate User Unregistered.  User Index 10
+[2025.03.18-15.12.55:168][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-15.12.55:169][126]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-15.12.55:170][126]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.12.55:178][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.12.55:178][126]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.18-15.12.55:181][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-15.12.55:185][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.12.55:197][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.18-15.12.55:198][126]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.18-15.12.55:198][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.18-15.12.55:201][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.18-15.12.55:205][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-15.12.55:214][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.18-15.12.55:265][127]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.03.18-15.13.03:175][449]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-15.13.03:181][449]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-15.13.03:181][449]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-15.13.03:184][449]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 46 ms)
+[2025.03.18-15.13.03:184][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-15.13.03:184][449]PIE: New page: PIE session: ThirdPersonMap (18 Mar 2025, 15:13:03)
+[2025.03.18-15.13.03:184][449]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-15.13.03:205][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020978s)
+[2025.03.18-15.13.03:205][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.021007s)
+[2025.03.18-15.13.03:216][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.18-15.13.03:219][449]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.13.03:219][449]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.13.03:220][449]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.03.18-15.13.03:220][449]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-15.13.03:220][449]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-15.13.03:220][449]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-15.13.03:220][449]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-15.13.03:225][449]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.03.18-15.13.03:225][449]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 3.22 sec)
+[2025.03.18-15.13.03:225][449]LogPlayLevel: PIE: World Init took: (0.005937s)
+[2025.03.18-15.13.03:225][449]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.03.18-15.13.03:225][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-15.13.03:225][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-15.13.03:225][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-15.13.03:225][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-15.13.03:225][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-15.13.03:225][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-15.13.03:225][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-15.13.03:225][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-15.13.03:226][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-15.13.03:226][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-15.13.03:226][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-15.13.03:227][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-15.13.03:244][449]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.03.18-15.13.03:244][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-15.13.03:244][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-15.13.03:244][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-15.13.03:245][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.03.18-15.13.03:245][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2025.03.18-15.13.03:246][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.03.18-15.13.03:246][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.03.18-15.13.03:246][449]LogInit: FAudioDevice initialized with ID 22.
+[2025.03.18-15.13.03:246][449]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2025.03.18-15.13.03:246][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.18-15.13.03:248][449]LogLoad: Game class is 'GM_Bar_C'
+[2025.03.18-15.13.03:256][449]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-15.13.03
+[2025.03.18-15.13.03:257][449]LogWorld: Bringing up level for play took: 0.008181
+[2025.03.18-15.13.03:258][449]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.03.18-15.13.03:261][449]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.03.18-15.13.03:261][449]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.03.18-15.13.03:261][449]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.03.18-15.13.03:300][449]PIE: Server logged in
+[2025.03.18-15.13.03:300][449]PIE: Play in editor total start time 0.118 seconds.
+[2025.03.18-15.13.06:553][757]LogSlate: New Slate User Created. Platform User Id 10, User Index 10, Is Virtual User: 1
+[2025.03.18-15.13.06:553][757]LogSlate: Slate User Registered.  User Index 10, Is Virtual User: 1
+[2025.03.18-15.13.11:819][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-15.13.11:819][384]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-15.13.11:820][384]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.13.11:828][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.13.11:828][384]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.18-15.13.11:831][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-15.13.11:836][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.13.11:851][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-15.13.11:853][384]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.18-15.13.11:854][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.18-15.13.11:855][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.18-15.13.11:862][384]LogSlate: Slate User Unregistered.  User Index 10
+[2025.03.18-15.13.11:862][384]LogSlate: Slate User Destroyed.  User Index 10, Is Virtual User: 1
+[2025.03.18-15.13.11:864][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.18-15.13.11:909][385]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.03.18-15.17.01:445][900]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.17.01:447][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.17.01:447][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.17.01:452][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.18-15.17.01:646][900]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2025.03.18-15.17.01:778][900]LogViewport: Scene viewport resized to 1132x390, mode Windowed.
+[2025.03.18-15.17.02:736][981]LogViewport: Scene viewport resized to 1430x906, mode Windowed.
+[2025.03.18-15.17.12:213][693]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.17.16:426][ 66]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.17.35:750][724]LogViewport: Scene viewport resized to 1132x390, mode Windowed.
+[2025.03.18-15.17.36:482][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.18-15.17.36:489][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.17.36:674][763]LogSavePackage: Moving output files for package: /Game/NPCs/Models/Dante/Dante_test
+[2025.03.18-15.17.36:675][763]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Dante_test8C6243904AEF12F4BE5D2CB0EF63B0AC.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante/Dante_test.uasset'
+[2025.03.18-15.17.36:685][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 8.81 sec)
+[2025.03.18-15.17.36:686][763]AssetCheck: New page: Asset Save: Dante_test
+[2025.03.18-15.17.36:687][763]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.17.36:999][795]LogSlate: Window 'Dante_test' being destroyed
+[2025.03.18-15.17.37:017][795]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.17.37:017][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.17.44:149][621]LogEditorFactories: Performing atomic reimport of [C:/Users/harry/Downloads/Dante_test.fbx]
+[2025.03.18-15.17.44:167][621]LogFbx: Loading FBX Scene from C:/Users/harry/Downloads/Dante_test.fbx
+[2025.03.18-15.17.44:525][621]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.18-15.17.44:602][621]LogFbx: Valid bind pose for Pose (skinCluster13) - body1
+[2025.03.18-15.17.44:603][621]LogFbx: Valid bind pose for Pose (skinCluster14) - body1
+[2025.03.18-15.17.44:604][621]LogFbx: Valid bind pose for Pose (skinCluster15) - body1
+[2025.03.18-15.17.44:606][621]LogFbx: Valid bind pose for Pose (skinCluster16) - body1
+[2025.03.18-15.17.44:606][621]LogFbx: Valid bind pose for Pose (skinCluster17) - body1
+[2025.03.18-15.17.44:608][621]LogFbx: Valid bind pose for Pose (skinCluster18) - body1
+[2025.03.18-15.17.44:861][621]LogFbx: Triangulating skeletal mesh body1
+[2025.03.18-15.17.45:393][621]LogFbx: Triangulating skeletal mesh eye_left1
+[2025.03.18-15.17.45:406][621]LogFbx: Triangulating skeletal mesh eye_right1
+[2025.03.18-15.17.45:419][621]LogFbx: Triangulating skeletal mesh jaw_lower1
+[2025.03.18-15.17.45:515][621]LogFbx: Triangulating skeletal mesh jaw_upper1
+[2025.03.18-15.17.45:624][621]LogFbx: Triangulating skeletal mesh tongue1
+[2025.03.18-15.17.45:741][621]LogFbx: Bones digested - 176  Depth of hierarchy - 15
+[2025.03.18-15.17.46:995][621]LogSkeletalMesh: Section 0: Material=0, 50834 triangles
+[2025.03.18-15.17.46:995][621]LogSkeletalMesh: Section 1: Material=1, 19136 triangles
+[2025.03.18-15.17.47:082][621]LogEditorFactories: -- imported successfully
+[2025.03.18-15.17.47:198][621]LogSkeletalMesh: Building Skeletal Mesh Dante_test...
+[2025.03.18-15.17.47:216][621]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.17.48:566][621]LogSkeletalMesh: Built Skeletal Mesh [1.37s] /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.17.48:586][621]FBXImport: Warning: The following bones are missing from the bind pose:
+ik_foot_root  
+ik_foot_l  
+ik_foot_r  
+ik_hand_root  
+ik_hand_gun  
+ik_hand_l  
+ik_hand_r  
+interaction  
+center_of_mass  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2025.03.18-15.17.48:604][621]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.17.58:554][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.17.58:554][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.17.58:558][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.17.58:558][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.17.59:196][745]LogViewport: Scene viewport resized to 602x426, mode Windowed.
+[2025.03.18-15.17.59:202][745]LogViewport: Scene viewport resized to 602x426, mode Windowed.
+[2025.03.18-15.18.02:163][ 88]LogSlate: Window 'UV: Dante_test' being destroyed
+[2025.03.18-15.18.02:171][ 88]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.18.02:171][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.18.02:174][ 88]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.18.02:174][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.18.03:486][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.18.03:674][239]LogSavePackage: Moving output files for package: /Game/NPCs/Models/Dante/Dante_test
+[2025.03.18-15.18.03:674][239]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Dante_test10218A0A443C3B84556B9F9F8AA8D5F8.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante/Dante_test.uasset'
+[2025.03.18-15.18.03:685][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 9.01 sec)
+[2025.03.18-15.18.03:686][239]AssetCheck: New page: Asset Save: Dante_test
+[2025.03.18-15.18.03:686][239]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.18.05:020][360]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
+[2025.03.18-15.18.05:354][361]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
+[2025.03.18-15.18.15:925][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.18-15.18.15:935][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.18.15:972][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-15.18.16:007][429]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-15.18.16:008][429]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC4C5BA8714A2195B70276DC9203698E21.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-15.18.16:014][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 9.09 sec)
+[2025.03.18-15.18.16:016][429]AssetCheck: New page: Asset Save: BP_NPC
+[2025.03.18-15.18.16:016][429]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-15.18.16:374][471]BlueprintLog: New page: Compile BP_NPC
+[2025.03.18-15.18.16:501][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.18-15.18.18:794][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.18-15.18.20:470][704]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.18-15.18.20:481][704]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/NPCs/Models/Dante/Dante_test.Dante_test
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/NPCs/Models/Dante/Dante_test_PhysicsAsset.Dante_test_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/NPCs/Models/Dante/Default_Material.Default_Material
+	Asset Type: Material
+	Asset Name: /Game/NPCs/Models/Dante/lambert2.lambert2
+	Asset Type: Material
+[2025.03.18-15.18.20:739][704]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.18.20:884][704]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.18.20:923][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.18-15.18.20:933][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.18-15.18.20:942][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.18-15.18.25:301][ 28]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\harry\Downloads\Dante_test.fbx)
+[2025.03.18-15.18.25:319][ 28]LogFbx: Loading FBX Scene from C:\Users\harry\Downloads\Dante_test.fbx
+[2025.03.18-15.18.25:663][ 28]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.18-15.19.10:046][ 28]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.18-15.19.10:136][ 28]LogFbx: Valid bind pose for Pose (skinCluster13) - body1
+[2025.03.18-15.19.10:137][ 28]LogFbx: Valid bind pose for Pose (skinCluster14) - body1
+[2025.03.18-15.19.10:139][ 28]LogFbx: Valid bind pose for Pose (skinCluster15) - body1
+[2025.03.18-15.19.10:140][ 28]LogFbx: Valid bind pose for Pose (skinCluster16) - body1
+[2025.03.18-15.19.10:140][ 28]LogFbx: Valid bind pose for Pose (skinCluster17) - body1
+[2025.03.18-15.19.10:142][ 28]LogFbx: Valid bind pose for Pose (skinCluster18) - body1
+[2025.03.18-15.19.10:148][ 28]LogMaterial: Display: Material /Game/NPCs/Models/Dante/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.03.18-15.19.10:412][ 28]LogFbx: Triangulating skeletal mesh body1
+[2025.03.18-15.19.10:925][ 28]LogMaterial: Display: Material /Game/NPCs/Models/Dante/Default_Material.Default_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2025.03.18-15.19.10:947][ 28]LogFbx: Triangulating skeletal mesh eye_left1
+[2025.03.18-15.19.10:960][ 28]LogFbx: Triangulating skeletal mesh eye_right1
+[2025.03.18-15.19.10:974][ 28]LogFbx: Triangulating skeletal mesh jaw_lower1
+[2025.03.18-15.19.11:069][ 28]LogFbx: Triangulating skeletal mesh jaw_upper1
+[2025.03.18-15.19.11:169][ 28]LogFbx: Triangulating skeletal mesh tongue1
+[2025.03.18-15.19.11:219][ 28]LogFbx: Bones digested - 176  Depth of hierarchy - 15
+[2025.03.18-15.19.12:464][ 28]LogSkeletalMesh: Section 0: Material=0, 50834 triangles
+[2025.03.18-15.19.12:464][ 28]LogSkeletalMesh: Section 1: Material=1, 19136 triangles
+[2025.03.18-15.19.12:536][ 28]LogSkeletalMesh: Building Skeletal Mesh Dante_test...
+[2025.03.18-15.19.12:554][ 28]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: ================================================
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Total job queries 225, among them cache hits 113 (50.22%)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Tracking 84 distinct input hashes that result in 48 distinct outputs (57.14%)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: RAM used: 2.02 MiB of 1.60 GiB budget. Usage: 0.12%
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Shaders Compiled: 40
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Average time worker was idle: 12.67 s
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.07 s
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Job execution time: average 1.45 s, max 2.13 s
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Job life time (pending + execution): average 1.48 s, max 2.15
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Shader code size: average 44.186 KiB, min 35.125 KiB, max 60.766 KiB
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.89 s
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Jobs were issued in 21 batches (14 local, 7 distributed), average 1.90 jobs/batch (1.00 jobs/local batch. 3.71 jobs/distributed batch)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Average processing rate: 13.82 jobs/sec
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Total thread time: 7.968 s
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Total thread preprocess time: 2.771 s
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Percentage time preprocessing: 34.78%
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Effective parallelization: 2.75 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.39 sec, max 0.54 sec, min 0.17 sec)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 0.28 sec, max 0.48 sec, min 0.16 sec)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.27 sec, max 0.46 sec, min 0.16 sec)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.26 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.26 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 14.65% of total time (compiled    3 times, average 0.39 sec, max 0.54 sec, min 0.17 sec)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 10.40% of total time (compiled    3 times, average 0.28 sec, max 0.48 sec, min 0.16 sec)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.11% of total time (compiled    3 times, average 0.27 sec, max 0.46 sec, min 0.16 sec)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 9.86% of total time (compiled    3 times, average 0.26 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.81% of total time (compiled    3 times, average 0.26 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.19.12:554][ 28]LogShaderCompilers: Display: ================================================
+[2025.03.18-15.19.13:860][ 28]LogSkeletalMesh: Built Skeletal Mesh [1.32s] /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.19.13:923][ 28]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.19.13:923][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.19.13:939][ 28]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.19.13:939][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.19.13:974][ 28]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.19.14:100][ 28]FBXImport: Warning: The following bones are missing from the bind pose:
+ik_foot_root  
+ik_foot_l  
+ik_foot_r  
+ik_hand_root  
+ik_hand_gun  
+ik_hand_l  
+ik_hand_r  
+interaction  
+center_of_mass  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2025.03.18-15.19.15:707][199]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.19.15:707][199]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.19.15:708][199]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2025.03.18-15.19.15:709][199]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2025.03.18-15.19.16:456][285]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.19.16:456][285]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.19.16:458][285]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B295B05A5602_1805081367
+[2025.03.18-15.19.16:458][285]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B295B05A5602_1805081367
+[2025.03.18-15.19.18:883][569]Cmd: DELETE
+[2025.03.18-15.19.18:884][569]Cmd: ACTOR DELETE
+[2025.03.18-15.19.18:889][569]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.03.18-15.19.18:900][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.18-15.19.18:906][569]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.03.18-15.19.26:346][461]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.19.26:351][461]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.19.30:447][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.18-15.19.31:379][950]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.18-15.19.31:393][950]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/NPCs/Models/Dante/Dante_test.Dante_test
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/NPCs/Models/Dante/Dante_test_PhysicsAsset.Dante_test_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/NPCs/Models/Dante/Default_Material.Default_Material
+	Asset Type: Material
+	Asset Name: /Game/NPCs/Models/Dante/lambert2.lambert2
+	Asset Type: Material
+[2025.03.18-15.19.31:641][950]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.19.31:786][950]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.19.31:826][950]LogWorldPartition: Actor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B295B05A5602_1805081367 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/3/JJ/OCKK0T00DGCIO6ZHOQN2S5.PackageMetaData in its package
+[2025.03.18-15.19.31:832][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.18-15.19.31:843][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.18-15.19.31:858][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.18-15.19.31:873][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.18-15.19.34:646][ 47]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\harry\Downloads\Dante_test.fbx)
+[2025.03.18-15.19.34:663][ 47]LogFbx: Loading FBX Scene from C:\Users\harry\Downloads\Dante_test.fbx
+[2025.03.18-15.19.35:005][ 47]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.18-15.20.07:758][ 47]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.18-15.20.07:803][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.18-15.20.07:805][ 47]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2025.03.18-15.20.08:083][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.18-15.20.08:085][ 47]FBXImport: Import was canceled. 
+[2025.03.18-15.20.08:118][ 47]LogAssetTools: The import task was canceled.
+[2025.03.18-15.20.16:190][980]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.20.16:258][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.20.16:653][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.20.16:692][ 32]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.20.16:708][ 33]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.20.22:004][625]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.20.22:008][625]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.21.00:754][364]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\harry\Downloads\Dante_test.fbx)
+[2025.03.18-15.21.00:772][364]LogFbx: Loading FBX Scene from C:\Users\harry\Downloads\Dante_test.fbx
+[2025.03.18-15.21.01:117][364]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.18-15.21.06:276][364]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.18-15.21.06:363][364]LogFbx: Valid bind pose for Pose (skinCluster13) - body1
+[2025.03.18-15.21.06:364][364]LogFbx: Valid bind pose for Pose (skinCluster14) - body1
+[2025.03.18-15.21.06:365][364]LogFbx: Valid bind pose for Pose (skinCluster15) - body1
+[2025.03.18-15.21.06:366][364]LogFbx: Valid bind pose for Pose (skinCluster16) - body1
+[2025.03.18-15.21.06:367][364]LogFbx: Valid bind pose for Pose (skinCluster17) - body1
+[2025.03.18-15.21.06:368][364]LogFbx: Valid bind pose for Pose (skinCluster18) - body1
+[2025.03.18-15.21.06:374][364]LogMaterial: Display: Material /Game/NPCs/Models/Dante/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.03.18-15.21.06:656][364]LogFbx: Triangulating skeletal mesh body1
+[2025.03.18-15.21.07:233][364]LogMaterial: Display: Material /Game/NPCs/Models/Dante/Default_Material.Default_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2025.03.18-15.21.07:252][364]LogFbx: Triangulating skeletal mesh eye_left1
+[2025.03.18-15.21.07:267][364]LogFbx: Triangulating skeletal mesh eye_right1
+[2025.03.18-15.21.07:281][364]LogFbx: Triangulating skeletal mesh jaw_lower1
+[2025.03.18-15.21.07:395][364]LogFbx: Triangulating skeletal mesh jaw_upper1
+[2025.03.18-15.21.07:517][364]LogFbx: Triangulating skeletal mesh tongue1
+[2025.03.18-15.21.07:570][364]LogFbx: Bones digested - 176  Depth of hierarchy - 15
+[2025.03.18-15.21.08:849][364]LogSkeletalMesh: Section 0: Material=0, 50834 triangles
+[2025.03.18-15.21.08:849][364]LogSkeletalMesh: Section 1: Material=1, 19136 triangles
+[2025.03.18-15.21.08:922][364]LogSkeletalMesh: Building Skeletal Mesh Dante_test...
+[2025.03.18-15.21.08:941][364]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.21.10:282][364]LogSkeletalMesh: Built Skeletal Mesh [1.36s] /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.21.10:326][364]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.21.10:326][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.21.10:334][364]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.21.10:334][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.21.10:369][364]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.21.10:497][364]FBXImport: Warning: The following bones are missing from the bind pose:
+ik_foot_root  
+ik_foot_l  
+ik_foot_r  
+ik_hand_root  
+ik_hand_gun  
+ik_hand_l  
+ik_hand_r  
+interaction  
+center_of_mass  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2025.03.18-15.21.12:158][518]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.21.12:158][518]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.21.12:158][518]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2025.03.18-15.21.12:160][518]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2025.03.18-15.21.12:717][581]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.21.12:717][581]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.21.12:718][581]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B295B05A5602_1921342368
+[2025.03.18-15.21.12:720][581]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B295B05A5602_1921342368
+[2025.03.18-15.21.19:066][332]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.21.19:071][332]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.21.43:423][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-15.21.44:353][307]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.18-15.21.44:381][307]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/NPCs/Models/Dante/Dante_test.Dante_test
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/NPCs/Models/Dante/Dante_test_PhysicsAsset.Dante_test_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/NPCs/Models/Dante/Default_Material.Default_Material
+	Asset Type: Material
+	Asset Name: /Game/NPCs/Models/Dante/lambert2.lambert2
+	Asset Type: Material
+[2025.03.18-15.21.44:635][307]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.21.44:781][307]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.21.44:818][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.03.18-15.21.44:830][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.18-15.21.44:842][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.18-15.21.47:004][369]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\harry\Downloads\Dante_test.fbx)
+[2025.03.18-15.21.47:023][369]LogFbx: Loading FBX Scene from C:\Users\harry\Downloads\Dante_test.fbx
+[2025.03.18-15.21.47:374][369]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.18-15.22.04:621][369]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.18-15.22.04:718][369]LogFbx: Valid bind pose for Pose (skinCluster13) - body1
+[2025.03.18-15.22.04:719][369]LogFbx: Valid bind pose for Pose (skinCluster14) - body1
+[2025.03.18-15.22.04:721][369]LogFbx: Valid bind pose for Pose (skinCluster15) - body1
+[2025.03.18-15.22.04:722][369]LogFbx: Valid bind pose for Pose (skinCluster16) - body1
+[2025.03.18-15.22.04:723][369]LogFbx: Valid bind pose for Pose (skinCluster17) - body1
+[2025.03.18-15.22.04:724][369]LogFbx: Valid bind pose for Pose (skinCluster18) - body1
+[2025.03.18-15.22.04:731][369]LogMaterial: Display: Material /Game/NPCs/Models/Dante/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.03.18-15.22.05:006][369]LogFbx: Triangulating skeletal mesh body1
+[2025.03.18-15.22.05:545][369]LogMaterial: Display: Material /Game/NPCs/Models/Dante/Default_Material.Default_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2025.03.18-15.22.05:565][369]LogFbx: Triangulating skeletal mesh eye_left1
+[2025.03.18-15.22.05:581][369]LogFbx: Triangulating skeletal mesh eye_right1
+[2025.03.18-15.22.05:594][369]LogFbx: Triangulating skeletal mesh jaw_lower1
+[2025.03.18-15.22.05:696][369]LogFbx: Triangulating skeletal mesh jaw_upper1
+[2025.03.18-15.22.05:797][369]LogFbx: Triangulating skeletal mesh tongue1
+[2025.03.18-15.22.05:848][369]LogFbx: Bones digested - 176  Depth of hierarchy - 15
+[2025.03.18-15.22.07:066][369]LogSkeletalMesh: Section 0: Material=0, 50834 triangles
+[2025.03.18-15.22.07:066][369]LogSkeletalMesh: Section 1: Material=1, 19136 triangles
+[2025.03.18-15.22.07:136][369]LogSkeletalMesh: Building Skeletal Mesh Dante_test...
+[2025.03.18-15.22.07:153][369]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.22.08:445][369]LogSkeletalMesh: Built Skeletal Mesh [1.31s] /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.22.08:500][369]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.22.08:500][369]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.22.08:507][369]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.22.08:507][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.22.08:540][369]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Dante_test) ...
+[2025.03.18-15.22.08:670][369]FBXImport: Warning: The following bones are missing from the bind pose:
+ik_foot_root  
+ik_foot_l  
+ik_foot_r  
+ik_hand_root  
+ik_hand_gun  
+ik_hand_l  
+ik_hand_r  
+interaction  
+center_of_mass  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2025.03.18-15.22.09:891][478]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.22.09:891][478]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.22.09:892][478]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2025.03.18-15.22.09:893][478]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2025.03.18-15.22.10:331][527]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.22.10:332][527]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.22.10:333][527]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B295B05A5602_1978956369
+[2025.03.18-15.22.10:334][527]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test as actor: SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B295B05A5602_1978956369
+[2025.03.18-15.22.18:003][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.18-15.22.18:011][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/7/QZ/DTL3PW245PM525RQKIKUMQ_Auto6
+[2025.03.18-15.22.18:011][276]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/DTL3PW245PM525RQKIKUMQ_Auto6F99DA6DD4CD387606B5EA7BEFA4BE37F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/7/QZ/DTL3PW245PM525RQKIKUMQ_Auto6.uasset'
+[2025.03.18-15.22.18:012][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/C/GQ/ADKC5E9W6KFCF9FHJDNHQA_Auto6
+[2025.03.18-15.22.18:012][276]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/ADKC5E9W6KFCF9FHJDNHQA_Auto623BC854C42197E08E61EC98788DE0F5F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/C/GQ/ADKC5E9W6KFCF9FHJDNHQA_Auto6.uasset'
+[2025.03.18-15.22.18:013][276]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_Level/ThirdPersonMap' took 0.021
+[2025.03.18-15.22.18:013][276]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2025.03.18-15.22.18:014][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NPCs/Models/Dante/Dante_test] ([1] browsable assets)...
+[2025.03.18-15.22.18:023][276]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test]
+[2025.03.18-15.22.18:023][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Models/Dante/Dante_test]
+[2025.03.18-15.22.18:183][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Models/Dante/Dante_test_Auto6
+[2025.03.18-15.22.18:183][276]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Dante_test_Auto6D0F46B214AE1C80506CC0EAFE4EF1448.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Models/Dante/Dante_test_Auto6.uasset'
+[2025.03.18-15.22.18:183][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NPCs/Models/Dante/lambert2] ([1] browsable assets)...
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: ================================================
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Total job queries 417, among them cache hits 297 (71.22%)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Tracking 92 distinct input hashes that result in 51 distinct outputs (55.43%)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: RAM used: 2.18 MiB of 1.60 GiB budget. Usage: 0.13%
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Shaders Compiled: 48
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Average time worker was idle: 191.33 s
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.08 s
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Job execution time: average 1.25 s, max 2.13 s
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 2.15
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Shader code size: average 42.378 KiB, min 29.613 KiB, max 60.766 KiB
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.52 s
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Jobs were issued in 29 batches (22 local, 7 distributed), average 1.66 jobs/batch (1.00 jobs/local batch. 3.71 jobs/distributed batch)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Average processing rate: 13.64 jobs/sec
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Total thread time: 8.874 s
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Total thread preprocess time: 2.905 s
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Percentage time preprocessing: 32.74%
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Effective parallelization: 2.52 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.39 sec, max 0.54 sec, min 0.17 sec)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 0.28 sec, max 0.48 sec, min 0.16 sec)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.27 sec, max 0.46 sec, min 0.16 sec)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.26 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.26 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.15% of total time (compiled    3 times, average 0.39 sec, max 0.54 sec, min 0.17 sec)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 9.34% of total time (compiled    3 times, average 0.28 sec, max 0.48 sec, min 0.16 sec)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.08% of total time (compiled    3 times, average 0.27 sec, max 0.46 sec, min 0.16 sec)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.85% of total time (compiled    3 times, average 0.26 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.81% of total time (compiled    3 times, average 0.26 sec, max 0.45 sec, min 0.15 sec)
+[2025.03.18-15.22.18:194][276]LogShaderCompilers: Display: ================================================
+[2025.03.18-15.22.18:200][276]OBJ SavePackage:     Rendered thumbnail for [Material /Game/NPCs/Models/Dante/lambert2.lambert2]
+[2025.03.18-15.22.18:200][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Models/Dante/lambert2]
+[2025.03.18-15.22.18:201][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Models/Dante/lambert2_Auto6
+[2025.03.18-15.22.18:201][276]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/lambert2_Auto682273BEB4377E9AA475F5C8CD9F0AA33.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Models/Dante/lambert2_Auto6.uasset'
+[2025.03.18-15.22.18:201][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NPCs/Models/Dante/Default_Material] ([1] browsable assets)...
+[2025.03.18-15.22.18:216][276]OBJ SavePackage:     Rendered thumbnail for [Material /Game/NPCs/Models/Dante/Default_Material.Default_Material]
+[2025.03.18-15.22.18:216][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Models/Dante/Default_Material]
+[2025.03.18-15.22.18:217][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Models/Dante/Default_Material_Auto6
+[2025.03.18-15.22.18:217][276]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Default_Material_Auto638E3F7E447180CC37B5731883971FDBF.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Models/Dante/Default_Material_Auto6.uasset'
+[2025.03.18-15.22.18:217][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NPCs/Models/Dante/Dante_test_PhysicsAsset] ([1] browsable assets)...
+[2025.03.18-15.22.18:222][276]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/NPCs/Models/Dante/Dante_test_PhysicsAsset.Dante_test_PhysicsAsset]
+[2025.03.18-15.22.18:222][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Models/Dante/Dante_test_PhysicsAsset]
+[2025.03.18-15.22.18:226][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Models/Dante/Dante_test_PhysicsAsset_Auto6
+[2025.03.18-15.22.18:226][276]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Dante_test_PhysicsAsset_Auto6D05283F94434FAB0DC77CC81C3CC8159.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Models/Dante/Dante_test_PhysicsAsset_Auto6.uasset'
+[2025.03.18-15.22.18:226][276]LogFileHelpers: Auto-saving content packages took 0.213
+[2025.03.18-15.24.02:064][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.18-15.24.02:072][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-15.24.02:101][155]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/7/QZ/DTL3PW245PM525RQKIKUMQ
+[2025.03.18-15.24.02:101][155]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/DTL3PW245PM525RQKIKUMQFA2DED214A19565E5F44E79BAE753B1C.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/7/QZ/DTL3PW245PM525RQKIKUMQ.uasset'
+[2025.03.18-15.24.02:103][155]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/C/GQ/ADKC5E9W6KFCF9FHJDNHQA
+[2025.03.18-15.24.02:103][155]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/ADKC5E9W6KFCF9FHJDNHQAAFF411F547852592166453AB0D7D4A4A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/C/GQ/ADKC5E9W6KFCF9FHJDNHQA.uasset'
+[2025.03.18-15.24.02:110][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/BP_NPC" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset" SILENT=true
+[2025.03.18-15.24.02:145][155]LogSavePackage: Moving output files for package: /Game/NPCs/BP_NPC
+[2025.03.18-15.24.02:145][155]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_NPC62AC0B0F484ED6681198CAB88E7383AC.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset'
+[2025.03.18-15.24.02:314][155]LogSavePackage: Moving output files for package: /Game/NPCs/Models/Dante/Dante_test
+[2025.03.18-15.24.02:314][155]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Dante_testF91230D24184AF0171013D9F11DE0E15.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante/Dante_test.uasset'
+[2025.03.18-15.24.02:316][155]LogSavePackage: Moving output files for package: /Game/NPCs/Models/Dante/lambert2
+[2025.03.18-15.24.02:316][155]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/lambert2A30FAC764625D03BFA4253957E39CD43.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante/lambert2.uasset'
+[2025.03.18-15.24.02:317][155]LogSavePackage: Moving output files for package: /Game/NPCs/Models/Dante/Default_Material
+[2025.03.18-15.24.02:317][155]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Default_Material303B9FE54651AFC5C2BCD1B512135C9D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante/Default_Material.uasset'
+[2025.03.18-15.24.02:323][155]LogSavePackage: Moving output files for package: /Game/NPCs/Models/Dante/Dante_test_PhysicsAsset
+[2025.03.18-15.24.02:323][155]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Dante_test_PhysicsAssetFB088BDD46832B31DFA2A19B6D429F34.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante/Dante_test_PhysicsAsset.uasset'
+[2025.03.18-15.24.02:328][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 9.34 sec)
+[2025.03.18-15.24.02:333][155]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.18-15.24.02:333][155]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B295B05A5602_1921342368
+[2025.03.18-15.24.02:333][155]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_107C61B295B05A5602_1978956369
+[2025.03.18-15.24.02:333][155]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.03.18-15.24.02:333][155]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/NPCs/Models/Dante/Dante_test.Dante_test
+[2025.03.18-15.24.02:333][155]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NPCs/Models/Dante/lambert2.lambert2
+[2025.03.18-15.24.02:333][155]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NPCs/Models/Dante/Default_Material.Default_Material
+[2025.03.18-15.24.02:333][155]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/NPCs/Models/Dante/Dante_test_PhysicsAsset.Dante_test_PhysicsAsset
+[2025.03.18-15.24.02:672][192]BlueprintLog: New page: Compile BP_NPC
+[2025.03.18-15.24.02:780][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.18-15.24.05:569][462]Cmd: DELETE
+[2025.03.18-15.24.05:569][462]Cmd: ACTOR DELETE
+[2025.03.18-15.24.05:571][462]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.03.18-15.24.05:587][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.18-15.24.05:593][462]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.03.18-15.24.06:410][557]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-15.24.06:418][557]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-15.24.06:418][557]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-15.24.06:420][557]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 48 ms)
+[2025.03.18-15.24.06:420][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-15.24.06:420][557]PIE: New page: PIE session: ThirdPersonMap (18 Mar 2025, 15:24:06)
+[2025.03.18-15.24.06:420][557]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-15.24.06:442][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020796s)
+[2025.03.18-15.24.06:442][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.020831s)
+[2025.03.18-15.24.06:449][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.18-15.24.06:450][557]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.18-15.24.06:451][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.18-15.24.06:451][557]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.03.18-15.24.06:452][557]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-15.24.06:452][557]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-15.24.06:452][557]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-15.24.06:452][557]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-15.24.06:457][557]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.03.18-15.24.06:457][557]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 3.22 sec)
+[2025.03.18-15.24.06:457][557]LogPlayLevel: PIE: World Init took: (0.006035s)
+[2025.03.18-15.24.06:457][557]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.03.18-15.24.06:457][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-15.24.06:457][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-15.24.06:457][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-15.24.06:457][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-15.24.06:457][557]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-15.24.06:457][557]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-15.24.06:457][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-15.24.06:457][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-15.24.06:458][557]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-15.24.06:458][557]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-15.24.06:458][557]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-15.24.06:459][557]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-15.24.06:477][557]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.03.18-15.24.06:477][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-15.24.06:477][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-15.24.06:477][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-15.24.06:478][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.03.18-15.24.06:478][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2025.03.18-15.24.06:479][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.03.18-15.24.06:479][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.03.18-15.24.06:479][557]LogInit: FAudioDevice initialized with ID 23.
+[2025.03.18-15.24.06:479][557]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2025.03.18-15.24.06:479][557]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.18-15.24.06:482][557]LogLoad: Game class is 'GM_Bar_C'
+[2025.03.18-15.24.06:490][557]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-15.24.06
+[2025.03.18-15.24.06:491][557]LogWorld: Bringing up level for play took: 0.008696
+[2025.03.18-15.24.06:492][557]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2025.03.18-15.24.06:495][557]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.03.18-15.24.06:495][557]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.03.18-15.24.06:495][557]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.03.18-15.24.06:534][557]PIE: Server logged in
+[2025.03.18-15.24.06:534][557]PIE: Play in editor total start time 0.116 seconds.
+[2025.03.18-15.24.07:221][636]LogSlate: New Slate User Created. Platform User Id 10, User Index 10, Is Virtual User: 1
+[2025.03.18-15.24.07:222][636]LogSlate: Slate User Registered.  User Index 10, Is Virtual User: 1
+[2025.03.18-15.24.10:754][ 60]Cmd: ToggleDebugCamera
+[2025.03.18-15.24.15:809][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-15.24.15:809][659]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.03.18-15.24.15:810][659]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-15.24.15:818][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.24.15:819][659]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.18-15.24.15:822][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-15.24.15:826][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-15.24.15:838][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-15.24.15:840][659]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.18-15.24.15:840][659]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.18-15.24.15:842][659]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.18-15.24.15:850][659]LogSlate: Slate User Unregistered.  User Index 10
+[2025.03.18-15.24.15:850][659]LogSlate: Slate User Destroyed.  User Index 10, Is Virtual User: 1
+[2025.03.18-15.24.15:852][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.18-15.24.15:893][660]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2025.03.18-15.24.16:537][736]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.24.16:543][736]LogSlate: Window 'Message Log' being destroyed
+[2025.03.18-15.24.24:060][477]Cmd: SELECT NONE
+[2025.03.18-15.32.28:228][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.18-15.32.28:231][716]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_Level/ThirdPersonMap' took 0.020
+[2025.03.18-15.42.28:628][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.18-15.42.28:630][517]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_Level/ThirdPersonMap' took 0.014
