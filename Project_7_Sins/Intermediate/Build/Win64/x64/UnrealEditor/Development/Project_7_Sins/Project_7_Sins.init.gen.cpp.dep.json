@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\ue5\\github\\7-sins\\project_7_sins\\intermediate\\build\\win64\\unrealeditor\\inc\\project_7_sins\\uht\\project_7_sins.init.gen.cpp",
+        "Source": "c:\\users\\asus\\documents\\github\\7-sins\\project_7_sins\\intermediate\\build\\win64\\unrealeditor\\inc\\project_7_sins\\uht\\project_7_sins.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\ue5\\github\\7-sins\\project_7_sins\\intermediate\\build\\win64\\x64\\project_7_sinseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\asus\\documents\\github\\7-sins\\project_7_sins\\intermediate\\build\\win64\\x64\\project_7_sinseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "e:\\ue5\\github\\7-sins\\project_7_sins\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_7_sins\\definitions.project_7_sins.h"
+            "c:\\users\\asus\\documents\\github\\7-sins\\project_7_sins\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_7_sins\\definitions.project_7_sins.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

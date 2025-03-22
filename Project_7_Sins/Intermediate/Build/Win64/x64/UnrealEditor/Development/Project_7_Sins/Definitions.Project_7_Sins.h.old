@@ -1,4 +1,4 @@
-#include "E:/UE5/GitHub/7-Sins/Project_7_Sins/Intermediate/Build/Win64/x64/Project_7_SinsEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
+#include "D:/GitHub/7-Sins/Project_7_Sins/Intermediate/Build/Win64/x64/Project_7_SinsEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
