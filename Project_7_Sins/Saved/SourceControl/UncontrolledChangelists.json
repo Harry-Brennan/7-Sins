@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Pause/WBP_Options_Pause_Menu.uasset"
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Pause/WBP_Options_Pause_Menu.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/WBP_Game_Completed.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Fonts/Bogart-Extrabold-trial.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Fonts/Bogart-Extrabold-trial_Font.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Fonts/Bogart-Bold-trial.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Fonts/Bogart-Bold-trial_Font.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Fonts/Bogart-Extrabold-Italic-trial.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Fonts/Bogart-Extrabold-Italic-trial_Font.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Fonts/Bogart-Bold-Italic-trial.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Fonts/Bogart-Bold-Italic-trial_Font.uasset"
 			]
 		}
 	]
