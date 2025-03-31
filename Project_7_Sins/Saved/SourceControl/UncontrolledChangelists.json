@@ -75,7 +75,22 @@
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Biel/Biel_PhysicsAsset.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Biel/Biel.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dante_drink_making.uasset",
-				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Enums/Enum_Character_Specific_Actions.uasset"
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Enums/Enum_Character_Specific_Actions.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/2/L3/4GSVUOGHDXU2YQEVVVSPW0.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/5/R7/CA1S3WAJEOOATMNKJP4N6Y.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/9/TA/HOLNFO7IO7OYWXT74VZIEK.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/BP_Accessory_Equip.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/BP_Accessory_Dequip.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/BP_Attach_Accessories_Together.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Environment/Custom_Props/Models/cocktail_pack/Models/small_shaker_cup.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dante_wiping_the_counter.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante_v2/Dante_V2_Skeleton.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dante_smoking.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Enums/Enum_NPC_Anim_Accessories.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BPI_NPC_Opponent.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/BP_Detatch_Accessories_From_Each_Other.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante_v2/Dante_V2.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/BP_Detach_Accessories_From_Each_Other.uasset"
 			]
 		}
 	]
