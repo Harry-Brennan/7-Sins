@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Rules/WBP_Rules_Text_Holder.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Rules/WBP_Auction_Rules.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Rules/WBP_Darts_Rules.uasset",
+				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Rules/WBP_I_Doubt_It_Rules.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Animation_Blueprints/ABP_NPC.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Misc/Drink_Menu/WBP_Drink_Names.uasset",
