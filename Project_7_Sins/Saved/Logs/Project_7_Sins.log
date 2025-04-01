@@ -1558,3 +1558,50 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2025.04.01-20.33.29:879][410]AssetCheck: New page: Asset Save: multiple assets
 [2025.04.01-20.33.29:879][410]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/NPCs/Models/Biel/Biel.Biel
 [2025.04.01-20.33.29:879][410]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/NPCs/Models/Biel/Biel_PhysicsAsset.Biel_PhysicsAsset
+[2025.04.01-20.34.45:492][591]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\harry\Downloads\7-Sins - 4.wav)
+[2025.04.01-20.34.45:557][591]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave 7-Sins_-_4...
+[2025.04.01-20.34.46:054][591]LogAudio: Display: Chunk sizes for SoundWave /Game/SFX/Music/BG/Finished_Songs/7-Sins_-_4.7-Sins_-_4: Chunk0=28 bytes, Chunk1-N=256k
+[2025.04.01-20.34.46:073][591]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave 7-Sins_-_4...
+[2025.04.01-20.34.46:580][604]LogAudio: Display: Chunk sizes for SoundWave /Game/SFX/Music/BG/Finished_Songs/7-Sins_-_4.7-Sins_-_4: Chunk0=28 bytes, Chunk1-N=256k
+[2025.04.01-20.34.48:669][813]LogContentBrowser: Deferred new asset file creation: 7-Sins_-_4_Cue
+[2025.04.01-20.34.48:677][813]LogContentBrowser: Creating deferred item: 7-Sins_-_4_Cue
+[2025.04.01-20.34.48:685][814]LogContentBrowser: Renaming the item being created (Deferred Item: 7-Sins_-_4_Cue).
+[2025.04.01-20.34.50:910][ 61]LogContentBrowser: Attempting asset rename: 7-Sins_-_4_Cue -> 7-Sins_-_4_Cue
+[2025.04.01-20.34.50:912][ 61]LogContentBrowser: End creating deferred item 7-Sins_-_4_Cue
+[2025.04.01-20.34.51:416][118]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SFX/Music/BG/Finished_Songs/7-Sins_-_4_Cue.7-Sins_-_4_Cue
+[2025.04.01-20.34.56:185][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.01-20.34.56:189][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.01-20.34.56:253][657]LogSavePackage: Moving output files for package: /Game/SFX/Music/BG/Finished_Songs/7-Sins_-_4
+[2025.04.01-20.34.56:253][657]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/7-Sins_-_4AFFA6E9C46716AE28EBD2BA2ADBE2089.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/SFX/Music/BG/Finished_Songs/7-Sins_-_4.uasset'
+[2025.04.01-20.34.56:256][657]LogSavePackage: Moving output files for package: /Game/SFX/Music/BG/Finished_Songs/7-Sins_-_4_Cue
+[2025.04.01-20.34.56:256][657]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/7-Sins_-_4_CueD0831CBD46A6654A0E4D17927F9E98C9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/SFX/Music/BG/Finished_Songs/7-Sins_-_4_Cue.uasset'
+[2025.04.01-20.34.56:265][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 717 ms)
+[2025.04.01-20.34.56:268][657]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.01-20.34.56:268][657]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SFX/Music/BG/Finished_Songs/7-Sins_-_4.7-Sins_-_4
+[2025.04.01-20.34.56:268][657]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/SFX/Music/BG/Finished_Songs/7-Sins_-_4_Cue.7-Sins_-_4_Cue
+[2025.04.01-20.34.56:574][691]LogSlate: Window '7-Sins_-_4_Cue' being destroyed
+[2025.04.01-20.35.03:397][498]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.01-20.35.03:716][534]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Misc_Mechanics/Jukebox/BP_Jukebox.BP_Jukebox
+[2025.04.01-20.35.03:716][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.01-20.35.03:716][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.01-20.35.13:224][348]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Misc_Mechanics/Jukebox/Enum_Jukebox_Song_Names.Enum_Jukebox_Song_Names
+[2025.04.01-20.35.14:088][442]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2025.04.01-20.35.16:117][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.01-20.35.16:120][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.01-20.35.16:177][672]LogSavePackage: Moving output files for package: /Game/Misc_Mechanics/Jukebox/BP_Jukebox
+[2025.04.01-20.35.16:179][672]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_JukeboxD2276B5944BEE95B7383D79865FAA35A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Jukebox/BP_Jukebox.uasset'
+[2025.04.01-20.35.16:181][672]LogSavePackage: Moving output files for package: /Game/Misc_Mechanics/Jukebox/Enum_Jukebox_Song_Names
+[2025.04.01-20.35.16:182][672]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Enum_Jukebox_Song_Names54EE114D4C5CCA725F96EF9FE635962F.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Jukebox/Enum_Jukebox_Song_Names.uasset'
+[2025.04.01-20.35.16:190][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 787 ms)
+[2025.04.01-20.35.16:192][672]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.01-20.35.16:192][672]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc_Mechanics/Jukebox/BP_Jukebox.BP_Jukebox
+[2025.04.01-20.35.16:192][672]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Misc_Mechanics/Jukebox/Enum_Jukebox_Song_Names.Enum_Jukebox_Song_Names
+[2025.04.01-20.35.19:151][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.01-20.35.19:154][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.01-20.35.19:210][932]LogSavePackage: Moving output files for package: /Game/Misc_Mechanics/Jukebox/BP_Jukebox
+[2025.04.01-20.35.19:212][932]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Jukebox559539AC44FAD0B17C85549A6245A742.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Jukebox/BP_Jukebox.uasset'
+[2025.04.01-20.35.19:221][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 855 ms)
+[2025.04.01-20.35.19:224][932]AssetCheck: New page: Asset Save: BP_Jukebox
+[2025.04.01-20.35.19:224][932]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc_Mechanics/Jukebox/BP_Jukebox.BP_Jukebox
+[2025.04.01-20.35.20:486][ 50]BlueprintLog: New page: Compile BP_Jukebox
+[2025.04.01-20.35.20:534][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
