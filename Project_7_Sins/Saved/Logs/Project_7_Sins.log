@@ -1548,3 +1548,630 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.02-19.07.07:335][386]LogPlayLevel: Display: Destroying online subsystem :Context_28
 [2025.04.02-19.07.07:744][434]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.239 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13618 files in 16329 folders with total size 2114 MiB.
 [2025.04.02-19.07.07:785][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.02-19.12.32:380][708]LogSlate: Window 'BP_Leading_Cat' being destroyed
+[2025.04.02-19.12.32:387][708]LogSlate: Window 'BP_Leading_Cat' being destroyed
+[2025.04.02-19.12.32:447][708]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.12.32:447][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.12.32:479][708]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.12.32:479][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.12.32:496][708]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.12.32:496][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.12.32:552][708]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.12.32:552][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.12.32:566][708]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.12.32:566][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.12.32:601][708]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.12.32:601][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.12.32:609][708]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.12.32:609][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.12.32:640][708]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.02-19.12.32:640][708]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.12.32:641][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.12.34:827][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.16.41:808][580]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/NPCs/Dialogue_Specific/DT_Dialogue.DT_Dialogue
+[2025.04.02-19.22.03:708][758]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel.Zilia_5_to_Biel
+[2025.04.02-19.22.03:716][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.22.03:716][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-19.22.03:721][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.02-19.22.03:898][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.22.03:898][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-19.22.03:985][758]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.22.04:005][758]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.04.02-19.22.04:011][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.22.04:011][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-19.22.04:024][758]LogViewport: Scene viewport resized to 830x492, mode Windowed.
+[2025.04.02-19.22.04:055][758]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.04.02-19.27.41:246][924]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.27.43:741][153]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.27.46:249][383]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.27.48:741][610]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.27.51:241][832]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.27.53:742][ 42]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.28.19:427][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.02-19.28.19:432][278]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_Level/ThirdPersonMap' took 0.024
+[2025.04.02-19.28.19:433][278]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel] ([1] browsable assets)...
+[2025.04.02-19.28.19:446][278]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel.Zilia_5_to_Biel]
+[2025.04.02-19.28.19:446][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel]
+[2025.04.02-19.28.19:476][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel_Auto1
+[2025.04.02-19.28.19:476][278]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Zilia_5_to_Biel_Auto1115499A0446C5A269FF96E9B5E6D8A0D.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel_Auto1.uasset'
+[2025.04.02-19.28.19:478][278]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.04.02-19.29.40:264][561]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.29.42:153][714]LogViewport: Scene viewport resized to 1027x722, mode Windowed.
+[2025.04.02-19.29.42:761][757]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.29.45:264][950]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.29.47:761][146]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.29.50:266][340]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.29.52:760][534]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.29.55:262][729]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.29.57:758][926]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.33.25:533][598]LogViewport: Scene viewport resized to 830x492, mode Windowed.
+[2025.04.02-19.33.27:289][722]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.33.38:937][887]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante.Zilia_12_to_Dante
+[2025.04.02-19.33.38:967][887]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.33.38:982][887]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.33.38:982][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-19.33.38:999][887]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.33.39:000][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.38.22:823][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.04.02-19.38.22:828][  4]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_Level/ThirdPersonMap' took 0.021
+[2025.04.02-19.38.22:828][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante] ([1] browsable assets)...
+[2025.04.02-19.38.22:838][  4]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante.Zilia_12_to_Dante]
+[2025.04.02-19.38.22:838][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante]
+[2025.04.02-19.38.22:872][  4]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante_Auto2
+[2025.04.02-19.38.22:872][  4]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Zilia_12_to_Dante_Auto2EDBCC9A4496074DDA6FC28B5D8C7CD90.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante_Auto2.uasset'
+[2025.04.02-19.38.22:875][  4]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel] ([1] browsable assets)...
+[2025.04.02-19.38.22:875][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel]
+[2025.04.02-19.38.22:903][  4]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel_Auto2
+[2025.04.02-19.38.22:903][  4]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Zilia_5_to_Biel_Auto2DD7B5A7A454FECD7AB48BC94D861B8C1.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel_Auto2.uasset'
+[2025.04.02-19.38.22:904][  4]LogFileHelpers: Auto-saving content packages took 0.076
+[2025.04.02-19.48.23:480][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.04.02-19.48.23:483][226]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_Level/ThirdPersonMap' took 0.020
+[2025.04.02-19.48.23:484][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante] ([1] browsable assets)...
+[2025.04.02-19.48.23:484][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante]
+[2025.04.02-19.48.23:515][226]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante_Auto3
+[2025.04.02-19.48.23:516][226]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Zilia_12_to_Dante_Auto3A2EF827C48329C6F53C633B18D5FACBB.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante_Auto3.uasset'
+[2025.04.02-19.48.23:517][226]LogFileHelpers: Auto-saving content packages took 0.035
+[2025.04.02-19.54.02:027][820]LogViewport: Scene viewport resized to 1005x528, mode Windowed.
+[2025.04.02-19.54.02:434][820]LogViewport: Scene viewport resized to 1504x646, mode Windowed.
+[2025.04.02-19.54.03:542][879]LogViewport: Scene viewport resized to 1027x722, mode Windowed.
+[2025.04.02-19.54.04:237][930]LogViewport: Scene viewport resized to 830x492, mode Windowed.
+[2025.04.02-19.54.06:979][134]LogViewport: Scene viewport resized to 827x509, mode Windowed.
+[2025.04.02-19.54.07:032][136]LogViewport: Scene viewport resized to 511x283, mode Windowed.
+[2025.04.02-19.54.07:056][137]LogViewport: Scene viewport resized to 420x218, mode Windowed.
+[2025.04.02-19.54.07:230][149]LogViewport: Scene viewport resized to 422x227, mode Windowed.
+[2025.04.02-19.54.09:474][303]LogViewport: Scene viewport resized to 1027x722, mode Windowed.
+[2025.04.02-19.54.22:909][139]LogViewport: Scene viewport resized to 422x227, mode Windowed.
+[2025.04.02-19.54.35:840][341]LogViewport: Scene viewport resized to 1027x722, mode Windowed.
+[2025.04.02-19.54.38:746][559]LogViewport: Scene viewport resized to 422x227, mode Windowed.
+[2025.04.02-19.55.16:072][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.02-19.55.16:079][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-19.55.16:106][410]LogSavePackage: Moving output files for package: /Game/NPCs/Dialogue_Specific/DT_Dialogue
+[2025.04.02-19.55.16:108][410]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/DT_Dialogue7195CCED42C40B9CFB6890878F496216.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Dialogue_Specific/DT_Dialogue.uasset'
+[2025.04.02-19.55.16:139][410]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante
+[2025.04.02-19.55.16:141][410]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Zilia_12_to_Dante60F41AE94E8E4831455A8AA655F711A2.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante.uasset'
+[2025.04.02-19.55.16:169][410]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel
+[2025.04.02-19.55.16:170][410]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Zilia_5_to_Biel30A060DC40EE95460ECA2587988A07E8.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel.uasset'
+[2025.04.02-19.55.16:179][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 488 ms)
+[2025.04.02-19.55.16:182][410]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.02-19.55.16:182][410]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/NPCs/Dialogue_Specific/DT_Dialogue.DT_Dialogue
+[2025.04.02-19.55.16:183][410]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_12_to_Dante.Zilia_12_to_Dante
+[2025.04.02-19.55.16:183][410]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel.Zilia_5_to_Biel
+[2025.04.02-19.55.28:137][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.04.02-19.55.28:141][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-19.55.28:164][524]LogSavePackage: Moving output files for package: /Game/NPCs/Dialogue_Specific/DT_Dialogue
+[2025.04.02-19.55.28:165][524]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/DT_DialogueAE33DB4B40DA30CB9BD3BCAF12C615C5.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Dialogue_Specific/DT_Dialogue.uasset'
+[2025.04.02-19.55.28:174][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 522 ms)
+[2025.04.02-19.55.28:176][524]AssetCheck: New page: Asset Save: DT_Dialogue
+[2025.04.02-19.55.28:176][524]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/NPCs/Dialogue_Specific/DT_Dialogue.DT_Dialogue
+[2025.04.02-19.56.48:259][673]LogViewport: Scene viewport resized to 1027x722, mode Windowed.
+[2025.04.02-19.56.50:039][781]LogViewport: Scene viewport resized to 422x227, mode Windowed.
+[2025.04.02-19.56.53:589][ 51]LogViewport: Scene viewport resized to 1027x722, mode Windowed.
+[2025.04.02-19.56.55:530][181]LogViewport: Scene viewport resized to 422x227, mode Windowed.
+[2025.04.02-19.57.04:776][962]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_66_to_Zilia.Dante_66_to_Zilia
+[2025.04.02-19.57.04:821][962]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.57.04:821][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-19.57.04:834][962]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.57.04:834][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.57.30:866][332]LogViewport: Scene viewport resized to 1027x722, mode Windowed.
+[2025.04.02-19.57.52:890][918]LogViewport: Scene viewport resized to 422x227, mode Windowed.
+[2025.04.02-19.58.11:411][389]LogViewport: Scene viewport resized to 1027x722, mode Windowed.
+[2025.04.02-19.58.15:101][681]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-19.58.15:102][681]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2025.04.02-19.58.34:863][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.02-19.58.34:872][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-19.58.34:940][203]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_66_to_Zilia
+[2025.04.02-19.58.34:940][203]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Dante_66_to_Zilia2F4ACACA4FF2C6C187B8058AC52326D0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dialogue/Dante_66_to_Zilia.uasset'
+[2025.04.02-19.58.34:951][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 601 ms)
+[2025.04.02-19.58.34:954][203]AssetCheck: New page: Asset Save: Dante_66_to_Zilia
+[2025.04.02-19.58.34:954][203]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_66_to_Zilia.Dante_66_to_Zilia
+[2025.04.02-19.58.36:274][293]LogViewport: Scene viewport resized to 422x227, mode Windowed.
+[2025.04.02-19.58.41:219][842]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2025.04.02-19.58.41:219][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.58.41:219][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-19.59.19:575][872]BlueprintLog: New page: Compile BP_Player
+[2025.04.02-19.59.19:840][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.02-19.59.21:076][991]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-19.59.21:082][991]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.02-19.59.21:082][991]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.02-19.59.21:085][991]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 5 ms)
+[2025.04.02-19.59.21:085][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-19.59.21:085][991]PIE: New page: PIE session: ThirdPersonMap (2 Apr 2025, 21:59:21)
+[2025.04.02-19.59.21:110][991]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-19.59.21:134][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024081s)
+[2025.04.02-19.59.21:134][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.024152s)
+[2025.04.02-19.59.21:152][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.02-19.59.21:155][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.59.21:155][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-19.59.21:155][991]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.04.02-19.59.21:156][991]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.02-19.59.21:156][991]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.02-19.59.21:156][991]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.02-19.59.21:156][991]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.02-19.59.21:161][991]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.04.02-19.59.21:161][991]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 677 ms)
+[2025.04.02-19.59.21:161][991]LogPlayLevel: PIE: World Init took: (0.006618s)
+[2025.04.02-19.59.21:161][991]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.02-19.59.21:161][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-19.59.21:161][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-19.59.21:161][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-19.59.21:161][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-19.59.21:161][991]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-19.59.21:161][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-19.59.21:161][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-19.59.21:161][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-19.59.21:162][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-19.59.21:162][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-19.59.21:162][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-19.59.21:163][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-19.59.21:185][991]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.02-19.59.21:185][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-19.59.21:185][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-19.59.21:185][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-19.59.21:186][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.02-19.59.21:186][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2025.04.02-19.59.21:187][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.02-19.59.21:187][991]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.02-19.59.21:187][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.02-19.59.21:187][991]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.04.02-19.59.21:187][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.02-19.59.21:190][991]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.02-19.59.21:199][991]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.02-20.59.21
+[2025.04.02-19.59.21:200][991]LogWorld: Bringing up level for play took: 0.009750
+[2025.04.02-19.59.21:202][991]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.04.02-19.59.21:210][991]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.02-19.59.21:210][991]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.02-19.59.21:210][991]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.02-19.59.21:230][991]PIE: Server logged in
+[2025.04.02-19.59.21:230][991]PIE: Play in editor total start time 0.148 seconds.
+[2025.04.02-19.59.21:867][ 64]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Dante NPC-NPC
+[2025.04.02-19.59.26:069][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-19.59.26:069][563]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-19.59.26:070][563]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.59.26:078][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.59.26:078][563]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.04.02-19.59.26:081][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-19.59.26:085][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.59.26:099][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-19.59.26:100][563]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.02-19.59.26:100][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.02-19.59.26:102][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.02-19.59.26:112][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.02-19.59.26:144][564]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.04.02-19.59.26:572][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.04.02-19.59.26:575][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-19.59.26:603][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.04.02-19.59.26:707][612]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.04.02-19.59.26:707][612]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Player49ED2EA64A016387ABF2AEAD91A6A32A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.04.02-19.59.26:720][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 746 ms)
+[2025.04.02-19.59.26:724][612]AssetCheck: New page: Asset Save: BP_Player
+[2025.04.02-19.59.26:724][612]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.04.02-19.59.40:902][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-19.59.40:908][287]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.02-19.59.40:908][287]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.02-19.59.40:910][287]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 8 ms)
+[2025.04.02-19.59.40:911][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-19.59.40:911][287]PIE: New page: PIE session: ThirdPersonMap (2 Apr 2025, 21:59:40)
+[2025.04.02-19.59.40:911][287]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-19.59.40:934][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023565s)
+[2025.04.02-19.59.40:934][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.023602s)
+[2025.04.02-19.59.40:943][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.04.02-19.59.40:944][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.59.40:944][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-19.59.40:944][287]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.04.02-19.59.40:946][287]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.02-19.59.40:946][287]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.02-19.59.40:946][287]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.02-19.59.40:946][287]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.02-19.59.40:951][287]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.04.02-19.59.40:951][287]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 683 ms)
+[2025.04.02-19.59.40:951][287]LogPlayLevel: PIE: World Init took: (0.006605s)
+[2025.04.02-19.59.40:951][287]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.04.02-19.59.40:951][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-19.59.40:951][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-19.59.40:951][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-19.59.40:951][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-19.59.40:951][287]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-19.59.40:951][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-19.59.40:951][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-19.59.40:951][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-19.59.40:952][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-19.59.40:952][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-19.59.40:952][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-19.59.40:953][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-19.59.40:973][287]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.02-19.59.40:973][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-19.59.40:973][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-19.59.40:973][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-19.59.40:973][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.04.02-19.59.40:973][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2025.04.02-19.59.40:975][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.04.02-19.59.40:975][287]LogInit: FAudioDevice initialized with ID 4.
+[2025.04.02-19.59.40:975][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.04.02-19.59.40:975][287]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.04.02-19.59.40:975][287]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.02-19.59.40:977][287]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.02-19.59.40:986][287]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.02-20.59.40
+[2025.04.02-19.59.40:987][287]LogWorld: Bringing up level for play took: 0.009099
+[2025.04.02-19.59.40:988][287]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.04.02-19.59.40:995][287]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.02-19.59.40:996][287]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.02-19.59.40:996][287]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.02-19.59.41:016][287]PIE: Server logged in
+[2025.04.02-19.59.41:017][287]PIE: Play in editor total start time 0.109 seconds.
+[2025.04.02-19.59.41:468][338]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Dante NPC-NPC
+[2025.04.02-19.59.45:669][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-19.59.45:669][837]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-19.59.45:670][837]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-19.59.45:678][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.59.45:678][837]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.04.02-19.59.45:681][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-19.59.45:685][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-19.59.45:697][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-19.59.45:697][837]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.02-19.59.45:697][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.02-19.59.45:698][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.02-19.59.45:710][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.04.02-19.59.45:760][839]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.04.02-19.59.46:272][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.04.02-19.59.51:940][570]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPCs/BPI_NPC_Opponent.BPI_NPC_Opponent
+[2025.04.02-19.59.51:940][570]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.59.51:940][570]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-19.59.56:565][104]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPCs/BP_NPC.BP_NPC
+[2025.04.02-19.59.56:565][104]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-19.59.56:565][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-20.02.32:701][870]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-20.02.33:097][909]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/NPCs/Animations/Animation_Blueprints/ABP_NPC.ABP_NPC
+[2025.04.02-20.02.33:097][909]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-20.02.33:097][909]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-20.02.33:103][909]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-20.02.33:103][909]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-20.02.33:109][909]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.02-20.02.33:299][909]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-20.02.33:299][909]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-20.02.33:637][909]LogViewport: Scene viewport resized to 425x282, mode Windowed.
+[2025.04.02-20.02.33:700][909]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.04.02-20.02.37:643][183]LogViewport: Scene viewport resized to 526x431, mode Windowed.
+[2025.04.02-20.02.47:324][  4]LogViewport: Scene viewport resized to 425x282, mode Windowed.
+[2025.04.02-20.03.06:857][382]LogViewport: Scene viewport resized to 526x431, mode Windowed.
+[2025.04.02-20.03.11:241][659]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-20.03.11:248][659]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.02-20.03.11:249][659]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.02-20.03.11:252][659]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 10 ms)
+[2025.04.02-20.03.11:252][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-20.03.11:252][659]PIE: New page: PIE session: ThirdPersonMap (2 Apr 2025, 22:03:11)
+[2025.04.02-20.03.11:252][659]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-20.03.11:277][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024380s)
+[2025.04.02-20.03.11:277][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.024414s)
+[2025.04.02-20.03.11:290][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.04.02-20.03.11:293][659]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-20.03.11:294][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-20.03.11:294][659]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.04.02-20.03.11:295][659]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.02-20.03.11:295][659]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.02-20.03.11:295][659]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.02-20.03.11:295][659]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.02-20.03.11:300][659]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.04.02-20.03.11:300][659]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 688 ms)
+[2025.04.02-20.03.11:300][659]LogPlayLevel: PIE: World Init took: (0.006664s)
+[2025.04.02-20.03.11:300][659]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.04.02-20.03.11:301][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-20.03.11:301][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-20.03.11:301][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-20.03.11:301][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-20.03.11:301][659]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-20.03.11:301][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-20.03.11:301][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-20.03.11:301][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-20.03.11:301][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-20.03.11:301][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-20.03.11:301][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-20.03.11:302][659]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-20.03.11:323][659]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.02-20.03.11:323][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-20.03.11:323][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-20.03.11:323][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-20.03.11:324][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.04.02-20.03.11:324][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2025.04.02-20.03.11:326][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.04.02-20.03.11:326][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.04.02-20.03.11:326][659]LogInit: FAudioDevice initialized with ID 5.
+[2025.04.02-20.03.11:326][659]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2025.04.02-20.03.11:326][659]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.04.02-20.03.11:329][659]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.02-20.03.11:337][659]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.02-21.03.11
+[2025.04.02-20.03.11:338][659]LogWorld: Bringing up level for play took: 0.009399
+[2025.04.02-20.03.11:340][659]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.04.02-20.03.11:347][659]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.02-20.03.11:347][659]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.02-20.03.11:347][659]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.02-20.03.11:366][659]PIE: Server logged in
+[2025.04.02-20.03.11:367][659]PIE: Play in editor total start time 0.118 seconds.
+[2025.04.02-20.03.12:296][718]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Dante NPC-NPC
+[2025.04.02-20.03.13:694][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-20.03.13:694][808]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-20.03.13:695][808]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-20.03.13:703][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-20.03.13:703][808]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.04.02-20.03.13:714][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-20.03.13:719][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-20.03.13:734][808]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-20.03.13:734][808]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.04.02-20.03.13:734][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.02-20.03.13:737][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.02-20.03.13:739][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-20.03.13:746][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.02-20.03.13:828][809]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.04.02-20.03.24:595][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.02-20.03.24:601][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-20.03.24:843][469]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Animation_Blueprints/ABP_NPC
+[2025.04.02-20.03.24:844][469]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/ABP_NPCD366F321457EFCC07F0C50B057C07462.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Animation_Blueprints/ABP_NPC.uasset'
+[2025.04.02-20.03.24:856][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 1.00 sec)
+[2025.04.02-20.03.24:860][469]AssetCheck: New page: Asset Save: ABP_NPC
+[2025.04.02-20.03.24:860][469]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/NPCs/Animations/Animation_Blueprints/ABP_NPC.ABP_NPC
+[2025.04.02-20.03.25:076][483]BlueprintLog: New page: Compile ABP_NPC
+[2025.04.02-20.03.25:199][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.02-20.05.07:192][882]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-20.05.07:199][882]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.02-20.05.07:199][882]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.02-20.05.07:202][882]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 13 ms)
+[2025.04.02-20.05.07:202][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-20.05.07:202][882]PIE: New page: PIE session: ThirdPersonMap (2 Apr 2025, 22:05:07)
+[2025.04.02-20.05.07:233][882]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-20.05.07:256][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024191s)
+[2025.04.02-20.05.07:256][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.024233s)
+[2025.04.02-20.05.07:270][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.02-20.05.07:274][882]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-20.05.07:274][882]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-20.05.07:274][882]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.04.02-20.05.07:274][882]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.02-20.05.07:274][882]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.02-20.05.07:274][882]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.02-20.05.07:274][882]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.02-20.05.07:280][882]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.04.02-20.05.07:280][882]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 694 ms)
+[2025.04.02-20.05.07:280][882]LogPlayLevel: PIE: World Init took: (0.006752s)
+[2025.04.02-20.05.07:280][882]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.04.02-20.05.07:280][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-20.05.07:280][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-20.05.07:280][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-20.05.07:280][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-20.05.07:280][882]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-20.05.07:280][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-20.05.07:281][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-20.05.07:281][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-20.05.07:281][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-20.05.07:281][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-20.05.07:281][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-20.05.07:282][882]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-20.05.07:304][882]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.02-20.05.07:304][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-20.05.07:304][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-20.05.07:304][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-20.05.07:304][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.04.02-20.05.07:304][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2025.04.02-20.05.07:306][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.04.02-20.05.07:307][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.04.02-20.05.07:307][882]LogInit: FAudioDevice initialized with ID 6.
+[2025.04.02-20.05.07:307][882]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2025.04.02-20.05.07:307][882]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.04.02-20.05.07:309][882]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.02-20.05.07:319][882]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.02-21.05.07
+[2025.04.02-20.05.07:319][882]LogWorld: Bringing up level for play took: 0.009862
+[2025.04.02-20.05.07:321][882]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.04.02-20.05.07:328][882]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.02-20.05.07:328][882]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.02-20.05.07:328][882]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.02-20.05.07:347][882]PIE: Server logged in
+[2025.04.02-20.05.07:347][882]PIE: Play in editor total start time 0.149 seconds.
+[2025.04.02-20.05.07:828][920]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Dante NPC-NPC
+[2025.04.02-20.05.07:829][920]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-20.05.14:307][472]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Zilia NPC-NPC
+[2025.04.02-20.05.14:320][473]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-20.05.23:305][244]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Dante NPC-NPC
+[2025.04.02-20.05.23:316][245]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-20.05.29:495][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-20.05.29:496][776]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-20.05.29:497][776]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-20.05.29:504][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-20.05.29:504][776]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.04.02-20.05.29:516][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-20.05.29:520][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-20.05.29:533][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-20.05.29:533][776]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.04.02-20.05.29:533][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.04.02-20.05.29:535][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.04.02-20.05.29:543][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.02-20.05.29:623][777]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.04.02-20.05.30:023][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.02-20.07.08:536][168]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.031 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13618 files in 16329 folders with total size 2114 MiB.
+[2025.04.02-20.08.11:946][358]LogViewport: Scene viewport resized to 1005x528, mode Windowed.
+[2025.04.02-20.08.12:258][358]LogViewport: Scene viewport resized to 1504x646, mode Windowed.
+[2025.04.02-20.08.13:071][416]LogViewport: Scene viewport resized to 425x282, mode Windowed.
+[2025.04.02-20.12.06:044][ 58]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-20.12.06:051][ 58]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.02-20.12.06:051][ 58]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.02-20.12.06:052][ 58]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 16 ms)
+[2025.04.02-20.12.06:053][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-20.12.06:053][ 58]PIE: New page: PIE session: ThirdPersonMap (2 Apr 2025, 22:12:06)
+[2025.04.02-20.12.06:080][ 58]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-20.12.06:104][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024024s)
+[2025.04.02-20.12.06:104][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.024075s)
+[2025.04.02-20.12.06:115][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.02-20.12.06:117][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-20.12.06:117][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-20.12.06:118][ 58]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.04.02-20.12.06:118][ 58]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.02-20.12.06:118][ 58]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.02-20.12.06:118][ 58]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.02-20.12.06:118][ 58]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.02-20.12.06:124][ 58]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.04.02-20.12.06:124][ 58]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 699 ms)
+[2025.04.02-20.12.06:124][ 58]LogPlayLevel: PIE: World Init took: (0.007008s)
+[2025.04.02-20.12.06:124][ 58]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.04.02-20.12.06:124][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-20.12.06:124][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-20.12.06:124][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-20.12.06:124][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-20.12.06:124][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-20.12.06:124][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-20.12.06:124][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-20.12.06:124][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-20.12.06:124][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-20.12.06:124][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-20.12.06:124][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-20.12.06:126][ 58]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-20.12.06:151][ 58]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.02-20.12.06:151][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-20.12.06:152][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-20.12.06:152][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-20.12.06:152][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.04.02-20.12.06:152][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2025.04.02-20.12.06:154][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.04.02-20.12.06:154][ 58]LogInit: FAudioDevice initialized with ID 7.
+[2025.04.02-20.12.06:154][ 58]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2025.04.02-20.12.06:154][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.04.02-20.12.06:154][ 58]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.04.02-20.12.06:157][ 58]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.02-20.12.06:166][ 58]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.02-21.12.06
+[2025.04.02-20.12.06:166][ 58]LogWorld: Bringing up level for play took: 0.009942
+[2025.04.02-20.12.06:169][ 58]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.04.02-20.12.06:175][ 58]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.02-20.12.06:176][ 58]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.02-20.12.06:176][ 58]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.02-20.12.06:196][ 58]PIE: Server logged in
+[2025.04.02-20.12.06:196][ 58]PIE: Play in editor total start time 0.145 seconds.
+[2025.04.02-20.12.07:783][246]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Dante NPC-NPC
+[2025.04.02-20.12.07:784][246]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-20.12.08:501][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-20.12.08:501][327]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-20.12.08:502][327]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-20.12.08:510][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-20.12.08:510][327]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.04.02-20.12.08:521][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-20.12.08:525][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-20.12.08:537][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-20.12.08:538][327]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.04.02-20.12.08:538][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.04.02-20.12.08:540][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.04.02-20.12.08:542][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-20.12.08:547][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.04.02-20.12.08:578][328]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.04.02-20.12.08:988][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.02-20.17.39:147][858]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel.Zilia_5_to_Biel
+[2025.04.02-20.17.39:186][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-20.17.39:186][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-20.17.39:225][858]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-20.17.39:225][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-20.17.41:762][ 81]LogViewport: Scene viewport resized to 1027x722, mode Windowed.
+[2025.04.02-20.18.54:612][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.02-20.18.54:618][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-20.18.54:721][756]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel
+[2025.04.02-20.18.54:723][756]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Zilia_5_to_BielE69A064F4941C7D54AD7E3B4C3E949F9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel.uasset'
+[2025.04.02-20.18.54:736][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 1.11 sec)
+[2025.04.02-20.18.54:736][756]AssetCheck: New page: Asset Save: Zilia_5_to_Biel
+[2025.04.02-20.18.54:736][756]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/NPCs/Animations/Assets/Zilia/Dialogue/Zilia_5_to_Biel.Zilia_5_to_Biel
+[2025.04.02-20.18.55:000][774]LogViewport: Scene viewport resized to 422x227, mode Windowed.
+[2025.04.02-20.19.06:606][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.02-20.19.06:612][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-20.19.06:642][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset" SILENT=true
+[2025.04.02-20.19.06:741][856]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2025.04.02-20.19.06:742][856]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_PlayerD064260D41FD67C2B8C2F2961A8B13EA.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset'
+[2025.04.02-20.19.06:751][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 1.25 sec)
+[2025.04.02-20.19.06:755][856]AssetCheck: New page: Asset Save: BP_Player
+[2025.04.02-20.19.06:755][856]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2025.04.02-20.19.13:617][ 16]BlueprintLog: New page: Compile BP_Player
+[2025.04.02-20.19.13:878][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.02-20.19.15:180][131]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-20.19.15:188][131]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.02-20.19.15:188][131]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.02-20.19.15:190][131]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 18 ms)
+[2025.04.02-20.19.15:190][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-20.19.15:190][131]PIE: New page: PIE session: ThirdPersonMap (2 Apr 2025, 22:19:15)
+[2025.04.02-20.19.15:190][131]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-20.19.15:215][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024092s)
+[2025.04.02-20.19.15:215][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.024126s)
+[2025.04.02-20.19.15:238][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.04.02-20.19.15:242][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.02-20.19.15:243][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.02-20.19.15:243][131]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.04.02-20.19.15:243][131]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.02-20.19.15:244][131]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.02-20.19.15:244][131]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.02-20.19.15:244][131]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.02-20.19.15:249][131]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.04.02-20.19.15:249][131]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 705 ms)
+[2025.04.02-20.19.15:249][131]LogPlayLevel: PIE: World Init took: (0.006418s)
+[2025.04.02-20.19.15:249][131]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.04.02-20.19.15:249][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-20.19.15:249][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-20.19.15:249][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-20.19.15:249][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-20.19.15:249][131]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-20.19.15:249][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-20.19.15:249][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-20.19.15:249][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-20.19.15:249][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-20.19.15:249][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-20.19.15:249][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-20.19.15:252][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-20.19.15:275][131]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.02-20.19.15:275][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-20.19.15:275][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-20.19.15:275][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-20.19.15:275][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.04.02-20.19.15:275][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2025.04.02-20.19.15:277][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.04.02-20.19.15:277][131]LogInit: FAudioDevice initialized with ID 8.
+[2025.04.02-20.19.15:277][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.04.02-20.19.15:277][131]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2025.04.02-20.19.15:277][131]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.04.02-20.19.15:280][131]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.02-20.19.15:288][131]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.02-21.19.15
+[2025.04.02-20.19.15:289][131]LogWorld: Bringing up level for play took: 0.009414
+[2025.04.02-20.19.15:291][131]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.04.02-20.19.15:298][131]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.02-20.19.15:298][131]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.02-20.19.15:298][131]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.02-20.19.15:318][131]PIE: Server logged in
+[2025.04.02-20.19.15:318][131]PIE: Play in editor total start time 0.13 seconds.
+[2025.04.02-20.19.15:649][168]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Biel NPC-NPC
+[2025.04.02-20.19.15:650][168]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.02-20.19.18:119][463]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Zilia NPC-NPC
+[2025.04.02-20.19.21:285][843]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.02-20.19.21:286][843]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.02-20.19.23:600][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-20.19.23:600][117]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.02-20.19.23:601][117]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-20.19.23:608][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-20.19.23:609][117]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.04.02-20.19.23:616][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-20.19.23:619][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-20.19.23:633][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-20.19.23:634][117]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.04.02-20.19.23:634][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.04.02-20.19.23:635][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.04.02-20.19.23:646][117]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.02-20.19.23:646][117]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.02-20.19.23:646][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.02-20.19.23:678][118]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.04.02-20.19.24:232][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
