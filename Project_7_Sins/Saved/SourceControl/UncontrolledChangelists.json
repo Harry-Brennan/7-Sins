@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
 				"C:/Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/NPCs/Models/Zilia/MI_Zilia_dress_test.uasset",
 				"C:/Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/NPCs/Models/Dante_V3/Materials/MI_Zilia_dress_test.uasset",
 				"C:/Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/NPCs/Models/Zilia/MI_Zilia_misc.uasset",
@@ -71,19 +70,6 @@
 				"C:/Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/lambert2.uasset",
 				"C:/Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/Shirt_Neck_Mouth_Eyes.uasset",
 				"C:/Users/ASUS/Documents/GitHub/7-Sins/Project_7_Sins/Content/NPCs/Models/Zilia/Materials/MI_Zilia_dress_test.uasset",
-=======
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/3/MJ/AL9A66Z4GGFJUWOBY9N784.uasset",
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_Pool_Game_Manager.uasset",
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_Pool_Pocket.uasset",
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset",
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_CueBall.uasset",
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset",
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/1/B9/4I36KSHP3BQ2NP3V75LBRI.uasset",
-				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Rules/WBP_Rules_Text_Holder.uasset",
-				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Rules/WBP_Auction_Rules.uasset",
-				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Rules/WBP_Darts_Rules.uasset",
-				"D:/GitHub/7-Sins/Project_7_Sins/Content/UI/Non_Diegetic/Rules/WBP_I_Doubt_It_Rules.uasset",
->>>>>>> Stashed changes
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Animation_Blueprints/ABP_NPC.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Misc/Drink_Menu/WBP_Drink_Names.uasset",
