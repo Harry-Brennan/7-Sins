@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset"
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/NPCs/BP_NPC.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_Pool_Game_Manager.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_Pool_Pocket.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/3/MJ/AL9A66Z4GGFJUWOBY9N784.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset"
 			]
 		}
 	]
