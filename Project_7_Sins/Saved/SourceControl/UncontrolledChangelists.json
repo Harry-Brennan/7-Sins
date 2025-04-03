@@ -5,10 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/NPCs/Models/Zilia/zilia.uasset",
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/9/EU/99RXYGXKAZKVQP12D7D09Q.uasset",
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/5/R7/CA1S3WAJEOOATMNKJP4N6Y.uasset",
-				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/8/RB/HJJ4L99B6JU9DHDS9UN7KI.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Schrodingers_Cat/BP_Cat.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/6/UX/TPBV12U2T6NMO5R89BT3KG.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Models/Zilia/zilia.uasset",
@@ -31,11 +27,9 @@
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dialogue/Dante_91.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dialogue/Dante_99.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/6/BN/TEZQYL2530J0O8KRWVXREX.uasset",
-				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/7/O6/U73AT5G54TLINVD4YSK7X2.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/4/KW/XDRVNHVQDVTYZB9P15XCOB.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/5/YI/8JI7ZKHRCPOWOBZY7BWAS0.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset",
-				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/6/BV/DG7G6DL4ZPD5PJ6XNKRS62.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/9/R6/XNXAAE8PRLURVC3G1LEYYW.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/E/9Z/2FPD2O9I2AVNYRSGSSDH3L.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/0/0B/D7YYCO5N0RH6CFW2RWIT9S.uasset",
@@ -47,7 +41,16 @@
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/2/U3/LI29G1R9MUQBRGU2AQOQYW.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/5/QB/ZYFCRSJUYXRSZZFE2JEZFU.uasset",
 				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/6/WM/VAEC9P0X2AJ0IVQ1U02WNU.uasset",
-				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/6/MT/OUNUYEZW0VPO4L6GS1VBR6.uasset"
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/6/MT/OUNUYEZW0VPO4L6GS1VBR6.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Zilia/Idle/zilia_basePose.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Zilia/Other/zilia_pose_legCross.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/NPCs/Animations/Animation_Blueprints/ABP_NPC.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/NPCs/Models/Zilia/zilia.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/9/EU/99RXYGXKAZKVQP12D7D09Q.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/5/R7/CA1S3WAJEOOATMNKJP4N6Y.uasset",
+				"E:/UE5/GitHub/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/8/RB/HJJ4L99B6JU9DHDS9UN7KI.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/7/O6/U73AT5G54TLINVD4YSK7X2.uasset",
+				"C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/6/BV/DG7G6DL4ZPD5PJ6XNKRS62.uasset"
 			]
 		}
 	]
