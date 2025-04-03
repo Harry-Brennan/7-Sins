@@ -3259,3 +3259,352 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.03-12.02.45:778][882]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
 [2025.04.03-12.02.45:778][882]LogShaderCompilers: Display: ================================================
 [2025.04.03-12.02.45:851][882]LogAutomationController: Ignoring very large delta of 4.29 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.03-12.07.06:903][ 50]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.03-12.07.06:911][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.03-12.07.06:911][ 50]PIE: New page: PIE session: Main_Level (3 Apr 2025, 14:07:06)
+[2025.04.03-12.07.06:911][ 50]LogPlayLevel: Creating play world package: /Game/Maps/Main_Level/UEDPIE_0_Main_Level
+[2025.04.03-12.07.07:313][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.401969s)
+[2025.04.03-12.07.07:313][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Level/Main_Level.Main_Level to /Game/Maps/Main_Level/UEDPIE_0_Main_Level.Main_Level (0.402018s)
+[2025.04.03-12.07.07:325][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.03-12.07.07:329][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.03-12.07.07:329][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.03-12.07.07:330][ 50]LogAIModule: Creating AISystem for world Main_Level
+[2025.04.03-12.07.07:331][ 50]LogPlayLevel: PIE: World Init took: (0.002575s)
+[2025.04.03-12.07.07:331][ 50]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.04.03-12.07.07:332][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.03-12.07.07:332][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.03-12.07.07:332][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.03-12.07.07:332][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.03-12.07.07:332][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.03-12.07.07:332][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.03-12.07.07:332][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.03-12.07.07:332][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.03-12.07.07:332][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.03-12.07.07:332][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.03-12.07.07:332][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.03-12.07.07:335][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.03-12.07.07:355][ 50]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.03-12.07.07:355][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.03-12.07.07:355][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.03-12.07.07:355][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.03-12.07.07:356][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.04.03-12.07.07:356][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2025.04.03-12.07.07:358][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.04.03-12.07.07:358][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.04.03-12.07.07:358][ 50]LogInit: FAudioDevice initialized with ID 16.
+[2025.04.03-12.07.07:358][ 50]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main_Level'.
+[2025.04.03-12.07.07:358][ 50]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.04.03-12.07.07:361][ 50]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.03-12.07.07:422][ 50]LogWorld: Bringing World /Game/Maps/Main_Level/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2025.04.03-13.07.07
+[2025.04.03-12.07.07:425][ 50]LogWorld: Bringing up level for play took: 0.062846
+[2025.04.03-12.07.07:427][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.04.03-12.07.07:448][ 50]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.03-12.07.07:448][ 50]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.03-12.07.07:448][ 50]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.03-12.07.07:453][ 50]PIE: Server logged in
+[2025.04.03-12.07.07:454][ 50]PIE: Play in editor total start time 0.543 seconds.
+[2025.04.03-12.07.09:423][272]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.03-12.07.09:423][272]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.03-12.07.10:140][358]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] ACTIVATE CAT TRACE
+[2025.04.03-12.07.10:481][399]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.03-12.07.10:481][399]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.03-12.07.10:481][399]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.03-12.07.10:691][424]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] MOVE CAT
+[2025.04.03-12.07.10:691][424]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] Current Target Point : 
+[2025.04.03-12.07.10:691][424]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] New Current Target Point : Cat1
+[2025.04.03-12.07.12:691][664]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] ACTIVATE CAT TRACE
+[2025.04.03-12.07.41:779][152]Cmd: ToggleDebugCamera
+[2025.04.03-12.07.48:947][ 10]Cmd: ToggleDebugCamera
+[2025.04.03-12.07.53:580][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-12.07.53:581][558]LogWorld: BeginTearingDown for /Game/Maps/Main_Level/UEDPIE_0_Main_Level
+[2025.04.03-12.07.53:583][558]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-12.07.53:599][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-12.07.53:604][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.03-12.07.53:612][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-12.07.53:624][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-12.07.53:630][558]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.04.03-12.07.53:630][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.04.03-12.07.53:633][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.04.03-12.07.53:656][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.03-12.07.53:712][559]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.04.03-12.08.10:892][416]Cmd: TRANSACTION UNDO
+[2025.04.03-12.08.10:892][416]LogEditorTransaction: Undo Rotate Elements
+[2025.04.03-12.08.11:217][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.03-12.08.11:234][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.03-12.08.11:237][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.03-12.09.13:709][690]LogShaderCompilers: Display: ================================================
+[2025.04.03-12.09.13:709][690]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.03-12.09.13:709][690]LogShaderCompilers: Display: Total job queries 92, among them cache hits 20 (21.74%)
+[2025.04.03-12.09.13:709][690]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 59 distinct outputs (81.94%)
+[2025.04.03-12.09.13:709][690]LogShaderCompilers: Display: RAM used: 1.52 MiB of 1.60 GiB budget. Usage: 0.09%
+[2025.04.03-12.09.13:709][690]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.03-12.09.13:709][690]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.04.03-12.09.13:709][690]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.04.03-12.09.13:709][690]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.04.03-12.09.13:709][690]LogShaderCompilers: Display: ================================================
+[2025.04.03-12.09.52:330][ 52]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.04.03-12.10.19:866][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.03-12.10.19:881][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-12.10.19:948][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/9/R6/XNXAAE8PRLURVC3G1LEYYW
+[2025.04.03-12.10.19:950][973]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/XNXAAE8PRLURVC3G1LEYYW03FDBF2E49517D6174608EAC9B137014.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/9/R6/XNXAAE8PRLURVC3G1LEYYW.uasset'
+[2025.04.03-12.10.19:954][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/E/9Z/2FPD2O9I2AVNYRSGSSDH3L
+[2025.04.03-12.10.19:955][973]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/2FPD2O9I2AVNYRSGSSDH3L69C7672642DBEB7D1891EAA475A398E9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/E/9Z/2FPD2O9I2AVNYRSGSSDH3L.uasset'
+[2025.04.03-12.10.19:967][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.88 sec)
+[2025.04.03-12.10.19:974][973]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.03-12.10.19:974][973]LogContentValidation: Display: Validating /Game/Mini_Games/Darts/Dart_Board/BP_Dart_Board.BP_Dart_Board_C /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.BP_Dart_Board_C_UAID_107C61B295B0765602_1293725631
+[2025.04.03-12.10.19:974][973]LogContentValidation: Display: Validating /Game/Misc_Mechanics/Opening_Door/BP_Bar_Door.BP_Bar_Door_C /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.BP_Bar_Door_C_UAID_107C61B295B0735602_1240291199
+[2025.04.03-12.10.35:578][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.04.03-12.10.35:590][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-12.10.35:616][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/0/0B/D7YYCO5N0RH6CFW2RWIT9S
+[2025.04.03-12.10.35:618][722]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/D7YYCO5N0RH6CFW2RWIT9S25BEDBD543CA49CFEC5C39BCB94816DC.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/0/0B/D7YYCO5N0RH6CFW2RWIT9S.uasset'
+[2025.04.03-12.10.35:621][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/8/I7/5RN4B9D1A8IZUJM085763Y
+[2025.04.03-12.10.35:623][722]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/5RN4B9D1A8IZUJM085763YA4EA01CD4479DC14ECC637BCF168C3AF.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/8/I7/5RN4B9D1A8IZUJM085763Y.uasset'
+[2025.04.03-12.10.35:626][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/C/37/6GCERLUVNFEBPK5AGY6CTW
+[2025.04.03-12.10.35:627][722]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/6GCERLUVNFEBPK5AGY6CTW4544E68C46E75A8224E1FC8C2A7756E5.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/C/37/6GCERLUVNFEBPK5AGY6CTW.uasset'
+[2025.04.03-12.10.35:638][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 2.92 sec)
+[2025.04.03-12.10.35:644][722]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.03-12.10.35:644][722]LogContentValidation: Display: Validating /Game/Misc_Mechanics/Leading_Cat/BP_Leading_Cat.BP_Leading_Cat_C /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.BP_Leading_Cat_C_UAID_107C61B295B0F05702_1995307256
+[2025.04.03-12.10.35:644][722]LogContentValidation: Display: Validating /Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Collision.BP_Outside_Loop_Collision_C /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.BP_Outside_Loop_Collision_C_UAID_107C61B295B0785602_1617182785
+[2025.04.03-12.10.35:644][722]LogContentValidation: Display: Validating /Game/Misc_Mechanics/Outside_Loop/BP_Outside_Loop_Position.BP_Outside_Loop_Position_C /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.BP_Outside_Loop_Position_C_UAID_107C61B295B0785602_1655205786
+[2025.04.03-12.10.41:574][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.04.03-12.10.41:579][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-12.10.41:607][382]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/8/0L/IAM9JQZ01UTH2E2JPCTI4V
+[2025.04.03-12.10.41:609][382]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/IAM9JQZ01UTH2E2JPCTI4V15BCD0264063D4FB5FD1989D7FDD8FE9.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/8/0L/IAM9JQZ01UTH2E2JPCTI4V.uasset'
+[2025.04.03-12.10.41:619][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 2.96 sec)
+[2025.04.03-12.10.41:625][382]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_C87F54CA0DD2C84B02_1387503895
+[2025.04.03-12.10.41:625][382]LogContentValidation: Display: Validating /Game/Misc_Mechanics/Drink_Board/BP_Drink_Board.BP_Drink_Board_C /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.StaticMeshActor_UAID_C87F54CA0DD2C84B02_1387503895
+[2025.04.03-12.11.22:636][426]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.03-12.11.38:489][319]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.03-12.11.38:495][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.03-12.11.38:495][319]PIE: New page: PIE session: Main_Level (3 Apr 2025, 14:11:38)
+[2025.04.03-12.11.38:531][319]LogPlayLevel: Creating play world package: /Game/Maps/Main_Level/UEDPIE_0_Main_Level
+[2025.04.03-12.11.38:900][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.369033s)
+[2025.04.03-12.11.38:900][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Level/Main_Level.Main_Level to /Game/Maps/Main_Level/UEDPIE_0_Main_Level.Main_Level (0.369087s)
+[2025.04.03-12.11.38:908][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.03-12.11.38:916][319]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.03-12.11.38:916][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.03-12.11.38:916][319]LogAIModule: Creating AISystem for world Main_Level
+[2025.04.03-12.11.38:918][319]LogPlayLevel: PIE: World Init took: (0.002747s)
+[2025.04.03-12.11.38:918][319]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.04.03-12.11.38:918][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.03-12.11.38:918][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.03-12.11.38:918][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.03-12.11.38:918][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.03-12.11.38:918][319]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.03-12.11.38:918][319]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.03-12.11.38:918][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.03-12.11.38:918][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.03-12.11.38:918][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.03-12.11.38:919][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.03-12.11.38:919][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.03-12.11.38:921][319]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.03-12.11.38:940][319]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.03-12.11.38:940][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.03-12.11.38:941][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.03-12.11.38:941][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.03-12.11.38:942][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.04.03-12.11.38:942][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2025.04.03-12.11.38:943][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.04.03-12.11.38:943][319]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.04.03-12.11.38:943][319]LogInit: FAudioDevice initialized with ID 17.
+[2025.04.03-12.11.38:943][319]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main_Level'.
+[2025.04.03-12.11.38:943][319]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.04.03-12.11.38:946][319]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.03-12.11.39:003][319]LogWorld: Bringing World /Game/Maps/Main_Level/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2025.04.03-13.11.39
+[2025.04.03-12.11.39:006][319]LogWorld: Bringing up level for play took: 0.059050
+[2025.04.03-12.11.39:008][319]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.04.03-12.11.39:028][319]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.03-12.11.39:029][319]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.03-12.11.39:029][319]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.03-12.11.39:034][319]PIE: Server logged in
+[2025.04.03-12.11.39:034][319]PIE: Play in editor total start time 0.539 seconds.
+[2025.04.03-12.11.41:335][584]LogChaos: Warning: Degenerate triangle 92047: (171.921814 -108.180893 79.460732) (171.895294 -108.180893 79.460732) (171.921814 -108.171097 79.416161)
+[2025.04.03-12.11.41:336][584]LogChaos: Warning: Degenerate triangle 92047: (171.921814 -108.180893 79.460732) (171.895294 -108.180893 79.460732) (171.921814 -108.171097 79.416161)
+[2025.04.03-12.11.41:336][584]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:336][584]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:343][585]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:344][585]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:344][585]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:344][585]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:352][586]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:352][586]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:352][586]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:352][586]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:361][587]LogChaos: Warning: Degenerate triangle 92047: (171.921814 -108.180893 79.460732) (171.895294 -108.180893 79.460732) (171.921814 -108.171097 79.416161)
+[2025.04.03-12.11.41:361][587]LogChaos: Warning: Degenerate triangle 92047: (171.921814 -108.180893 79.460732) (171.895294 -108.180893 79.460732) (171.921814 -108.171097 79.416161)
+[2025.04.03-12.11.41:361][587]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:361][587]LogChaos: Warning: Degenerate triangle 92039: (171.921814 -108.180893 79.460732) (171.921814 -108.180893 79.522293) (171.895294 -108.180893 79.460732)
+[2025.04.03-12.11.41:578][611]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.03-12.11.41:579][611]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.03-12.11.42:326][698]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.03-12.11.42:326][698]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.03-12.11.42:326][698]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.03-12.11.42:835][759]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] ACTIVATE CAT TRACE
+[2025.04.03-12.11.44:186][921]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] DEACTIVATE CAT TRACE
+[2025.04.03-12.11.44:186][921]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] MOVE CAT
+[2025.04.03-12.11.44:186][921]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] Current Target Point : 
+[2025.04.03-12.11.44:186][921]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] New Current Target Point : Cat3
+[2025.04.03-12.11.46:188][160]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] ACTIVATE CAT TRACE
+[2025.04.03-12.11.48:888][484]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] DEACTIVATE CAT TRACE
+[2025.04.03-12.11.48:888][484]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] MOVE CAT
+[2025.04.03-12.11.48:888][484]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] Current Target Point : Cat3
+[2025.04.03-12.11.48:888][484]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] New Current Target Point : Cat2
+[2025.04.03-12.11.50:888][724]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] ACTIVATE CAT TRACE
+[2025.04.03-12.11.51:246][767]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.03-12.11.51:247][767]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.03-12.11.52:056][864]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.03-12.11.52:056][864]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.03-12.11.52:056][864]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.03-12.11.54:921][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-12.11.54:921][204]LogWorld: BeginTearingDown for /Game/Maps/Main_Level/UEDPIE_0_Main_Level
+[2025.04.03-12.11.54:923][204]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-12.11.54:938][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-12.11.54:942][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.03-12.11.54:947][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-12.11.54:956][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-12.11.54:965][204]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.04.03-12.11.54:966][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.04.03-12.11.54:967][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.04.03-12.11.54:992][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.04.03-12.11.55:058][205]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.04.03-12.12.01:495][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.03-12.12.01:502][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-12.12.01:528][851]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/E/6I/N1UJ9OU7HLXGB6F46CXAQW
+[2025.04.03-12.12.01:529][851]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/N1UJ9OU7HLXGB6F46CXAQWC27E5EE24DEF65E54C412C8796A2EA67.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/E/6I/N1UJ9OU7HLXGB6F46CXAQW.uasset'
+[2025.04.03-12.12.01:539][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 3.00 sec)
+[2025.04.03-12.12.01:545][851]AssetCheck: New page: Asset Save: TargetPoint_UAID_107C61B295B01A5602_1994361076
+[2025.04.03-12.12.01:545][851]LogContentValidation: Display: Validating /Script/Engine.TargetPoint /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.TargetPoint_UAID_107C61B295B01A5602_1994361076
+[2025.04.03-12.12.28:825][  8]Cmd: EDIT COPY
+[2025.04.03-12.12.29:047][ 19]Cmd: EDIT PASTE
+[2025.04.03-12.12.31:532][267]Cmd: TRANSACTION UNDO
+[2025.04.03-12.12.31:532][267]LogEditorTransaction: Undo Move Elements
+[2025.04.03-12.12.31:875][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.03-12.12.31:893][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.03-12.12.31:895][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.03-12.12.36:769][799]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.03-12.12.46:514][846]Cmd: EDIT COPY
+[2025.04.03-12.12.46:701][867]Cmd: EDIT PASTE
+[2025.04.03-12.13.00:937][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.03-12.13.00:943][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-12.13.00:969][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/8/4A/K4BVS9DI9H9M390BD3X3GX
+[2025.04.03-12.13.00:971][284]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/K4BVS9DI9H9M390BD3X3GX60A5CEC64C4EA316EBC43886AE8E3BFE.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/8/4A/K4BVS9DI9H9M390BD3X3GX.uasset'
+[2025.04.03-12.13.00:975][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/2/U3/LI29G1R9MUQBRGU2AQOQYW
+[2025.04.03-12.13.00:975][284]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/LI29G1R9MUQBRGU2AQOQYWE220D36A44C4FCD0816A1A81148A2D44.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/2/U3/LI29G1R9MUQBRGU2AQOQYW.uasset'
+[2025.04.03-12.13.00:978][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/5/QB/ZYFCRSJUYXRSZZFE2JEZFU
+[2025.04.03-12.13.00:978][284]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/ZYFCRSJUYXRSZZFE2JEZFU79ADEAE4489CEA80AFF33EB151ABD560.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/5/QB/ZYFCRSJUYXRSZZFE2JEZFU.uasset'
+[2025.04.03-12.13.00:986][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 3.04 sec)
+[2025.04.03-12.13.00:992][284]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.03-12.13.00:992][284]LogContentValidation: Display: Validating /Script/Engine.TargetPoint /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.TargetPoint_UAID_107C61B295B01A5602_1994368081
+[2025.04.03-12.13.00:992][284]LogContentValidation: Display: Validating /Script/Engine.TargetPoint /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.TargetPoint_UAID_107C61B295B05B5B02_1134398014
+[2025.04.03-12.13.00:992][284]LogContentValidation: Display: Validating /Script/Engine.TargetPoint /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.TargetPoint_UAID_107C61B295B05B5B02_1152052015
+[2025.04.03-12.13.07:883][ 78]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.03-12.13.07:883][ 78]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.03-12.13.09:418][249]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.03-12.13.09:418][249]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.03-12.13.10:764][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.04.03-12.13.10:772][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-12.13.10:827][395]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/6/WM/VAEC9P0X2AJ0IVQ1U02WNU
+[2025.04.03-12.13.10:829][395]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/VAEC9P0X2AJ0IVQ1U02WNU1E647B394260F0D3542DB0A7C1F33E55.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/6/WM/VAEC9P0X2AJ0IVQ1U02WNU.uasset'
+[2025.04.03-12.13.10:839][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 3.11 sec)
+[2025.04.03-12.13.10:845][395]AssetCheck: New page: Asset Save: BP_Cat_C_UAID_107C61B295B01A5602_1994367080
+[2025.04.03-12.13.10:845][395]LogContentValidation: Display: Validating /Game/Misc_Mechanics/Schrodingers_Cat/BP_Cat.BP_Cat_C /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.BP_Cat_C_UAID_107C61B295B01A5602_1994367080
+[2025.04.03-12.13.11:643][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.03-12.13.11:651][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.03-12.13.11:651][487]PIE: New page: PIE session: Main_Level (3 Apr 2025, 14:13:11)
+[2025.04.03-12.13.11:651][487]LogPlayLevel: Creating play world package: /Game/Maps/Main_Level/UEDPIE_0_Main_Level
+[2025.04.03-12.13.12:017][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.365349s)
+[2025.04.03-12.13.12:017][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Level/Main_Level.Main_Level to /Game/Maps/Main_Level/UEDPIE_0_Main_Level.Main_Level (0.365389s)
+[2025.04.03-12.13.12:026][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.03-12.13.12:027][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.03-12.13.12:027][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.03-12.13.12:028][487]LogAIModule: Creating AISystem for world Main_Level
+[2025.04.03-12.13.12:030][487]LogPlayLevel: PIE: World Init took: (0.002565s)
+[2025.04.03-12.13.12:030][487]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.04.03-12.13.12:030][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.03-12.13.12:030][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.03-12.13.12:030][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.03-12.13.12:030][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.03-12.13.12:030][487]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.03-12.13.12:030][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.03-12.13.12:030][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.03-12.13.12:030][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.03-12.13.12:030][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.03-12.13.12:030][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.03-12.13.12:030][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.03-12.13.12:032][487]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.03-12.13.12:051][487]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.03-12.13.12:051][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.03-12.13.12:051][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.03-12.13.12:051][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.03-12.13.12:052][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.04.03-12.13.12:052][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2025.04.03-12.13.12:053][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.04.03-12.13.12:053][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.04.03-12.13.12:053][487]LogInit: FAudioDevice initialized with ID 18.
+[2025.04.03-12.13.12:053][487]LogAudio: Display: Audio Device (ID: 18) registered with world 'Main_Level'.
+[2025.04.03-12.13.12:053][487]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.04.03-12.13.12:056][487]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.03-12.13.12:117][487]LogWorld: Bringing World /Game/Maps/Main_Level/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2025.04.03-13.13.12
+[2025.04.03-12.13.12:119][487]LogWorld: Bringing up level for play took: 0.061417
+[2025.04.03-12.13.12:121][487]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.04.03-12.13.12:140][487]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.03-12.13.12:141][487]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.03-12.13.12:141][487]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.03-12.13.12:145][487]PIE: Server logged in
+[2025.04.03-12.13.12:146][487]PIE: Play in editor total start time 0.497 seconds.
+[2025.04.03-12.13.13:948][691]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.03-12.13.13:950][691]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.03-12.13.14:491][756]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] ACTIVATE CAT TRACE
+[2025.04.03-12.13.15:048][822]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] MOVE CAT
+[2025.04.03-12.13.15:048][822]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] Current Target Point : 
+[2025.04.03-12.13.15:048][822]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] New Current Target Point : Cat2
+[2025.04.03-12.13.17:050][ 61]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] ACTIVATE CAT TRACE
+[2025.04.03-12.13.17:874][160]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.03-12.13.17:874][160]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.03-12.13.17:874][160]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.03-12.13.20:702][499]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] MOVE CAT
+[2025.04.03-12.13.20:702][499]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] Current Target Point : Cat2
+[2025.04.03-12.13.20:702][499]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] New Current Target Point : Cat3
+[2025.04.03-12.13.22:704][739]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] ACTIVATE CAT TRACE
+[2025.04.03-12.13.23:349][816]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B01A5602_1994473303] Soul NPC-Player
+[2025.04.03-12.13.23:349][816]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.03-12.13.23:351][816]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.03-12.13.23:352][816]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.03-12.13.24:258][924]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] MOVE CAT
+[2025.04.03-12.13.24:258][924]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] Current Target Point : Cat3
+[2025.04.03-12.13.24:258][924]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] New Current Target Point : Cat4
+[2025.04.03-12.13.26:261][164]LogBlueprintUserMessages: [BP_Cat_C_UAID_107C61B295B01A5602_1994367080] ACTIVATE CAT TRACE
+[2025.04.03-12.13.28:260][404]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.03-12.13.28:260][404]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.03-12.13.28:260][404]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.03-12.13.30:609][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-12.13.30:609][681]LogWorld: BeginTearingDown for /Game/Maps/Main_Level/UEDPIE_0_Main_Level
+[2025.04.03-12.13.30:612][681]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-12.13.30:627][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-12.13.30:633][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.03-12.13.30:639][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-12.13.30:649][681]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.03-12.13.30:650][681]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.04.03-12.13.30:650][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.04.03-12.13.30:651][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.04.03-12.13.30:654][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-12.13.30:684][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.04.03-12.13.30:746][682]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.04.03-12.13.31:165][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.03-12.18.50:927][ 16]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.03-12.18.59:194][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.03-12.18.59:200][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-12.18.59:226][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/6/MT/OUNUYEZW0VPO4L6GS1VBR6
+[2025.04.03-12.18.59:227][901]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/OUNUYEZW0VPO4L6GS1VBR67F3B4CEF4D466987BA05199013C9C139.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/6/MT/OUNUYEZW0VPO4L6GS1VBR6.uasset'
+[2025.04.03-12.18.59:237][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 3.15 sec)
+[2025.04.03-12.18.59:243][901]AssetCheck: New page: Asset Save: BP_Character_Position_C_UAID_107C61B295B01A5602_1994498325
+[2025.04.03-12.18.59:243][901]LogContentValidation: Display: Validating /Game/Misc_Mechanics/Positioning/BP_Character_Position.BP_Character_Position_C /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.BP_Character_Position_C_UAID_107C61B295B01A5602_1994498325
+[2025.04.03-12.19.03:817][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.04.03-12.19.03:821][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-12.19.03:844][411]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Main_Level/Main_Level/6/MT/OUNUYEZW0VPO4L6GS1VBR6
+[2025.04.03-12.19.03:845][411]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/OUNUYEZW0VPO4L6GS1VBR6BD62E2C44842F782A23B018DA2F2EBD1.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Main_Level/Main_Level/6/MT/OUNUYEZW0VPO4L6GS1VBR6.uasset'
+[2025.04.03-12.19.03:854][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 3.18 sec)
+[2025.04.03-12.19.03:859][411]AssetCheck: New page: Asset Save: BP_Character_Position_C_UAID_107C61B295B01A5602_1994498325
+[2025.04.03-12.19.03:859][411]LogContentValidation: Display: Validating /Game/Misc_Mechanics/Positioning/BP_Character_Position.BP_Character_Position_C /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.BP_Character_Position_C_UAID_107C61B295B01A5602_1994498325
+[2025.04.03-12.19.21:685][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.03-12.19.30:874][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
