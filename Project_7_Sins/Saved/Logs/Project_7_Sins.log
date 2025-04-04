@@ -2881,3 +2881,776 @@ Aligned timings:
 [2025.04.04-08.15.16:113][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 717.958191
 [2025.04.04-08.15.17:113][152]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.04-08.15.17:113][152]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 718.625000, Update Interval: 336.860260
+[2025.04.04-08.17.30:487][225]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/NPCs/Dialogue_Specific/DT_Dialogue.DT_Dialogue
+[2025.04.04-08.18.20:187][136]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.04-08.18.20:203][136]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.04-08.18.20:209][137]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.04-08.18.24:240][620]LogContentBrowser: Attempting asset rename: NewFolder -> Gets_Caught
+[2025.04.04-08.18.24:240][620]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.04-08.18.31:713][ 87]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Student\Downloads\drive-download-20250404T081745Z-001\Dante_133.wav)
+[2025.04.04-08.18.31:721][ 87]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Dante_133...
+[2025.04.04-08.18.31:722][ 87]LogAudio: Display: Chunk sizes for SoundWave /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133.Dante_133: Chunk0=28 bytes, Chunk1-N=256k
+[2025.04.04-08.18.31:723][ 87]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Dante_133...
+[2025.04.04-08.18.31:724][ 87]LogAudio: Display: Chunk sizes for SoundWave /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133.Dante_133: Chunk0=28 bytes, Chunk1-N=256k
+[2025.04.04-08.18.31:725][ 87]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Student\Downloads\drive-download-20250404T081745Z-001\Dante_129.wav)
+[2025.04.04-08.18.31:727][ 87]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Dante_129...
+[2025.04.04-08.18.31:728][ 87]LogAudio: Display: Chunk sizes for SoundWave /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129.Dante_129: Chunk0=28 bytes, Chunk1-N=256k
+[2025.04.04-08.18.31:728][ 87]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Dante_129...
+[2025.04.04-08.18.31:730][ 87]LogAudio: Display: Chunk sizes for SoundWave /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129.Dante_129: Chunk0=28 bytes, Chunk1-N=256k
+[2025.04.04-08.18.37:792][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-08.18.37:845][603]LogSavePackage: Moving output files for package: /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133_Cue
+[2025.04.04-08.18.37:845][603]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_133_Cue54BA98B748635667C59870954BFACAC6.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133_Cue.uasset'
+[2025.04.04-08.18.37:847][603]LogSavePackage: Moving output files for package: /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129_Cue
+[2025.04.04-08.18.37:847][603]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_129_CueEE85BFB24DD22970C1BB5BA198068BB8.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129_Cue.uasset'
+[2025.04.04-08.18.37:852][603]LogSavePackage: Moving output files for package: /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129
+[2025.04.04-08.18.37:852][603]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_129641E8E3342505760532CF4A964D3C41D.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129.uasset'
+[2025.04.04-08.18.37:857][603]LogSavePackage: Moving output files for package: /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133
+[2025.04.04-08.18.37:857][603]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_133752C713447A2A57A9D90B0BB1A719857.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133.uasset'
+[2025.04.04-08.18.37:863][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 5.19 sec)
+[2025.04.04-08.18.37:863][603]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.04-08.18.37:863][603]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133_Cue.Dante_133_Cue
+[2025.04.04-08.18.37:863][603]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129_Cue.Dante_129_Cue
+[2025.04.04-08.18.37:863][603]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129.Dante_129
+[2025.04.04-08.18.37:863][603]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133.Dante_133
+[2025.04.04-08.19.03:985][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.04-08.19.04:348][758]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/NPCs/Animations/Animation_Blueprints/ABP_NPC.ABP_NPC
+[2025.04.04-08.19.04:348][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.04-08.19.04:349][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.04-08.19.04:355][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.04-08.19.04:355][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.04-08.19.04:361][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.04-08.19.04:588][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.04-08.19.04:588][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.04-08.19.04:774][758]LogViewport: Scene viewport resized to 314x151, mode Windowed.
+[2025.04.04-08.19.04:848][758]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.04.04-08.19.05:590][816]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2025.04.04-08.19.29:474][221]LogViewport: Scene viewport resized to 314x151, mode Windowed.
+[2025.04.04-08.19.45:070][524]LogEditorFactories: Performing atomic reimport of [C:/Users/Student/Downloads/drive-download-20250404T080546Z-001/Dante_91.fbx]
+[2025.04.04-08.19.45:085][524]LogFbx: Loading FBX Scene from C:/Users/Student/Downloads/drive-download-20250404T080546Z-001/Dante_91.fbx
+[2025.04.04-08.19.45:184][524]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.04-08.19.45:233][524]LogFbx: Parsing AnimStack Take 001
+[2025.04.04-08.19.46:009][524]LogScript: Warning: Script Msg: /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91 : New play length is same as existing one: 210 frames
+[2025.04.04-08.19.48:919][524]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91.Dante_91
+[2025.04.04-08.19.48:951][524]LogEditorFactories: -- imported successfully
+[2025.04.04-08.19.48:983][524]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91.Dante_91
+[2025.04.04-08.19.49:003][524]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Student\Downloads\drive-download-20250404T080546Z-001\Dante_129.fbx)
+[2025.04.04-08.19.49:012][524]LogFbx: Loading FBX Scene from C:\Users\Student\Downloads\drive-download-20250404T080546Z-001\Dante_129.fbx
+[2025.04.04-08.19.49:057][524]LogAnimationCompression: Display: Storing compressed animation data for /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91.Dante_91, at AnimationSequence/80d77494f602e1404e6db02ab7622f2fabbf64cc
+[2025.04.04-08.19.49:089][524]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.04-08.19.54:316][524]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(0) RL_BoneRoot
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(1) CC_Base_Hip
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(2) CC_Base_Pelvis
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(3) CC_Base_L_Thigh
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(4) CC_Base_L_Calf
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(5) CC_Base_L_Foot
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(6) CC_Base_L_ToeBaseShareBone
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(7) CC_Base_L_ToeBase
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(8) CC_Base_L_PinkyToe1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(9) CC_Base_L_RingToe1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(10) CC_Base_L_MidToe1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(11) CC_Base_L_IndexToe1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(12) CC_Base_L_BigToe1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(13) CC_Base_L_CalfTwist01
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(14) CC_Base_L_CalfTwist02
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(15) CC_Base_L_KneeShareBone
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(16) CC_Base_L_ThighTwist01
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(17) CC_Base_L_ThighTwist02
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(18) CC_Base_R_Thigh
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(19) CC_Base_R_ThighTwist01
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(20) CC_Base_R_ThighTwist02
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(21) CC_Base_R_Calf
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(22) CC_Base_R_Foot
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(23) CC_Base_R_ToeBase
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(24) CC_Base_R_PinkyToe1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(25) CC_Base_R_BigToe1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(26) CC_Base_R_IndexToe1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(27) CC_Base_R_MidToe1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(28) CC_Base_R_RingToe1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(29) CC_Base_R_ToeBaseShareBone
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(30) CC_Base_R_KneeShareBone
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(31) CC_Base_R_CalfTwist01
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(32) CC_Base_R_CalfTwist02
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(33) CC_Base_Waist
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(34) CC_Base_Spine01
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(35) CC_Base_Spine02
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(36) CC_Base_NeckTwist01
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(37) CC_Base_NeckTwist02
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(38) CC_Base_Head
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(39) CC_Base_FacialBone
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(40) CC_Base_JawRoot
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(41) CC_Base_Tongue01
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(42) CC_Base_Tongue02
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(43) CC_Base_Tongue03
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(44) CC_Base_Teeth02
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(45) CC_Base_R_Eye
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(46) CC_Base_L_Eye
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(47) CC_Base_UpperJaw
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(48) CC_Base_Teeth01
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(49) transform1
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(50) transform2
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(51) FaceJoint_M
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(52) EyeJoint_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(53) EyeJoint_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(54) EyeLidJoints_M
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(55) upperLidMain0_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(56) upperLidMain1_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(57) upperLidMain2_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(58) upperLidMain3_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(59) upperLidMain4_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(60) upperLidMain5_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(61) upperLidMain6_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(62) upperLidMain7_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(63) upperLidMain8_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(64) upperLidMain9_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(65) upperLidMain10_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(66) upperLidMain11_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(67) upperLidMain12_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(68) upperLidMain13_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(69) upperLidOuter0_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(70) upperLidOuter1_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(71) upperLidOuter2_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(72) upperLidOuter3_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(73) upperLidOuter4_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(74) upperLidOuter5_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(75) upperLidOuter6_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(76) upperLidOuter7_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(77) upperLidOuter8_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(78) upperLidOuter9_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(79) upperLidOuter10_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(80) upperLidOuter11_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(81) upperLidOuter12_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(82) upperLidOuter13_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(83) lowerLidMain1_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(84) lowerLidMain2_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(85) lowerLidMain3_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(86) lowerLidMain4_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(87) lowerLidMain5_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(88) lowerLidMain6_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(89) lowerLidMain7_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(90) lowerLidMain8_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(91) lowerLidMain9_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(92) lowerLidMain10_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(93) lowerLidOuter1_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(94) lowerLidOuter2_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(95) lowerLidOuter3_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(96) lowerLidOuter4_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(97) lowerLidOuter5_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(98) lowerLidOuter6_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(99) lowerLidOuter7_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(100) lowerLidOuter8_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(101) lowerLidOuter9_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(102) lowerLidOuter10_R
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(103) upperLidMain0_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(104) upperLidMain1_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(105) upperLidMain2_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(106) upperLidMain3_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(107) upperLidMain4_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(108) upperLidMain5_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(109) upperLidMain6_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(110) upperLidMain7_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(111) upperLidMain8_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(112) upperLidMain9_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(113) upperLidMain10_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(114) upperLidMain11_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(115) upperLidMain12_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(116) upperLidMain13_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(117) upperLidOuter0_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(118) upperLidOuter1_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(119) upperLidOuter2_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(120) upperLidOuter3_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(121) upperLidOuter4_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(122) upperLidOuter5_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(123) upperLidOuter6_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(124) upperLidOuter7_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(125) upperLidOuter8_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(126) upperLidOuter9_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(127) upperLidOuter10_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(128) upperLidOuter11_L
+[2025.04.04-08.19.54:387][524]LogFbx: SortedLinks :(129) upperLidOuter12_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(130) upperLidOuter13_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(131) lowerLidMain1_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(132) lowerLidMain2_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(133) lowerLidMain3_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(134) lowerLidMain4_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(135) lowerLidMain5_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(136) lowerLidMain6_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(137) lowerLidMain7_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(138) lowerLidMain8_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(139) lowerLidMain9_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(140) lowerLidMain10_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(141) lowerLidOuter1_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(142) lowerLidOuter2_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(143) lowerLidOuter3_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(144) lowerLidOuter4_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(145) lowerLidOuter5_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(146) lowerLidOuter6_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(147) lowerLidOuter7_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(148) lowerLidOuter8_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(149) lowerLidOuter9_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(150) lowerLidOuter10_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(151) LipJoints_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(152) upperLipJoint0_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(153) upperLipJoint1_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(154) upperLipJoint2_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(155) upperLipJoint3_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(156) upperLipJoint4_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(157) upperLipJoint5_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(158) upperLipJoint6_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(159) upperLipJoint7_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(160) upperLipJoint8_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(161) upperLipJoint9_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(162) upperLipJoint10_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(163) upperLipJoint11_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(164) upperLipJoint12_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(165) cornerLipJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(166) lowerLipJoint0_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(167) lowerLipJoint1_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(168) lowerLipJoint2_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(169) lowerLipJoint3_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(170) lowerLipJoint4_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(171) lowerLipJoint5_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(172) lowerLipJoint6_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(173) lowerLipJoint7_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(174) lowerLipJoint8_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(175) lowerLipJoint9_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(176) lowerLipJoint10_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(177) upperLipJoint1_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(178) upperLipJoint2_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(179) upperLipJoint3_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(180) upperLipJoint4_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(181) upperLipJoint5_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(182) upperLipJoint6_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(183) upperLipJoint7_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(184) upperLipJoint8_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(185) upperLipJoint9_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(186) upperLipJoint10_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(187) upperLipJoint11_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(188) upperLipJoint12_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(189) cornerLipJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(190) lowerLipJoint1_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(191) lowerLipJoint2_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(192) lowerLipJoint3_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(193) lowerLipJoint4_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(194) lowerLipJoint5_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(195) lowerLipJoint6_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(196) lowerLipJoint7_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(197) lowerLipJoint8_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(198) lowerLipJoint9_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(199) lowerLipJoint10_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(200) CheekBoneJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(201) CheekBoneJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(202) NoseSideJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(203) NoseSideJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(204) NoseBridgeJoint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(205) NoseCornerJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(206) NoseCornerJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(207) NoseUnderJoint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(208) FrownBulgeJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(209) FrownBulgeJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(210) SmileBulgeJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(211) SmileBulgeJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(212) CheekJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(213) CheekJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(214) ChinCreaseJoint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(215) NoseJoint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(216) NostrilJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(217) NostrilJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(218) EyeBrowInnerJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(219) EyeBrowInnerJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(220) EyeBrowMid1Joint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(221) EyeBrowMid1Joint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(222) EyeBrowMid2Joint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(223) EyeBrowMid2Joint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(224) EyeBrowMid3Joint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(225) EyeBrowMid3Joint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(226) EyeBrowOuterJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(227) EyeBrowOuterJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(228) EyeBrowCenterJoint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(229) NoseCreaseJoint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(230) lowerLidOuterJoint_R
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(231) lowerLidOuterJoint_L
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(232) JawJoint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(233) upperTeethJoint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(234) lowerTeethJoint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(235) Tongue0Joint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(236) Tongue1Joint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(237) Tongue2Joint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(238) Tongue3Joint_M
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(239) CC_Base_L_Clavicle
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(240) CC_Base_L_Upperarm
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(241) CC_Base_L_Forearm
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(242) CC_Base_L_ForearmTwist01
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(243) CC_Base_L_ForearmTwist02
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(244) CC_Base_L_ElbowShareBone
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(245) CC_Base_L_Hand
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(246) CC_Base_L_Mid1
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(247) CC_Base_L_Mid2
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(248) CC_Base_L_Mid3
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(249) CC_Base_L_Index1
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(250) CC_Base_L_Index2
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(251) CC_Base_L_Index3
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(252) CC_Base_L_Ring1
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(253) CC_Base_L_Ring2
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(254) CC_Base_L_Ring3
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(255) CC_Base_L_Pinky1
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(256) CC_Base_L_Pinky2
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(257) CC_Base_L_Pinky3
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(258) CC_Base_L_Thumb1
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(259) CC_Base_L_Thumb2
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(260) CC_Base_L_Thumb3
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(261) CC_Base_L_UpperarmTwist01
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(262) CC_Base_L_UpperarmTwist02
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(263) CC_Base_R_Clavicle
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(264) CC_Base_R_Upperarm
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(265) CC_Base_R_UpperarmTwist01
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(266) CC_Base_R_UpperarmTwist02
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(267) CC_Base_R_Forearm
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(268) CC_Base_R_ForearmTwist01
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(269) CC_Base_R_ForearmTwist02
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(270) CC_Base_R_ElbowShareBone
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(271) CC_Base_R_Hand
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(272) CC_Base_R_Mid1
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(273) CC_Base_R_Mid2
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(274) CC_Base_R_Mid3
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(275) CC_Base_R_Ring1
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(276) CC_Base_R_Ring2
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(277) CC_Base_R_Ring3
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(278) CC_Base_R_Thumb1
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(279) CC_Base_R_Thumb2
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(280) CC_Base_R_Thumb3
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(281) CC_Base_R_Index1
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(282) CC_Base_R_Index2
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(283) CC_Base_R_Index3
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(284) CC_Base_R_Pinky1
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(285) CC_Base_R_Pinky2
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(286) CC_Base_R_Pinky3
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(287) CC_Base_R_RibsTwist
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(288) CC_Base_R_Breast
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(289) CC_Base_L_RibsTwist
+[2025.04.04-08.19.54:388][524]LogFbx: SortedLinks :(290) CC_Base_L_Breast
+[2025.04.04-08.19.54:388][524]LogFbx: Parsing AnimStack Take 001
+[2025.04.04-08.19.54:756][524]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129.Dante_129
+[2025.04.04-08.19.54:763][524]LogAnimationCompression: Display: Storing compressed animation data for /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129.Dante_129, at AnimationSequence/7dd3fe1382ff267f811c55d4ff97e18384dcc24e
+[2025.04.04-08.19.54:827][524]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Student\Downloads\drive-download-20250404T080546Z-001\Dante_133.fbx)
+[2025.04.04-08.19.54:837][524]LogFbx: Loading FBX Scene from C:\Users\Student\Downloads\drive-download-20250404T080546Z-001\Dante_133.fbx
+[2025.04.04-08.19.54:911][524]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(0) RL_BoneRoot
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(1) CC_Base_Hip
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(2) CC_Base_Pelvis
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(3) CC_Base_L_Thigh
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(4) CC_Base_L_Calf
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(5) CC_Base_L_Foot
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(6) CC_Base_L_ToeBaseShareBone
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(7) CC_Base_L_ToeBase
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(8) CC_Base_L_PinkyToe1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(9) CC_Base_L_RingToe1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(10) CC_Base_L_MidToe1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(11) CC_Base_L_IndexToe1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(12) CC_Base_L_BigToe1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(13) CC_Base_L_CalfTwist01
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(14) CC_Base_L_CalfTwist02
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(15) CC_Base_L_KneeShareBone
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(16) CC_Base_L_ThighTwist01
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(17) CC_Base_L_ThighTwist02
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(18) CC_Base_R_Thigh
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(19) CC_Base_R_ThighTwist01
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(20) CC_Base_R_ThighTwist02
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(21) CC_Base_R_Calf
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(22) CC_Base_R_Foot
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(23) CC_Base_R_ToeBase
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(24) CC_Base_R_PinkyToe1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(25) CC_Base_R_BigToe1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(26) CC_Base_R_IndexToe1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(27) CC_Base_R_MidToe1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(28) CC_Base_R_RingToe1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(29) CC_Base_R_ToeBaseShareBone
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(30) CC_Base_R_KneeShareBone
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(31) CC_Base_R_CalfTwist01
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(32) CC_Base_R_CalfTwist02
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(33) CC_Base_Waist
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(34) CC_Base_Spine01
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(35) CC_Base_Spine02
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(36) CC_Base_NeckTwist01
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(37) CC_Base_NeckTwist02
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(38) CC_Base_Head
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(39) CC_Base_FacialBone
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(40) CC_Base_JawRoot
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(41) CC_Base_Tongue01
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(42) CC_Base_Tongue02
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(43) CC_Base_Tongue03
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(44) CC_Base_Teeth02
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(45) CC_Base_R_Eye
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(46) CC_Base_L_Eye
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(47) CC_Base_UpperJaw
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(48) CC_Base_Teeth01
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(49) transform1
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(50) transform2
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(51) FaceJoint_M
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(52) EyeJoint_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(53) EyeJoint_L
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(54) EyeLidJoints_M
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(55) upperLidMain0_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(56) upperLidMain1_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(57) upperLidMain2_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(58) upperLidMain3_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(59) upperLidMain4_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(60) upperLidMain5_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(61) upperLidMain6_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(62) upperLidMain7_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(63) upperLidMain8_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(64) upperLidMain9_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(65) upperLidMain10_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(66) upperLidMain11_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(67) upperLidMain12_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(68) upperLidMain13_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(69) upperLidOuter0_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(70) upperLidOuter1_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(71) upperLidOuter2_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(72) upperLidOuter3_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(73) upperLidOuter4_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(74) upperLidOuter5_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(75) upperLidOuter6_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(76) upperLidOuter7_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(77) upperLidOuter8_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(78) upperLidOuter9_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(79) upperLidOuter10_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(80) upperLidOuter11_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(81) upperLidOuter12_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(82) upperLidOuter13_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(83) lowerLidMain1_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(84) lowerLidMain2_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(85) lowerLidMain3_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(86) lowerLidMain4_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(87) lowerLidMain5_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(88) lowerLidMain6_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(89) lowerLidMain7_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(90) lowerLidMain8_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(91) lowerLidMain9_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(92) lowerLidMain10_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(93) lowerLidOuter1_R
+[2025.04.04-08.19.54:958][524]LogFbx: SortedLinks :(94) lowerLidOuter2_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(95) lowerLidOuter3_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(96) lowerLidOuter4_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(97) lowerLidOuter5_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(98) lowerLidOuter6_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(99) lowerLidOuter7_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(100) lowerLidOuter8_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(101) lowerLidOuter9_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(102) lowerLidOuter10_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(103) upperLidMain0_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(104) upperLidMain1_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(105) upperLidMain2_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(106) upperLidMain3_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(107) upperLidMain4_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(108) upperLidMain5_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(109) upperLidMain6_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(110) upperLidMain7_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(111) upperLidMain8_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(112) upperLidMain9_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(113) upperLidMain10_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(114) upperLidMain11_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(115) upperLidMain12_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(116) upperLidMain13_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(117) upperLidOuter0_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(118) upperLidOuter1_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(119) upperLidOuter2_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(120) upperLidOuter3_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(121) upperLidOuter4_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(122) upperLidOuter5_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(123) upperLidOuter6_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(124) upperLidOuter7_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(125) upperLidOuter8_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(126) upperLidOuter9_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(127) upperLidOuter10_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(128) upperLidOuter11_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(129) upperLidOuter12_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(130) upperLidOuter13_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(131) lowerLidMain1_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(132) lowerLidMain2_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(133) lowerLidMain3_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(134) lowerLidMain4_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(135) lowerLidMain5_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(136) lowerLidMain6_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(137) lowerLidMain7_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(138) lowerLidMain8_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(139) lowerLidMain9_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(140) lowerLidMain10_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(141) lowerLidOuter1_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(142) lowerLidOuter2_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(143) lowerLidOuter3_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(144) lowerLidOuter4_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(145) lowerLidOuter5_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(146) lowerLidOuter6_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(147) lowerLidOuter7_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(148) lowerLidOuter8_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(149) lowerLidOuter9_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(150) lowerLidOuter10_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(151) LipJoints_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(152) upperLipJoint0_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(153) upperLipJoint1_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(154) upperLipJoint2_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(155) upperLipJoint3_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(156) upperLipJoint4_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(157) upperLipJoint5_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(158) upperLipJoint6_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(159) upperLipJoint7_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(160) upperLipJoint8_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(161) upperLipJoint9_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(162) upperLipJoint10_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(163) upperLipJoint11_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(164) upperLipJoint12_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(165) cornerLipJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(166) lowerLipJoint0_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(167) lowerLipJoint1_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(168) lowerLipJoint2_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(169) lowerLipJoint3_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(170) lowerLipJoint4_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(171) lowerLipJoint5_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(172) lowerLipJoint6_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(173) lowerLipJoint7_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(174) lowerLipJoint8_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(175) lowerLipJoint9_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(176) lowerLipJoint10_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(177) upperLipJoint1_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(178) upperLipJoint2_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(179) upperLipJoint3_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(180) upperLipJoint4_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(181) upperLipJoint5_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(182) upperLipJoint6_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(183) upperLipJoint7_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(184) upperLipJoint8_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(185) upperLipJoint9_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(186) upperLipJoint10_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(187) upperLipJoint11_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(188) upperLipJoint12_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(189) cornerLipJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(190) lowerLipJoint1_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(191) lowerLipJoint2_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(192) lowerLipJoint3_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(193) lowerLipJoint4_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(194) lowerLipJoint5_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(195) lowerLipJoint6_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(196) lowerLipJoint7_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(197) lowerLipJoint8_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(198) lowerLipJoint9_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(199) lowerLipJoint10_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(200) CheekBoneJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(201) CheekBoneJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(202) NoseSideJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(203) NoseSideJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(204) NoseBridgeJoint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(205) NoseCornerJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(206) NoseCornerJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(207) NoseUnderJoint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(208) FrownBulgeJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(209) FrownBulgeJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(210) SmileBulgeJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(211) SmileBulgeJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(212) CheekJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(213) CheekJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(214) ChinCreaseJoint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(215) NoseJoint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(216) NostrilJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(217) NostrilJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(218) EyeBrowInnerJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(219) EyeBrowInnerJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(220) EyeBrowMid1Joint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(221) EyeBrowMid1Joint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(222) EyeBrowMid2Joint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(223) EyeBrowMid2Joint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(224) EyeBrowMid3Joint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(225) EyeBrowMid3Joint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(226) EyeBrowOuterJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(227) EyeBrowOuterJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(228) EyeBrowCenterJoint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(229) NoseCreaseJoint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(230) lowerLidOuterJoint_R
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(231) lowerLidOuterJoint_L
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(232) JawJoint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(233) upperTeethJoint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(234) lowerTeethJoint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(235) Tongue0Joint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(236) Tongue1Joint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(237) Tongue2Joint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(238) Tongue3Joint_M
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(239) CC_Base_L_Clavicle
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(240) CC_Base_L_Upperarm
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(241) CC_Base_L_Forearm
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(242) CC_Base_L_ForearmTwist01
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(243) CC_Base_L_ForearmTwist02
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(244) CC_Base_L_ElbowShareBone
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(245) CC_Base_L_Hand
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(246) CC_Base_L_Mid1
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(247) CC_Base_L_Mid2
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(248) CC_Base_L_Mid3
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(249) CC_Base_L_Index1
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(250) CC_Base_L_Index2
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(251) CC_Base_L_Index3
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(252) CC_Base_L_Ring1
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(253) CC_Base_L_Ring2
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(254) CC_Base_L_Ring3
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(255) CC_Base_L_Pinky1
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(256) CC_Base_L_Pinky2
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(257) CC_Base_L_Pinky3
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(258) CC_Base_L_Thumb1
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(259) CC_Base_L_Thumb2
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(260) CC_Base_L_Thumb3
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(261) CC_Base_L_UpperarmTwist01
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(262) CC_Base_L_UpperarmTwist02
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(263) CC_Base_R_Clavicle
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(264) CC_Base_R_Upperarm
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(265) CC_Base_R_UpperarmTwist01
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(266) CC_Base_R_UpperarmTwist02
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(267) CC_Base_R_Forearm
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(268) CC_Base_R_ForearmTwist01
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(269) CC_Base_R_ForearmTwist02
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(270) CC_Base_R_ElbowShareBone
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(271) CC_Base_R_Hand
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(272) CC_Base_R_Mid1
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(273) CC_Base_R_Mid2
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(274) CC_Base_R_Mid3
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(275) CC_Base_R_Ring1
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(276) CC_Base_R_Ring2
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(277) CC_Base_R_Ring3
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(278) CC_Base_R_Thumb1
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(279) CC_Base_R_Thumb2
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(280) CC_Base_R_Thumb3
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(281) CC_Base_R_Index1
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(282) CC_Base_R_Index2
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(283) CC_Base_R_Index3
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(284) CC_Base_R_Pinky1
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(285) CC_Base_R_Pinky2
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(286) CC_Base_R_Pinky3
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(287) CC_Base_R_RibsTwist
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(288) CC_Base_R_Breast
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(289) CC_Base_L_RibsTwist
+[2025.04.04-08.19.54:959][524]LogFbx: SortedLinks :(290) CC_Base_L_Breast
+[2025.04.04-08.19.54:959][524]LogFbx: Parsing AnimStack Take 001
+[2025.04.04-08.19.55:361][524]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133.Dante_133
+[2025.04.04-08.19.55:369][524]LogAnimationCompression: Display: Storing compressed animation data for /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133.Dante_133, at AnimationSequence/50f3dcd1616bf50b97f524e97e0eef0445791365
+[2025.04.04-08.19.57:395][702]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129.Dante_129
+[2025.04.04-08.19.57:397][702]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.04-08.19.57:398][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.04-08.19.57:403][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.04-08.19.57:590][702]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.04-08.19.57:590][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.04-08.19.57:705][702]LogViewport: Scene viewport resized to 754x226, mode Windowed.
+[2025.04.04-08.19.57:734][702]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.04.04-08.19.58:470][759]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133.Dante_133
+[2025.04.04-08.19.58:628][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.04-08.19.58:631][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_Level/ThirdPersonMap' took 0.033
+[2025.04.04-08.19.58:632][763]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/NPCs/Animations/Animation_Blueprints/ABP_NPC] ([2] browsable assets)...
+[2025.04.04-08.19.58:637][763]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/NPCs/Animations/Animation_Blueprints/ABP_NPC.ABP_NPC]
+[2025.04.04-08.19.58:637][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Animations/Animation_Blueprints/ABP_NPC]
+[2025.04.04-08.19.58:875][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Animations/Animation_Blueprints/ABP_NPC_Auto1
+[2025.04.04-08.19.58:875][763]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/ABP_NPC_Auto1F44FD2B14A8AC6AF85FEF8AAA4CCB0DE.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Animations/Animation_Blueprints/ABP_NPC_Auto1.uasset'
+[2025.04.04-08.19.58:877][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91] ([1] browsable assets)...
+[2025.04.04-08.19.58:881][763]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91.Dante_91]
+[2025.04.04-08.19.58:881][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91]
+[2025.04.04-08.19.58:909][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91_Auto1
+[2025.04.04-08.19.58:909][763]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_91_Auto1FEE3D0804EA36FE2A93770874F0D19C3.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91_Auto1.uasset'
+[2025.04.04-08.19.58:911][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129] ([1] browsable assets)...
+[2025.04.04-08.19.58:915][763]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129.Dante_129]
+[2025.04.04-08.19.58:915][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129]
+[2025.04.04-08.19.58:939][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129_Auto1
+[2025.04.04-08.19.58:939][763]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_129_Auto17A86286E403F4D7D6B9D40B5137F70F1.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129_Auto1.uasset'
+[2025.04.04-08.19.58:940][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133] ([1] browsable assets)...
+[2025.04.04-08.19.58:944][763]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133.Dante_133]
+[2025.04.04-08.19.58:944][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133]
+[2025.04.04-08.19.58:967][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133_Auto1
+[2025.04.04-08.19.58:967][763]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_133_Auto11B10A5B544AD5013998FA285A8F4437F.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Autosaves/Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133_Auto1.uasset'
+[2025.04.04-08.19.58:969][763]LogFileHelpers: Auto-saving content packages took 0.337
+[2025.04.04-08.20.00:844][944]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129.Dante_129
+[2025.04.04-08.20.00:844][944]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.04-08.20.00:844][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.04-08.20.00:850][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.04-08.20.00:994][944]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.04-08.20.00:995][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.04-08.20.01:104][944]LogViewport: Scene viewport resized to 754x226, mode Windowed.
+[2025.04.04-08.20.01:127][944]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.04.04-08.20.02:244][ 51]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2025.04.04-08.20.02:959][122]LogViewport: Scene viewport resized to 754x226, mode Windowed.
+[2025.04.04-08.20.22:548][196]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129_Cue.Dante_129_Cue
+[2025.04.04-08.20.30:347][ 64]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133_Cue.Dante_133_Cue
+[2025.04.04-08.20.35:238][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.04-08.20.35:243][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-08.20.35:535][605]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Animation_Blueprints/ABP_NPC
+[2025.04.04-08.20.35:536][605]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/ABP_NPC091429D34F2F491F62AF47AAF6DBB399.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/NPCs/Animations/Animation_Blueprints/ABP_NPC.uasset'
+[2025.04.04-08.20.35:564][605]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91
+[2025.04.04-08.20.35:565][605]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_918D8B6AFB41F36A2C214A2699EA6DE534.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dialogue/Dante_91.uasset'
+[2025.04.04-08.20.35:569][605]LogSavePackage: Moving output files for package: /Game/NPCs/Dialogue_Specific/DT_Dialogue
+[2025.04.04-08.20.35:570][605]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/DT_Dialogue4FF9DCF746D5C1736A0AEF9A00837592.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/NPCs/Dialogue_Specific/DT_Dialogue.uasset'
+[2025.04.04-08.20.35:572][605]LogSavePackage: Moving output files for package: /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129_Cue
+[2025.04.04-08.20.35:572][605]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_129_Cue7A0AF27E46EE2A00D8FA42A04F80D49F.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129_Cue.uasset'
+[2025.04.04-08.20.35:575][605]LogSavePackage: Moving output files for package: /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133_Cue
+[2025.04.04-08.20.35:575][605]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_133_CueC9AE7B2C449110D21661538A85E62569.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133_Cue.uasset'
+[2025.04.04-08.20.35:600][605]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129
+[2025.04.04-08.20.35:600][605]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_1294EC0371A4926C0E324C9AE9D9A3F6864.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dialogue/Dante_129.uasset'
+[2025.04.04-08.20.35:682][605]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133
+[2025.04.04-08.20.35:682][605]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_133C0345E934B6783BBF26CE89573E9E015.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dialogue/Dante_133.uasset'
+[2025.04.04-08.20.35:747][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 503 ms (total: 5.70 sec)
+[2025.04.04-08.20.35:751][605]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.04-08.20.35:751][605]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/NPCs/Animations/Animation_Blueprints/ABP_NPC.ABP_NPC
+[2025.04.04-08.20.35:751][605]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91.Dante_91
+[2025.04.04-08.20.35:751][605]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/NPCs/Dialogue_Specific/DT_Dialogue.DT_Dialogue
+[2025.04.04-08.20.35:751][605]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_129_Cue.Dante_129_Cue
+[2025.04.04-08.20.35:751][605]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/SFX/Dialogue/Dante/In_game_lines/Gets_Caught/Dante_133_Cue.Dante_133_Cue
+[2025.04.04-08.20.35:751][605]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129.Dante_129
+[2025.04.04-08.20.35:751][605]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133.Dante_133
+[2025.04.04-08.20.37:627][810]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2025.04.04-08.20.57:131][746]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2025.04.04-08.20.58:697][918]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1060.540649
+[2025.04.04-08.20.58:863][935]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-08.20.58:863][935]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1060.697388, Update Interval: 308.855255
+[2025.04.04-08.20.59:114][964]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.04-08.20.59:843][ 44]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.04-08.21.00:342][102]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.04-08.21.01:080][183]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.04-08.21.01:773][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.04-08.21.01:779][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-08.21.01:867][253]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129
+[2025.04.04-08.21.01:868][253]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_12946E31ADC4238A6EBC48451BD1F00D831.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dialogue/Dante_129.uasset'
+[2025.04.04-08.21.01:899][253]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133
+[2025.04.04-08.21.01:899][253]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/Dante_133C7AD06C34791DA2F537777B483F48E2A.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/NPCs/Animations/Assets/Dante/Dialogue/Dante_133.uasset'
+[2025.04.04-08.21.01:906][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 5.83 sec)
+[2025.04.04-08.21.01:907][253]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.04-08.21.01:907][253]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_129.Dante_129
+[2025.04.04-08.21.01:907][253]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_133.Dante_133
+[2025.04.04-08.21.01:918][254]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.04-08.21.02:547][317]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.04-08.21.02:822][344]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-08.21.02:822][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-08.21.02:863][344]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-08.21.02:863][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-08.21.02:894][344]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2025.04.04-08.21.03:030][351]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-08.21.03:030][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-08.21.03:064][351]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-08.21.03:064][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-08.21.10:961][715]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.04-08.21.10:961][715]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2025.04.04-08.21.13:331][863]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.04-08.21.40:106][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.04-08.21.40:114][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-08.21.40:400][887]LogSavePackage: Moving output files for package: /Game/NPCs/Animations/Animation_Blueprints/ABP_NPC
+[2025.04.04-08.21.40:401][887]LogSavePackage: Moving '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Saved/ABP_NPCEAA939854C649F5DFA23DE91F920F210.tmp' to '../../../../../../Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/NPCs/Animations/Animation_Blueprints/ABP_NPC.uasset'
+[2025.04.04-08.21.40:408][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 294 ms (total: 6.12 sec)
+[2025.04.04-08.21.40:410][887]AssetCheck: New page: Asset Save: ABP_NPC
+[2025.04.04-08.21.40:410][887]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/NPCs/Animations/Animation_Blueprints/ABP_NPC.ABP_NPC
+[2025.04.04-08.21.40:658][908]BlueprintLog: New page: Compile ABP_NPC
+[2025.04.04-08.21.40:811][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.04-08.23.24:982][516]LogViewport: Scene viewport resized to 314x151, mode Windowed.
+[2025.04.04-08.23.32:311][344]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/NPCs/Animations/Assets/Dante/Dialogue/Dante_91.Dante_91
+[2025.04.04-08.23.32:311][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.04-08.23.32:311][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.04-08.23.32:317][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.04-08.23.32:493][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.04-08.23.32:493][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.04-08.23.32:591][344]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.04-08.23.32:602][344]LogViewport: Scene viewport resized to 754x226, mode Windowed.
+[2025.04.04-08.23.32:620][344]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.04.04-08.23.34:012][481]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-08.23.34:012][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-08.23.34:047][481]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-08.23.34:047][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
