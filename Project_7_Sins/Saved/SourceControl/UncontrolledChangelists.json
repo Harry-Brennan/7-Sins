@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Users/Student/Documents/GitHub/7-Sins/Project_7_Sins/Content/Player/BP_Player.uasset",
+				"D:/Users/Student/Documents/GitHub/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_Pool_Game_Manager.uasset",
+				"D:/Users/Student/Documents/GitHub/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_CueBall.uasset",
 				"C:/Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Rat/rat_rig.uasset",
 				"C:/Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Rat/Material_0.uasset",
 				"C:/Users/Student/Documents/102052 Harry Brennan/7-Sins/Project_7_Sins/Content/Misc_Mechanics/Rat/rat_idle.uasset",
