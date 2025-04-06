@@ -2832,3 +2832,389 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.04.06-13.30.11:990][267]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/KS5XZG3HT077802QCIZ2YY_Auto18CAC2303494EF049091E578ACC6BF706.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Autosaves/Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/E/77/KS5XZG3HT077802QCIZ2YY_Auto1.uasset'
 [2025.04.06-13.30.11:990][267]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_Level/ThirdPersonMap' took 0.057
 [2025.04.06-13.30.11:990][267]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2025.04.06-13.33.00:187][980]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.04.06-13.33.00:193][980]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.06-13.33.00:193][980]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.06-13.33.00:196][980]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 14 ms)
+[2025.04.06-13.33.00:196][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.06-13.33.00:196][980]PIE: New page: PIE session: ThirdPersonMap (6 Apr 2025, 15:33:00)
+[2025.04.06-13.33.00:196][980]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.06-13.33.00:219][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022756s)
+[2025.04.06-13.33.00:219][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.022789s)
+[2025.04.06-13.33.00:228][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.06-13.33.00:232][980]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-13.33.00:232][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.33.00:233][980]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.04.06-13.33.00:233][980]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.06-13.33.00:233][980]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.06-13.33.00:233][980]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.06-13.33.00:233][980]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.06-13.33.00:238][980]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.04.06-13.33.00:238][980]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 3.32 sec)
+[2025.04.06-13.33.00:238][980]LogPlayLevel: PIE: World Init took: (0.006447s)
+[2025.04.06-13.33.00:239][980]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.04.06-13.33.00:239][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.06-13.33.00:239][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.06-13.33.00:239][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.06-13.33.00:239][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.06-13.33.00:239][980]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.06-13.33.00:239][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.06-13.33.00:239][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.06-13.33.00:239][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.06-13.33.00:239][980]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.06-13.33.00:239][980]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.06-13.33.00:239][980]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.06-13.33.00:241][980]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.06-13.33.00:260][980]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.06-13.33.00:260][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.06-13.33.00:260][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.06-13.33.00:260][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.06-13.33.00:260][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.04.06-13.33.00:260][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2025.04.06-13.33.00:261][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.04.06-13.33.00:261][980]LogInit: FAudioDevice initialized with ID 7.
+[2025.04.06-13.33.00:261][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.04.06-13.33.00:261][980]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2025.04.06-13.33.00:261][980]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.04.06-13.33.00:280][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-13.33.00:280][980]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.06-13.33.00:290][980]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.06-14.33.00
+[2025.04.06-13.33.00:290][980]LogWorld: Bringing up level for play took: 0.010509
+[2025.04.06-13.33.00:293][980]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.04.06-13.33.00:300][980]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.06-13.33.00:300][980]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.06-13.33.00:300][980]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.06-13.33.00:322][980]PIE: Server logged in
+[2025.04.06-13.33.00:323][980]PIE: Play in editor total start time 0.13 seconds.
+[2025.04.06-13.33.00:351][980]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2025.04.06-13.33.00:832][ 35]LogShaderCompilers: Display: ================================================
+[2025.04.06-13.33.00:832][ 35]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.06-13.33.00:832][ 35]LogShaderCompilers: Display: Total job queries 26, among them cache hits 2 (7.69%)
+[2025.04.06-13.33.00:832][ 35]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 20 distinct outputs (83.33%)
+[2025.04.06-13.33.00:832][ 35]LogShaderCompilers: Display: RAM used: 684.91 KiB of 1.60 GiB budget. Usage: 0.04%
+[2025.04.06-13.33.00:832][ 35]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.06-13.33.00:832][ 35]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.04.06-13.33.00:832][ 35]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.04.06-13.33.00:832][ 35]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.04.06-13.33.00:832][ 35]LogShaderCompilers: Display: ================================================
+[2025.04.06-13.33.01:651][133]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] ACTIVATE CAT TRACE
+[2025.04.06-13.33.02:203][199]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] MOVE CAT
+[2025.04.06-13.33.02:203][199]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] Current Target Point : 
+[2025.04.06-13.33.02:203][199]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] New Current Target Point : Cat3
+[2025.04.06-13.33.03:485][351]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.03:486][351]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.04:207][437]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] ACTIVATE CAT TRACE
+[2025.04.06-13.33.05:007][533]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] DEACTIVATE CAT TRACE
+[2025.04.06-13.33.05:007][533]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] MOVE CAT
+[2025.04.06-13.33.05:007][533]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] Current Target Point : Cat3
+[2025.04.06-13.33.05:007][533]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] New Current Target Point : Cat1
+[2025.04.06-13.33.05:036][536]LogBlueprintUserMessages: [WBP_Jukebox_C_0] previous song
+[2025.04.06-13.33.05:036][536]LogBlueprintUserMessages: [BP_Jukebox_C_UAID_107C61B295B0655702_1410097475] PREVIOUS SONG
+[2025.04.06-13.33.05:039][536]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 244536
+[2025.04.06-13.33.05:045][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.33.05:057][537]LogSlate: Took 0.004847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.06-13.33.05:065][537]LogSlate: Took 0.003756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.06-13.33.05:066][537]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.06-13.33.05:071][537]LogSlate: Took 0.003288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.06-13.33.05:071][537]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.06-13.33.05:696][612]LogBlueprintUserMessages: [BP_NPC_Conversation_Manager_C_UAID_107C61B295B0295B02_2089440029] Biel IS STARTING A CONVERSATION WITH Dante
+[2025.04.06-13.33.05:696][612]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Dante NPC-NPC
+[2025.04.06-13.33.05:696][612]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] BP_NPC3 UPDATED CHARACTER SPECIFIC ACTION
+[2025.04.06-13.33.05:704][613]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.33.05:704][613]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.33.05:725][615]LogBlueprintUserMessages: [WBP_Jukebox_C_0] previous song
+[2025.04.06-13.33.05:725][615]LogBlueprintUserMessages: [BP_Jukebox_C_UAID_107C61B295B0655702_1410097475] PREVIOUS SONG
+[2025.04.06-13.33.06:416][697]LogBlueprintUserMessages: [WBP_Jukebox_C_0] previous song
+[2025.04.06-13.33.06:416][697]LogBlueprintUserMessages: [BP_Jukebox_C_UAID_107C61B295B0655702_1410097475] PREVIOUS SONG
+[2025.04.06-13.33.07:010][768]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] ACTIVATE CAT TRACE
+[2025.04.06-13.33.07:586][837]LogBlueprintUserMessages: [WBP_Jukebox_C_0] next song
+[2025.04.06-13.33.07:586][837]LogBlueprintUserMessages: [BP_Jukebox_C_UAID_107C61B295B0655702_1410097475] NEXT SONG
+[2025.04.06-13.33.07:993][886]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Biel NPC-NPC
+[2025.04.06-13.33.07:993][886]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Biel NPC-NPC
+[2025.04.06-13.33.08:002][887]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.33.08:213][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-13.33.08:213][908]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.06-13.33.08:213][908]LogSlate: Window 'Project_7_Sins Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.04.06-13.33.08:219][908]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-13.33.08:225][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.33.08:226][908]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.04.06-13.33.08:228][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.06-13.33.08:232][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.33.08:243][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.06-13.33.08:244][908]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.04.06-13.33.08:244][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.04.06-13.33.08:245][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.04.06-13.33.08:259][908]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.06-13.33.08:259][908]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.08:260][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.06-13.33.08:297][909]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.04.06-13.33.08:647][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.06-13.33.08:652][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.33.08:677][949]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/D/CB/JW7RELSYNH7D1RDKDHLYLS
+[2025.04.06-13.33.08:678][949]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/JW7RELSYNH7D1RDKDHLYLS308F4443475CDC8C6753C190893F3794.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/D/CB/JW7RELSYNH7D1RDKDHLYLS.uasset'
+[2025.04.06-13.33.08:682][949]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/B/XP/HLIYK8XAU5M3Y5AHEU0ARD
+[2025.04.06-13.33.08:683][949]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/HLIYK8XAU5M3Y5AHEU0ARD69AD0FD542E58CE0B3A47B841C72471B.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/B/XP/HLIYK8XAU5M3Y5AHEU0ARD.uasset'
+[2025.04.06-13.33.08:686][949]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/9/56/JE50KOB8ZN7CJAE9OYKJ82
+[2025.04.06-13.33.08:687][949]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/JE50KOB8ZN7CJAE9OYKJ82C3D80CE74D0D1519EA83519D951E5113.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/9/56/JE50KOB8ZN7CJAE9OYKJ82.uasset'
+[2025.04.06-13.33.08:691][949]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/9/27/UO7PJGET3KMTE5GDLGQ9EN
+[2025.04.06-13.33.08:691][949]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/UO7PJGET3KMTE5GDLGQ9EN339A23FE4FE2B0A86C49CBB4E28FF127.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/9/27/UO7PJGET3KMTE5GDLGQ9EN.uasset'
+[2025.04.06-13.33.08:695][949]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/5/NA/K5S44UXYZH6KWN50O8RL2C
+[2025.04.06-13.33.08:696][949]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/K5S44UXYZH6KWN50O8RL2CA9050D114085ACEA93F020B1EBDA60E5.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/5/NA/K5S44UXYZH6KWN50O8RL2C.uasset'
+[2025.04.06-13.33.08:698][949]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/E/77/KS5XZG3HT077802QCIZ2YY
+[2025.04.06-13.33.08:700][949]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/KS5XZG3HT077802QCIZ2YY5D7E9C384631C4723466E88C81E23457.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/__ExternalActors__/Maps/Test_Level/ThirdPersonMap/E/77/KS5XZG3HT077802QCIZ2YY.uasset'
+[2025.04.06-13.33.08:711][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 3.43 sec)
+[2025.04.06-13.33.08:713][949]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.06-13.33.08:713][949]LogContentValidation: Display: Validating /Game/Shared_Game_Mechanics/Cards/Card_Piles/BP_CardPile.BP_CardPile_C /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B03D4F02_1260334656
+[2025.04.06-13.33.08:713][949]LogContentValidation: Display: Validating /Game/Shared_Game_Mechanics/Cards/Card_Piles/BP_CardPile.BP_CardPile_C /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_4CCC6AF998962D4B02_1342027615
+[2025.04.06-13.33.08:713][949]LogContentValidation: Display: Validating /Game/Shared_Game_Mechanics/Cards/Card_Piles/BP_CardPile.BP_CardPile_C /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_4CCC6AF998962D4B02_1348301616
+[2025.04.06-13.33.08:713][949]LogContentValidation: Display: Validating /Game/Shared_Game_Mechanics/Cards/Card_Piles/BP_CardPile.BP_CardPile_C /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B0314F02_1990991543
+[2025.04.06-13.33.08:713][949]LogContentValidation: Display: Validating /Game/Shared_Game_Mechanics/Cards/Card_Piles/BP_CardPile.BP_CardPile_C /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_107C61B295B01B4B02_1207731447
+[2025.04.06-13.33.08:713][949]LogContentValidation: Display: Validating /Game/Shared_Game_Mechanics/Cards/Card_Piles/BP_CardPile.BP_CardPile_C /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CardPile_C_UAID_4CCC6AF998965E4B02_1646122240
+[2025.04.06-13.33.16:792][911]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Diegetic/Misc/WBP_Jukebox.WBP_Jukebox
+[2025.04.06-13.33.16:793][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-13.33.16:793][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.33.16:797][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-13.33.16:797][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.33.16:953][911]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.06-13.33.16:964][911]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.06-13.33.22:127][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.06-13.33.22:133][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.33.22:178][407]LogSavePackage: Moving output files for package: /Game/UI/Diegetic/Misc/WBP_Jukebox
+[2025.04.06-13.33.22:180][407]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/WBP_Jukebox9332C6F9476614CB4A28A7A1FA3D3916.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/UI/Diegetic/Misc/WBP_Jukebox.uasset'
+[2025.04.06-13.33.22:188][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 3.48 sec)
+[2025.04.06-13.33.22:189][407]AssetCheck: New page: Asset Save: WBP_Jukebox
+[2025.04.06-13.33.22:189][407]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Diegetic/Misc/WBP_Jukebox.WBP_Jukebox
+[2025.04.06-13.33.36:530][961]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.04.06-13.33.36:537][961]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.06-13.33.36:537][961]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.06-13.33.36:541][961]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 17 ms)
+[2025.04.06-13.33.36:541][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.06-13.33.36:541][961]PIE: New page: PIE session: ThirdPersonMap (6 Apr 2025, 15:33:36)
+[2025.04.06-13.33.36:541][961]LogPlayLevel: Creating play world package: /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.06-13.33.36:564][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023085s)
+[2025.04.06-13.33.36:564][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test_Level/ThirdPersonMap.ThirdPersonMap to /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.023116s)
+[2025.04.06-13.33.36:573][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.06-13.33.36:576][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-13.33.36:576][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.33.36:576][961]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.04.06-13.33.36:577][961]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.06-13.33.36:577][961]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.06-13.33.36:577][961]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.06-13.33.36:577][961]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.06-13.33.36:582][961]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.04.06-13.33.36:582][961]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 3.33 sec)
+[2025.04.06-13.33.36:582][961]LogPlayLevel: PIE: World Init took: (0.006419s)
+[2025.04.06-13.33.36:582][961]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.04.06-13.33.36:582][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.06-13.33.36:582][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.06-13.33.36:582][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.06-13.33.36:582][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.06-13.33.36:582][961]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.06-13.33.36:582][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.06-13.33.36:582][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.06-13.33.36:582][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.06-13.33.36:583][961]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.06-13.33.36:583][961]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.06-13.33.36:583][961]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.06-13.33.36:585][961]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.06-13.33.36:603][961]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2025.04.06-13.33.36:603][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.06-13.33.36:603][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.06-13.33.36:603][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.06-13.33.36:603][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.04.06-13.33.36:603][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2025.04.06-13.33.36:605][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.04.06-13.33.36:605][961]LogInit: FAudioDevice initialized with ID 8.
+[2025.04.06-13.33.36:605][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.04.06-13.33.36:605][961]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2025.04.06-13.33.36:605][961]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.04.06-13.33.36:625][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-13.33.36:625][961]LogLoad: Game class is 'GM_Bar_C'
+[2025.04.06-13.33.36:634][961]LogWorld: Bringing World /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.06-14.33.36
+[2025.04.06-13.33.36:635][961]LogWorld: Bringing up level for play took: 0.009568
+[2025.04.06-13.33.36:636][961]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.04.06-13.33.36:643][961]LogBlueprintUserMessages: [BP_Dart_C_0] DEACTIVATED DART
+[2025.04.06-13.33.36:644][961]LogBlueprintUserMessages: [BP_Dart_C_1] DEACTIVATED DART
+[2025.04.06-13.33.36:644][961]LogBlueprintUserMessages: [BP_Dart_C_2] DEACTIVATED DART
+[2025.04.06-13.33.36:668][961]PIE: Server logged in
+[2025.04.06-13.33.36:672][961]PIE: Play in editor total start time 0.134 seconds.
+[2025.04.06-13.33.36:709][961]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2025.04.06-13.33.38:285][ 75]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] ACTIVATE CAT TRACE
+[2025.04.06-13.33.38:845][117]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] MOVE CAT
+[2025.04.06-13.33.38:845][117]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] Current Target Point : 
+[2025.04.06-13.33.38:845][117]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] New Current Target Point : Cat1
+[2025.04.06-13.33.39:847][189]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.39:850][189]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.40:852][260]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] ACTIVATE CAT TRACE
+[2025.04.06-13.33.41:049][274]LogBlueprintUserMessages: [BP_NPC_Conversation_Manager_C_UAID_107C61B295B0295B02_2089440029] Zilia IS STARTING A CONVERSATION WITH Biel
+[2025.04.06-13.33.41:049][274]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Biel NPC-NPC
+[2025.04.06-13.33.41:062][275]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.33.41:755][324]LogBlueprintUserMessages: [WBP_Jukebox_C_0] Pause / unpause
+[2025.04.06-13.33.42:765][393]LogBlueprintUserMessages: [WBP_Jukebox_C_0] Pause / unpause
+[2025.04.06-13.33.43:534][448]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Zilia NPC-NPC
+[2025.04.06-13.33.43:548][449]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.33.43:610][453]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] STOP DIALOGUE
+[2025.04.06-13.33.43:641][455]LogBlueprintUserMessages: [WBP_Jukebox_C_0] previous song
+[2025.04.06-13.33.43:641][455]LogBlueprintUserMessages: [BP_Jukebox_C_UAID_107C61B295B0655702_1410097475] PREVIOUS SONG
+[2025.04.06-13.33.44:412][511]LogBlueprintUserMessages: [WBP_Jukebox_C_0] previous song
+[2025.04.06-13.33.44:412][511]LogBlueprintUserMessages: [BP_Jukebox_C_UAID_107C61B295B0655702_1410097475] PREVIOUS SONG
+[2025.04.06-13.33.45:215][569]LogBlueprintUserMessages: [WBP_Jukebox_C_0] previous song
+[2025.04.06-13.33.45:215][569]LogBlueprintUserMessages: [BP_Jukebox_C_UAID_107C61B295B0655702_1410097475] PREVIOUS SONG
+[2025.04.06-13.33.49:103][847]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] Biel NPC-NPC
+[2025.04.06-13.33.49:118][848]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.33.49:730][892]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] STOP DIALOGUE
+[2025.04.06-13.33.50:280][931]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.06-13.33.50:280][931]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.50:280][931]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.06-13.33.50:393][939]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1958739840] STOP DIALOGUE
+[2025.04.06-13.33.52:118][ 63]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.52:120][ 63]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.53:954][195]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.06-13.33.53:954][195]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.53:954][195]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.06-13.33.54:171][211]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] DEACTIVATE CAT TRACE
+[2025.04.06-13.33.54:171][211]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] MOVE CAT
+[2025.04.06-13.33.54:171][211]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] Current Target Point : Cat1
+[2025.04.06-13.33.54:171][211]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] New Current Target Point : Cat3
+[2025.04.06-13.33.56:176][357]LogBlueprintUserMessages: [BP_Cat_C_UAID_C87F54AD85BA155502_2082050167] ACTIVATE CAT TRACE
+[2025.04.06-13.33.56:909][412]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Soul NPC-Player
+[2025.04.06-13.33.56:909][412]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] BP_NPC3 UPDATED CHARACTER SPECIFIC ACTION
+[2025.04.06-13.33.56:909][412]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.56:911][412]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.56:912][412]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.33.56:912][412]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.33.58:412][520]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.06-13.33.58:412][520]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.06-13.33.58:412][520]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.06-13.33.58:876][555]LogScript: Warning: Accessed None trying to read property Initial Blocking Volume
+	BP_Main_Menu_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Main_Menu_C_UAID_107C61B295B0615002_1815433047
+	Function /Game/UI/Diegetic/Menus/BP_Main_Menu.BP_Main_Menu_C:ExecuteUbergraph_BP_Main_Menu:10FA
+[2025.04.06-13.33.58:876][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Initial Blocking Volume". Node:  Set Actor Enable Collision Graph:  To Main Graph Function:  Execute Ubergraph BP Main Menu Blueprint:  BP_Main_Menu
+[2025.04.06-13.33.58:876][555]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.04.06-13.33.58:876][555]LogScript: Warning: Script Msg called by: BP_Main_Menu_C /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Main_Menu_C_UAID_107C61B295B0615002_1815433047
+[2025.04.06-13.34.00:123][647]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.04.06-13.34.00:125][647]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.04.06-13.34.02:579][829]LogBlueprintUserMessages: [BP_Main_Menu_C_UAID_107C61B295B0615002_1815433047] TO OPTIONS
+[2025.04.06-13.34.02:712][839]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] STOP DIALOGUE
+[2025.04.06-13.34.02:833][848]LogBlueprintUserMessages: [BP_NPC_Conversation_Manager_C_UAID_107C61B295B0295B02_2089440029] Biel IS STARTING A CONVERSATION WITH Dante
+[2025.04.06-13.34.02:833][848]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Dante NPC-NPC
+[2025.04.06-13.34.02:833][848]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] BP_NPC3 UPDATED CHARACTER SPECIFIC ACTION
+[2025.04.06-13.34.02:846][849]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.34.05:135][ 23]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] Biel NPC-NPC
+[2025.04.06-13.34.05:147][ 24]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.34.05:648][ 62]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] STOP DIALOGUE
+[2025.04.06-13.34.07:299][186]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1959897841] Dante NPC-NPC
+[2025.04.06-13.34.07:312][187]LogBlueprintUserMessages: [BP_Dialogue_Start_C_0] Dialogue Notify Received
+[2025.04.06-13.34.07:525][203]LogBlueprintUserMessages: [BP_NPC_C_UAID_107C61B295B0C84A02_1956770839] STOP DIALOGUE
+[2025.04.06-13.34.07:691][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.06-13.34.07:691][213]LogWorld: BeginTearingDown for /Game/Maps/Test_Level/UEDPIE_0_ThirdPersonMap
+[2025.04.06-13.34.07:692][213]LogSlate: Window 'Project_7_Sins Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.04.06-13.34.07:697][213]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-13.34.07:704][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.34.07:704][213]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.04.06-13.34.07:707][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.06-13.34.07:710][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.34.07:726][213]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.04.06-13.34.07:726][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.04.06-13.34.07:728][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.04.06-13.34.07:736][213]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.06-13.34.07:736][213]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.06-13.34.07:738][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.04.06-13.34.07:832][214]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.04.06-13.34.08:425][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.06-13.34.10:012][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Diegetic/Menus/BP_Main_Menu.BP_Main_Menu
+[2025.04.06-13.34.10:013][397]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-13.34.10:013][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.34.10:659][450]LogSlate: Window 'Message Log' being destroyed
+[2025.04.06-13.34.10:663][450]LogSlate: Window 'Message Log' being destroyed
+[2025.04.06-13.34.11:499][545]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2025.04.06-13.34.11:499][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.06-13.34.21:057][656]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SFX/FX/7_Click_sounds_for_UI_menus/UI_Click_Cue.UI_Click_Cue
+[2025.04.06-13.34.24:542][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.06-13.34.24:548][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.34.24:574][ 30]LogSavePackage: Moving output files for package: /Game/SFX/FX/7_Click_sounds_for_UI_menus/UI_Click_Cue
+[2025.04.06-13.34.24:575][ 30]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/UI_Click_Cue9A9522B547B0DF9B2AFF6FB7EA8805C7.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/SFX/FX/7_Click_sounds_for_UI_menus/UI_Click_Cue.uasset'
+[2025.04.06-13.34.24:583][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 3.52 sec)
+[2025.04.06-13.34.24:584][ 30]AssetCheck: New page: Asset Save: UI_Click_Cue
+[2025.04.06-13.34.24:584][ 30]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/SFX/FX/7_Click_sounds_for_UI_menus/UI_Click_Cue.UI_Click_Cue
+[2025.04.06-13.36.10:362][974]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.06-13.36.34:129][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.04.06-13.36.34:145][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.36.34:327][702]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager
+[2025.04.06-13.36.34:328][702]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_I_Doubt_It_Game_Manager946AF8144EDAC0842A974EB5B5134BE0.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.uasset'
+[2025.04.06-13.36.34:336][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 3.71 sec)
+[2025.04.06-13.36.34:340][702]AssetCheck: New page: Asset Save: BP_I_Doubt_It_Game_Manager
+[2025.04.06-13.36.34:340][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/I_Doubt_It/BP_I_Doubt_It_Game_Manager.BP_I_Doubt_It_Game_Manager
+[2025.04.06-13.36.34:833][761]BlueprintLog: New page: Compile BP_I_Doubt_It_Game_Manager
+[2025.04.06-13.36.34:967][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.06-13.36.39:061][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager.BP_Auction_Game_Manager
+[2025.04.06-13.36.39:061][212]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-13.36.39:061][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.37.04:547][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.06-13.37.04:564][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.37.04:743][660]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager
+[2025.04.06-13.37.04:745][660]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Auction_Game_ManagerE4A5F9E44730F5540BFD7D838A6CD074.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/Auction/BP_Auction_Game_Manager.uasset'
+[2025.04.06-13.37.04:756][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 3.90 sec)
+[2025.04.06-13.37.04:760][660]AssetCheck: New page: Asset Save: BP_Auction_Game_Manager
+[2025.04.06-13.37.04:760][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/Auction/BP_Auction_Game_Manager.BP_Auction_Game_Manager
+[2025.04.06-13.37.05:580][750]BlueprintLog: New page: Compile BP_Auction_Game_Manager
+[2025.04.06-13.37.05:717][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.04.06-13.37.12:014][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.BP_Rat_Screw_Game_Manager
+[2025.04.06-13.37.12:014][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-13.37.12:014][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.37.33:912][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.06-13.37.33:924][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.37.34:033][726]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager
+[2025.04.06-13.37.34:034][726]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Rat_Screw_Game_Manager626197BC47913DC7FDD1EBAABAF61EB8.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.uasset'
+[2025.04.06-13.37.34:043][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 4.02 sec)
+[2025.04.06-13.37.34:045][726]AssetCheck: New page: Asset Save: BP_Rat_Screw_Game_Manager
+[2025.04.06-13.37.34:045][726]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.BP_Rat_Screw_Game_Manager
+[2025.04.06-13.37.34:395][765]BlueprintLog: New page: Compile BP_Rat_Screw_Game_Manager
+[2025.04.06-13.37.34:486][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.04.06-13.37.41:166][983]BlueprintLog: New page: Compile BP_Rat_Screw_Game_Manager
+[2025.04.06-13.37.41:264][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.06-13.38.07:479][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.06-13.38.07:487][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.38.07:600][985]LogSavePackage: Moving output files for package: /Game/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager
+[2025.04.06-13.38.07:602][985]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Rat_Screw_Game_ManagerEFC581684F120AE6FD6EC7BC9FBDE61A.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.uasset'
+[2025.04.06-13.38.07:613][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 4.14 sec)
+[2025.04.06-13.38.07:616][985]AssetCheck: New page: Asset Save: BP_Rat_Screw_Game_Manager
+[2025.04.06-13.38.07:616][985]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Main_Game_Managers/Rat_Screw/BP_Rat_Screw_Game_Manager.BP_Rat_Screw_Game_Manager
+[2025.04.06-13.38.18:694][264]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mini_Games/Darts/BP_Dart_Game_Manager.BP_Dart_Game_Manager
+[2025.04.06-13.38.18:694][264]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-13.38.18:694][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.38.50:191][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.04.06-13.38.50:200][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.38.50:295][ 85]LogSavePackage: Moving output files for package: /Game/Mini_Games/Darts/BP_Dart_Game_Manager
+[2025.04.06-13.38.50:297][ 85]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Dart_Game_ManagerF9A5B7844FF694D43BD2118504BB6EF5.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Mini_Games/Darts/BP_Dart_Game_Manager.uasset'
+[2025.04.06-13.38.50:307][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 4.25 sec)
+[2025.04.06-13.38.50:310][ 85]AssetCheck: New page: Asset Save: BP_Dart_Game_Manager
+[2025.04.06-13.38.50:310][ 85]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mini_Games/Darts/BP_Dart_Game_Manager.BP_Dart_Game_Manager
+[2025.04.06-13.38.59:197][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.04.06-13.38.59:203][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.38.59:300][ 40]LogSavePackage: Moving output files for package: /Game/Mini_Games/Darts/BP_Dart_Game_Manager
+[2025.04.06-13.38.59:301][ 40]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Dart_Game_Manager1B74FBA04CEC54BA884195888EC767C6.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Mini_Games/Darts/BP_Dart_Game_Manager.uasset'
+[2025.04.06-13.38.59:311][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 4.36 sec)
+[2025.04.06-13.38.59:314][ 40]AssetCheck: New page: Asset Save: BP_Dart_Game_Manager
+[2025.04.06-13.38.59:314][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mini_Games/Darts/BP_Dart_Game_Manager.BP_Dart_Game_Manager
+[2025.04.06-13.39.00:496][166]BlueprintLog: New page: Compile BP_Dart_Game_Manager
+[2025.04.06-13.39.00:580][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.06-13.39.05:024][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mini_Games/Pool/BP_Pool_Game_Manager.BP_Pool_Game_Manager
+[2025.04.06-13.39.05:024][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.06-13.39.05:024][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.06-13.40.02:402][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.06-13.40.02:413][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.40.02:481][157]LogSavePackage: Moving output files for package: /Game/Mini_Games/Pool/BP_Pool_Game_Manager
+[2025.04.06-13.40.02:482][157]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Pool_Game_ManagerC7F24F5641AF6307DEB2F197BD4FA383.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_Pool_Game_Manager.uasset'
+[2025.04.06-13.40.02:491][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 4.44 sec)
+[2025.04.06-13.40.02:493][157]AssetCheck: New page: Asset Save: BP_Pool_Game_Manager
+[2025.04.06-13.40.02:493][157]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mini_Games/Pool/BP_Pool_Game_Manager.BP_Pool_Game_Manager
+[2025.04.06-13.40.12:114][268]BlueprintLog: New page: Compile BP_Pool_Game_Manager
+[2025.04.06-13.40.12:171][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.06-13.40.12:938][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.06-13.40.12:946][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.06-13.40.13:017][345]LogSavePackage: Moving output files for package: /Game/Mini_Games/Pool/BP_Pool_Game_Manager
+[2025.04.06-13.40.13:018][345]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Pool_Game_Manager6AF9FAD64FBE4624A2A1D88D37DFD6D6.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Mini_Games/Pool/BP_Pool_Game_Manager.uasset'
+[2025.04.06-13.40.13:029][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.52 sec)
+[2025.04.06-13.40.13:031][345]AssetCheck: New page: Asset Save: BP_Pool_Game_Manager
+[2025.04.06-13.40.13:031][345]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mini_Games/Pool/BP_Pool_Game_Manager.BP_Pool_Game_Manager
