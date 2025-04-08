@@ -6,31 +6,31 @@
   "libraries": {},
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj",
-      "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
-      "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
-      "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
-      "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
+      "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj",
+      "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
+      "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
+      "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
+      "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Student\\.nuget\\packages\\": {},
+    "C:\\Users\\harry\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Documents\\102052 Harry Brennan\\7-Sins\\Project_7_Sins\\Intermediate\\Build\\BuildRulesProjects\\Project_7_SinsModuleRules\\Project_7_SinsModuleRules.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\Documents\\Uni\\Advanced Specialised Project\\7-Sins\\Project_7_Sins\\Intermediate\\Build\\BuildRulesProjects\\Project_7_SinsModuleRules\\Project_7_SinsModuleRules.csproj",
       "projectName": "Project_7_SinsModuleRules",
-      "projectPath": "C:\\Users\\Student\\Documents\\102052 Harry Brennan\\7-Sins\\Project_7_Sins\\Intermediate\\Build\\BuildRulesProjects\\Project_7_SinsModuleRules\\Project_7_SinsModuleRules.csproj",
-      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Documents\\102052 Harry Brennan\\7-Sins\\Project_7_Sins\\Intermediate\\Build\\BuildRulesProjects\\Project_7_SinsModuleRules\\obj\\",
+      "projectPath": "C:\\Users\\harry\\Documents\\Uni\\Advanced Specialised Project\\7-Sins\\Project_7_Sins\\Intermediate\\Build\\BuildRulesProjects\\Project_7_SinsModuleRules\\Project_7_SinsModuleRules.csproj",
+      "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\harry\\Documents\\Uni\\Advanced Specialised Project\\7-Sins\\Project_7_Sins\\Intermediate\\Build\\BuildRulesProjects\\Project_7_SinsModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -45,20 +45,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
-              "projectPath": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj"
+            "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
+              "projectPath": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj"
             },
-            "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
-              "projectPath": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
+            "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
+              "projectPath": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
             },
-            "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj": {
-              "projectPath": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
+            "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj": {
+              "projectPath": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
             },
-            "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj": {
-              "projectPath": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
+            "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj": {
+              "projectPath": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
             },
-            "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj": {
-              "projectPath": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
+            "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj": {
+              "projectPath": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
             }
           }
         }
@@ -73,7 +73,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0": {
@@ -108,7 +108,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -116,8 +116,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
+      "message": "Unable to find project 'C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
       "targetGraphs": [
         "net6.0"
       ]
@@ -125,8 +125,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
+      "message": "Unable to find project 'C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
       "targetGraphs": [
         "net6.0"
       ]
@@ -134,8 +134,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
+      "message": "Unable to find project 'C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
       "targetGraphs": [
         "net6.0"
       ]
@@ -143,8 +143,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj",
+      "message": "Unable to find project 'C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj",
       "targetGraphs": [
         "net6.0"
       ]
@@ -152,8 +152,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj",
+      "message": "Unable to find project 'C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj",
       "targetGraphs": [
         "net6.0"
       ]

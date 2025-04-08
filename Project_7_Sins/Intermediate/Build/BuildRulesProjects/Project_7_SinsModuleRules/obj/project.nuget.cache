@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "CD3TzZMKTUA=",
+  "dgSpecHash": "s2FB0vFkPiQ=",
   "success": false,
-  "projectFilePath": "C:\\Users\\Student\\Documents\\102052 Harry Brennan\\7-Sins\\Project_7_Sins\\Intermediate\\Build\\BuildRulesProjects\\Project_7_SinsModuleRules\\Project_7_SinsModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\harry\\Documents\\Uni\\Advanced Specialised Project\\7-Sins\\Project_7_Sins\\Intermediate\\Build\\BuildRulesProjects\\Project_7_SinsModuleRules\\Project_7_SinsModuleRules.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
+      "message": "Unable to find project 'C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
       "targetGraphs": [
         "net6.0"
       ]
@@ -21,8 +21,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
+      "message": "Unable to find project 'C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
       "targetGraphs": [
         "net6.0"
       ]
@@ -30,8 +30,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
+      "message": "Unable to find project 'C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
       "targetGraphs": [
         "net6.0"
       ]
@@ -39,8 +39,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj",
+      "message": "Unable to find project 'C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj",
       "targetGraphs": [
         "net6.0"
       ]
@@ -48,8 +48,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Student\\Documents\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj",
+      "message": "Unable to find project 'C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\harry\\Documents\\Uni\\Unreal\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj",
       "targetGraphs": [
         "net6.0"
       ]

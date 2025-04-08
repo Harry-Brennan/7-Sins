@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project_7_SinsModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3481a12af9577713429585d32554213f6dd08b8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4943beeb110c6eaf9f4c770ccf41bbefc0366303")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project_7_SinsModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project_7_SinsModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
