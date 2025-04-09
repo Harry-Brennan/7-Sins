@@ -4682,3 +4682,1134 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.09-09.03.02:021][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 991 ms)
 [2025.04.09-09.03.02:026][616]AssetCheck: New page: Asset Save: PlayerStart_0
 [2025.04.09-09.03.02:027][616]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/Maps/Main_Level/Main_Level.Main_Level:PersistentLevel.PlayerStart_0
+[2025.04.09-09.03.25:352][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.09-09.03.30:463][204]LogViewport: Scene viewport resized to 1085x526, mode Windowed.
+[2025.04.09-09.03.32:103][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.09-09.03.32:853][361]LogTurnkeySupport: Selected target: Project_7_Sins
+[2025.04.09-09.03.32:854][361]LogLauncherProfile: Unable to use promoted target - receipt ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Binaries/Win64/Project_7_Sins-Win64-Shipping.target is not for a promoted target
+[2025.04.09-09.03.32:868][361]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Project_7_Sins.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=50903  -project="C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Project_7_Sins.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Project_7_Sins.uproject" -target=Project_7_Sins  -unrealexe="C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/harry/Documents/Uni/Advanced Specialised Project" -clientconfig=Shipping -nodebuginfo" -nocompile -nocompileuat ]
+[2025.04.09-09.03.32:925][364]UATHelper: Packaging (Windows): Running AutomationTool...
+[2025.04.09-09.03.33:018][371]UATHelper: Packaging (Windows): Using bundled DotNet SDK version: 6.0.302
+[2025.04.09-09.03.33:132][384]UATHelper: Packaging (Windows): Starting AutomationTool...
+[2025.04.09-09.03.33:142][385]UATHelper: Packaging (Windows): Parsing command line: -ScriptsForProject="C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Project_7_Sins.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=50903 -project="C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Project_7_Sins.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project="C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Project_7_Sins.uproject" -target=Project_7_Sins -unrealexe="C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/harry/Documents/Uni/Advanced Specialised Project" -clientconfig=Shipping -nodebuginfo -nocompile -nocompileuat
+[2025.04.09-09.03.33:203][392]UATHelper: Packaging (Windows): Initializing script modules...
+[2025.04.09-09.03.33:358][411]UATHelper: Packaging (Windows): Total script module initialization time: 0.15 s.
+[2025.04.09-09.03.33:615][441]UATHelper: Packaging (Windows): Executing commands...
+[2025.04.09-09.03.33:646][445]UATHelper: Packaging (Windows): Installed Sdk validity:
+[2025.04.09-09.03.33:656][446]UATHelper: Packaging (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.26100.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2025.04.09-09.03.33:656][446]UATHelper: Packaging (Windows): Scanning for envvar changes...
+[2025.04.09-09.03.33:656][446]UATHelper: Packaging (Windows): ... done! 
+[2025.04.09-09.03.33:656][446]UATHelper: Packaging (Windows): Cleaning Temp Paths...
+[2025.04.09-09.03.33:656][446]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
+[2025.04.09-09.03.33:656][446]UATHelper: Packaging (Windows): Setting up ProjectParams for C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Project_7_Sins.uproject
+[2025.04.09-09.03.34:796][583]UATHelper: Packaging (Windows): ********** BUILD COMMAND STARTED **********
+[2025.04.09-09.03.34:827][587]UATHelper: Packaging (Windows): Running: C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\ThirdParty\DotNet\6.0.302\windows\dotnet.exe "C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" Project_7_Sins Win64 Shipping -Project="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Project_7_Sins.uproject" -Manifest="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Manifest.xml"  -remoteini="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins"  -skipdeploy  -log="C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\UBT-Project_7_Sins-Win64-Shipping.txt"
+[2025.04.09-09.03.35:005][608]UATHelper: Packaging (Windows): Log file: C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\UBT-Project_7_Sins-Win64-Shipping.txt
+[2025.04.09-09.03.35:150][624]UATHelper: Packaging (Windows): Using 'git status' to determine working set for adaptive non-unity build (C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins).
+[2025.04.09-09.03.35:202][630]UATHelper: Packaging (Windows): Creating makefile for Project_7_Sins (manifest 'C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Manifest.xml' not found)
+[2025.04.09-09.03.37:872][950]UATHelper: Packaging (Windows): Writing manifest to C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Build\Manifest.xml
+[2025.04.09-09.03.37:954][960]UATHelper: Packaging (Windows): Target is up to date
+[2025.04.09-09.03.37:964][961]UATHelper: Packaging (Windows): Total execution time: 3.09 seconds
+[2025.04.09-09.03.37:964][961]UATHelper: Packaging (Windows): Took 3.16s to run dotnet.exe, ExitCode=0
+[2025.04.09-09.03.37:975][963]UATHelper: Packaging (Windows): Build command time: 3.18 s
+[2025.04.09-09.03.37:975][963]UATHelper: Packaging (Windows): ********** BUILD COMMAND COMPLETED **********
+[2025.04.09-09.03.37:975][963]UATHelper: Packaging (Windows): ********** COOK COMMAND STARTED **********
+[2025.04.09-09.03.37:975][963]UATHelper: Packaging (Windows): Running UnrealEditor Cook for project C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Project_7_Sins.uproject
+[2025.04.09-09.03.37:986][964]UATHelper: Packaging (Windows): Commandlet log file is C:\Program Files\Epic Games\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2025.04.09-10.03.37.txt
+[2025.04.09-09.03.37:986][964]UATHelper: Packaging (Windows): Running: C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe "C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Project_7_Sins.uproject" -run=Cook  -TargetPlatform=Windows  -unversioned -fileopenlog -abslog="C:\Program Files\Epic Games\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2025.04.09-10.03.37.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogInit: Display: Running engine for game: Project_7_Sins
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : config="Development"
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.3-CL-29314046"
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : engineversion="5.3.2-29314046+++UE5+Release-5.3"
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.3476] "
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-14700F"
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : asan="0"
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Project_7_Sins.uproject" -run=Cook -TargetPlatform=Windows -unversioned -fileopenlog -abslog="C:\Program Files\Epic Games\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2025.04.09-10.03.37.txt" -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output""
+[2025.04.09-09.03.38:395][ 13]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : loginid="f14f54774ef74a44db360da23f951a80"
+[2025.04.09-09.03.38:519][ 28]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : llm="0"
+[2025.04.09-09.03.38:519][ 28]UATHelper: Packaging (Windows): LogConfig: Display: Loading Mac ini files took 0.03 seconds
+[2025.04.09-09.03.38:519][ 28]UATHelper: Packaging (Windows): LogConfig: Display: Loading IOS ini files took 0.03 seconds
+[2025.04.09-09.03.38:519][ 28]UATHelper: Packaging (Windows): LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+[2025.04.09-09.03.38:519][ 28]UATHelper: Packaging (Windows): LogConfig: Display: Loading Android ini files took 0.03 seconds
+[2025.04.09-09.03.38:519][ 28]UATHelper: Packaging (Windows): LogConfig: Display: Loading Unix ini files took 0.04 seconds
+[2025.04.09-09.03.38:519][ 28]UATHelper: Packaging (Windows): LogConfig: Display: Loading Windows ini files took 0.04 seconds
+[2025.04.09-09.03.38:519][ 28]UATHelper: Packaging (Windows): LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+[2025.04.09-09.03.38:519][ 28]UATHelper: Packaging (Windows): LogConfig: Display: Loading Linux ini files took 0.05 seconds
+[2025.04.09-09.03.38:550][ 32]UATHelper: Packaging (Windows): LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogAssetRegistry: Display: Asset registry cache read as 47.1 MiB from ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Intermediate/CachedAssetRegistry_0.bin
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/UVEditor/Content/' mounted to '/UVEditor/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ToolPresets/Content/' mounted to '/ToolPresets/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ACLPlugin/Content/' mounted to '/ACLPlugin/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+[2025.04.09-09.03.38:580][ 35]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/RigVM/Content/' mounted to '/RigVM/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+[2025.04.09-09.03.38:591][ 37]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+[2025.04.09-09.03.38:672][ 46]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+[2025.04.09-09.03.38:775][ 59]UATHelper: Packaging (Windows): RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+[2025.04.09-09.03.38:775][ 59]UATHelper: Packaging (Windows): LogHAL: Display: Platform has ~ 32 GB [34163896320 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.10
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.9.dll
+[2025.04.09-09.03.38:806][ 62]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2025.04.09-09.03.38:816][ 64]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2025.04.09-09.03.38:816][ 64]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.04.09-09.03.38:816][ 64]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.04.09-09.03.38:816][ 64]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.04.09-09.03.38:816][ 64]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.04.09-09.03.38:816][ 64]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.04.09-09.03.38:816][ 64]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.04.09-09.03.38:816][ 64]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.04.09-09.03.38:816][ 64]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.04.09-09.03.38:816][ 64]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2025.04.09-09.03.38:827][ 65]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2025.04.09-09.03.38:837][ 66]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.04.09-09.03.38:837][ 66]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.04.09-09.03.38:837][ 66]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.04.09-09.03.38:837][ 66]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2025.04.09-09.03.38:837][ 66]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.04.09-09.03.38:837][ 66]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.04.09-09.03.38:847][ 67]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.04.09-09.03.39:195][109]UATHelper: Packaging (Windows): LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.04.09-09.03.39:226][112]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: Memory: Max Cache Size: -1 MB
+[2025.04.09-09.03.39:236][113]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (2383 MiB)
+[2025.04.09-09.03.39:257][116]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.03ms. RandomReadSpeed=1099.18MBs, RandomWriteSpeed=183.03MBs. Assigned SpeedClass 'Local'
+[2025.04.09-09.03.39:257][116]UATHelper: Packaging (Windows): LogXGEController: Display: Initialized XGE controller. XGE tasks will be spawned on this machine.
+[2025.04.09-09.03.39:979][203]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2025.04.09-09.03.39:979][203]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2025.04.09-09.03.39:979][203]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.04.09-09.03.39:990][204]UATHelper: Packaging (Windows): LogAssetRegistry: Display: AssetDataGatherer spent 0.002s loading caches ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Intermediate/CachedAssetRegistry_*.bin.
+[2025.04.09-09.03.39:990][204]UATHelper: Packaging (Windows): LogAssetRegistry: Warning: Package C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Environment/MM_Light_Flicker.uasset is too new. Engine Version: 1009  Package Version: 1012
+[2025.04.09-09.03.39:990][204]PackagingResults: Warning: Package C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Environment/MM_Light_Flicker.uasset is too new. Engine Version: 1009  Package Version: 1012
+[2025.04.09-09.03.40:184][227]UATHelper: Packaging (Windows): LogEditorDomain: Display: EditorDomain is Disabled
+[2025.04.09-09.03.40:195][228]UATHelper: Packaging (Windows): LogCollisionProfile: Warning: Profile (OverlapAll) - Custom Channel Name = 'GameTraceChannel11' hasn't been found
+[2025.04.09-09.03.40:195][228]UATHelper: Packaging (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2025.04.09-09.03.40:200][229]PackagingResults: Warning: Profile (OverlapAll) - Custom Channel Name = 'GameTraceChannel11' hasn't been found
+[2025.04.09-09.03.40:319][243]UATHelper: Packaging (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2025.04.09-09.03.40:319][243]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2025.04.09-09.03.40:319][243]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2025.04.09-09.03.40:350][246]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.04.09-09.03.40:350][246]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2025.04.09-09.03.40:350][246]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2025.04.09-09.03.40:381][250]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2025.04.09-09.03.40:381][250]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.04.09-09.03.40:381][250]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2025.04.09-09.03.40:381][250]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.04.09-09.03.40:515][266]UATHelper: Packaging (Windows): LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2025.04.09-09.03.40:515][266]UATHelper: Packaging (Windows): LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2025.04.09-09.03.40:658][283]UATHelper: Packaging (Windows): LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.04.09-09.03.40:658][283]UATHelper: Packaging (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2025.04.09-09.03.41:960][440]UATHelper: Packaging (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 1 ms
+[2025.04.09-09.03.42:042][449]UATHelper: Packaging (Windows): LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.04.09-09.03.42:042][449]UATHelper: Packaging (Windows): LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter': Can't find file.
+[2025.04.09-09.03.42:042][449]UATHelper: Packaging (Windows): LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter': Can't find file.
+[2025.04.09-09.03.42:042][449]UATHelper: Packaging (Windows): LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2025.04.09-09.03.42:042][449]UATHelper: Packaging (Windows): LogUObjectGlobals: Error: CDO Constructor (Project_7_SinsGameMode): Failed to find /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.04.09-09.03.42:042][449]UATHelper: Packaging (Windows): LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2025.04.09-09.03.42:042][450]PackagingResults: Warning: Failed to load '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter': Can't find file.
+[2025.04.09-09.03.42:042][450]PackagingResults: Warning: Failed to load '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter': Can't find file.
+[2025.04.09-09.03.42:042][450]PackagingResults: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2025.04.09-09.03.42:042][450]PackagingResults: Error: CDO Constructor (Project_7_SinsGameMode): Failed to find /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.04.09-09.03.42:042][450]PackagingResults: Warning: -------------- Default Property warnings and errors:
+[2025.04.09-09.03.42:626][519]UATHelper: Packaging (Windows): LogUObjectBase: Warning: LogUObjectGlobals: Error: CDO Constructor (Project_7_SinsGameMode): Failed to find /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.04.09-09.03.42:626][519]UATHelper: Packaging (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.09-09.03.42:626][520]PackagingResults: Warning: LogUObjectGlobals: Error: CDO Constructor (Project_7_SinsGameMode): Failed to find /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.04.09-09.03.43:016][566]UATHelper: Packaging (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.09-09.03.43:150][582]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.04.09-09.03.43:150][582]UATHelper: Packaging (Windows): LogCook: Display: CookProcessCount=1. CookMultiprocess is disabled and the cooker is running as a single process.
+[2025.04.09-09.03.43:193][588]UATHelper: Packaging (Windows): LogCook: Display: CookSettings for Memory:
+[2025.04.09-09.03.43:193][588]UATHelper: Packaging (Windows): 	MemoryMaxUsedVirtual 0MiB
+[2025.04.09-09.03.43:193][588]UATHelper: Packaging (Windows): 	MemoryMaxUsedPhysical 0MiB
+[2025.04.09-09.03.43:193][588]UATHelper: Packaging (Windows): 	MemoryMinFreeVirtual 2048MiB
+[2025.04.09-09.03.43:193][588]UATHelper: Packaging (Windows): 	MemoryMinFreePhysical 2048MiB
+[2025.04.09-09.03.43:193][588]UATHelper: Packaging (Windows): 	MemoryTriggerGCAtPressureLevel None
+[2025.04.09-09.03.43:193][588]UATHelper: Packaging (Windows): 	UseSoftGC true (5/10)
+[2025.04.09-09.03.43:243][594]UATHelper: Packaging (Windows): LogCook: Display: Waiting for Asset Registry
+[2025.04.09-09.03.43:758][655]UATHelper: Packaging (Windows): LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.04.09-09.03.43:829][664]UATHelper: Packaging (Windows): LogAssetRegistry: Display: Asset registry cache written as 0.0 MiB to ../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Intermediate/CachedAssetRegistry_*.bin
+[2025.04.09-09.03.43:933][676]UATHelper: Packaging (Windows): LogCook: Display: Clearing all cooked content for platform Windows
+[2025.04.09-09.03.43:995][684]UATHelper: Packaging (Windows): LogCook: Warning: AsyncIoDelete found unexpected directory 'C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Cooked/_Del/1' in its SharedTempRoot. This directory will block cleanup of the SharedTempRoot, please delete it manually.
+[2025.04.09-09.03.43:995][684]UATHelper: Packaging (Windows): LogCook: Display: Sandbox cleanup took 0.063 seconds for platforms Windows
+[2025.04.09-09.03.44:000][685]PackagingResults: Warning: AsyncIoDelete found unexpected directory 'C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Cooked/_Del/1' in its SharedTempRoot. This directory will block cleanup of the SharedTempRoot, please delete it manually.
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogCook: Display: Compiling global changed shaders for platform 'Windows'
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display:
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM6-PCD3D_SM6) Stats:
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 326 (32600.00%)
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shaders: 4161, Unique Shaders: 4161 (100.00%)
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shader Size: 73.82mb, Unique Shaders Size: 73.82mb (100.00%)
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: === Extended info:
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display:     1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+[2025.04.09-09.03.45:352][846]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-Global-PCD3D_SM6-PCD3D_SM6/Dump.txt'
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display:
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5-PCD3D_SM5) Stats:
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 294 (29400.00%)
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shaders: 3549, Unique Shaders: 3539 (99.72%)
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shader Size: 11.82mb, Unique Shaders Size: 11.82mb (99.97%)
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: === Extended info:
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2025.04.09-09.03.45:394][851]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2025.04.09-09.03.45:404][852]UATHelper: Packaging (Windows): LogShaderLibrary: Display:     4, 2, 2, 2, 2, 2, 2, 2, 1, 1
+[2025.04.09-09.03.45:404][852]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5-PCD3D_SM5/Dump.txt'
+[2025.04.09-09.03.45:660][883]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2025.04.09-09.03.45:670][884]UATHelper: Packaging (Windows): LogCook: Display: Discovering localized assets for cultures: en
+[2025.04.09-09.03.45:670][884]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 0 Packages Remain 339 Total 339
+[2025.04.09-09.03.45:701][888]UATHelper: Packaging (Windows): LogCook: Display: Cook Diagnostics: OpenFileHandles=220, VirtualMemory=1496MiB
+[2025.04.09-09.03.45:701][888]UATHelper: Packaging (Windows): LogCook: Display: Garbage collection triggered (Soft). Triggered by conditions:
+[2025.04.09-09.03.45:701][888]UATHelper: Packaging (Windows):   CookSettings.bUseSoftGC: Available physical memory 11054MiB is less than the current target for SoftGC 16290MiB.
+[2025.04.09-09.03.45:722][890]UATHelper: Packaging (Windows): LogCookCommandlet: Display: GarbageCollection... (Soft GC)
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): LogCook: Display: GarbageCollection Results:
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): 	Type: Soft
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): 	NumObjects:
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): 		Capacity:           25231360
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): 		Before GC:             37316
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): 		After GC:              37310
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): 		Freed by GC:               6
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): 	Virtual Memory:
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): 		Before GC:              1570 MB
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): 		After GC:               1569 MB
+[2025.04.09-09.03.45:938][914]UATHelper: Packaging (Windows): 		Freed by GC:               1 MB
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.45:949][915]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.47:677][ 97]UATHelper: Packaging (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.03.49:718][312]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 1768 Packages Remain 2678 Total 4446
+[2025.04.09-09.03.51:749][477]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 3164 Packages Remain 1282 Total 4446
+[2025.04.09-09.03.54:728][834]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 3665 Packages Remain 781 Total 4446
+[2025.04.09-09.04.21:363][ 29]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 4068 Packages Remain 378 Total 4446
+[2025.04.09-09.04.21:363][ 29]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 4068 Packages Remain 378 Total 4446
+[2025.04.09-09.04.27:348][743]UATHelper: Packaging (Windows): LogCook: Display: Cook Diagnostics: OpenFileHandles=4289, VirtualMemory=5412MiB
+[2025.04.09-09.04.27:634][777]UATHelper: Packaging (Windows): LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (zilia) ...
+[2025.04.09-09.04.30:272][ 91]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 4088 Packages Remain 358 Total 4446
+[2025.04.09-09.04.30:272][ 91]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 4131 Packages Remain 315 Total 4446
+[2025.04.09-09.04.30:272][ 91]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_Prop_10_R.T_Prop_10_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:353][100]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_Prop_10_R.T_Prop_10_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:353][100]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_Prop_10_A.T_Prop_10_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:384][104]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_Prop_10_A.T_Prop_10_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:384][104]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Custom_Props/Textures/T_Prop_01_A2.T_Prop_01_A2 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:394][105]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Custom_Props/Textures/T_Prop_01_A2.T_Prop_01_A2 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:394][105]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Custom_Props/Textures/T_Prop_01_A.T_Prop_01_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:405][106]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Custom_Props/Textures/T_Prop_01_A.T_Prop_01_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:405][106]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Custom_Props/Textures/T_Prop_01_N.T_Prop_01_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:415][107]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Custom_Props/Textures/T_Prop_01_N.T_Prop_01_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:415][107]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultOpacity.T_DefaultOpacity is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:415][107]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultOpacity.T_DefaultOpacity is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:415][107]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Custom_Props/Textures/T_Prop_01_A1.T_Prop_01_A1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:689][140]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Custom_Props/Textures/T_Prop_01_A1.T_Prop_01_A1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:689][140]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_DefaultM.T_DefaultM is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:689][140]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_DefaultM.T_DefaultM is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:689][140]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_Prop_10_Opacity.T_Prop_10_Opacity is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:689][140]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_Prop_10_Opacity.T_Prop_10_Opacity is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:689][140]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_Prop_10_N.T_Prop_10_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:689][140]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_Prop_10_N.T_Prop_10_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:689][140]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_Prop_10_AO.T_Prop_10_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:699][142]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets_2/Textures/T_Prop_10_AO.T_Prop_10_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:699][142]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_Emissive.T_Prop_03_Emissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:699][142]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_Emissive.T_Prop_03_Emissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:699][142]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_A.T_Prop_03_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:720][144]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_A.T_Prop_03_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:720][144]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_AO.T_Prop_03_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:720][144]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_AO.T_Prop_03_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:720][144]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_01_M.T_Prop_01_M is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:741][145]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_01_M.T_Prop_01_M is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:741][145]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_01_AO.T_Prop_01_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:752][146]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_01_AO.T_Prop_01_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:752][147]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_01_N.T_Prop_01_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_01_N.T_Prop_01_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultM.T_DefaultM is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultM.T_DefaultM is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultN.T_DefaultN is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultN.T_DefaultN is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultR.T_DefaultR is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultR.T_DefaultR is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultA.T_DefaultA is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultA.T_DefaultA is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/cocktail_pack/Textures/T_Prop_01_A1.T_Prop_01_A1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/cocktail_pack/Textures/T_Prop_01_A1.T_Prop_01_A1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/cocktail_pack/Textures/T_Prop_01_A3.T_Prop_01_A3 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/cocktail_pack/Textures/T_Prop_01_A3.T_Prop_01_A3 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/cocktail_pack/Textures/T_Prop_01_A2.T_Prop_01_A2 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/cocktail_pack/Textures/T_Prop_01_A2.T_Prop_01_A2 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:783][150]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/cocktail_pack/Textures/T_Prop_01_A.T_Prop_01_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.30:793][152]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/cocktail_pack/Textures/T_Prop_01_A.T_Prop_01_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.31:008][177]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_11_AO.T_Prop_11_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.31:008][177]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_11_AO.T_Prop_11_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.31:008][177]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_11_R.T_Prop_11_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.31:008][177]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_11_R.T_Prop_11_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.31:008][177]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_11_N.T_Prop_11_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.31:008][177]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_11_N.T_Prop_11_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.31:008][177]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultEmissive.T_DefaultEmissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:699][380]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultEmissive.T_DefaultEmissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:699][380]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_R.T_Prop_03_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:699][380]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_R.T_Prop_03_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:699][380]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_M.T_Prop_03_M is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:699][380]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_M.T_Prop_03_M is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:699][380]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_N.T_Prop_03_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:699][380]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_03_N.T_Prop_03_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:699][380]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_01_A.T_Prop_01_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:710][381]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_01_A.T_Prop_01_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:710][381]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_01_R.T_Prop_01_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.32:710][381]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_01_R.T_Prop_01_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.39:001][126]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 4320 Packages Remain 126 Total 4446
+[2025.04.09-09.04.39:551][192]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 4345 Packages Remain 101 Total 4446
+[2025.04.09-09.04.39:551][192]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_11_A.T_Prop_11_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.04.41:153][385]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_11_A.T_Prop_11_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.36:658][ 40]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 4393 Packages Remain 53 Total 4446
+[2025.04.09-09.05.36:658][ 40]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 4407 Packages Remain 39 Total 4446
+[2025.04.09-09.05.38:673][281]UATHelper: Packaging (Windows): LogCook: Display: Cook Diagnostics: OpenFileHandles=7934, VirtualMemory=3138MiB
+[2025.04.09-09.05.38:878][303]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 4474 Packages Remain 239 Total 4713
+[2025.04.09-09.05.38:878][303]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:889][304]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_04_Emissive.T_Prop_04_Emissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:889][304]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_04_N.T_Prop_04_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:900][305]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_04_N.T_Prop_04_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:900][305]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_04_R.T_Prop_04_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:910][306]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_04_R.T_Prop_04_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:910][306]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_04_AO.T_Prop_04_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:921][307]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_04_AO.T_Prop_04_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:921][307]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_04_A.T_Prop_04_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:973][312]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_04_A.T_Prop_04_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:973][312]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_R.T_Prop_08_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:973][312]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_R.T_Prop_08_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:973][312]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/main_door/Textures/T_Prop_09_A.T_Prop_09_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:983][313]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/main_door/Textures/T_Prop_09_A.T_Prop_09_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:983][313]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/main_door/Textures/T_Prop_09_A1.T_Prop_09_A1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:983][313]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/main_door/Textures/T_Prop_09_A1.T_Prop_09_A1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:983][313]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/main_door/Textures/T_Prop_09_A3.T_Prop_09_A3 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:983][313]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/main_door/Textures/T_Prop_09_A3.T_Prop_09_A3 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:983][313]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_06_A.T_Prop_06_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:994][314]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_06_A.T_Prop_06_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.38:994][314]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_06_AO.T_Prop_06_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:005][316]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_06_AO.T_Prop_06_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:005][316]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_06_R.T_Prop_06_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:015][317]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_06_R.T_Prop_06_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:015][317]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_06_N.T_Prop_06_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:026][318]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_06_N.T_Prop_06_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:026][318]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/main_door/Textures/T_Prop_09_A2.T_Prop_09_A2 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:026][318]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/main_door/Textures/T_Prop_09_A2.T_Prop_09_A2 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:026][318]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultAO.T_DefaultAO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:026][318]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_DefaultAO.T_DefaultAO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:026][318]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_Emissive.T_Prop_08_Emissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:026][318]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_Emissive.T_Prop_08_Emissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:026][318]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_A.T_Prop_08_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:026][318]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_A.T_Prop_08_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:026][318]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_M.T_Prop_08_M is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:203][328]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_M.T_Prop_08_M is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:213][329]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_13_Opacity.T_Prop_13_Opacity is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:213][329]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_13_Opacity.T_Prop_13_Opacity is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:213][329]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_13_R.T_Prop_13_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:223][330]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_13_R.T_Prop_13_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:223][330]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_AO.T_Prop_08_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:223][330]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_AO.T_Prop_08_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:223][330]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_N.T_Prop_08_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:223][330]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_08_N.T_Prop_08_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:223][330]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_02_AO1.T_Prop_02_AO1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:233][331]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_02_AO1.T_Prop_02_AO1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:233][331]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_02_N1.T_Prop_02_N1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:254][334]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_02_N1.T_Prop_02_N1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:254][334]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_02_M1.T_Prop_02_M1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:264][335]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_02_M1.T_Prop_02_M1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:264][335]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_02_R1.T_Prop_02_R1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:275][336]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_02_R1.T_Prop_02_R1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:275][336]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_02_A1.T_Prop_02_A1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:275][336]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_02_A1.T_Prop_02_A1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:275][336]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_13_A.T_Prop_13_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:275][336]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_13_A.T_Prop_13_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:275][336]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_13_AO.T_Prop_13_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:285][337]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_13_AO.T_Prop_13_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:285][337]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_13_N.T_Prop_13_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:285][337]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_13_N.T_Prop_13_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:285][337]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Pictures/Textures/T_Prop_01_A.T_Prop_01_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:295][338]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Pictures/Textures/T_Prop_01_A.T_Prop_01_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:295][338]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Pictures/Textures/T_Prop_01_A2.T_Prop_01_A2 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:306][339]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Pictures/Textures/T_Prop_01_A2.T_Prop_01_A2 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:306][339]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_A.T_Prop_09_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:306][339]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_A.T_Prop_09_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:306][339]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_M.T_Prop_09_M is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:327][341]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_M.T_Prop_09_M is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:327][341]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_N.T_Prop_09_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:337][342]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_N.T_Prop_09_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:337][342]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_AO.T_Prop_09_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:348][344]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_AO.T_Prop_09_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:348][344]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_Emissive.T_Prop_09_Emissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:348][344]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_Emissive.T_Prop_09_Emissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:348][344]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_R.T_Prop_09_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:369][346]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_09_R.T_Prop_09_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:369][346]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_05_R.T_Prop_05_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:390][348]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_05_R.T_Prop_05_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:390][348]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_05_A.T_Prop_05_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:390][348]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_05_A.T_Prop_05_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:390][348]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_05_AO.T_Prop_05_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:400][349]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_05_AO.T_Prop_05_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:400][349]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_05_N.T_Prop_05_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:440][353]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_05_N.T_Prop_05_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:440][353]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Pictures/Textures/T_Prop_01_A1.T_Prop_01_A1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:514][359]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Pictures/Textures/T_Prop_01_A1.T_Prop_01_A1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:514][359]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_Emissive.T_Prop_07_Emissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:514][359]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_Emissive.T_Prop_07_Emissive is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:514][359]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_A.T_Prop_07_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:576][363]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_A.T_Prop_07_A is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:576][363]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Posters/Textures/T_DefaultA2.T_DefaultA2 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:587][364]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Posters/Textures/T_DefaultA2.T_DefaultA2 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:587][364]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Posters/Textures/T_DefaultA1.T_DefaultA1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:587][364]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Posters/Textures/T_DefaultA1.T_DefaultA1 is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:587][364]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Posters/Textures/T_DefaultA.T_DefaultA is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:607][366]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Posters/Textures/T_DefaultA.T_DefaultA is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:607][366]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/bar_floor/MI_Floor_Albedo.MI_Floor_Albedo is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:607][366]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/bar_floor/MI_Floor_Albedo.MI_Floor_Albedo is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:607][366]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/bar_floor/MI_Floor_Roughness.MI_Floor_Roughness is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:618][367]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/bar_floor/MI_Floor_Roughness.MI_Floor_Roughness is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:618][367]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/bar_floor/MI_Floor_Normal.MI_Floor_Normal is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:700][375]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/bar_floor/MI_Floor_Normal.MI_Floor_Normal is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:700][375]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_R.T_Prop_07_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:700][375]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_R.T_Prop_07_R is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:700][375]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_M.T_Prop_07_M is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:710][376]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_M.T_Prop_07_M is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:710][376]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_N.T_Prop_07_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:710][376]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_N.T_Prop_07_N is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:710][376]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_AO.T_Prop_07_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:731][378]UATHelper: Packaging (Windows): LogTexture: Display: /Game/Environment/Bar_Assets/Textures/T_Prop_07_AO.T_Prop_07_AO is marked for virtual streaming but virtual texture streaming is not available.
+[2025.04.09-09.05.39:731][378]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 4713 Packages Remain 0 Total 4713
+[2025.04.09-09.05.39:731][378]UATHelper: Packaging (Windows): LogCook: Display: Cook Diagnostics: OpenFileHandles=7942, VirtualMemory=3408MiB
+[2025.04.09-09.05.39:914][400]UATHelper: Packaging (Windows): LogCook: Display: Finishing up...
+[2025.04.09-09.05.40:015][412]UATHelper: Packaging (Windows): LogAssetRegistryGenerator: Display: Saving asset registry v17.
+[2025.04.09-09.05.40:066][418]UATHelper: Packaging (Windows): LogAssetRegistryGenerator: Display: Generated development asset registry C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Cooked/Windows/Project_7_Sins/Metadata/DevelopmentAssetRegistry.bin num assets 4820, size is 3848.84kb, XxHash64 = llu, waited on hash 0.00 seconds
+[2025.04.09-09.05.40:066][418]UATHelper: Packaging (Windows): LogAssetRegistryGenerator: Display: Generated asset registry num assets 4749, size is 1239.63kb
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogAssetRegistryGenerator: Display: Done saving asset registry. Took 0.2 seconds.
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display:
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Shader Library 'Project_7_Sins' (PCD3D_SM6-PCD3D_SM6) Stats:
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Assets: 104, Unique Shadermaps: 101 (97.12%)
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shaders: 2379, Unique Shaders: 1834 (77.09%)
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shader Size: 57.30mb, Unique Shaders Size: 46.68mb (81.46%)
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: === Extended info:
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 13
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 495
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display:     20, 18, 17, 16, 16, 16, 14, 12, 11, 10
+[2025.04.09-09.05.40:249][440]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-Project_7_Sins-PCD3D_SM6-PCD3D_SM6/Dump.txt'
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display:
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Shader Library 'Project_7_Sins' (PCD3D_SM5-PCD3D_SM5) Stats:
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Assets: 104, Unique Shadermaps: 101 (97.12%)
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shaders: 2036, Unique Shaders: 1525 (74.90%)
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shader Size: 5.39mb, Unique Shaders Size: 4.47mb (82.95%)
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: === Extended info:
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 13
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 363
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display:     26, 20, 18, 17, 17, 17, 17, 16, 14, 11
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-Project_7_Sins-PCD3D_SM5-PCD3D_SM5/Dump.txt'
+[2025.04.09-09.05.40:280][444]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display: Finalize package store(s)...
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display: Done finalizing package store(s)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display: Cook by the book total time in tick 114.042103s total time 117.102333
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display: Peak Used virtual 7650 MiB Peak Used physical 6403 MiB
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display: Packages Cooked: 4642, Packages Iteratively Skipped: 0, Packages Skipped by Platform: 71, Total Packages: 4713
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display: Hierarchy Timer Information:
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:   Root: 0.000s (0)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:     CleanSandbox: 0.063s (1)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:     CollectFilesToCook: 0.002s (1)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:     GenerateLongPackageName: 0.255s (1)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:     TickMainCookLoop: 114.042s (2)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:       PumpPollables: 0.029s (5)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:       PumpRequests: 0.075s (148)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:       LoadPackageForCooking: 98.311s (4713)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:       SavingPackages: 13.392s (634)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:         PollPendingCookedPlatformDatas: 0.576s (148649)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:         PrepareSave: 0.502s (144174)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:         PrecachePlatformDataForNextPackage: 1.351s (4712)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:           PrepareSave: 1.349s (5214)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:         SaveCookedPackage: 10.131s (4713)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:           GEditorSavePackage: 7.282s (4713)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:             VerifyCanCookPackage: 0.027s (4642)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:           TargetDomainDependencies: 0.002s (4713)
+[2025.04.09-09.05.40:290][445]UATHelper: Packaging (Windows): LogCook: Display:         ClearAllCachedCookedPlatformData: 0.445s (4713)
+[2025.04.09-09.05.40:291][445]UATHelper: Packaging (Windows): LogCook: Display:       PostLoadPackageFixup: 0.000s (2)
+[2025.04.09-09.05.40:291][445]UATHelper: Packaging (Windows): LogCook: Display:       WaitForAsync: 1.996s (165138)
+[2025.04.09-09.05.40:291][445]UATHelper: Packaging (Windows): LogCook: Display:     SavingCurrentIniSettings: 0.011s (1)
+[2025.04.09-09.05.40:291][445]UATHelper: Packaging (Windows): LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2025.04.09-09.05.40:291][445]UATHelper: Packaging (Windows): LogCook: Display:     SavingAssetRegistry: 0.496s (1)
+[2025.04.09-09.05.40:291][445]UATHelper: Packaging (Windows): LogCook: Display:       BuildChunkManifest: 0.121s (1)
+[2025.04.09-09.05.40:291][445]UATHelper: Packaging (Windows): LogCook: Display:       SaveManifests: 0.000s (1)
+[2025.04.09-09.05.40:291][445]UATHelper: Packaging (Windows): LogCook: Display:       SaveRealAssetRegistry: 0.154s (1)
+[2025.04.09-09.05.40:291][445]UATHelper: Packaging (Windows): LogCook: Display:       WriteCookerOpenOrder: 0.093s (1)
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     FinalizePackageStore: 0.009s (1)
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: Misc Cook Stats
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: ===============
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: NiagaraShader.Misc
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     ShadersCompiled=0
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: ShaderCompiler
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     BlockingTimeSec=0.000107
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     AsyncCompileTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     GlobalBeginCompileShaderCalls=0
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     ProcessAsyncResultsTimeSec=0.000350
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: GlobalShader.Misc
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     ShadersCompiled=0
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: Material
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     MeshMaterialShadersCompiled=0
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     FinishCacheShadersSec=0.103127
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShadersCompiled=0
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileJobsTime=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileCalls=0
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     MaterialInstanceUpdateCachedExpressionDataSec=0.002625
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     MaterialInstancePostLoadSec=0.004345
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     MaterialUpdateCachedExpressionDataSec=0.004989
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     MaterialTranslateCalls=0
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     MaterialTranslateTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: Package.Load
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     NumInlineLoads=3572
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesLoaded=9380
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     LoadPackageTimeSec=152.896848
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: Package.Save
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesIterativelySkipped=0
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesSaved=4713
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     SavePackageTimeSec=6.943662
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsPresaveTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     FullyLoadLoadersTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     ResetLoadersTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithOuter=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithMarks=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     SerializeImportsTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     SortExportsSeekfreeInnerTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     SerializeExportsTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     SerializeBulkDataTimeSec=0.017345
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     AsyncWriteTimeSec=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     MBWritten=0.000000
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: CookOnTheFlyServer
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     PeakRequestQueueSize=4446
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     PeakLoadQueueSize=297
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display:     PeakSaveQueueSize=1200
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: Package.DifferentPackagesSizeMBPerAsset
+[2025.04.09-09.05.40:361][454]UATHelper: Packaging (Windows): LogCook: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display: Package.PackageDifferencesSizeMBPerAsset
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display: Package.DiffTotal
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:     NumberOfDifferentPackages=0
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:     DifferentPackagesSizeMB=0.000000
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:     NumberOfDifferencesInPackages=0
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:     PackageDifferencesSizeMB=0.000000
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display: UnversionedProperties
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:     SavedStructs=0
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:     SavedMB=0
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:     EquivalentTaggedMB=0
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:     CompressionRatio=-nan(ind)
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:     BitfieldWasteKB=0
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display: Cook Profile
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display: ============
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0.CookWallTimeSec=122.156648
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 0.StartupWallTimeSec=5.009340
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1.CookByTheBookTimeSec=0.000000
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.477652
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0. 0.BlockOnAssetRegistryTimeSec=0.566207
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0. 1.GameCookModificationDelegateTimeSec=0.000195
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1.TickCookOnTheSideTimeSec=0.036532
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=98.312797
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=10.131907
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 2.TickCookOnTheSidePrepareSaveTimeSec=1.856631
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 2.TickLoopGCTimeSec=0.019364
+[2025.04.09-09.05.40:362][454]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000011
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000004
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000002
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 7.TickLoopFlushRenderingCommandsTimeSec=0.001054
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 8.TargetPlatforms=Windows
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 9.CookProject=Project_7_Sins
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 10.CookCultures=
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 11.IsCookAll=false
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 12.IsCookOnTheFly=false
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 13.IsIterativeCook=false
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 14.IsUnversioned=true
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 15.CookLabel=
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 16.IsFastCook=false
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: DDC Summary Stats
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: =================
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: BackEnd         =InstalledDerivedDataBackendGraph
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: HasLocalCache   =      true
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: HasSharedCache  =     false
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: HasCloudCache   =     false
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: HasZenCache     =     false
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: TotalGetHits    =     14780
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: TotalGetMisses  =         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: TotalGets       =     14780
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: TotalGetHitPct  =  1.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: GetMissPct      =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: TotalPutHits    =         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: TotalPutMisses  =         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: TotalPuts       =         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: TotalPutHitPct  =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: PutMissPct      =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: LocalGetHits    =      7247
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: LocalGetTotal   =      7247
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: LocalGetHitPct  =  1.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: SharedGetHits   =         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: SharedGetTotal  =         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: SharedGetHitPct =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetHits =         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetTotal=         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetHitPct=  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetHits=         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetTotal=         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetHitPct=  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: CloudGetHits    =         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: CloudGetTotal   =         0
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: CloudGetHitPct  =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: LocalLatency    =  0.116669
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: LocalReadSpeed  =801.842502
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: LocalWriteSpeed =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: SharedLatency   =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: SharedReadSpeed =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: SharedWriteSpeed=  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: CloudLatency    =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: CloudReadSpeed  =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: CloudWriteSpeed =  0.000000
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display:
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: DDC Resource Stats
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: =======================================================================================================
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: Texture                                        11.37                   0.01             0        643.97
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: MaterialShader                                  4.59                   0.10             0         57.09
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: AnimationSequence                               2.79                   0.00             0         24.78
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: StaticMesh                                      1.69                   0.01             0         25.89
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: DistanceField                                   0.87                   0.01             0          1.33
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: NavCollision                                    0.81                   0.00             0          2.27
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: NiagaraScript                                   0.71                   0.06             0          0.17
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: BulkDataList                                    0.71                   0.00             0          1.26
+[2025.04.09-09.05.40:372][455]UATHelper: Packaging (Windows): LogCook: Display: Audio                                           0.62                   0.00             0         49.05
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: BodySetup                                       0.24                   0.02             0         10.38
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: SkeletalMesh                                    0.19                   0.00             0         11.28
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: CardRepresentation                              0.18                   0.00             0          0.10
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: GlobalShader                                    0.05                   0.10             0         62.05
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: BulkDataPayloadId                               0.00                   0.00             0          0.00
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogPackageBuildDependencyTracker: Display: Package Accesses (3102 referencing packages with a total of 11955 unique accesses)
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: Done!
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogSavePackage: Display: Took 0.003174s to verify the EDL loading graph.
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: Misc Cook Stats
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: ===============
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: NiagaraShader.Misc
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     ShadersCompiled=0
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: ShaderCompiler
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     BlockingTimeSec=0.000107
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     AsyncCompileTimeSec=0.000000
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     GlobalBeginCompileShaderCalls=0
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     ProcessAsyncResultsTimeSec=0.000350
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: GlobalShader.Misc
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     ShadersCompiled=0
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: Material
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     MeshMaterialShadersCompiled=0
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     FinishCacheShadersSec=0.103127
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShadersCompiled=0
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileJobsTime=0.000000
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileCalls=0
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     MaterialInstanceUpdateCachedExpressionDataSec=0.002625
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     MaterialInstancePostLoadSec=0.004345
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     MaterialUpdateCachedExpressionDataSec=0.004989
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     MaterialTranslateCalls=0
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     MaterialTranslateTimeSec=0.000000
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: Package.Load
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     NumInlineLoads=3572
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesLoaded=9380
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display:     LoadPackageTimeSec=152.896848
+[2025.04.09-09.05.40:382][456]UATHelper: Packaging (Windows): LogCook: Display: Package.Save
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesIterativelySkipped=0
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     NumPackagesSaved=4713
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     SavePackageTimeSec=6.943662
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsPresaveTimeSec=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsTimeSec=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     FullyLoadLoadersTimeSec=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     ResetLoadersTimeSec=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithOuter=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithMarks=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     SerializeImportsTimeSec=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     SortExportsSeekfreeInnerTimeSec=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     SerializeExportsTimeSec=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     SerializeBulkDataTimeSec=0.017345
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     AsyncWriteTimeSec=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     MBWritten=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display: CookOnTheFlyServer
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     PeakRequestQueueSize=4446
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     PeakLoadQueueSize=297
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     PeakSaveQueueSize=1200
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display: Package.DifferentPackagesSizeMBPerAsset
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display: Package.PackageDifferencesSizeMBPerAsset
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display: Package.DiffTotal
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     NumberOfDifferentPackages=0
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     DifferentPackagesSizeMB=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     NumberOfDifferencesInPackages=0
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     PackageDifferencesSizeMB=0.000000
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display: UnversionedProperties
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     SavedStructs=0
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     SavedMB=0
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     EquivalentTaggedMB=0
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     CompressionRatio=-nan(ind)
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:     BitfieldWasteKB=0
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display: Cook Profile
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display: ============
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:  0.CookWallTimeSec=122.233290
+[2025.04.09-09.05.40:383][456]UATHelper: Packaging (Windows): LogCook: Display:  0. 0.StartupWallTimeSec=5.009340
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1.CookByTheBookTimeSec=117.222083
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.477652
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0. 0.BlockOnAssetRegistryTimeSec=0.566207
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 0. 1.GameCookModificationDelegateTimeSec=0.000195
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1.TickCookOnTheSideTimeSec=114.679508
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=98.312797
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=10.131907
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 1. 2.TickCookOnTheSidePrepareSaveTimeSec=1.856631
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 2.TickLoopGCTimeSec=0.019364
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000000
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000011
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000004
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000002
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 7.TickLoopFlushRenderingCommandsTimeSec=0.001054
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 8.TargetPlatforms=Windows
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 9.CookProject=Project_7_Sins
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 10.CookCultures=
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 11.IsCookAll=false
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 12.IsCookOnTheFly=false
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 13.IsIterativeCook=false
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 14.IsUnversioned=true
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 15.CookLabel=
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:  0. 1. 16.IsFastCook=false
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display:
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: DDC Summary Stats
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: =================
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: BackEnd         =InstalledDerivedDataBackendGraph
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: HasLocalCache   =      true
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: HasSharedCache  =     false
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: HasCloudCache   =     false
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: HasZenCache     =     false
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: TotalGetHits    =     14780
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: TotalGetMisses  =         0
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: TotalGets       =     14780
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: TotalGetHitPct  =  1.000000
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: GetMissPct      =  0.000000
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: TotalPutHits    =         0
+[2025.04.09-09.05.40:393][457]UATHelper: Packaging (Windows): LogCook: Display: TotalPutMisses  =         0
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: TotalPuts       =         0
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: TotalPutHitPct  =  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: PutMissPct      =  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: LocalGetHits    =      7247
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: LocalGetTotal   =      7247
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: LocalGetHitPct  =  1.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: SharedGetHits   =         0
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: SharedGetTotal  =         0
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: SharedGetHitPct =  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetHits =         0
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetTotal=         0
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: ZenLocalGetHitPct=  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetHits=         0
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetTotal=         0
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: ZenRemoteGetHitPct=  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: CloudGetHits    =         0
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: CloudGetTotal   =         0
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: CloudGetHitPct  =  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: LocalLatency    =  0.116669
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: LocalReadSpeed  =801.842502
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: LocalWriteSpeed =  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: SharedLatency   =  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: SharedReadSpeed =  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: SharedWriteSpeed=  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: CloudLatency    =  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: CloudReadSpeed  =  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: CloudWriteSpeed =  0.000000
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display:
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: DDC Resource Stats
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: =======================================================================================================
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: Texture                                        11.37                   0.01             0        643.97
+[2025.04.09-09.05.40:394][457]UATHelper: Packaging (Windows): LogCook: Display: MaterialShader                                  4.59                   0.10             0         57.09
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: AnimationSequence                               2.79                   0.00             0         24.78
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: StaticMesh                                      1.69                   0.01             0         25.89
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: DistanceField                                   0.87                   0.01             0          1.33
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: NavCollision                                    0.81                   0.00             0          2.27
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: NiagaraScript                                   0.71                   0.06             0          0.17
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: BulkDataList                                    0.71                   0.00             0          1.26
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: Audio                                           0.62                   0.00             0         49.05
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: BodySetup                                       0.24                   0.02             0         10.38
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: SkeletalMesh                                    0.19                   0.00             0         11.28
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: CardRepresentation                              0.18                   0.00             0          0.10
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: GlobalShader                                    0.05                   0.10             0         62.05
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogCook: Display: BulkDataPayloadId                               0.00                   0.00             0          0.00
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogPackageBuildDependencyTracker: Display: Package Accesses (3102 referencing packages with a total of 11955 unique accesses)
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display:
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display: Warning/Error Summary (Unique only)
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display: -----------------------------------
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display: LogAssetRegistry: Warning: Package C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Environment/MM_Light_Flicker.uasset is too new. Engine Version: 1009  Package Version: 1012
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display: LogCollisionProfile: Warning: Profile (OverlapAll) - Custom Channel Name = 'GameTraceChannel11' hasn't been found
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter': Can't find file.
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display: LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display: LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display: LogUObjectBase: Warning: LogUObjectGlobals: Error: CDO Constructor (Project_7_SinsGameMode): Failed to find /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display: LogCook: Warning: AsyncIoDelete found unexpected directory 'C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Cooked/_Del/1' in its SharedTempRoot. This directory will block cleanup of the SharedTempRoot, please delete it manually.
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display:
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display: Success - 0 error(s), 8 warning(s)
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): LogInit: Display:
+[2025.04.09-09.05.40:404][459]UATHelper: Packaging (Windows): Execution of commandlet took:  1m 57s (117.23 seconds)
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogCook: Warning: AsyncIoDelete found unexpected directory 'C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Cooked/_Del/1' in its SharedTempRoot. This directory will block cleanup of the SharedTempRoot, please delete it manually.
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogShaderCompilers: Display: ================================================
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogShaderCompilers: Display: RAM used: 240.00 B of 1.60 GiB budget. Usage: 0.00%
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.04.09-09.05.41:282][564]UATHelper: Packaging (Windows): LogShaderCompilers: Display: ================================================
+[2025.04.09-09.05.43:550][836]UATHelper: Packaging (Windows): Took 125.57s to run UnrealEditor-Cmd.exe, ExitCode=0
+[2025.04.09-09.05.43:550][836]UATHelper: Packaging (Windows): Cook command time: 125.58 s
+[2025.04.09-09.05.43:550][836]UATHelper: Packaging (Windows): ********** COOK COMMAND COMPLETED **********
+[2025.04.09-09.05.43:561][837]UATHelper: Packaging (Windows): ********** STAGE COMMAND STARTED **********
+[2025.04.09-09.05.43:601][842]UATHelper: Packaging (Windows): Creating Staging Manifest...
+[2025.04.09-09.05.43:611][843]UATHelper: Packaging (Windows): Patching bootstrap executable; C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Staging\Project_7_Sins.exe
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Begin update resource 'C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Intermediate\Staging\Project_7_Sins.exe' (0)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Add resource 101, length 104 (True)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Add resource 1, length 1996 (True)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Add resource 2, length 2447 (True)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Add resource 3, length 2535 (True)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Add resource 4, length 3037 (True)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Add resource 5, length 3244 (True)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Add resource 6, length 3531 (True)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Add resource 7, length 6931 (True)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Add resource 201, length 128 (True)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): Add resource 202, length 30 (True)
+[2025.04.09-09.05.44:230][917]UATHelper: Packaging (Windows): End update resource (True/0)
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Base.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseCompat.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseDeviceProfiles.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditor.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditorKeyBindings.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditorSettings.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEngine.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseGame.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseGameUserSettings.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseHardware.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseInput.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseInstallBundle.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseLightmass.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BasePakFileRules.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseRuntimeOptions.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseScalability.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\ConfigRedirects.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\ConsoleVariables.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Layouts\DefaultLayout.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Layouts\UE4ClassicLayout.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Category.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Editor.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\EditorTutorials.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Engine.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Keywords.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\PortableObjectExport.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\PortableObjectImport.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\PropertyNames.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\RepairData.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\ToolTips.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\WordCount.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\VulkanPC\DataDrivenPlatformInfo.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\BaseWindowsEngine.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\DataDrivenPlatformInfo.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsEditorPerProjectUserSettings.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsEngine.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsGame.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsInput.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Config\DefaultEditor.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Excluding config file C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Config\DefaultEditorPerProjectUserSettings.ini
+[2025.04.09-09.05.44:241][919]UATHelper: Packaging (Windows): Including config file C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Config\DefaultEngine.ini
+[2025.04.09-09.05.44:251][920]UATHelper: Packaging (Windows): Including config file C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Config\DefaultGame.ini
+[2025.04.09-09.05.44:251][920]UATHelper: Packaging (Windows): Including config file C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Config\DefaultInput.ini
+[2025.04.09-09.05.44:423][941]UATHelper: Packaging (Windows): Cleaning Stage Directory: C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\StagedBuilds\Windows
+[2025.04.09-09.05.44:485][948]UATHelper: Packaging (Windows): Creating pak using staging manifest.
+[2025.04.09-09.05.44:485][948]UATHelper: Packaging (Windows): DumpManifest: C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\PrePak_Windows_NonUFSFiles.txt, NumItems: 17
+[2025.04.09-09.05.44:495][949]UATHelper: Packaging (Windows): DumpManifest: C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\PrePak_Windows_NonUFSFilesDebug.txt, NumItems: 5
+[2025.04.09-09.05.44:495][949]UATHelper: Packaging (Windows): DumpManifest: C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\PrePak_Windows_UFSFiles.txt, NumItems: 11380
+[2025.04.09-09.05.44:628][965]UATHelper: Packaging (Windows): No matching platform for PakFileRules for Section ExcludeContentForMobile : Windows
+[2025.04.09-09.05.44:669][970]UATHelper: Packaging (Windows): Using 0 pak order files:
+[2025.04.09-09.05.44:689][972]UATHelper: Packaging (Windows): Running: C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealPak.exe "C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Project_7_Sins.uproject"  -cryptokeys="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows\Project_7_Sins\Metadata\Crypto.json" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=5 -compressmethod=Kraken  -platform=Windows  -CreateMultiple="C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\PakCommands.txt"
+[2025.04.09-09.05.45:451][ 64]UATHelper: Packaging (Windows): LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2025.04.09-09.05.45:451][ 64]UATHelper: Packaging (Windows): LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2025.04.09-09.05.45:451][ 64]UATHelper: Packaging (Windows): LogPakFile: Display: Oodle enabled on 'NoPluginCompression' files
+[2025.04.09-09.05.45:462][ 65]UATHelper: Packaging (Windows): LogPakFile: Display: Loading response file C:\Program Files\Epic Games\UE_5.3\Engine\Programs\AutomationTool\Saved\ResponseFiles\PakList_Project_7_Sins-Windows.txt
+[2025.04.09-09.05.45:462][ 65]UATHelper: Packaging (Windows): LogPakFile: Display: Added 1521 entries to add to pak file.
+[2025.04.09-09.05.45:473][ 66]UATHelper: Packaging (Windows): LogPakFile: Display: Collecting files to add to pak file...
+[2025.04.09-09.05.45:473][ 66]UATHelper: Packaging (Windows): LogPakFile: Display: Collected 1521 files in 0.00s.
+[2025.04.09-09.05.45:473][ 66]UATHelper: Packaging (Windows): LogPakFile: Display: Creating pak C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\StagedBuilds\Windows\Project_7_Sins\Content\Paks\Project_7_Sins-Windows.pak.
+[2025.04.09-09.05.45:684][ 76]UATHelper: Packaging (Windows): OodleDataCompression: Display: Oodle v2.9.10 format for pak/iostore with method=Kraken, level=5=Optimal1
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display: Created pak file: C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\StagedBuilds\Windows\Project_7_Sins\Content\Paks\Project_7_Sins-Windows.pak
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display: CompressionFormat 0 [Oodle] : 331 files, 24376624 -> 8490636 bytes
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display: CompressionFormat 2 [None] : 1190 files, 704217 -> 704217 bytes
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display: Added 1521 files, 9785266 bytes total
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display: PrimaryIndex size: 21102 bytes
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display: PathHashIndex size: 44112 bytes
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display: FullDirectoryIndex size: 47412 bytes
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display: Compression summary: 34.83% of original size. Compressed Size 8490636 bytes, Original Size 24376624 bytes.
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display: Encryption - DISABLED
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display:
+[2025.04.09-09.05.45:695][ 78]UATHelper: Packaging (Windows): LogPakFile: Display: Writer and Compression Threads exited.
+[2025.04.09-09.05.45:747][ 84]UATHelper: Packaging (Windows): LogPakFile: Display: UnrealPak executed in 0.248622 seconds
+[2025.04.09-09.05.45:747][ 84]UATHelper: Packaging (Windows): Took 1.06s to run UnrealPak.exe, ExitCode=0
+[2025.04.09-09.05.45:747][ 84]UATHelper: Packaging (Windows): Running UnrealPak with arguments: -CreateGlobalContainer="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\StagedBuilds\Windows\Project_7_Sins\Content\Paks\global.utoc" -CookedDirectory="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows" -PackageStoreManifest="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows\Project_7_Sins\Metadata\packagestore.manifest" -Commands="C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\IoStoreCommands.txt" -ScriptObjects="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows\Project_7_Sins\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=5 -compressmethod=Kraken   -cryptokeys="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows\Project_7_Sins\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled 
+[2025.04.09-09.05.45:747][ 84]UATHelper: Packaging (Windows): Running: C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealPak.exe -CreateGlobalContainer="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\StagedBuilds\Windows\Project_7_Sins\Content\Paks\global.utoc" -CookedDirectory="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows" -PackageStoreManifest="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows\Project_7_Sins\Metadata\packagestore.manifest" -Commands="C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\IoStoreCommands.txt" -ScriptObjects="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows\Project_7_Sins\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=5 -compressmethod=Kraken   -cryptokeys="C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows\Project_7_Sins\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled
+[2025.04.09-09.05.45:891][101]UATHelper: Packaging (Windows): LogIoStore: Display: ==================== IoStore Utils ====================
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows\Project_7_Sins\Metadata\Crypto.json'
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Container signing - DISABLED
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Directory index - ENABLED
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Using compression format 'Oodle'
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Using memory mapping alignment '16384'
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Using compression block size '65536'
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Using compression block alignment '2048'
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Using compression min bytes saved '1024'
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Using compression min percent saved '5'
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Using max partition size '0'
+[2025.04.09-09.05.45:902][102]UATHelper: Packaging (Windows): LogIoStore: Display: Not using DDC for compression
+[2025.04.09-09.05.45:923][105]UATHelper: Packaging (Windows): LogIoStore: Display: Using command list file: 'C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\IoStoreCommands.txt'
+[2025.04.09-09.05.45:943][107]UATHelper: Packaging (Windows): LogIoStore: Display: Selected Oodle level 5 (Optimal1) from command line for shaders
+[2025.04.09-09.05.45:983][112]UATHelper: Packaging (Windows): LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows'
+[2025.04.09-09.05.45:993][113]UATHelper: Packaging (Windows): LogIoStore: Display: Found '9863' files
+[2025.04.09-09.05.46:014][116]UATHelper: Packaging (Windows): LogIoStore: Display: Using input asset registry: C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\Cooked\Windows/Project_7_Sins/Metadata/DevelopmentAssetRegistry.bin
+[2025.04.09-09.05.46:014][116]UATHelper: Packaging (Windows): LogIoStore: Display: Added 571 hashes to the hash database, init took 0.000137 seconds
+[2025.04.09-09.05.46:035][118]UATHelper: Packaging (Windows): LogIoStore: Display: Creating container targets...
+[2025.04.09-09.05.46:065][122]UATHelper: Packaging (Windows): OodleDataCompression: Display: Oodle v2.9.10 format for pak/iostore with method=Kraken, level=5=Optimal1
+[2025.04.09-09.05.46:065][122]UATHelper: Packaging (Windows): LogIoStore: Display: Parsing packages...
+[2025.04.09-09.05.46:076][123]UATHelper: Packaging (Windows): LogIoStore: Display: Reading package assets...
+[2025.04.09-09.05.46:086][124]UATHelper: Packaging (Windows): LogIoStore: Display: Reading 1000/4642: 'C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Cooked/Windows/Engine/Content/EngineMaterials/Substrate/Glints2/dict_0001_0211.uasset'
+[2025.04.09-09.05.46:096][125]UATHelper: Packaging (Windows): LogIoStore: Display: Reading 2000/4642: 'C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Cooked/Windows/Project_7_Sins/Content/Environment/Street_Assets/Materials/graffiti_decals/cramie.uasset'
+[2025.04.09-09.05.46:106][127]UATHelper: Packaging (Windows): LogIoStore: Display: Reading 3000/4642: 'C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Cooked/Windows/Engine/Content/EngineMaterials/Substrate/GLints/dict_16_192_64_0p5_0p02_0003_0009.uasset'
+[2025.04.09-09.05.46:106][127]UATHelper: Packaging (Windows): LogIoStore: Display: Reading 4000/4642: 'C:/Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/Cooked/Windows/Engine/Content/EngineMaterials/Substrate/GLints/dict_16_192_64_0p5_0p02_0013_0013.uasset'
+[2025.04.09-09.05.46:128][129]UATHelper: Packaging (Windows): LogIoStore: Display: Packages read 4,642 files in 0.04 seconds, 7,857,693 total bytes, 194,845,565 bytes per second
+[2025.04.09-09.05.46:138][130]UATHelper: Packaging (Windows): LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 5 (Optimal1)
+[2025.04.09-09.05.46:627][166]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 329 groups (119 of them didn't need new indices), average uncompressed size 157809 bytes, min 172 bytes, max 1026946 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.04.09-09.05.46:627][166]UATHelper: Packaging (Windows): LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 3539 shaders as 329 groups. Library size changed from 12101 KB (4.19 : 1 ratio) to 4447 KB (11.40 : 1 ratio), 36.75% of previous.
+[2025.04.09-09.05.47:951][200]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 404 groups (129 of them didn't need new indices), average uncompressed size 303250 bytes, min 2166 bytes, max 1033458 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.04.09-09.05.47:951][200]UATHelper: Packaging (Windows): LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 4161 shaders as 404 groups. Library size changed from 75590 KB (1.58 : 1 ratio) to 39557 KB (3.02 : 1 ratio), 52.33% of previous.
+[2025.04.09-09.05.48:097][211]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 174 groups (63 of them didn't need new indices), average uncompressed size 94373 bytes, min 436 bytes, max 823829 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.04.09-09.05.48:098][211]UATHelper: Packaging (Windows): LogIoStore: Display: Project_7_Sins-PCD3D_SM5(PCD3D_SM5): Recompressed 1525 shaders as 174 groups. Library size changed from 4574 KB (3.51 : 1 ratio) to 1210 KB (13.25 : 1 ratio), 26.45% of previous.
+[2025.04.09-09.05.49:060][242]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 217 groups (53 of them didn't need new indices), average uncompressed size 392058 bytes, min 4086 bytes, max 1039133 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.04.09-09.05.49:060][242]UATHelper: Packaging (Windows): LogIoStore: Display: Project_7_Sins-PCD3D_SM6(PCD3D_SM6): Recompressed 1834 shaders as 217 groups. Library size changed from 47799 KB (1.74 : 1 ratio) to 29050 KB (2.86 : 1 ratio), 60.78% of previous.
+[2025.04.09-09.05.49:070][243]UATHelper: Packaging (Windows): LogIoStore: Display: Shaders processed in 2.93 seconds
+[2025.04.09-09.05.49:070][243]UATHelper: Packaging (Windows): LogIoStore: Display: Processing redirects...
+[2025.04.09-09.05.49:080][243]UATHelper: Packaging (Windows): LogIoStore: Display: Creating disk layout...
+[2025.04.09-09.05.49:091][244]UATHelper: Packaging (Windows): LogIoStore: Display: Ordered 4642 packages using fallback bundle order
+[2025.04.09-09.05.51:095][381]UATHelper: Packaging (Windows): LogIoStore: Display: Serializing container(s)...
+[2025.04.09-09.05.53:114][423]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (907/6341)... [43 compressed] [3234 compression tasks scheduled]
+[2025.04.09-09.05.55:136][456]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1003/6341)... [148 compressed] [19000 compression tasks scheduled]
+[2025.04.09-09.05.57:144][496]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1003/6341)... [193 compressed] [9108 compression tasks scheduled]
+[2025.04.09-09.05.59:155][522]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1107/6341)... [251 compressed] [343 compression tasks scheduled]
+[2025.04.09-09.06.01:153][555]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1151/6341)... [327 compressed] [21759 compression tasks scheduled]
+[2025.04.09-09.06.03:154][594]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1290/6341)... [399 compressed] [23080 compression tasks scheduled]
+[2025.04.09-09.06.05:157][665]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1290/6341)... [877 compressed] [13302 compression tasks scheduled]
+[2025.04.09-09.06.07:166][731]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1290/6341)... [928 compressed] [8723 compression tasks scheduled]
+[2025.04.09-09.06.09:164][797]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (1290/6341)... [1042 compressed] [3735 compression tasks scheduled]
+[2025.04.09-09.06.11:166][861]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (5811/6341)... [4735 compressed] [7966 compression tasks scheduled]
+[2025.04.09-09.06.12:089][901]UATHelper: Packaging (Windows): LogIoStore: Display: Writing chunks (5859/6341)... [4966 compressed] [2151 compression tasks scheduled]
+[2025.04.09-09.06.12:100][903]UATHelper: Packaging (Windows): LogIoStore: Display: Writing and compressing took 21.58 seconds, writes to disk took 1.95 seconds for 750,134,080 bytes @ 384,902,669 bytes per second.
+[2025.04.09-09.06.12:100][903]UATHelper: Packaging (Windows): LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Project_7_Sins-Windows: Found perfect hashmap for 6340 items.
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 1,649,396 bytes, 89,452,458 bytes per second
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: 571 / 6,341 hashes were loaded from the hash database, by type:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:     BulkData                   571
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: 5,213 / 6,341 chunks attempted to compress, by type:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:     ExportBundleData           4,642 / 4,642
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:     BulkData                   571 / 571
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:     ScriptObjects              0 / 1
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:     ContainerHeader            0 / 1
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:     ShaderCode                 0 / 1,122
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Source bytes read:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:     Zen:                                  0
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:     Loose File:               9,963,318,830
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:         ExportBundleData       9,277,674,104 bytes over 9,284 reads
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:         BulkData                685,644,726 bytes over 571 reads
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:     Memory:                     152,975,228
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:         ShaderCodeLibrary           910,416 bytes over 8 reads
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:         ShaderCode              152,064,812 bytes over 2,244 reads
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Calculating stats...
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: --------------------------------------------------- IoDispatcher --------------------------------------------------------
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Container                           Flags   TOC Size (KB)     TOC Entries       Size (MB)           Compressed (MB)
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------------
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: global                          -/-/-/-/-            0.56               1            1.93                         -
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Project_7_Sins-Windows          C/-/-/I/-         1610.18            6340         5158.68     713.46 (86.17% Oodle)
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: TOTAL                                             1610.74            6341         5160.61                         -
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Compression block padding:     3.10 MB
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: -------------------------------------------- Container Directory Index --------------------------------------------------
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Container                            Size (KB)
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: global                                    0.00
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Project_7_Sins-Windows                  226.00
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: ---------------------------------------------- Container Patch Report ---------------------------------------------------
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Container                         Total (count) Modified (count)    Added (count)    Modified (MB)       Added (MB)
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: global                                        1                0                0             0.00             0.00
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Project_7_Sins-Windows                     6340                0             6340             0.00           710.36
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: --------------------------------------------------- PackageStore (KB) ---------------------------------------------------
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Container                                Store Size             Packages            Localized
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------------
+[2025.04.09-09.06.12:110][904]UATHelper: Packaging (Windows): LogIoStore: Display: Project_7_Sins-Windows                          102                 4642                    0
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: TOTAL                                           102                 4642                    0
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      4642 Packages
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      4.32 GB UExp
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      0.01 GB UAsset
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      0.64 GB UBulk
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Input:     42.97 MB for 733 Global shaders
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      3.58 MB for 152 Shared shaders
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Input:     25.96 MB for 237 Inline shaders
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Output:    34620 Name map entries
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Output:     3310 Imported package entries
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Output:     3830 Packages without imports
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Output:        0 Public runtime script objects
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Output:     0.00 GB HeaderData
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display: Output:     1.93 MB InitialLoadData
+[2025.04.09-09.06.12:120][904]UATHelper: Packaging (Windows): LogIoStore: Display:
+[2025.04.09-09.06.12:162][909]UATHelper: Packaging (Windows): LogPakFile: Display: UnrealPak executed in 26.226822 seconds
+[2025.04.09-09.06.12:162][909]UATHelper: Packaging (Windows): Took 26.41s to run UnrealPak.exe, ExitCode=0
+[2025.04.09-09.06.12:162][909]UATHelper: Packaging (Windows): DumpManifest: C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\FinalCopyWin64_UFSFiles.txt, NumItems: 11381
+[2025.04.09-09.06.12:172][910]UATHelper: Packaging (Windows): DumpManifest: C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\FinalCopyWin64_NonUFSFiles.txt, NumItems: 17
+[2025.04.09-09.06.12:172][910]UATHelper: Packaging (Windows): DumpManifest: C:\Users\harry\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.3\FinalCopyWin64_NonUFSFilesDebug.txt, NumItems: 5
+[2025.04.09-09.06.12:172][910]UATHelper: Packaging (Windows): Copying NonUFSFiles to staging directory: C:\Users\harry\Documents\Uni\Advanced Specialised Project\7-Sins\Project_7_Sins\Saved\StagedBuilds\Windows
+[2025.04.09-09.06.12:537][954]UATHelper: Packaging (Windows): Stage command time: 28.97 s
+[2025.04.09-09.06.12:537][954]UATHelper: Packaging (Windows): ********** STAGE COMMAND COMPLETED **********
+[2025.04.09-09.06.12:537][954]UATHelper: Packaging (Windows): ********** PACKAGE COMMAND STARTED **********
+[2025.04.09-09.06.12:537][954]UATHelper: Packaging (Windows): Package command time: 0.00 s
+[2025.04.09-09.06.12:537][954]UATHelper: Packaging (Windows): ********** PACKAGE COMMAND COMPLETED **********
+[2025.04.09-09.06.12:537][954]UATHelper: Packaging (Windows): ********** ARCHIVE COMMAND STARTED **********
+[2025.04.09-09.06.12:537][954]UATHelper: Packaging (Windows): Archiving to C:/Users/harry/Documents/Uni/Advanced Specialised Project
+[2025.04.09-09.06.12:865][993]UATHelper: Packaging (Windows): Archive command time: 0.33 s
+[2025.04.09-09.06.12:865][993]UATHelper: Packaging (Windows): ********** ARCHIVE COMMAND COMPLETED **********
+[2025.04.09-09.06.12:865][993]UATHelper: Packaging (Windows): BuildCookRun time: 159.21 s
+[2025.04.09-09.06.12:865][993]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
+[2025.04.09-09.06.12:865][993]UATHelper: Packaging (Windows): AutomationTool executed for 0h 2m 39s
+[2025.04.09-09.06.12:865][993]UATHelper: Packaging (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2025.04.09-09.07.04:904][698]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset), InstanceID=1
+[2025.04.09-09.07.05:137][698]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16676
+[2025.04.09-09.07.10:137][714]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.04.09-09.07.12:747][721]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{739e6ff6-fcec-48e9-9529-a10d9c4f45ae}, Name=Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=7594.98
+[2025.04.09-09.07.12:817][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.04.09-09.07.12:819][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.09-09.07.13:079][722]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16676
+[2025.04.09-09.07.13:414][723]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{739e6ff6-fcec-48e9-9529-a10d9c4f45ae}, Name=Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=17.43
+[2025.04.09-09.07.13:414][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.04.09-09.07.13:415][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.09-09.08.18:243][918]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:41.043 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 21304 files in 23754 folders with total size 2437 MiB.
+[2025.04.09-09.10.28:000][501]LogViewport: Scene viewport resized to 1496x619, mode Windowed.
+[2025.04.09-09.10.33:133][983]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.09-09.10.34:181][ 83]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.09-09.10.34:933][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mini_Games/Darts/Dart_Board/BP_Dart_Board.BP_Dart_Board
+[2025.04.09-09.10.34:933][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.09-09.10.34:934][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.09-09.10.42:796][972]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mini_Games/Darts/BP_Dart_Game_Manager.BP_Dart_Game_Manager
+[2025.04.09-09.10.42:797][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.09-09.10.42:797][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.09-09.11.07:778][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.09-09.11.07:784][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-09.11.07:886][641]LogSavePackage: Moving output files for package: /Game/Mini_Games/Darts/BP_Dart_Game_Manager
+[2025.04.09-09.11.07:887][641]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Saved/BP_Dart_Game_ManagerABDF34064C395E0667BDBC90C5706D08.tmp' to '../../../../../../Users/harry/Documents/Uni/Advanced Specialised Project/7-Sins/Project_7_Sins/Content/Mini_Games/Darts/BP_Dart_Game_Manager.uasset'
+[2025.04.09-09.11.07:899][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.10 sec)
+[2025.04.09-09.11.07:902][641]AssetCheck: New page: Asset Save: BP_Dart_Game_Manager
+[2025.04.09-09.11.07:902][641]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mini_Games/Darts/BP_Dart_Game_Manager.BP_Dart_Game_Manager
+[2025.04.09-09.11.08:146][664]BlueprintLog: New page: Compile BP_Dart_Game_Manager
+[2025.04.09-09.11.08:231][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.09-09.11.09:900][746]LogSlate: Window 'BP_Dart_Game_Manager' being destroyed
+[2025.04.09-09.11.09:911][746]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-09.11.09:911][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
